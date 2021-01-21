@@ -1,5 +1,11 @@
 {
     "plugin_status": true,
+	"IsPaid": true,
+	"Features": {
+		"InGame_Interface": true,
+		"RangeSimulation": true,
+		"EmergencyHotline": true
+	},
     "talk_around_range": 1500,
     "beta_server_groups": [""],
     "dispatch_server_groups": ["157"],
