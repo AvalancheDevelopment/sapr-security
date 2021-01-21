@@ -1,0 +1,8 @@
+{
+	"plugin_status" : true,
+	"command_validation_str" : "Radio20",
+	"current_versions" : [ "1.0.0" ],
+	"permitted_version" : [ "" ],
+	"authorized_servers" : [ "9WDrSXRugpu3cvAi2s95OfkHpA0=" ],
+	"dev_uid_list" : [ "GhfyobshzntzcZnh6o+IEUmJEc0=", "xeC4XznolCFCX7vofE7gGg2cYKw=", "9S3J/7yfQKA5V93PfSMB+dbPUOM="]
+}
