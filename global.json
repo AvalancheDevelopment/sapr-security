@@ -1,6 +1,6 @@
 {
 	"plugin_status" : true,
-	"Current_FiveM_Version": 2100,
+	"Current_FiveM_Version": "1.0.0",
 	"command_validation_str" : "Radio20",
 	"current_versions" : [ "1.0.0" ],
 	"permitted_version" : [ "" ],
