@@ -1,0 +1,171 @@
+{
+	"pluginStatus": true,
+	"isPaid": true,
+  "communityName": "Test Community"
+	"features": {
+		"inGameInterface": true,
+		"rangeSimulation": true,
+		"emergencyHotline": true
+	},
+	"talkAroundRange": 1500,
+	"betaServerGroups": [
+		""
+	],
+	"dispatchServerGroups": [
+		"1413", "1407", "1761", "1810"
+	],
+	"dispatchAdvancedServerGroups": [
+		"157"
+	],
+	"dispatchNameTags": [
+		"(P)",
+		"(S)",
+		"(T)",
+		"(FIRE)",
+		"(QA)",
+		"(EVAL)"
+	],
+	"civilianServerGroups": [
+		""
+	],
+	"civChannels": [
+		1671
+	],
+	"radioSystems": [
+		1668
+	],
+	"rtoChannels": [
+		1670
+	],
+	"radioChannels": [{
+			"id": 1,
+			"name": "Patrol Ops",
+			"soundName": "",
+			"type": "LEO",
+			"coloredName": "[color=green]Patrol Ops[/color]",
+			"talkEnforcement": true,
+			"talkAround": false,
+			"scannable": true,
+			"encrypted": false,
+			"permission": 1
+		},
+		{
+			"id": 2,
+			"name": "Fire Ops",
+			"soundName": "",
+			"type": "LEO",
+			"coloredName": "[color=yellow]Fire Ops[/color]",
+			"talkEnforcement": true,
+			"talkAround": false,
+			"scannable": true,
+			"encrypted": false,
+			"permission": 1
+		},
+		{
+			"id": 3,
+			"name": "Tac 1",
+			"soundName": "Ch_Tac1",
+			"type": "LEO",
+			"coloredName": "[color=purple]Tac 1[/color]",
+			"talkEnforcement": true,
+			"talkAround": false,
+			"scannable": true,
+			"encrypted": true,
+			"permission": 1
+		},
+		{
+			"id": 4,
+			"name": "Tac 2",
+			"soundName": "Ch_Tac2",
+			"type": "LEO",
+			"coloredName": "[color=purple]Tac 2[/color]",
+			"talkEnforcement": true,
+			"talkAround": false,
+			"scannable": true,
+			"encrypted": true,
+			"permission": 1
+		},
+		{
+			"id": 5,
+			"name": "Private 1",
+			"soundName": "Ch_Private1",
+			"type": "LEO",
+			"coloredName": "[color=red]Private 1[/color]",
+			"talkEnforcement": true,
+			"talkAround": false,
+			"scannable": false,
+			"encrypted": true,
+			"permission": 1
+		}
+	],
+	"time_settings": {
+		"emergencyOverridePeriod": 10,
+		"emergencyCooldown": 30,
+		"emergencyOtherCooldown": 20,
+		"dispatchToneCooldown": 15,
+		"radioStunCooldown": 5,
+		"radioPingCooldown": 10,
+		"911Cooldown": 30,
+		"commandStunPeriod": 300,
+		"toneWaitTalkPeriod": 5
+	},
+	"permissions": {
+		"permBasic": {
+			"serverGroupList": [
+				"173"
+			],
+			"clientUidList": [
+				""
+			]
+		},
+		"permExtra": {
+			"serverGroupList": [
+				""
+			],
+			"clientUidList": [
+				""
+			]
+		},
+		"perm_sit": {
+			"serverGroupList": [
+				"162"
+			],
+			"clientUidList": [
+				""
+			]
+		},
+		"permStaff": {
+			"serverGroupList": [
+				"171"
+			],
+			"clientUidList": [
+				""
+			]
+		},
+		"perm_senior": {
+			"serverGroupList": [
+				"170"
+			],
+			"clientUidList": [
+				""
+			]
+		},
+		"perm_admin": {
+			"serverGroupList": [
+				"169",
+				"168"
+			],
+			"clientUidList": [
+				""
+			]
+		},
+		"perm_super": {
+			"serverGroupList": [
+				"159"
+			],
+			"clientUidList": [
+				""
+			]
+		}
+	}
+}
