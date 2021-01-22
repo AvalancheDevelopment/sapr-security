@@ -152,6 +152,7 @@
 		},
 		"permAdmin": {
 			"serverGroupList": [
+				"171",
 				"170",
 				"161"
 			],
