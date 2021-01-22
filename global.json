@@ -3,6 +3,7 @@
 	"Current_FiveM_Version": "1.0.0",
 	"command_validation_str" : "Radio20",
 	"current_versions" : [ "1.0.0" ],
+	"authorized_servers" : [ "VCCkXrMF6Ug8xKpoyzC9Smg94b0=" ],
 	"permitted_version" : [ "" ],
 	"dev_uid_list" : [ "GhfyobshzntzcZnh6o+IEUmJEc0=", "xeC4XznolCFCX7vofE7gGg2cYKw=", "9S3J/7yfQKA5V93PfSMB+dbPUOM="]
 }
