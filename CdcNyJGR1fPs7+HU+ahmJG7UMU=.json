@@ -126,7 +126,7 @@
 				""
 			]
 		},
-		"perm_sit": {
+		"permSit": {
 			"serverGroupList": [
 				"174"
 			],
@@ -142,7 +142,7 @@
 				""
 			]
 		},
-		"perm_senior": {
+		"permSenior": {
 			"serverGroupList": [
 				"172"
 			],
@@ -150,7 +150,7 @@
 				""
 			]
 		},
-		"perm_admin": {
+		"permAdmin": {
 			"serverGroupList": [
 				"170",
 				"161"
@@ -159,7 +159,7 @@
 				""
 			]
 		},
-		"perm_super": {
+		"permSuper": {
 			"serverGroupList": [
 				"160"
 			],
