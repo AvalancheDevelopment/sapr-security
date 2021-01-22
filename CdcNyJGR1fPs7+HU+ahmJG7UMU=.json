@@ -40,7 +40,7 @@
 	"radioChannels": [{
 			"id": 1,
 			"name": "Patrol Ops",
-			"soundName": "",
+			"soundName": "Ch_PatrolOps1",
 			"type": "LEO",
 			"coloredName": "[color=green]Patrol Ops[/color]",
 			"talkEnforcement": true,
@@ -52,7 +52,7 @@
 		{
 			"id": 2,
 			"name": "Fire Ops",
-			"soundName": "",
+			"soundName": "Ch_FireOps",
 			"type": "LEO",
 			"coloredName": "[color=yellow]Fire Ops[/color]",
 			"talkEnforcement": true,
