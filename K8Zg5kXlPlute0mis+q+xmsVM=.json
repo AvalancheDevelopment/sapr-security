@@ -12,10 +12,10 @@
 		""
 	],
 	"dispatchServerGroups": [
-		"357"
+		"581"
 	],
 	"dispatchAdvancedServerGroups": [
-		"357", "359"
+		"581", "583"
 	],
 	"dispatchNameTags": [
 		"(P)",
@@ -29,13 +29,13 @@
 		""
 	],
 	"civChannels": [
-		261
+		0
 	],
 	"radioSystems": [
-		255
+		445
 	],
 	"rtoChannels": [
-		259
+		449
 	],
 	"radioChannels": [{
 			"id": 1,
@@ -87,6 +87,18 @@
 		},
 		{
 			"id": 5,
+			"name": "LEO Cars",
+			"soundName": "Ch_LEOCars",
+			"type": "LEO",
+			"coloredName": "[color=grey]LEO Cars[/color]",
+			"talkEnforcement": true,
+			"talkAround": true,
+			"scannable": false,
+			"encrypted": true,
+			"permission": 1
+		},
+		{
+			"id": 6,
 			"name": "Private 1",
 			"soundName": "Ch_Private1",
 			"type": "LEO",
@@ -112,7 +124,7 @@
 	"permissions": {
 		"permBasic": {
 			"serverGroupList": [
-				"372"
+				"596"
 			],
 			"clientUidList": [
 				""
@@ -128,7 +140,7 @@
 		},
 		"permSit": {
 			"serverGroupList": [
-				"371"
+				"595"
 			],
 			"clientUidList": [
 				""
@@ -136,7 +148,7 @@
 		},
 		"permStaff": {
 			"serverGroupList": [
-				"370"
+				"594"
 			],
 			"clientUidList": [
 				""
@@ -144,7 +156,7 @@
 		},
 		"permSenior": {
 			"serverGroupList": [
-				"369"
+				"593"
 			],
 			"clientUidList": [
 				""
@@ -152,8 +164,8 @@
 		},
 		"permAdmin": {
 			"serverGroupList": [
-				"368",
-				"367"
+				"592",
+				"591"
 			],
 			"clientUidList": [
 				""
@@ -161,7 +173,7 @@
 		},
 		"permSuper": {
 			"serverGroupList": [
-				"359"
+				"583"
 			],
 			"clientUidList": [
 				""
