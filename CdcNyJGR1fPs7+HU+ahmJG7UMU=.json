@@ -32,10 +32,10 @@
 		68,69,70
 	],
 	"radioSystems": [
-		403
+		403, 409
 	],
 	"rtoChannels": [
-		61,62,63,59
+		61,62,63,59, 410
 	],
 	"radioChannels": [{
 			"id": 1,
@@ -87,10 +87,34 @@
 		},
 		{
 			"id": 5,
+			"name": "Statewide Tow",
+			"soundName": "",
+			"type": "LEO",
+			"coloredName": "[color=brown]Statewide Tow[/color]",
+			"talkEnforcement": true,
+			"talkAround": false,
+			"scannable": false,
+			"encrypted": true,
+			"permission": 1
+		},
+		{
+			"id": 6,
 			"name": "Private 1",
 			"soundName": "Ch_Private1",
 			"type": "LEO",
 			"coloredName": "[color=red]Private 1[/color]",
+			"talkEnforcement": true,
+			"talkAround": false,
+			"scannable": false,
+			"encrypted": true,
+			"permission": 1
+		},
+		{
+			"id": 7,
+			"name": "Private 2",
+			"soundName": "Ch_Private2",
+			"type": "LEO",
+			"coloredName": "[color=red]Private 2[/color]",
 			"talkEnforcement": true,
 			"talkAround": false,
 			"scannable": false,
