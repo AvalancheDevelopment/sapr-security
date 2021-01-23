@@ -1,7 +1,7 @@
 {
 	"pluginStatus": true,
 	"isPaid": true,
-	"communityName": "Western State RP",
+	"communityName": "Department of Public Safety Roleplay",
 	"features": {
 		"inGameInterface": true,
 		"rangeSimulation": true,
@@ -12,10 +12,10 @@
 		""
 	],
 	"dispatchServerGroups": [
-		"357"
+		"158", "144", "428"
 	],
 	"dispatchAdvancedServerGroups": [
-		"357", "359"
+		"158", "144", "428", "160"
 	],
 	"dispatchNameTags": [
 		"(P)",
@@ -29,13 +29,13 @@
 		""
 	],
 	"civChannels": [
-		261
+		68,69,70
 	],
 	"radioSystems": [
-		255
+		403
 	],
 	"rtoChannels": [
-		259
+		61,62,63,59
 	],
 	"radioChannels": [{
 			"id": 1,
@@ -112,7 +112,7 @@
 	"permissions": {
 		"permBasic": {
 			"serverGroupList": [
-				"372"
+				"175"
 			],
 			"clientUidList": [
 				""
@@ -128,7 +128,7 @@
 		},
 		"permSit": {
 			"serverGroupList": [
-				"371"
+				"174"
 			],
 			"clientUidList": [
 				""
@@ -136,7 +136,7 @@
 		},
 		"permStaff": {
 			"serverGroupList": [
-				"370"
+				"173"
 			],
 			"clientUidList": [
 				""
@@ -144,7 +144,7 @@
 		},
 		"permSenior": {
 			"serverGroupList": [
-				"369"
+				"172"
 			],
 			"clientUidList": [
 				""
@@ -152,8 +152,9 @@
 		},
 		"permAdmin": {
 			"serverGroupList": [
-				"368",
-				"367"
+				"171",
+				"170",
+				"161"
 			],
 			"clientUidList": [
 				""
@@ -161,7 +162,8 @@
 		},
 		"permSuper": {
 			"serverGroupList": [
-				"359"
+				"160",
+				"428"
 			],
 			"clientUidList": [
 				""
