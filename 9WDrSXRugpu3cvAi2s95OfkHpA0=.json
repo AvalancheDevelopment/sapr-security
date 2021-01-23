@@ -56,7 +56,7 @@
 			"name": "Fire/EMS Ops",
 			"soundName": "Ch_FireOps",
 			"type": "LEO",
-			"coloredName": "[color=yellow]Fire Ops[/color]",
+			"coloredName": "[color=orange]Fire Ops[/color]",
 			"talkEnforcement": true,
 			"talkAround": false,
 			"scannable": true,
