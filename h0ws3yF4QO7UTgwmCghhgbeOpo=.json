@@ -1,7 +1,7 @@
 {
 	"pluginStatus": true,
 	"isPaid": true,
-	"communityName": "Department of Public Safety Roleplay",
+	"communityName": "NewCoast RP",
 	"features": {
 		"inGameInterface": true,
 		"rangeSimulation": true,
@@ -15,7 +15,7 @@
 		"158", "144", "428"
 	],
 	"dispatchAdvancedServerGroups": [
-		"158", "144", "428", "160"
+		"158", "174", "139", "138"
 	],
 	"dispatchNameTags": [
 		"(P)",
@@ -29,18 +29,18 @@
 		""
 	],
 	"civChannels": [
-		68,69,70
+		0
 	],
 	"radioSystems": [
-		403
+		30, 42, 403
 	],
 	"rtoChannels": [
-		61,62,63,59
+		33, 45, 406
 	],
 	"radioChannels": [{
 			"id": 1,
 			"name": "Patrol Ops",
-			"soundName": "Ch_PatrolOps1",
+			"soundName": "",
 			"type": "LEO",
 			"coloredName": "[color=green]Patrol Ops[/color]",
 			"talkEnforcement": true,
@@ -52,7 +52,7 @@
 		{
 			"id": 2,
 			"name": "Fire Ops",
-			"soundName": "Ch_FireOps",
+			"soundName": "",
 			"type": "LEO",
 			"coloredName": "[color=yellow]Fire Ops[/color]",
 			"talkEnforcement": true,
@@ -64,7 +64,7 @@
 		{
 			"id": 3,
 			"name": "Tac 1",
-			"soundName": "Ch_Tac1",
+			"soundName": "",
 			"type": "LEO",
 			"coloredName": "[color=purple]Tac 1[/color]",
 			"talkEnforcement": true,
@@ -76,7 +76,7 @@
 		{
 			"id": 4,
 			"name": "Tac 2",
-			"soundName": "Ch_Tac2",
+			"soundName": "",
 			"type": "LEO",
 			"coloredName": "[color=purple]Tac 2[/color]",
 			"talkEnforcement": true,
@@ -88,7 +88,7 @@
 		{
 			"id": 5,
 			"name": "Private 1",
-			"soundName": "Ch_Private1",
+			"soundName": "",
 			"type": "LEO",
 			"coloredName": "[color=red]Private 1[/color]",
 			"talkEnforcement": true,
@@ -112,7 +112,7 @@
 	"permissions": {
 		"permBasic": {
 			"serverGroupList": [
-				"175"
+				"145"
 			],
 			"clientUidList": [
 				""
@@ -128,7 +128,7 @@
 		},
 		"permSit": {
 			"serverGroupList": [
-				"174"
+				"144"
 			],
 			"clientUidList": [
 				""
@@ -136,7 +136,7 @@
 		},
 		"permStaff": {
 			"serverGroupList": [
-				"173"
+				"143"
 			],
 			"clientUidList": [
 				""
@@ -144,7 +144,7 @@
 		},
 		"permSenior": {
 			"serverGroupList": [
-				"172"
+				"142"
 			],
 			"clientUidList": [
 				""
@@ -152,9 +152,9 @@
 		},
 		"permAdmin": {
 			"serverGroupList": [
-				"171",
-				"170",
-				"161"
+				"141",
+				"140",
+				"139"
 			],
 			"clientUidList": [
 				""
@@ -162,8 +162,7 @@
 		},
 		"permSuper": {
 			"serverGroupList": [
-				"160",
-				"428"
+				"138"
 			],
 			"clientUidList": [
 				""
