@@ -162,7 +162,8 @@
 		},
 		"permSuper": {
 			"serverGroupList": [
-				"160"
+				"160",
+				"428"
 			],
 			"clientUidList": [
 				""
