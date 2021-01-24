@@ -124,12 +124,12 @@
 	],
 	"time_settings": {
 		"emergencyOverridePeriod": 10,
-		"emergencyCooldown": 30,
-		"emergencyOtherCooldown": 20,
+		"emergencyCooldown": 5,
+		"emergencyOtherCooldown": 1,
 		"dispatchToneCooldown": 15,
 		"radioStunCooldown": 5,
 		"radioPingCooldown": 10,
-		"911Cooldown": 30,
+		"911Cooldown": 2,
 		"commandStunPeriod": 300,
 		"toneWaitTalkPeriod": 5
 	},
