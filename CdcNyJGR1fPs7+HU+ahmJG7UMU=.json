@@ -126,7 +126,7 @@
 		"emergencyOverridePeriod": 10,
 		"emergencyCooldown": 5,
 		"emergencyOtherCooldown": 1,
-		"dispatchToneCooldown": 15,
+		"dispatchToneCooldown": 1,
 		"radioStunCooldown": 5,
 		"radioPingCooldown": 10,
 		"911Cooldown": 2,
