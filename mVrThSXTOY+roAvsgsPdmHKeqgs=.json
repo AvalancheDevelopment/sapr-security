@@ -37,7 +37,8 @@
 	"rtoChannels": [
 		136
 	],
-	"radioChannels": [{
+	"radioChannels": [
+		{
 			"id": 1,
 			"name": "Patrol Ops",
 			"soundName": "",
