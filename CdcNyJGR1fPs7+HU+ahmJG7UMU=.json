@@ -39,10 +39,10 @@
 	],
 	"radioChannels": [{
 			"id": 1,
-			"name": "Statewide Dispatch",
+			"name": "SW Dispatch",
 			"soundName": "Ch_SWDispatch",
 			"type": "LEO",
-			"coloredName": "[color=green]Statewide Dispatch[/color]",
+			"coloredName": "[color=green]SW Dispatch[/color]",
 			"talkEnforcement": true,
 			"talkAround": false,
 			"scannable": true,
@@ -88,7 +88,7 @@
 		{
 			"id": 5,
 			"name": "SW Tow",
-			"soundName": "",
+			"soundName": "Ch_Tow",
 			"type": "LEO",
 			"coloredName": "[color=brown]SW Tow[/color]",
 			"talkEnforcement": true,
