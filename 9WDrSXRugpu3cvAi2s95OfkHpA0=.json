@@ -1,11 +1,11 @@
 {
 	"pluginStatus": true,
 	"isPaid": true,
-	"communityName": "Western State RP",
+	"communityName": "Code Two RP",
 	"features": {
 		"inGameInterface": true,
 		"rangeSimulation": false,
-		"emergencyHotline": true
+		"emergencyHotline": false
 	},
 	"talkAroundRange": 1500,
 	"betaServerGroups": [
