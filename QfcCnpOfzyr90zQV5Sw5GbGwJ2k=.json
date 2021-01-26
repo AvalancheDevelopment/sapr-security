@@ -4,7 +4,7 @@
 	"communityName": "DOS RP",
 	"features": {
 		"inGameInterface": true,
-		"rangeSimulation": false,
+		"rangeSimulation": true,
 		"emergencyHotline": true
 	},
 	"talkAroundRange": 1500,
