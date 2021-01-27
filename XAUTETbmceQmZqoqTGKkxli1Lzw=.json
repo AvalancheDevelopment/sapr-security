@@ -39,7 +39,7 @@
 	],
 	"radioChannels": [{
 			"id": 1,
-			"name": "Patrol Ops",
+			"name": "Patrol RTO",
 			"soundName": "",
 			"type": "LEO",
 			"coloredName": "[color=green]Patrol Ops[/color]",
@@ -51,7 +51,7 @@
 		},
 		{
 			"id": 2,
-			"name": "Fire Ops",
+			"name": "Fire RTO",
 			"soundName": "",
 			"type": "LEO",
 			"coloredName": "[color=yellow]Fire Ops[/color]",
@@ -99,10 +99,22 @@
 		},
 		{
 			"id": 6,
-			"name": "Private 1",
+			"name": "10-1",
 			"soundName": "",
 			"type": "LEO",
-			"coloredName": "[color=red]Private 1[/color]",
+			"coloredName": "[color=red]10-1[/color]",
+			"talkEnforcement": true,
+			"talkAround": false,
+			"scannable": false,
+			"encrypted": true,
+			"permission": 1
+		},
+		{
+			"id": 7,
+			"name": "Staff Only",
+			"soundName": "",
+			"type": "LEO",
+			"coloredName": "[color=red]Staff Only[/color]",
 			"talkEnforcement": true,
 			"talkAround": false,
 			"scannable": false,
@@ -124,7 +136,7 @@
 	"permissions": {
 		"permBasic": {
 			"serverGroupList": [
-				"45"
+				"10989"
 			],
 			"clientUidList": [
 				""
@@ -156,7 +168,7 @@
 		},
 		"permSenior": {
 			"serverGroupList": [
-				"105"
+				""
 			],
 			"clientUidList": [
 				""
@@ -164,8 +176,7 @@
 		},
 		"permAdmin": {
 			"serverGroupList": [
-				"112",
-				"120"
+				"11253"
 			],
 			"clientUidList": [
 				""
@@ -173,7 +184,7 @@
 		},
 		"permSuper": {
 			"serverGroupList": [
-				"16"
+				"11005"
 			],
 			"clientUidList": [
 				""
