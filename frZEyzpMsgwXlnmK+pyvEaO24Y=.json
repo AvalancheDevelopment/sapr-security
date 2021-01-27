@@ -26,7 +26,13 @@
       "(T)",
       "(FIRE)",
       "(QA)",
-      "(EVAL)"
+      "(EVAL)",
+      "[P]",
+      "[S]",
+      "[T]",
+      "[FIRE]",
+      "[QA]",
+      "[EVAL]"
    ],
    "civilianServerGroups":[
       ""
