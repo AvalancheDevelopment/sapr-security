@@ -32,10 +32,10 @@
 		0
 	],
 	"radioSystems": [
-		57
+		57, 150
 	],
 	"rtoChannels": [
-		61, 62
+		61, 62, 402
 	],
 	"radioChannels": [{
 			"id": 1,
