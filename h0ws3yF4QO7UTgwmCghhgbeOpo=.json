@@ -92,7 +92,7 @@
 			"type": "LEO",
 			"coloredName": "[color=grey]Car to Car[/color]",
 			"talkEnforcement": false,
-			"talkAround": false,
+			"talkAround": true,
 			"scannable": false,
 			"encrypted": true,
 			"permission": 1
