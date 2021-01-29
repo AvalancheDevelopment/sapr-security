@@ -1,7 +1,7 @@
 {
 	"pluginStatus": true,
 	"isPaid": true,
-	"communityName": "San Andreas Justice RP",
+	"communityName": "World Wide RP",
 	"features": {
 		"inGameInterface": true,
 		"rangeSimulation": true,
@@ -23,7 +23,13 @@
 		"(T)",
 		"(FIRE)",
 		"(QA)",
-		"(EVAL)"
+		"(EVAL)",
+		"[P]",
+		"[S]",
+		"[T]",
+		"[FIRE]",
+		"[QA]",
+		"[EVAL]"
 	],
 	"civilianServerGroups": [
 		""
