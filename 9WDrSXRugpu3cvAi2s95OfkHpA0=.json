@@ -23,7 +23,13 @@
 		"(T)",
 		"(FIRE)",
 		"(QA)",
-		"(EVAL)"
+		"(EVAL)",
+		"[P]",
+		"[S]",
+		"[T]",
+		"[FIRE]",
+		"[QA]",
+		"[EVAL]"
 	],
 	"civilianServerGroups": [
 		""
@@ -104,7 +110,7 @@
 		"emergencyOverridePeriod": 10,
 		"emergencyCooldown": 30,
 		"emergencyOtherCooldown": 20,
-		"dispatchToneCooldown": 15,
+		"dispatchToneCooldown": 5,
 		"radioStunCooldown": 5,
 		"radioPingCooldown": 10,
 		"911Cooldown": 30,
