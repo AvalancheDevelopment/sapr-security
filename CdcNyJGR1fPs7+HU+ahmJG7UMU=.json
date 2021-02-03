@@ -18,12 +18,26 @@
 		"158", "144", "428", "160"
 	],
 	"dispatchNameTags": [
+		"[P]",
+		"[S]",
+		"[T]",
+		"[FIRE]",
+		"[TAC]",
+		"[911]",
+		"[QA]",
+		"[SA]",
+		"[EVAL]",
+		"[LEO]",
 		"(P)",
 		"(S)",
 		"(T)",
 		"(FIRE)",
+		"(TAC)",
+		"(911)",
 		"(QA)",
-		"(EVAL)"
+		"(SA)",
+		"(EVAL)",
+		"(LEO)"
 	],
 	"civilianServerGroups": [
 		""
@@ -136,7 +150,7 @@
 	"permissions": {
 		"permBasic": {
 			"serverGroupList": [
-				"175"
+				"175", "162"
 			],
 			"clientUidList": [
 				""
@@ -187,7 +201,8 @@
 		"permSuper": {
 			"serverGroupList": [
 				"160",
-				"428"
+				"428",
+				"458"
 			],
 			"clientUidList": [
 				""
