@@ -1,7 +1,7 @@
 {
    "pluginStatus":true,
    "isPaid":true,
-   "communityName":"SSDOJ",
+   "communityName":"Inspire Gaming RP",
    "features":{
       "inGameInterface":true,
       "rangeSimulation":true,
@@ -12,14 +12,13 @@
       ""
    ],
    "dispatchServerGroups":[
-      "8619",
-      "8604"
+      "21088"
    ],
    "dispatchAdvancedServerGroups":[
-      "8619",
-      "8604",
-      "8641",
-      "8642"
+      "21088",
+      "21110",
+      "21075",
+      "21070"
    ],
    "dispatchNameTags":[
       "(P)",
