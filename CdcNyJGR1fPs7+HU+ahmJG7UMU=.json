@@ -150,7 +150,7 @@
 	"permissions": {
 		"permBasic": {
 			"serverGroupList": [
-				"175", "162"
+				"175", "162", "178"
 			],
 			"clientUidList": [
 				""
