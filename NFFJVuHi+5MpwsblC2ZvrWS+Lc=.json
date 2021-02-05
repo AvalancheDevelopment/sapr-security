@@ -12,10 +12,10 @@
       ""
    ],
    "dispatchServerGroups":[
-      "6670"
+      "6670", "10632"
    ],
    "dispatchAdvancedServerGroups":[
-      "6670", "6583", "6589", "6591"
+      "6670", "10632", "6583", "6589", "6591","6590"
    ],
    "dispatchNameTags":[
       "(P)",
