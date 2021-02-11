@@ -93,7 +93,7 @@
       "scannable": true,
       "encrypted": true,
       "permission": 1
-    },
+    }
   ],
   "time_settings": {
     "emergencyOverridePeriod": 10,
