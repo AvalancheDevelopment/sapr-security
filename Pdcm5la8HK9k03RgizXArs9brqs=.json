@@ -15,7 +15,9 @@
       "145"
    ],
    "dispatchAdvancedServerGroups":[
-      "145", "19", "32"
+      "145",
+      "19",
+      "32"
    ],
    "dispatchNameTags":[
       "(P)",
@@ -87,7 +89,7 @@
          "type":"LEO",
          "coloredName":"[color=green]Law 3[/color]",
          "talkEnforcement":true,
-         "talkAround": true,
+         "talkAround":true,
          "scannable":true,
          "encrypted":false,
          "permission":1
@@ -226,7 +228,43 @@
       },
       {
          "id":16,
+         "name":"Railroad Yard",
+         "soundName":"",
+         "type":"LEO",
+         "coloredName":"[color=cyan]Railroad Yard[/color]",
+         "talkEnforcement":true,
+         "talkAround":false,
+         "scannable":true,
+         "encrypted":false,
+         "permission":1
+      },
+      {
+         "id":17,
+         "name":"Railroad Police",
+         "soundName":"",
+         "type":"LEO",
+         "coloredName":"[color=cyan]Railroad Police[/color]",
+         "talkEnforcement":true,
+         "talkAround":false,
+         "scannable":true,
+         "encrypted":false,
+         "permission":1
+      },
+      {
+         "id":18,
          "name":"Private 1",
+         "soundName":"",
+         "type":"LEO",
+         "coloredName":"[color=red]Private 1[/color]",
+         "talkEnforcement":true,
+         "talkAround":false,
+         "scannable":false,
+         "encrypted":true,
+         "permission":1
+      },
+      {
+         "id":19,
+         "name":"Private 2",
          "soundName":"",
          "type":"LEO",
          "coloredName":"[color=red]Private 1[/color]",
@@ -275,7 +313,8 @@
       },
       "permStaff":{
          "serverGroupList":[
-            "146", "12"
+            "146",
+            "12"
          ],
          "clientUidList":[
             ""
@@ -300,7 +339,8 @@
       },
       "permSuper":{
          "serverGroupList":[
-            "19", "32"
+            "19",
+            "32"
          ],
          "clientUidList":[
             ""
