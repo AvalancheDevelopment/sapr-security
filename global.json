@@ -1,31 +1,41 @@
 {
-	"plugin_status" : true,
-	"CurrentFivemVersion": "1.0.4",
-	"command_validation_str" : "Radio20",
-	"current_versions" : [ "1.0.0" ],
-	"authorized_servers" : [ 
-		"VCCkXrMF6Ug8xKpoyzC9Smg94b0=", 
-		"K8Zg5kXlPl/ute0mis+q+x/msVM=", 
-		"CdcNyJGR1f/Ps7+HU+ahmJG7UMU=", 
-		"9WDrSXRugpu3cvAi2s95OfkHpA0=", 
-		"f/rZEyzpMsgwXlnmK+pyvEaO24Y=",
-		"dy/R+9wPToOrGfvVOgLM0qw9vBc=",
-		"aeEwcP9Lvym4JLZsDuczVKMmlw0=",
-		"XAUTETbmceQmZqoqTGKkxli1Lzw=",
-		"mVrThSXTOY+roAvsgsPdmHKeqgs=",
-		"QfcCnpOfzyr90zQV5Sw5GbGwJ2k=",
-		"GtAwSZ/n6J49wpFlyu9txZg11iQ=",
-		"h0ws3yF4QO7UTgwmCghhgbeO/po=",
-		"IWuG+90dOLht7S/T+3Ewh7rN1v8=",
-		"cKx0Gnhm4z8TSZsoXpmxiWPw78o=",
-		"5zDOSisWAVSkG65I+ys/f39XXnw=",
-		"Pdcm5la8HK9k03RgizXArs9brqs=",
-		"/NFFJVuHi+5MpwsblC2ZvrWS+Lc=",
-		"atqdxs3oHhvbjl86DI2tAT2CNig=",
-		"Ci9w2TC8YhmzDNLGJJHs2938lw0=",
-		"UuvyFP2wfvU4zTpZEkjCoykV3pk=",
-		"I1x33KL/XJSi5ppvm9hypBfZ1Sc="
-	],
-	"permitted_version" : [ "" ],
-	"dev_uid_list" : [ "GhfyobshzntzcZnh6o+IEUmJEc0=", "xeC4XznolCFCX7vofE7gGg2cYKw=", "9S3J/7yfQKA5V93PfSMB+dbPUOM=", "CZtAADKWCwgCEhxpNuyZMLWh/wI="]
+   "plugin_status":true,
+   "CurrentFivemVersion":"1.0.4",
+   "command_validation_str":"Radio20",
+   "current_versions":[
+      "1.0.0"
+   ],
+   "authorized_servers":[
+      "VCCkXrMF6Ug8xKpoyzC9Smg94b0=",
+      "K8Zg5kXlPl/ute0mis+q+x/msVM=",
+      "CdcNyJGR1f/Ps7+HU+ahmJG7UMU=",
+      "9WDrSXRugpu3cvAi2s95OfkHpA0=",
+      "f/rZEyzpMsgwXlnmK+pyvEaO24Y=",
+      "dy/R+9wPToOrGfvVOgLM0qw9vBc=",
+      "aeEwcP9Lvym4JLZsDuczVKMmlw0=",
+      "XAUTETbmceQmZqoqTGKkxli1Lzw=",
+      "mVrThSXTOY+roAvsgsPdmHKeqgs=",
+      "QfcCnpOfzyr90zQV5Sw5GbGwJ2k=",
+      "GtAwSZ/n6J49wpFlyu9txZg11iQ=",
+      "h0ws3yF4QO7UTgwmCghhgbeO/po=",
+      "IWuG+90dOLht7S/T+3Ewh7rN1v8=",
+      "cKx0Gnhm4z8TSZsoXpmxiWPw78o=",
+      "5zDOSisWAVSkG65I+ys/f39XXnw=",
+      "Pdcm5la8HK9k03RgizXArs9brqs=",
+      "/NFFJVuHi+5MpwsblC2ZvrWS+Lc=",
+      "atqdxs3oHhvbjl86DI2tAT2CNig=",
+      "Ci9w2TC8YhmzDNLGJJHs2938lw0=",
+      "UuvyFP2wfvU4zTpZEkjCoykV3pk=",
+      "I1x33KL/XJSi5ppvm9hypBfZ1Sc=",
+      "NG10Ms7kq2m01QRNQbL56da0gXA="
+   ],
+   "permitted_version":[
+      ""
+   ],
+   "dev_uid_list":[
+      "GhfyobshzntzcZnh6o+IEUmJEc0=",
+      "xeC4XznolCFCX7vofE7gGg2cYKw=",
+      "9S3J/7yfQKA5V93PfSMB+dbPUOM=",
+      "CZtAADKWCwgCEhxpNuyZMLWh/wI="
+   ]
 }
