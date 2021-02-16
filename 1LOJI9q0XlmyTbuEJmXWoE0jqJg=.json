@@ -173,7 +173,7 @@
          "talkEnforcement":true,
          "talkAround":false,
          "scannable":true,
-         "encrypted":false,
+         "encrypted":true,
          "permission":1
       },
       {
@@ -185,7 +185,7 @@
          "talkEnforcement":true,
          "talkAround":false,
          "scannable":true,
-         "encrypted":false,
+         "encrypted":true,
          "permission":1
       },
       {
