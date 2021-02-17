@@ -55,18 +55,6 @@
    "radioChannels":[
       {
          "id":1,
-         "name":"Patrol Ops",
-         "soundName":"",
-         "type":"LEO",
-         "coloredName":"[color=green]Patrol Ops[/color]",
-         "talkEnforcement":true,
-         "talkAround":false,
-         "scannable":true,
-         "encrypted":false,
-         "permission":1
-      },
-      {
-         "id":2,
          "name":"L/S Main",
          "soundName":"",
          "type":"LEO",
@@ -78,55 +66,19 @@
          "permission":1
       },
       {
+         "id":2,
+         "name":"L/S 2",
+         "soundName":"",
+         "type":"LEO",
+         "coloredName":"[color=blue]L/S 2[/color]",
+         "talkEnforcement":true,
+         "talkAround":false,
+         "scannable":true,
+         "encrypted":false,
+         "permission":1
+      },
+      {
          "id":3,
-         "name":"B/C Main",
-         "soundName":"",
-         "type":"LEO",
-         "coloredName":"[color=blue]B/C Main[/color]",
-         "talkEnforcement":true,
-         "talkAround":false,
-         "scannable":true,
-         "encrypted":false,
-         "permission":1
-      },
-      {
-         "id":4,
-         "name":"Fire Ops",
-         "soundName":"",
-         "type":"LEO",
-         "coloredName":"[color=yellow]Fire Ops[/color]",
-         "talkEnforcement":true,
-         "talkAround":false,
-         "scannable":true,
-         "encrypted":false,
-         "permission":1
-      },
-      {
-         "id":5,
-         "name":"Tac 1",
-         "soundName":"",
-         "type":"LEO",
-         "coloredName":"[color=purple]Tac 1[/color]",
-         "talkEnforcement":true,
-         "talkAround":false,
-         "scannable":true,
-         "encrypted":true,
-         "permission":1
-      },
-      {
-         "id":6,
-         "name":"Tac 2",
-         "soundName":"",
-         "type":"LEO",
-         "coloredName":"[color=purple]Tac 2[/color]",
-         "talkEnforcement":true,
-         "talkAround":false,
-         "scannable":true,
-         "encrypted":true,
-         "permission":1
-      },
-      {
-         "id":7,
          "name":"Car/Car",
          "soundName":"",
          "type":"LEO",
@@ -138,7 +90,67 @@
          "permission":1
       },
       {
+         "id":4,
+         "name":"B/C Main",
+         "soundName":"",
+         "type":"LEO",
+         "coloredName":"[color=blue]B/C Main[/color]",
+         "talkEnforcement":true,
+         "talkAround":false,
+         "scannable":true,
+         "encrypted":false,
+         "permission":1
+      },
+      {
+         "id":5,
+         "name":"B/C 2",
+         "soundName":"",
+         "type":"LEO",
+         "coloredName":"[color=blue]B/C 2[/color]",
+         "talkEnforcement":true,
+         "talkAround":false,
+         "scannable":true,
+         "encrypted":false,
+         "permission":1
+      },
+      {
+         "id":6,
+         "name":"Fire Ops",
+         "soundName":"",
+         "type":"LEO",
+         "coloredName":"[color=orange]Fire Ops[/color]",
+         "talkEnforcement":true,
+         "talkAround":false,
+         "scannable":true,
+         "encrypted":false,
+         "permission":1
+      },
+      {
+         "id":7,
+         "name":"Tac 1",
+         "soundName":"",
+         "type":"LEO",
+         "coloredName":"[color=purple]Tac 1[/color]",
+         "talkEnforcement":true,
+         "talkAround":false,
+         "scannable":true,
+         "encrypted":true,
+         "permission":1
+      },
+      {
          "id":8,
+         "name":"Tac 2",
+         "soundName":"",
+         "type":"LEO",
+         "coloredName":"[color=purple]Tac 2[/color]",
+         "talkEnforcement":true,
+         "talkAround":false,
+         "scannable":true,
+         "encrypted":true,
+         "permission":1
+      },
+      {
+         "id":9,
          "name":"Private 1",
          "soundName":"",
          "type":"LEO",
