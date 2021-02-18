@@ -32,10 +32,10 @@
 		0
 	],
 	"radioSystems": [
-		14
+		14, 16, 31
 	],
 	"rtoChannels": [
-		7
+		7, 29, 30
 	],
 	"radioChannels": [
 		{
