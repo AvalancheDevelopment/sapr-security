@@ -1,7 +1,7 @@
 {
    "pluginStatus":true,
    "isPaid":true,
-   "communityName":"Cleaveland RP",
+   "communityName":"Project Euphoria",
    "features":{
       "inGameInterface":true,
       "rangeSimulation":true,
@@ -12,10 +12,13 @@
       ""
    ],
    "dispatchServerGroups":[
-      "18557"
+      "183",
+      "184"
    ],
    "dispatchAdvancedServerGroups":[
-      "18557"
+      "183",
+      "184",
+      "12"
    ],
    "dispatchNameTags":[
       "(P)",
@@ -38,18 +41,18 @@
       0
    ],
    "radioSystems":[
-      53179
+      17
    ],
    "rtoChannels":[
-      54308
+      18
    ],
    "radioChannels":[
       {
          "id":1,
-         "name":"Patrol Ops",
+         "name":"LSPD Main",
          "soundName":"",
          "type":"LEO",
-         "coloredName":"[color=green]Patrol Ops[/color]",
+         "coloredName":"[color=green]LSPD Main[/color]",
          "talkEnforcement":true,
          "talkAround":false,
          "scannable":true,
@@ -58,10 +61,10 @@
       },
       {
          "id":2,
-         "name":"County Ops",
+         "name":"LSPD Secondary",
          "soundName":"",
          "type":"LEO",
-         "coloredName":"[color=green]County Ops[/color]",
+         "coloredName":"[color=green]LSPD Secondary[/color]",
          "talkEnforcement":true,
          "talkAround":false,
          "scannable":true,
@@ -70,22 +73,22 @@
       },
       {
          "id":3,
-         "name":"Metro Ops",
+         "name":"LSPD Car/Car",
          "soundName":"",
          "type":"LEO",
-         "coloredName":"[color=green]Metro Ops[/color]",
+         "coloredName":"[color=grey]LSPD Car/Car[/color]",
          "talkEnforcement":true,
-         "talkAround":false,
-         "scannable":true,
-         "encrypted":false,
+         "talkAround":true,
+         "scannable":false,
+         "encrypted":true,
          "permission":1
       },
       {
          "id":4,
-         "name":"State Ops",
+         "name":"BCSO Main",
          "soundName":"",
          "type":"LEO",
-         "coloredName":"[color=green]State Ops[/color]",
+         "coloredName":"[color=green]BCSO Main[/color]",
          "talkEnforcement":true,
          "talkAround":false,
          "scannable":true,
@@ -94,10 +97,10 @@
       },
       {
          "id":5,
-         "name":"Fire Ops",
+         "name":"BCSO Secondary",
          "soundName":"",
          "type":"LEO",
-         "coloredName":"[color=yellow]Fire Ops[/color]",
+         "coloredName":"[color=green]BCSO Secondary[/color]",
          "talkEnforcement":true,
          "talkAround":false,
          "scannable":true,
@@ -106,18 +109,42 @@
       },
       {
          "id":6,
-         "name":"Fireground",
+         "name":"BCSO Car/Car",
          "soundName":"",
          "type":"LEO",
-         "coloredName":"[color=grey]Fireground[/color]",
+         "coloredName":"[color=grey]BCSO Car/Car[/color]",
          "talkEnforcement":true,
          "talkAround":true,
-         "scannable":true,
+         "scannable":false,
          "encrypted":true,
          "permission":1
       },
       {
          "id":7,
+         "name":"SAFR Main",
+         "soundName":"",
+         "type":"LEO",
+         "coloredName":"[color=yellow]SAFR Main[/color]",
+         "talkEnforcement":true,
+         "talkAround":false,
+         "scannable":true,
+         "encrypted":false,
+         "permission":1
+      },
+      {
+         "id":8,
+         "name":"SAFR Secondary",
+         "soundName":"",
+         "type":"LEO",
+         "coloredName":"[color=yellow]SAFR Secondary[/color]",
+         "talkEnforcement":true,
+         "talkAround":false,
+         "scannable":true,
+         "encrypted":false,
+         "permission":1
+      },
+      {
+         "id":9,
          "name":"Tac 1",
          "soundName":"",
          "type":"LEO",
@@ -129,7 +156,7 @@
          "permission":1
       },
       {
-         "id":8,
+         "id":10,
          "name":"Tac 2",
          "soundName":"",
          "type":"LEO",
@@ -141,19 +168,19 @@
          "permission":1
       },
       {
-         "id":9,
-         "name":"Rptr TA",
+         "id":11,
+         "name":"Tac 3",
          "soundName":"",
          "type":"LEO",
-         "coloredName":"[color=grey]Rptr TA[/color]",
+         "coloredName":"[color=purple]Tac 3[/color]",
          "talkEnforcement":true,
-         "talkAround":true,
-         "scannable": true,
+         "talkAround":false,
+         "scannable":true,
          "encrypted":true,
          "permission":1
       },
       {
-         "id":10,
+         "id":12,
          "name":"Private 1",
          "soundName":"",
          "type":"LEO",
@@ -179,7 +206,7 @@
    "permissions":{
       "permBasic":{
          "serverGroupList":[
-            "18551"
+            "70"
          ],
          "clientUidList":[
             ""
@@ -195,7 +222,7 @@
       },
       "permSit":{
          "serverGroupList":[
-            ""
+            "95"
          ],
          "clientUidList":[
             ""
@@ -203,7 +230,7 @@
       },
       "permStaff":{
          "serverGroupList":[
-            "18561"
+            "69"
          ],
          "clientUidList":[
             ""
@@ -211,7 +238,7 @@
       },
       "permSenior":{
          "serverGroupList":[
-            ""
+            "96"
          ],
          "clientUidList":[
             ""
@@ -219,7 +246,7 @@
       },
       "permAdmin":{
          "serverGroupList":[
-            "18550"
+            "68", "12"
          ],
          "clientUidList":[
             ""
