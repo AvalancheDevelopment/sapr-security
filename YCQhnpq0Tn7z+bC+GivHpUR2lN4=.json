@@ -246,7 +246,7 @@
       },
       "permAdmin":{
          "serverGroupList":[
-            "68", "12"
+            "68"
          ],
          "clientUidList":[
             ""
@@ -254,7 +254,7 @@
       },
       "permSuper":{
          "serverGroupList":[
-            ""
+            "12"
          ],
          "clientUidList":[
             ""
