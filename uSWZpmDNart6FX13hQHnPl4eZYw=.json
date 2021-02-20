@@ -197,7 +197,8 @@
       },
       "permSuper":{
          "serverGroupList":[
-            "509"
+            "509",
+            "262"
          ],
          "clientUidList":[
             ""
