@@ -12,13 +12,13 @@
       ""
    ],
    "dispatchServerGroups":[
-      "224",
-      "243"
+      "476",
+      "495"
    ],
    "dispatchAdvancedServerGroups":[
-      "224",
-      "243",
-      "257"
+      "476",
+      "495",
+      "509"
    ],
    "dispatchNameTags":[
       "(P)",
@@ -146,7 +146,7 @@
    "permissions":{
       "permBasic":{
          "serverGroupList":[
-            "249"
+            "501"
          ],
          "clientUidList":[
             ""
@@ -162,7 +162,7 @@
       },
       "permSit":{
          "serverGroupList":[
-            "250"
+            "502"
          ],
          "clientUidList":[
             ""
@@ -170,7 +170,7 @@
       },
       "permStaff":{
          "serverGroupList":[
-            "251"
+            "503"
          ],
          "clientUidList":[
             ""
@@ -178,7 +178,7 @@
       },
       "permSenior":{
          "serverGroupList":[
-            "252"
+            "504"
          ],
          "clientUidList":[
             ""
@@ -186,10 +186,10 @@
       },
       "permAdmin":{
          "serverGroupList":[
-            "253",
-            "254",
-            "255",
-            "256"
+            "505",
+            "506",
+            "507",
+            "508"
          ],
          "clientUidList":[
             ""
@@ -197,7 +197,7 @@
       },
       "permSuper":{
          "serverGroupList":[
-            "257"
+            "509"
          ],
          "clientUidList":[
             ""
