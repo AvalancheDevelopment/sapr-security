@@ -77,8 +77,20 @@
          "encrypted":false,
          "permission":1
       },
-      {
+	  {
          "id":3,
+         "name":"Car/Car",
+         "soundName":"carTocar",
+         "type":"LEO",
+         "coloredName":"[color=grey]Car/Car[/color]",
+         "talkEnforcement":true,
+         "talkAround":true,
+         "scannable":true,
+         "encrypted":true,
+         "permission":1
+      },
+      {
+         "id":4,
          "name":"B/C Main",
          "soundName":"bcMain",
          "type":"LEO",
@@ -90,7 +102,7 @@
          "permission":1
       },
       {
-         "id":4,
+         "id":5,
          "name":"B/C Reserve",
          "soundName":"bcReserve",
          "type":"LEO",
@@ -99,18 +111,6 @@
          "talkAround":false,
          "scannable":true,
          "encrypted":false,
-         "permission":1
-      },
-	  {
-         "id":5,
-         "name":"Car/Car",
-         "soundName":"carTocar",
-         "type":"LEO",
-         "coloredName":"[color=grey]Car/Car[/color]",
-         "talkEnforcement":true,
-         "talkAround":true,
-         "scannable":true,
-         "encrypted":true,
          "permission":1
       },
       {
