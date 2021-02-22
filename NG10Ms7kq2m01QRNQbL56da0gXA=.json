@@ -136,8 +136,8 @@
          "coloredName":"[color=grey]Car to Car[/color]",
          "talkEnforcement":true,
          "talkAround":true,
-         "scannable":false,
-         "encrypted":true,
+         "scannable":true,
+         "encrypted":false,
          "permission":1
       }
    ],
