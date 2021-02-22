@@ -13,16 +13,16 @@
    ],
    "dispatchServerGroups":[
       "12844",
-	  "12846"
+      "12846"
    ],
    "dispatchAdvancedServerGroups":[
       "12844",
       "12846",
       "12715",
       "12719",
-	  "12720",
-	  "12721",
-	  "12722"
+      "12720",
+      "12721",
+      "12722"
    ],
    "dispatchNameTags":[
       "(P)",
@@ -63,7 +63,7 @@
          "encrypted":false,
          "permission":1
       },
-	        {
+      {
          "id":2,
          "name":"Los Angeles County OP",
          "soundName":"",
@@ -111,7 +111,7 @@
          "encrypted":true,
          "permission":1
       },
-	        {
+      {
          "id":6,
          "name":"TAC-3",
          "soundName":"",
@@ -147,7 +147,7 @@
          "encrypted":true,
          "permission":1
       },
-	  {
+      {
          "id":9,
          "name":"Ground 2",
          "soundName":"",
@@ -159,7 +159,7 @@
          "encrypted":true,
          "permission":1
       },
-	  {
+      {
          "id":10,
          "name":"Ground 3",
          "soundName":"",
@@ -171,7 +171,7 @@
          "encrypted":true,
          "permission":1
       },
-	  {
+      {
          "id":11,
          "name":"Ground 4",
          "soundName":"",
@@ -223,8 +223,8 @@
       "permBasic":{
          "serverGroupList":[
             "12716",
-			"12717",
-			"12727"
+            "12717",
+            "12727"
          ],
          "clientUidList":[
             ""
@@ -249,7 +249,7 @@
       "permStaff":{
          "serverGroupList":[
             "12723",
-			"12846"
+            "12846"
          ],
          "clientUidList":[
             ""
@@ -266,7 +266,7 @@
       "permAdmin":{
          "serverGroupList":[
             "12722",
-            "12721",
+            "12721"
          ],
          "clientUidList":[
             ""
@@ -276,7 +276,7 @@
          "serverGroupList":[
             "12720",
             "12719",
-			"12715"
+            "12715"
          ],
          "clientUidList":[
             ""
