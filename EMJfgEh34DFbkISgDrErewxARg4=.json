@@ -125,7 +125,7 @@
       },
       "permSit":{
          "serverGroupList":[
-            ""
+            "10429"
          ],
          "clientUidList":[
             ""
@@ -141,7 +141,7 @@
       },
       "permSenior":{
          "serverGroupList":[
-            ""
+            "10430"
          ],
          "clientUidList":[
             ""
