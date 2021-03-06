@@ -151,14 +151,14 @@
       },
       {
          "id":9,
-         "name":"Private 1",
-         "soundName":"private1",
+         "name":"Service",
+         "soundName":"service",
          "type":"LEO",
-         "coloredName":"[color=red]Private 1[/color]",
+         "coloredName":"[color=red]Service[/color]",
          "talkEnforcement":true,
          "talkAround":false,
          "scannable":false,
-         "encrypted":true,
+         "encrypted":false,
          "permission":1
       }
    ],
