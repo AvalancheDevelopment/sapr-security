@@ -160,6 +160,18 @@
          "scannable":false,
          "encrypted":true,
          "permission":1
+      },
+      {
+         "id":10,
+         "name":"Services",
+         "soundName":"services",
+         "type":"LEO",
+         "coloredName":"[color=brown]Services[/color]",
+         "talkEnforcement":true,
+         "talkAround":false,
+         "scannable":false,
+         "encrypted":true,
+         "permission":1
       }
    ],
    "time_settings":{
