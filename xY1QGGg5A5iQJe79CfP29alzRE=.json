@@ -69,7 +69,7 @@
         {
             "id": 4,
             "name": "PD Tac 2",
-            "soundName": "",
+            "soundName": "pdTac2",
             "type": "LEO",
             "coloredName": "[color=purple]PD Tac 2[/color]",
             "talkEnforcement": true,
