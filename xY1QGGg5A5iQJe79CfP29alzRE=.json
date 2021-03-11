@@ -1,0 +1,279 @@
+{
+    "pluginStatus": true,
+    "isPaid": true,
+    "communityName": "Universal Gaming Network RP",
+    "features": {
+        "inGameInterface": true,
+        "rangeSimulation": true,
+        "emergencyHotline": true
+    },
+    "talkAroundRange": 1500,
+    "betaServerGroups": [""],
+    "dispatchServerGroups": ["9"],
+    "dispatchAdvancedServerGroups": ["9"],
+    "dispatchNameTags": [
+        "(P)",
+        "(S)",
+        "(T)",
+        "(FIRE)",
+        "(QA)",
+        "(EVAL)",
+        "[P]",
+        "[S]",
+        "[T]",
+        "[FIRE]",
+        "[QA]",
+        "[EVAL]"
+    ],
+    "civilianServerGroups": [""],
+    "civChannels": [0],
+    "radioSystems": [44],
+    "rtoChannels": [47],
+    "radioChannels": [
+        {
+            "id": 1,
+            "name": "LSPD North",
+            "soundName": "lspdNorth",
+            "type": "LEO",
+            "coloredName": "[color=green]LSPD North[/color]",
+            "talkEnforcement": true,
+            "talkAround": false,
+            "scannable": true,
+            "encrypted": false,
+            "permission": 1
+        },
+        {
+            "id": 2,
+            "name": "LSPD South",
+            "soundName": "lspdSouth",
+            "type": "LEO",
+            "coloredName": "[color=green]LSPD South[/color]",
+            "talkEnforcement": true,
+            "talkAround": false,
+            "scannable": true,
+            "encrypted": false,
+            "permission": 1
+        },
+        {
+            "id": 3,
+            "name": "PD Tac 1",
+            "soundName": "pdTac1",
+            "type": "LEO",
+            "coloredName": "[color=purple]PD Tac 1[/color]",
+            "talkEnforcement": true,
+            "talkAround": false,
+            "scannable": true,
+            "encrypted": true,
+            "permission": 1
+        },
+        {
+            "id": 4,
+            "name": "PD Tac 2",
+            "soundName": "",
+            "type": "LEO",
+            "coloredName": "[color=purple]PD Tac 2[/color]",
+            "talkEnforcement": true,
+            "talkAround": false,
+            "scannable": true,
+            "encrypted": true,
+            "permission": 1
+        },
+        {
+            "id": 5,
+            "name": "BCSO Main",
+            "soundName": "bcsoMain",
+            "type": "LEO",
+            "coloredName": "[color=green]BCSO Main[/color]",
+            "talkEnforcement": true,
+            "talkAround": false,
+            "scannable": true,
+            "encrypted": false,
+            "permission": 1
+        },
+        {
+            "id": 6,
+            "name": "SO Tac 1",
+            "soundName": "soTac1",
+            "type": "LEO",
+            "coloredName": "[color=purple]SO Tac 1[/color]",
+            "talkEnforcement": true,
+            "talkAround": false,
+            "scannable": true,
+            "encrypted": true,
+            "permission": 1
+        },
+        {
+            "id": 7,
+            "name": "SO Tac 2",
+            "soundName": "soTac2",
+            "type": "LEO",
+            "coloredName": "[color=purple]SO Tac 2[/color]",
+            "talkEnforcement": true,
+            "talkAround": false,
+            "scannable": true,
+            "encrypted": true,
+            "permission": 1
+        },
+        {
+            "id": 8,
+            "name": "SASP North",
+            "soundName": "saspNorth",
+            "type": "LEO",
+            "coloredName": "[color=green]SASP North[/color]",
+            "talkEnforcement": true,
+            "talkAround": false,
+            "scannable": true,
+            "encrypted": false,
+            "permission": 1
+        },
+        {
+            "id": 9,
+            "name": "SASP South",
+            "soundName": "saspSouth",
+            "type": "LEO",
+            "coloredName": "[color=green]SASP South[/color]",
+            "talkEnforcement": true,
+            "talkAround": false,
+            "scannable": true,
+            "encrypted": false,
+            "permission": 1
+        },
+        {
+            "id": 10,
+            "name": "SASP North Tac",
+            "soundName": "saspNorthTac",
+            "type": "LEO",
+            "coloredName": "[color=purple]SASP North Tac[/color]",
+            "talkEnforcement": true,
+            "talkAround": false,
+            "scannable": true,
+            "encrypted": true,
+            "permission": 1
+        },
+        {
+            "id": 11,
+            "name": "SASP South Tac",
+            "soundName": "saspSouthTac",
+            "type": "LEO",
+            "coloredName": "[color=purple]SASP South Tac[/color]",
+            "talkEnforcement": true,
+            "talkAround": false,
+            "scannable": true,
+            "encrypted": true,
+            "permission": 1
+        },
+        {
+            "id": 12,
+            "name": "SAFD Los Santos",
+            "soundName": "safdLS",
+            "type": "LEO",
+            "coloredName": "[color=orange]SAFD Los Santos[/color]",
+            "talkEnforcement": true,
+            "talkAround": false,
+            "scannable": true,
+            "encrypted": false,
+            "permission": 1
+        },
+        {
+            "id": 13,
+            "name": "SAFD County District",
+            "soundName": "safdCounty",
+            "type": "LEO",
+            "coloredName": "[color=orange]SAFD County District[/color]",
+            "talkEnforcement": true,
+            "talkAround": false,
+            "scannable": true,
+            "encrypted": false,
+            "permission": 1
+        },
+        {
+            "id": 14,
+            "name": "SAFD Los Santos Tac",
+            "soundName": "safdlsTac",
+            "type": "LEO",
+            "coloredName": "[color=yellow]SAFD Los Santos Tac[/color]",
+            "talkEnforcement": true,
+            "talkAround": false,
+            "scannable": true,
+            "encrypted": true,
+            "permission": 1
+        },
+        {
+            "id": 15,
+            "name": "SAFD County Tac",
+            "soundName": "safdCountyTac",
+            "type": "LEO",
+            "coloredName": "[color=yellow]SAFD County Tac[/color]",
+            "talkEnforcement": true,
+            "talkAround": false,
+            "scannable": true,
+            "encrypted": true,
+            "permission": 1
+        },
+        {
+            "id": 16,
+            "name": "Car/Car",
+            "soundName": "carToCar",
+            "type": "LEO",
+            "coloredName": "[color=grey]Car/Car[/color]",
+            "talkEnforcement": true,
+            "talkAround": true,
+            "scannable": true,
+            "encrypted": false,
+            "permission": 1
+        },
+        {
+            "id": 17,
+            "name": "Private 1",
+            "soundName": "private1",
+            "type": "LEO",
+            "coloredName": "[color=red]Private 1[/color]",
+            "talkEnforcement": true,
+            "talkAround": false,
+            "scannable": false,
+            "encrypted": true,
+            "permission": 1
+        }
+    ],
+    "time_settings": {
+        "emergencyOverridePeriod": 10,
+        "emergencyCooldown": 30,
+        "emergencyOtherCooldown": 20,
+        "dispatchToneCooldown": 15,
+        "radioStunCooldown": 5,
+        "radioPingCooldown": 10,
+        "911Cooldown": 30,
+        "commandStunPeriod": 300,
+        "toneWaitTalkPeriod": 5
+    },
+    "permissions": {
+        "permBasic": {
+            "serverGroupList": ["10"],
+            "clientUidList": [""]
+        },
+        "permExtra": {
+            "serverGroupList": [""],
+            "clientUidList": [""]
+        },
+        "permSit": {
+            "serverGroupList": [""],
+            "clientUidList": [""]
+        },
+        "permStaff": {
+            "serverGroupList": [""],
+            "clientUidList": [""]
+        },
+        "permSenior": {
+            "serverGroupList": [""],
+            "clientUidList": [""]
+        },
+        "permAdmin": {
+            "serverGroupList": ["6"],
+            "clientUidList": [""]
+        },
+        "permSuper": {
+            "serverGroupList": [""],
+            "clientUidList": [""]
+        }
+    }
+}
