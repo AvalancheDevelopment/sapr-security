@@ -61,7 +61,7 @@
             "type": "LEO",
             "coloredName": "[color=blue]LEO SOA[/color]",
             "talkEnforcement": true,
-            "talkAround": false,
+            "talkAround": true,
             "scannable": true,
             "encrypted": false,
             "permission": 1
@@ -133,7 +133,7 @@
             "type": "LEO",
             "coloredName": "[color=orange]Fire SOA[/color]",
             "talkEnforcement": true,
-            "talkAround": false,
+            "talkAround": true,
             "scannable": true,
             "encrypted": false,
             "permission": 1
