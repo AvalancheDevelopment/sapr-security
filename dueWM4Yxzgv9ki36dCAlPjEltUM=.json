@@ -140,7 +140,7 @@
     },
     "permissions": {
         "permBasic": {
-            "serverGroupList": ["65940", "65939"],
+            "serverGroupList": ["65940", "65939", "66237", "66238", "66239", "66240", "66242", "66241", "66244"],
             "clientUidList": [""]
         },
         "permExtra": {
