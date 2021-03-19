@@ -17,7 +17,7 @@
    ],
    "dispatchAdvancedServerGroups":[
       "10743",
-      "10728"
+      "10728",
       "10765",
       "10766"
    ],
@@ -175,8 +175,8 @@
       },
       "permAdmin":{
          "serverGroupList":[
-            "10762
-            "10763
+            "10762",
+            "10763"
          ],
          "clientUidList":[
             ""
@@ -184,8 +184,8 @@
       },
       "permSuper":{
          "serverGroupList":[
-            "10765
-            "10766
+            "10765",
+            "10766"
          ],
          "clientUidList":[
             ""
