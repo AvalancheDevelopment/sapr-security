@@ -86,7 +86,7 @@
             "coloredName": "[color=grey]Car/Car[/color]",
             "talkEnforcement": true,
             "talkAround": true,
-            "scannable": false,
+            "scannable": true,
             "encrypted": false,
             "permission": 1
         },

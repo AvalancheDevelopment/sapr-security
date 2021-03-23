@@ -28,7 +28,7 @@
     "civilianServerGroups": [""],
     "civChannels": [0],
     "radioSystems": [16784],
-    "rtoChannels": [ 16785],
+    "rtoChannels": [16785],
     "radioChannels": [
         {
             "id": 1,
@@ -98,7 +98,7 @@
             "coloredName": "[color=grey]Car/Car[/color]",
             "talkEnforcement": true,
             "talkAround": true,
-            "scannable": false,
+            "scannable": true,
             "encrypted": false,
             "permission": 1
         }

@@ -1,286 +1,239 @@
 {
-   "pluginStatus":true,
-   "isPaid":true,
-   "communityName":"SOCESRP",
-   "features":{
-      "inGameInterface":true,
-      "rangeSimulation":true,
-      "emergencyHotline":false
-   },
-   "talkAroundRange":1500,
-   "betaServerGroups":[
-      ""
-   ],
-   "dispatchServerGroups":[
-      "12844",
-      "12846"
-   ],
-   "dispatchAdvancedServerGroups":[
-      "12844",
-      "12846",
-      "12715",
-      "12719",
-      "12720",
-      "12721",
-      "12722"
-   ],
-   "dispatchNameTags":[
-      "(P)",
-      "(S)",
-      "(T)",
-      "(FIRE)",
-      "(QA)",
-      "(EVAL)",
-      "[P]",
-      "[S]",
-      "[T]",
-      "[FIRE]",
-      "[QA]",
-      "[EVAL]"
-   ],
-   "civilianServerGroups":[
-      ""
-   ],
-   "civChannels":[
-      0
-   ],
-   "radioSystems":[
-      48361
-   ],
-   "rtoChannels":[
-      48362
-   ],
-   "radioChannels":[
-      {
-         "id":1,
-         "name":"Alameda County OP",
-         "soundName":"",
-         "type":"LEO",
-         "coloredName":"[color=green]Alameda County OP[/color]",
-         "talkEnforcement":true,
-         "talkAround":false,
-         "scannable":true,
-         "encrypted":false,
-         "permission":1
-      },
-      {
-         "id":2,
-         "name":"Los Angeles County OP",
-         "soundName":"",
-         "type":"LEO",
-         "coloredName":"[color=green]Los Angeles County OP[/color]",
-         "talkEnforcement":true,
-         "talkAround":false,
-         "scannable":true,
-         "encrypted":false,
-         "permission":1
-      },
-      {
-         "id":3,
-         "name":"Fire OP",
-         "soundName":"",
-         "type":"LEO",
-         "coloredName":"[color=yellow]Fire OP[/color]",
-         "talkEnforcement":true,
-         "talkAround":false,
-         "scannable":true,
-         "encrypted":false,
-         "permission":1
-      },
-      {
-         "id":4,
-         "name":"TAC-1",
-         "soundName":"",
-         "type":"LEO",
-         "coloredName":"[color=purple]TAC-1[/color]",
-         "talkEnforcement":true,
-         "talkAround":false,
-         "scannable":true,
-         "encrypted":true,
-         "permission":1
-      },
-      {
-         "id":5,
-         "name":"TAC-2",
-         "soundName":"",
-         "type":"LEO",
-         "coloredName":"[color=purple]TAC-2[/color]",
-         "talkEnforcement":true,
-         "talkAround":false,
-         "scannable":true,
-         "encrypted":true,
-         "permission":1
-      },
-      {
-         "id":6,
-         "name":"TAC-3",
-         "soundName":"",
-         "type":"LEO",
-         "coloredName":"[color=purple]TAC-3[/color]",
-         "talkEnforcement":true,
-         "talkAround":false,
-         "scannable":true,
-         "encrypted":true,
-         "permission":1
-      },
-      {
-         "id":7,
-         "name":"TAC-4",
-         "soundName":"",
-         "type":"LEO",
-         "coloredName":"[color=purple]TAC-4[/color]",
-         "talkEnforcement":true,
-         "talkAround":false,
-         "scannable":true,
-         "encrypted":true,
-         "permission":1
-      },
-      {
-         "id":8,
-         "name":"Ground 1",
-         "soundName":"",
-         "type":"LEO",
-         "coloredName":"[color=grey]Ground 1[/color]",
-         "talkEnforcement":true,
-         "talkAround":true,
-         "scannable":false,
-         "encrypted":true,
-         "permission":1
-      },
-      {
-         "id":9,
-         "name":"Ground 2",
-         "soundName":"",
-         "type":"LEO",
-         "coloredName":"[color=grey]Ground 2[/color]",
-         "talkEnforcement":true,
-         "talkAround":true,
-         "scannable":false,
-         "encrypted":true,
-         "permission":1
-      },
-      {
-         "id":10,
-         "name":"Ground 3",
-         "soundName":"",
-         "type":"LEO",
-         "coloredName":"[color=grey]Ground 3[/color]",
-         "talkEnforcement":true,
-         "talkAround":true,
-         "scannable":false,
-         "encrypted":true,
-         "permission":1
-      },
-      {
-         "id":11,
-         "name":"Ground 4",
-         "soundName":"",
-         "type":"LEO",
-         "coloredName":"[color=grey]Ground 4[/color]",
-         "talkEnforcement":true,
-         "talkAround":true,
-         "scannable":false,
-         "encrypted":true,
-         "permission":1
-      },
-      {
-         "id":12,
-         "name":"10-1 Channel 1",
-         "soundName":"",
-         "type":"LEO",
-         "coloredName":"[color=red]10-1 Channel 1[/color]",
-         "talkEnforcement":true,
-         "talkAround":false,
-         "scannable":false,
-         "encrypted":true,
-         "permission":1
-      },
-      {
-         "id":13,
-         "name":"10-1 Channel 2",
-         "soundName":"",
-         "type":"LEO",
-         "coloredName":"[color=red]10-1 Channel 2[/color]",
-         "talkEnforcement":true,
-         "talkAround":false,
-         "scannable":false,
-         "encrypted":true,
-         "permission":1
-      }
-   ],
-   "time_settings":{
-      "emergencyOverridePeriod":10,
-      "emergencyCooldown":30,
-      "emergencyOtherCooldown":20,
-      "dispatchToneCooldown":15,
-      "radioStunCooldown":5,
-      "radioPingCooldown":10,
-      "911Cooldown":30,
-      "commandStunPeriod":300,
-      "toneWaitTalkPeriod":5
-   },
-   "permissions":{
-      "permBasic":{
-         "serverGroupList":[
-            "12716",
-            "12717",
-            "12727"
-         ],
-         "clientUidList":[
-            ""
-         ]
-      },
-      "permExtra":{
-         "serverGroupList":[
-            ""
-         ],
-         "clientUidList":[
-            ""
-         ]
-      },
-      "permSit":{
-         "serverGroupList":[
-            ""
-         ],
-         "clientUidList":[
-            ""
-         ]
-      },
-      "permStaff":{
-         "serverGroupList":[
-            "12723",
-            "12846"
-         ],
-         "clientUidList":[
-            ""
-         ]
-      },
-      "permSenior":{
-         "serverGroupList":[
-            ""
-         ],
-         "clientUidList":[
-            ""
-         ]
-      },
-      "permAdmin":{
-         "serverGroupList":[
-            "12722",
-            "12721"
-         ],
-         "clientUidList":[
-            ""
-         ]
-      },
-      "permSuper":{
-         "serverGroupList":[
-            "12720",
-            "12719",
-            "12715"
-         ],
-         "clientUidList":[
-            ""
-         ]
-      }
-   }
+    "pluginStatus": true,
+    "isPaid": true,
+    "communityName": "SOCESRP",
+    "features": {
+        "inGameInterface": true,
+        "rangeSimulation": true,
+        "emergencyHotline": false
+    },
+    "talkAroundRange": 1500,
+    "betaServerGroups": [""],
+    "dispatchServerGroups": ["12844", "12846"],
+    "dispatchAdvancedServerGroups": [
+        "12844",
+        "12846",
+        "12715",
+        "12719",
+        "12720",
+        "12721",
+        "12722"
+    ],
+    "dispatchNameTags": [
+        "(P)",
+        "(S)",
+        "(T)",
+        "(FIRE)",
+        "(QA)",
+        "(EVAL)",
+        "[P]",
+        "[S]",
+        "[T]",
+        "[FIRE]",
+        "[QA]",
+        "[EVAL]"
+    ],
+    "civilianServerGroups": [""],
+    "civChannels": [0],
+    "radioSystems": [48361],
+    "rtoChannels": [48362],
+    "radioChannels": [
+        {
+            "id": 1,
+            "name": "Alameda County OP",
+            "soundName": "",
+            "type": "LEO",
+            "coloredName": "[color=green]Alameda County OP[/color]",
+            "talkEnforcement": true,
+            "talkAround": false,
+            "scannable": true,
+            "encrypted": false,
+            "permission": 1
+        },
+        {
+            "id": 2,
+            "name": "Los Angeles County OP",
+            "soundName": "",
+            "type": "LEO",
+            "coloredName": "[color=green]Los Angeles County OP[/color]",
+            "talkEnforcement": true,
+            "talkAround": false,
+            "scannable": true,
+            "encrypted": false,
+            "permission": 1
+        },
+        {
+            "id": 3,
+            "name": "Fire OP",
+            "soundName": "",
+            "type": "LEO",
+            "coloredName": "[color=yellow]Fire OP[/color]",
+            "talkEnforcement": true,
+            "talkAround": false,
+            "scannable": true,
+            "encrypted": false,
+            "permission": 1
+        },
+        {
+            "id": 4,
+            "name": "TAC-1",
+            "soundName": "",
+            "type": "LEO",
+            "coloredName": "[color=purple]TAC-1[/color]",
+            "talkEnforcement": true,
+            "talkAround": false,
+            "scannable": true,
+            "encrypted": true,
+            "permission": 1
+        },
+        {
+            "id": 5,
+            "name": "TAC-2",
+            "soundName": "",
+            "type": "LEO",
+            "coloredName": "[color=purple]TAC-2[/color]",
+            "talkEnforcement": true,
+            "talkAround": false,
+            "scannable": true,
+            "encrypted": true,
+            "permission": 1
+        },
+        {
+            "id": 6,
+            "name": "TAC-3",
+            "soundName": "",
+            "type": "LEO",
+            "coloredName": "[color=purple]TAC-3[/color]",
+            "talkEnforcement": true,
+            "talkAround": false,
+            "scannable": true,
+            "encrypted": true,
+            "permission": 1
+        },
+        {
+            "id": 7,
+            "name": "TAC-4",
+            "soundName": "",
+            "type": "LEO",
+            "coloredName": "[color=purple]TAC-4[/color]",
+            "talkEnforcement": true,
+            "talkAround": false,
+            "scannable": true,
+            "encrypted": true,
+            "permission": 1
+        },
+        {
+            "id": 8,
+            "name": "Ground 1",
+            "soundName": "",
+            "type": "LEO",
+            "coloredName": "[color=grey]Ground 1[/color]",
+            "talkEnforcement": true,
+            "talkAround": true,
+            "scannable": true,
+            "encrypted": true,
+            "permission": 1
+        },
+        {
+            "id": 9,
+            "name": "Ground 2",
+            "soundName": "",
+            "type": "LEO",
+            "coloredName": "[color=grey]Ground 2[/color]",
+            "talkEnforcement": true,
+            "talkAround": true,
+            "scannable": true,
+            "encrypted": true,
+            "permission": 1
+        },
+        {
+            "id": 10,
+            "name": "Ground 3",
+            "soundName": "",
+            "type": "LEO",
+            "coloredName": "[color=grey]Ground 3[/color]",
+            "talkEnforcement": true,
+            "talkAround": true,
+            "scannable": true,
+            "encrypted": true,
+            "permission": 1
+        },
+        {
+            "id": 11,
+            "name": "Ground 4",
+            "soundName": "",
+            "type": "LEO",
+            "coloredName": "[color=grey]Ground 4[/color]",
+            "talkEnforcement": true,
+            "talkAround": true,
+            "scannable": true,
+            "encrypted": true,
+            "permission": 1
+        },
+        {
+            "id": 12,
+            "name": "10-1 Channel 1",
+            "soundName": "",
+            "type": "LEO",
+            "coloredName": "[color=red]10-1 Channel 1[/color]",
+            "talkEnforcement": true,
+            "talkAround": false,
+            "scannable": false,
+            "encrypted": true,
+            "permission": 1
+        },
+        {
+            "id": 13,
+            "name": "10-1 Channel 2",
+            "soundName": "",
+            "type": "LEO",
+            "coloredName": "[color=red]10-1 Channel 2[/color]",
+            "talkEnforcement": true,
+            "talkAround": false,
+            "scannable": false,
+            "encrypted": true,
+            "permission": 1
+        }
+    ],
+    "time_settings": {
+        "emergencyOverridePeriod": 10,
+        "emergencyCooldown": 30,
+        "emergencyOtherCooldown": 20,
+        "dispatchToneCooldown": 15,
+        "radioStunCooldown": 5,
+        "radioPingCooldown": 10,
+        "911Cooldown": 30,
+        "commandStunPeriod": 300,
+        "toneWaitTalkPeriod": 5
+    },
+    "permissions": {
+        "permBasic": {
+            "serverGroupList": ["12716", "12717", "12727"],
+            "clientUidList": [""]
+        },
+        "permExtra": {
+            "serverGroupList": [""],
+            "clientUidList": [""]
+        },
+        "permSit": {
+            "serverGroupList": [""],
+            "clientUidList": [""]
+        },
+        "permStaff": {
+            "serverGroupList": ["12723", "12846"],
+            "clientUidList": [""]
+        },
+        "permSenior": {
+            "serverGroupList": [""],
+            "clientUidList": [""]
+        },
+        "permAdmin": {
+            "serverGroupList": ["12722", "12721"],
+            "clientUidList": [""]
+        },
+        "permSuper": {
+            "serverGroupList": ["12720", "12719", "12715"],
+            "clientUidList": [""]
+        }
+    }
 }
