@@ -116,7 +116,7 @@
     },
     "permissions": {
         "permBasic": {
-            "serverGroupList": [""],
+            "serverGroupList": ["11"],
             "clientUidList": [""]
         },
         "permExtra": {
