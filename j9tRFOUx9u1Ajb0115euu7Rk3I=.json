@@ -10,7 +10,7 @@
     "talkAroundRange": 1500,
     "betaServerGroups": [""],
     "dispatchServerGroups": ["162"],
-    "dispatchAdvancedServerGroups": ["162","139"],
+    "dispatchAdvancedServerGroups": ["162", "139"],
     "dispatchNameTags": [
         "(P)",
         "(S)",
@@ -86,7 +86,7 @@
             "coloredName": "[color=grey]Car/Car[/color]",
             "talkEnforcement": true,
             "talkAround": true,
-            "scannable": false,
+            "scannable": true,
             "encrypted": false,
             "permission": 1
         },
