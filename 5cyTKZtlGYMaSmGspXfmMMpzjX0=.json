@@ -25,17 +25,17 @@
         "[QA]",
         "[EVAL]"
     ],
-    "civilianServerGroups": [""],
-    "civChannels": [0],
+    "civilianServerGroups": ["17"],
+    "civChannels": [50, 54, 55, 56],
     "radioSystems": [40],
     "rtoChannels": [41],
     "radioChannels": [
         {
             "id": 1,
-            "name": "Patrol Ops",
+            "name": "Radio Traffic",
             "soundName": "",
             "type": "LEO",
-            "coloredName": "[color=green]Patrol Ops[/color]",
+            "coloredName": "[color=green]Radio Traffic[/color]",
             "talkEnforcement": true,
             "talkAround": false,
             "scannable": true,
@@ -44,34 +44,34 @@
         },
         {
             "id": 2,
-            "name": "Fire Ops",
+            "name": "10-1 (1)",
             "soundName": "",
             "type": "LEO",
-            "coloredName": "[color=yellow]Fire Ops[/color]",
+            "coloredName": "[color=red]10-1 (1)[/color]",
             "talkEnforcement": true,
             "talkAround": false,
-            "scannable": true,
-            "encrypted": false,
+            "scannable": false,
+            "encrypted": true,
             "permission": 1
         },
         {
             "id": 3,
-            "name": "Tac 1",
+            "name": "10-1 (2)",
             "soundName": "",
             "type": "LEO",
-            "coloredName": "[color=purple]Tac 1[/color]",
+            "coloredName": "[color=red]10-1 (2)[/color]",
             "talkEnforcement": true,
             "talkAround": false,
-            "scannable": true,
+            "scannable": false,
             "encrypted": true,
             "permission": 1
         },
         {
             "id": 4,
-            "name": "Tac 2",
+            "name": "On-Scene (1)",
             "soundName": "",
             "type": "LEO",
-            "coloredName": "[color=purple]Tac 2[/color]",
+            "coloredName": "[color=purple]On-Scene (1)[/color]",
             "talkEnforcement": true,
             "talkAround": false,
             "scannable": true,
@@ -80,26 +80,26 @@
         },
         {
             "id": 5,
+            "name": "On-Scene (2)",
+            "soundName": "",
+            "type": "LEO",
+            "coloredName": "[color=purple]On-Scene (2)[/color]",
+            "talkEnforcement": true,
+            "talkAround": false,
+            "scannable": true,
+            "encrypted": true,
+            "permission": 1
+        },
+        {
+            "id": 6,
             "name": "Car/Car",
             "soundName": "",
             "type": "LEO",
             "coloredName": "[color=grey]Car/Car[/color]",
             "talkEnforcement": true,
             "talkAround": true,
-            "scannable": false,
+            "scannable": true,
             "encrypted": false,
-            "permission": 1
-        },
-        {
-            "id": 6,
-            "name": "Private 1",
-            "soundName": "",
-            "type": "LEO",
-            "coloredName": "[color=red]Private 1[/color]",
-            "talkEnforcement": true,
-            "talkAround": false,
-            "scannable": false,
-            "encrypted": true,
             "permission": 1
         }
     ],
@@ -128,19 +128,19 @@
             "clientUidList": [""]
         },
         "permStaff": {
-            "serverGroupList": ["6"],
+            "serverGroupList": ["14"],
             "clientUidList": [""]
         },
         "permSenior": {
-            "serverGroupList": [""],
+            "serverGroupList": ["10"],
             "clientUidList": [""]
         },
         "permAdmin": {
-            "serverGroupList": [""],
+            "serverGroupList": ["9"],
             "clientUidList": [""]
         },
         "permSuper": {
-            "serverGroupList": [""],
+            "serverGroupList": ["6"],
             "clientUidList": [""]
         }
     }
