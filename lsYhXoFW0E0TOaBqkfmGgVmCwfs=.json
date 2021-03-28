@@ -9,8 +9,8 @@
     },
     "talkAroundRange": 1500,
     "betaServerGroups": [""],
-    "dispatchServerGroups": ["28"],
-    "dispatchAdvancedServerGroups": ["28"],
+    "dispatchServerGroups": ["23"],
+    "dispatchAdvancedServerGroups": ["23"],
     "dispatchNameTags": [
         "(P)",
         "(S)",
@@ -26,9 +26,9 @@
         "[EVAL]"
     ],
     "civilianServerGroups": [""],
-    "civChannels": [37],
-    "radioSystems": [1],
-    "rtoChannels": [34],
+    "civChannels": [9],
+    "radioSystems": [3],
+    "rtoChannels": [8],
     "radioChannels": [
         {
             "id": 1,
@@ -92,6 +92,18 @@
         },
         {
             "id": 6,
+            "name": "SADOT",
+            "soundName": "",
+            "type": "LEO",
+            "coloredName": "[color=cyan]SADOT[/color]",
+            "talkEnforcement": true,
+            "talkAround": false,
+            "scannable": true,
+            "encrypted": true,
+            "permission": 1
+        },
+        {
+            "id": 7,
             "name": "Private 1",
             "soundName": "",
             "type": "LEO",
@@ -116,7 +128,7 @@
     },
     "permissions": {
         "permBasic": {
-            "serverGroupList": ["33"],
+            "serverGroupList": ["24"],
             "clientUidList": [""]
         },
         "permExtra": {
@@ -124,23 +136,23 @@
             "clientUidList": [""]
         },
         "permSit": {
-            "serverGroupList": ["16"],
+            "serverGroupList": ["19"],
             "clientUidList": [""]
         },
         "permStaff": {
-            "serverGroupList": ["15"],
+            "serverGroupList": ["18"],
             "clientUidList": [""]
         },
         "permSenior": {
-            "serverGroupList": ["14"],
+            "serverGroupList": ["15"],
             "clientUidList": [""]
         },
         "permAdmin": {
-            "serverGroupList": [""],
+            "serverGroupList": ["14"],
             "clientUidList": [""]
         },
         "permSuper": {
-            "serverGroupList": ["6", "9", "18", "10"],
+            "serverGroupList": ["10"],
             "clientUidList": [""]
         }
     }
