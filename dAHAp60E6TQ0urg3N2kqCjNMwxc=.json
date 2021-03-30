@@ -1,0 +1,159 @@
+{
+    "pluginStatus": true,
+    "isPaid": true,
+    "communityName": "Sheepdog Roleplay",
+    "features": {
+        "inGameInterface": true,
+        "rangeSimulation": true,
+        "emergencyHotline": true
+    },
+    "talkAroundRange": 1500,
+    "betaServerGroups": [""],
+    "dispatchServerGroups": ["34"],
+    "dispatchAdvancedServerGroups": ["34"],
+    "dispatchNameTags": [
+        "(P)",
+        "(S)",
+        "(T)",
+        "(FIRE)",
+        "(QA)",
+        "(EVAL)",
+        "[P]",
+        "[S]",
+        "[T]",
+        "[FIRE]",
+        "[QA]",
+        "[EVAL]"
+    ],
+    "civilianServerGroups": [""],
+    "civChannels": [16],
+    "radioSystems": [14],
+    "rtoChannels": [6],
+    "radioChannels": [
+        {
+            "id": 1,
+            "name": "Main",
+            "soundName": "",
+            "type": "LEO",
+            "coloredName": "[color=green]Main[/color]",
+            "talkEnforcement": true,
+            "talkAround": false,
+            "scannable": true,
+            "encrypted": false,
+            "permission": 1
+        },
+        {
+            "id": 2,
+            "name": "Tac 1",
+            "soundName": "",
+            "type": "LEO",
+            "coloredName": "[color=purple]Tac 1[/color]",
+            "talkEnforcement": true,
+            "talkAround": false,
+            "scannable": true,
+            "encrypted": true,
+            "permission": 1
+        },
+        {
+            "id": 3,
+            "name": "Tac 2",
+            "soundName": "",
+            "type": "LEO",
+            "coloredName": "[color=purple]Tac 2[/color]",
+            "talkEnforcement": true,
+            "talkAround": false,
+            "scannable": true,
+            "encrypted": true,
+            "permission": 1
+        },
+        {
+            "id": 4,
+            "name": "Massachusetts State Police",
+            "soundName": "",
+            "type": "LEO",
+            "coloredName": "[color=green]Massachusetts State Police[/color]",
+            "talkEnforcement": true,
+            "talkAround": false,
+            "scannable": true,
+            "encrypted": false,
+            "permission": 1
+        },
+        {
+            "id": 5,
+            "name": "Boston PD",
+            "soundName": "",
+            "type": "LEO",
+            "coloredName": "[color=green]Boston PD[/color]",
+            "talkEnforcement": true,
+            "talkAround": false,
+            "scannable": true,
+            "encrypted": false,
+            "permission": 1
+        },
+        {
+            "id": 6,
+            "name": "Essex County Sheriff",
+            "soundName": "",
+            "type": "LEO",
+            "coloredName": "[color=green]Essex County Sheriff[/color]",
+            "talkEnforcement": true,
+            "talkAround": false,
+            "scannable": true,
+            "encrypted": false,
+            "permission": 1
+        },
+        {
+            "id": 1,
+            "name": "Boston Fire",
+            "soundName": "",
+            "type": "LEO",
+            "coloredName": "[color=yellow]Boston Fire[/color]",
+            "talkEnforcement": true,
+            "talkAround": false,
+            "scannable": true,
+            "encrypted": false,
+            "permission": 1
+        }
+    ],
+    "time_settings": {
+        "emergencyOverridePeriod": 10,
+        "emergencyCooldown": 30,
+        "emergencyOtherCooldown": 20,
+        "dispatchToneCooldown": 15,
+        "radioStunCooldown": 5,
+        "radioPingCooldown": 10,
+        "911Cooldown": 30,
+        "commandStunPeriod": 300,
+        "toneWaitTalkPeriod": 5
+    },
+    "permissions": {
+        "permBasic": {
+            "serverGroupList": ["35"],
+            "clientUidList": [""]
+        },
+        "permExtra": {
+            "serverGroupList": [""],
+            "clientUidList": [""]
+        },
+        "permSit": {
+            "serverGroupList": [""],
+            "clientUidList": [""]
+        },
+        "permStaff": {
+            "serverGroupList": [""],
+            "clientUidList": [""]
+        },
+        "permSenior": {
+            "serverGroupList": [""],
+            "clientUidList": [""]
+        },
+        "permAdmin": {
+            "serverGroupList": [""],
+            "clientUidList": [""]
+        },
+        "permSuper": {
+            "serverGroupList": ["6"],
+            "clientUidList": [""]
+        }
+    }
+}
