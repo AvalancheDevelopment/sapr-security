@@ -32,10 +32,10 @@
     "radioChannels": [
         {
             "id": 1,
-            "name": "Patrol Ops",
+            "name": "911",
             "soundName": "",
             "type": "LEO",
-            "coloredName": "[color=green]Patrol Ops[/color]",
+            "coloredName": "[color=cyan]911[/color]",
             "talkEnforcement": true,
             "talkAround": false,
             "scannable": true,
@@ -44,10 +44,10 @@
         },
         {
             "id": 2,
-            "name": "Fire Ops",
+            "name": "Police Ops",
             "soundName": "",
             "type": "LEO",
-            "coloredName": "[color=yellow]Fire Ops[/color]",
+            "coloredName": "[color=green]Police Ops[/color]",
             "talkEnforcement": true,
             "talkAround": false,
             "scannable": true,
@@ -56,6 +56,30 @@
         },
         {
             "id": 3,
+            "name": "Sheriff Ops",
+            "soundName": "",
+            "type": "LEO",
+            "coloredName": "[color=green]Sheriff Ops[/color]",
+            "talkEnforcement": true,
+            "talkAround": false,
+            "scannable": true,
+            "encrypted": false,
+            "permission": 1
+        },
+        {
+            "id": 4,
+            "name": "Highway Ops",
+            "soundName": "",
+            "type": "LEO",
+            "coloredName": "[color=green]Highway Ops[/color]",
+            "talkEnforcement": true,
+            "talkAround": false,
+            "scannable": true,
+            "encrypted": false,
+            "permission": 1
+        },
+        {
+            "id": 5,
             "name": "Tac 1",
             "soundName": "",
             "type": "LEO",
@@ -67,7 +91,7 @@
             "permission": 1
         },
         {
-            "id": 4,
+            "id": 6,
             "name": "Tac 2",
             "soundName": "",
             "type": "LEO",
@@ -79,11 +103,59 @@
             "permission": 1
         },
         {
-            "id": 5,
-            "name": "Tac 3",
+            "id": 7,
+            "name": "R-1",
             "soundName": "",
             "type": "LEO",
-            "coloredName": "[color=purple]Tac 3[/color]",
+            "coloredName": "[color=orange]R-1[/color]",
+            "talkEnforcement": true,
+            "talkAround": false,
+            "scannable": true,
+            "encrypted": true,
+            "permission": 1
+        },
+        {
+            "id": 8,
+            "name": "R-2",
+            "soundName": "",
+            "type": "LEO",
+            "coloredName": "[color=orange]R-2[/color]",
+            "talkEnforcement": true,
+            "talkAround": false,
+            "scannable": true,
+            "encrypted": true,
+            "permission": 1
+        },
+        {
+            "id": 9,
+            "name": "FG-1",
+            "soundName": "",
+            "type": "LEO",
+            "coloredName": "[color=red]FG-1[/color]",
+            "talkEnforcement": true,
+            "talkAround": true,
+            "scannable": true,
+            "encrypted": false,
+            "permission": 1
+        },
+        {
+            "id": 10,
+            "name": "FG-2",
+            "soundName": "",
+            "type": "LEO",
+            "coloredName": "[color=red]FG-1[/color]",
+            "talkEnforcement": true,
+            "talkAround": true,
+            "scannable": true,
+            "encrypted": false,
+            "permission": 1
+        },
+        {
+            "id": 11,
+            "name": "InterOps",
+            "soundName": "",
+            "type": "LEO",
+            "coloredName": "[color=grey]InterOps[/color]",
             "talkEnforcement": true,
             "talkAround": false,
             "scannable": true,
