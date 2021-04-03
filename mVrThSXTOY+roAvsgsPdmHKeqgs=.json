@@ -14,8 +14,8 @@
     "dispatchNameTags": ["(P)", "(S)", "(T)", "(FIRE)", "(QA)", "(EVAL)"],
     "civilianServerGroups": [""],
     "civChannels": [200],
-    "radioSystems": [194],
-    "rtoChannels": [197],
+    "radioSystems": [213],
+    "rtoChannels": [217],
     "radioChannels": [
         {
             "id": 1,
