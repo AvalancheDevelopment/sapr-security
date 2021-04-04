@@ -32,7 +32,7 @@
     "radioChannels": [
         {
             "id": 1,
-            "name": "Radio Traffic",
+            "name": "Statewide Radio",
             "soundName": "",
             "type": "LEO",
             "coloredName": "[color=green]Radio Traffic[/color]",
@@ -44,6 +44,18 @@
         },
         {
             "id": 2,
+            "name": "Fire/EMS",
+            "soundName": "",
+            "type": "LEO",
+            "coloredName": "[color=green]Radio Traffic[/color]",
+            "talkEnforcement": true,
+            "talkAround": false,
+            "scannable": true,
+            "encrypted": false,
+            "permission": 1
+        },
+        {
+            "id": 3,
             "name": "10-1 (1)",
             "soundName": "",
             "type": "LEO",
@@ -55,7 +67,7 @@
             "permission": 1
         },
         {
-            "id": 3,
+            "id": 4,
             "name": "10-1 (2)",
             "soundName": "",
             "type": "LEO",
@@ -67,7 +79,7 @@
             "permission": 1
         },
         {
-            "id": 4,
+            "id": 5,
             "name": "On-Scene (1)",
             "soundName": "",
             "type": "LEO",
@@ -75,11 +87,11 @@
             "talkEnforcement": true,
             "talkAround": false,
             "scannable": true,
-            "encrypted": true,
+            "encrypted": false,
             "permission": 1
         },
         {
-            "id": 5,
+            "id": 6,
             "name": "On-Scene (2)",
             "soundName": "",
             "type": "LEO",
@@ -87,19 +99,19 @@
             "talkEnforcement": true,
             "talkAround": false,
             "scannable": true,
-            "encrypted": true,
+            "encrypted": false,
             "permission": 1
         },
         {
-            "id": 6,
+            "id": 7,
             "name": "Car/Car",
             "soundName": "",
             "type": "LEO",
             "coloredName": "[color=grey]Car/Car[/color]",
             "talkEnforcement": true,
             "talkAround": true,
-            "scannable": true,
-            "encrypted": false,
+            "scannable": false,
+            "encrypted": true,
             "permission": 1
         }
     ],
