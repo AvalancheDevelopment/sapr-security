@@ -32,10 +32,10 @@
     "radioChannels": [
         {
             "id": 1,
-            "name": "Statewide Radio",
+            "name": "SW Radio",
             "soundName": "",
             "type": "LEO",
-            "coloredName": "[color=green]Radio Traffic[/color]",
+            "coloredName": "[color=blue]Statewide Radio[/color]",
             "talkEnforcement": true,
             "talkAround": false,
             "scannable": true,
@@ -47,7 +47,7 @@
             "name": "Fire/EMS",
             "soundName": "",
             "type": "LEO",
-            "coloredName": "[color=green]Radio Traffic[/color]",
+            "coloredName": "[color=green]Fire/EMS[/color]",
             "talkEnforcement": true,
             "talkAround": false,
             "scannable": true,
