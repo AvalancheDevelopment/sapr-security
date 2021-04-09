@@ -1,7 +1,7 @@
 {
 	"pluginStatus": true,
 	"isPaid": true,
-	"communityName": "Western State RP",
+	"communityName": "Senora Valley Rp",
 	"features": {
 		"inGameInterface": true,
 		"rangeSimulation": true,
@@ -12,10 +12,10 @@
 		""
 	],
 	"dispatchServerGroups": [
-		"201", "216"
+		"2433", "2523", "2448"
 	],
 	"dispatchAdvancedServerGroups": [
-		"201", "216", "230", "231"
+		"2433", "2523", "2448", "2463"
 	],
 	"dispatchNameTags": [
 		"(P)",
@@ -32,10 +32,10 @@
 		0
 	],
 	"radioSystems": [
-		57, 13
+		3161
 	],
 	"rtoChannels": [
-		61, 62, 402
+		3165
 	],
 	"radioChannels": [{
 			"id": 1,
@@ -124,8 +124,7 @@
 	"permissions": {
 		"permBasic": {
 			"serverGroupList": [
-				"223",
-				"229"
+				"2455"
 			],
 			"clientUidList": [
 				""
@@ -141,7 +140,7 @@
 		},
 		"permSit": {
 			"serverGroupList": [
-				"224"
+				"2456"
 			],
 			"clientUidList": [
 				""
@@ -149,7 +148,7 @@
 		},
 		"permStaff": {
 			"serverGroupList": [
-				"225"
+				"2457"
 			],
 			"clientUidList": [
 				""
@@ -157,7 +156,7 @@
 		},
 		"permSenior": {
 			"serverGroupList": [
-				"226"
+				"2458"
 			],
 			"clientUidList": [
 				""
@@ -165,8 +164,9 @@
 		},
 		"permAdmin": {
 			"serverGroupList": [
-				"227",
-				"228"
+				"2459",
+				"2460",
+				"2462"
 			],
 			"clientUidList": [
 				""
@@ -174,7 +174,7 @@
 		},
 		"permSuper": {
 			"serverGroupList": [
-				"230", "231"
+				"2463"
 			],
 			"clientUidList": [
 				""
