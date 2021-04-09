@@ -5,7 +5,7 @@
     "features": {
         "inGameInterface": true,
         "rangeSimulation": true,
-        "emergencyHotline": true
+        "emergencyHotline": false
     },
     "talkAroundRange": 1500,
     "betaServerGroups": [""],
@@ -27,8 +27,8 @@
     ],
     "civilianServerGroups": [""],
     "civChannels": [0],
-    "radioSystems": [8],
-    "rtoChannels": [20],
+    "radioSystems": [8, 20],
+    "rtoChannels": [20, 47, 46],
     "radioChannels": [
         {
             "id": 1,
