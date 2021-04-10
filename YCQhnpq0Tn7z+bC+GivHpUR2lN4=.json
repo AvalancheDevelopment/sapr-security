@@ -5,12 +5,12 @@
     "features": {
         "inGameInterface": true,
         "rangeSimulation": true,
-        "emergencyHotline": true
+        "emergencyHotline": false
     },
     "talkAroundRange": 1500,
     "betaServerGroups": [""],
-    "dispatchServerGroups": ["183", "184"],
-    "dispatchAdvancedServerGroups": ["183", "184", "12"],
+    "dispatchServerGroups": ["184", "198"],
+    "dispatchAdvancedServerGroups": ["184", "12", "198"],
     "dispatchNameTags": [
         "(P)",
         "(S)",
