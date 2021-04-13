@@ -8,39 +8,27 @@
       "emergencyHotline":true
    },
    "talkAroundRange":1500,
-   "betaServerGroups":[
-      ""
-   ],
-   "dispatchServerGroups":[
-      "173"
-   ],
-   "dispatchAdvancedServerGroups":[
-      "173"
-   ],
+   "betaServerGroups":[""],
+   "dispatchServerGroups":["564"],
+   "dispatchAdvancedServerGroups":["564"],
    "dispatchNameTags":[
       "(P)",
       "(S)",
       "(T)",
       "(FIRE)",
       "(QA)",
-      "(EVAL)"
+      "(EVAL)",
+      "[P]",
+      "[S]",
+      "[T]",
+      "[FIRE]",
+      "[QA]",
+      "[EVAL]"
    ],
-   "civilianServerGroups":[
-      "171"
-   ],
-   "civChannels":[
-      52,
-      53,
-      54,
-      55,
-      56
-   ],
-   "radioSystems":[
-      43
-   ],
-   "rtoChannels":[
-      47
-   ],
+   "civilianServerGroups":[""],
+   "civChannels":[],
+   "radioSystems":[28],
+   "rtoChannels":[424],
    "radioChannels":[
       {
          "id":1,
@@ -128,62 +116,32 @@
    },
    "permissions":{
       "permBasic":{
-         "serverGroupList":[
-            "183"
-         ],
-         "clientUidList":[
-            ""
-         ]
+         "serverGroupList":["580"],
+         "clientUidList":[""]
       },
       "permExtra":{
-         "serverGroupList":[
-            ""
-         ],
-         "clientUidList":[
-            ""
-         ]
+         "serverGroupList":[""],
+         "clientUidList":[""]
       },
       "permSit":{
-         "serverGroupList":[
-            "182"
-         ],
-         "clientUidList":[
-            ""
-         ]
+         "serverGroupList":["578"],
+         "clientUidList":[""]
       },
       "permStaff":{
-         "serverGroupList":[
-            "181"
-         ],
-         "clientUidList":[
-            ""
-         ]
+         "serverGroupList":["577"],
+         "clientUidList":[""]
       },
       "permSenior":{
-         "serverGroupList":[
-            "180"
-         ],
-         "clientUidList":[
-            ""
-         ]
+         "serverGroupList":["575"],
+         "clientUidList":[""]
       },
       "permAdmin":{
-         "serverGroupList":[
-            "179",
-            "218",
-            "177"
-         ],
-         "clientUidList":[
-            ""
-         ]
+         "serverGroupList":["574","573"],
+         "clientUidList":[""]
       },
       "permSuper":{
-         "serverGroupList":[
-            "176"
-         ],
-         "clientUidList":[
-            ""
-         ]
+         "serverGroupList":["571"],
+         "clientUidList":[""]
       }
    }
 }
