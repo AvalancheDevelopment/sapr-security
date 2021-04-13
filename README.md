@@ -10,5 +10,4 @@ The things you need before installing the software.
 
 ### Installation
 
-This repository is only to support the auto updater, we recomend you contact your server owner for a direct install of your server's files.
-
+This repository is only to support the auto updater, we recommend you contact your server owner for a direct install of your server's files.
