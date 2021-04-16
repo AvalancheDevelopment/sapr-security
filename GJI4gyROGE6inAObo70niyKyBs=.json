@@ -116,7 +116,7 @@
     },
     "permissions": {
         "permBasic": {
-            "serverGroupList": ["65818"],
+            "serverGroupList": ["65818", "65832"],
             "clientUidList": [""]
         },
         "permExtra": {
@@ -124,15 +124,15 @@
             "clientUidList": [""]
         },
         "permSit": {
-            "serverGroupList": [""],
+            "serverGroupList": ["65817"],
             "clientUidList": [""]
         },
         "permStaff": {
-            "serverGroupList": [""],
+            "serverGroupList": ["65816"],
             "clientUidList": [""]
         },
         "permSenior": {
-            "serverGroupList": [""],
+            "serverGroupList": ["65815"],
             "clientUidList": [""]
         },
         "permAdmin": {
