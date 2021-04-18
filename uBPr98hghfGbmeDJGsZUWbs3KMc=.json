@@ -148,7 +148,7 @@
             "clientUidList": [""]
         },
         "permAdmin": {
-            "serverGroupList": ["180", "181", "182"],
+            "serverGroupList": ["180", "191"],
             "clientUidList": [""]
         },
         "permSuper": {
