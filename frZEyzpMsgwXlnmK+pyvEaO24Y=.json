@@ -169,7 +169,7 @@
          "coloredName":"[color=brown]Services[/color]",
          "talkEnforcement":true,
          "talkAround":false,
-         "scannable":false,
+         "scannable":true,
          "encrypted":true,
          "permission":1
       }
