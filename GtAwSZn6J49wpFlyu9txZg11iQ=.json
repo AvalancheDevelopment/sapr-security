@@ -132,11 +132,11 @@
             "clientUidList": [""]
         },
         "permSenior": {
-            "serverGroupList": [""],
+            "serverGroupList": ["21107"],
             "clientUidList": [""]
         },
         "permAdmin": {
-            "serverGroupList": ["21073"],
+            "serverGroupList": ["22034", "21073"],
             "clientUidList": [""]
         },
         "permSuper": {
