@@ -44,6 +44,42 @@
         },
         {
             "id": 2,
+            "name": "LSPD",
+            "soundName": "",
+            "type": "LEO",
+            "coloredName": "[color=cyan]LSpD[/color]",
+            "talkEnforcement": true,
+            "talkAround": false,
+            "scannable": true,
+            "encrypted": false,
+            "permission": 1
+        },
+        {
+            "id": 3,
+            "name": "BCSO",
+            "soundName": "",
+            "type": "LEO",
+            "coloredName": "[color=cyan]BCSO[/color]",
+            "talkEnforcement": true,
+            "talkAround": false,
+            "scannable": true,
+            "encrypted": false,
+            "permission": 1
+        },
+        {
+            "id": 4,
+            "name": "SAHP",
+            "soundName": "",
+            "type": "LEO",
+            "coloredName": "[color=cyan]SAHP[/color]",
+            "talkEnforcement": true,
+            "talkAround": false,
+            "scannable": true,
+            "encrypted": false,
+            "permission": 1
+        },
+        {
+            "id": 5,
             "name": "Tac 1",
             "soundName": "",
             "type": "LEO",
@@ -55,7 +91,7 @@
             "permission": 1
         },
         {
-            "id": 3,
+            "id": 6,
             "name": "Tac 2",
             "soundName": "",
             "type": "LEO",
@@ -67,7 +103,7 @@
             "permission": 1
         },
         {
-            "id": 4,
+            "id": 7,
             "name": "Fire Ops",
             "soundName": "",
             "type": "LEO",
@@ -79,7 +115,7 @@
             "permission": 1
         },
         {
-            "id": 5,
+            "id": 8,
             "name": "Fireground",
             "soundName": "",
             "type": "LEO",
@@ -91,8 +127,8 @@
             "permission": 1
         },
         {
-            "id": 6,
-            "name": "Secuirty Ops",
+            "id": 9,
+            "name": "Security Ops",
             "soundName": "",
             "type": "LEO",
             "coloredName": "[color=grey]Security Ops[/color]",
