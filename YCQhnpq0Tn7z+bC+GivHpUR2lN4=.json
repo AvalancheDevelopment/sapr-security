@@ -173,6 +173,30 @@
             "scannable": false,
             "encrypted": true,
             "permission": 1
+        },
+        {
+            "id": 13,
+            "name": "Services 1",
+            "soundName": "",
+            "type": "LEO",
+            "coloredName": "[color=yellow]Services 1[/color]",
+            "talkEnforcement": true,
+            "talkAround": false,
+            "scannable": true,
+            "encrypted": false,
+            "permission": 1
+        },
+        {
+            "id": 14,
+            "name": "Services 2",
+            "soundName": "",
+            "type": "LEO",
+            "coloredName": "[color=yellow]Services 2[/color]",
+            "talkEnforcement": true,
+            "talkAround": false,
+            "scannable": true,
+            "encrypted": false,
+            "permission": 1
         }
     ],
     "time_settings": {
