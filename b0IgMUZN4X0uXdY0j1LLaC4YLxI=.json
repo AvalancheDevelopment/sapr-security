@@ -1,0 +1,150 @@
+{
+    "pluginStatus": true,
+    "isPaid": true,
+    "communityName": "Northern Isles Roleplay",
+    "features": {
+        "inGameInterface": true,
+        "rangeSimulation": true,
+        "emergencyHotline": true
+    },
+    "talkAroundRange": 1500,
+    "betaServerGroups": [""],
+    "dispatchServerGroups": [
+        "40",
+        "41",
+        "42",
+        "43",
+        "44",
+        "45",
+        "46",
+        "47",
+        "89",
+        "90",
+        "91",
+        "92"
+    ],
+    "dispatchAdvancedServerGroups": [
+        "40",
+        "41",
+        "42",
+        "43",
+        "44",
+        "45",
+        "46",
+        "47",
+        "89",
+        "90",
+        "91",
+        "92",
+        "130"
+    ],
+    "dispatchNameTags": [
+        "(P)",
+        "(S)",
+        "(T)",
+        "(FIRE)",
+        "(QA)",
+        "(EVAL)",
+        "[P]",
+        "[S]",
+        "[T]",
+        "[FIRE]",
+        "[QA]",
+        "[EVAL]"
+    ],
+    "civilianServerGroups": [""],
+    "civChannels": [0],
+    "radioSystems": [25],
+    "rtoChannels": [28],
+    "radioChannels": [
+        {
+            "id": 1,
+            "name": "Patrol Ops",
+            "soundName": "",
+            "type": "LEO",
+            "coloredName": "[color=green]Patrol Ops[/color]",
+            "talkEnforcement": true,
+            "talkAround": false,
+            "scannable": true,
+            "encrypted": false,
+            "permission": 1
+        },
+        {
+            "id": 2,
+            "name": "Tac 1",
+            "soundName": "",
+            "type": "LEO",
+            "coloredName": "[color=purple]Tac 1[/color]",
+            "talkEnforcement": true,
+            "talkAround": false,
+            "scannable": true,
+            "encrypted": true,
+            "permission": 1
+        },
+        {
+            "id": 3,
+            "name": "Tac 2",
+            "soundName": "",
+            "type": "LEO",
+            "coloredName": "[color=purple]Tac 2[/color]",
+            "talkEnforcement": true,
+            "talkAround": false,
+            "scannable": true,
+            "encrypted": true,
+            "permission": 1
+        },
+        {
+            "id": 4,
+            "name": "Tow",
+            "soundName": "",
+            "type": "LEO",
+            "coloredName": "[color=grey]Tow[/color]",
+            "talkEnforcement": true,
+            "talkAround": false,
+            "scannable": true,
+            "encrypted": false,
+            "permission": 1
+        }
+    ],
+    "time_settings": {
+        "emergencyOverridePeriod": 10,
+        "emergencyCooldown": 30,
+        "emergencyOtherCooldown": 20,
+        "dispatchToneCooldown": 15,
+        "radioStunCooldown": 5,
+        "radioPingCooldown": 10,
+        "911Cooldown": 30,
+        "commandStunPeriod": 300,
+        "toneWaitTalkPeriod": 5
+    },
+    "permissions": {
+        "permBasic": {
+            "serverGroupList": ["137"],
+            "clientUidList": [""]
+        },
+        "permExtra": {
+            "serverGroupList": [""],
+            "clientUidList": [""]
+        },
+        "permSit": {
+            "serverGroupList": ["136"],
+            "clientUidList": [""]
+        },
+        "permStaff": {
+            "serverGroupList": ["135"],
+            "clientUidList": [""]
+        },
+        "permSenior": {
+            "serverGroupList": ["134"],
+            "clientUidList": [""]
+        },
+        "permAdmin": {
+            "serverGroupList": ["133", "132", "131"],
+            "clientUidList": [""]
+        },
+        "permSuper": {
+            "serverGroupList": ["130"],
+            "clientUidList": [""]
+        }
+    }
+}
