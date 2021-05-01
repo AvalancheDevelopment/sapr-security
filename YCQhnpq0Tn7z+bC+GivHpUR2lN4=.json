@@ -164,18 +164,6 @@
         },
         {
             "id": 12,
-            "name": "Private 1",
-            "soundName": "",
-            "type": "LEO",
-            "coloredName": "[color=red]Private 1[/color]",
-            "talkEnforcement": true,
-            "talkAround": false,
-            "scannable": false,
-            "encrypted": true,
-            "permission": 1
-        },
-        {
-            "id": 13,
             "name": "Services 1",
             "soundName": "",
             "type": "LEO",
@@ -187,7 +175,7 @@
             "permission": 1
         },
         {
-            "id": 14,
+            "id": 13,
             "name": "Services 2",
             "soundName": "",
             "type": "LEO",
@@ -196,6 +184,30 @@
             "talkAround": false,
             "scannable": true,
             "encrypted": false,
+            "permission": 1
+        },
+        {
+            "id": 14,
+            "name": "UNICOM",
+            "soundName": "",
+            "type": "LEO",
+            "coloredName": "[color=brown]UNICOM[/color]",
+            "talkEnforcement": true,
+            "talkAround": true,
+            "scannable": true,
+            "encrypted": false,
+            "permission": 1
+        },
+        {
+            "id": 15,
+            "name": "Private 1",
+            "soundName": "",
+            "type": "LEO",
+            "coloredName": "[color=red]Private 1[/color]",
+            "talkEnforcement": true,
+            "talkAround": false,
+            "scannable": false,
+            "encrypted": true,
             "permission": 1
         }
     ],
