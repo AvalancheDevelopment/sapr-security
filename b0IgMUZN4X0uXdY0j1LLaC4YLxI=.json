@@ -36,7 +36,9 @@
         "90",
         "91",
         "92",
-        "130"
+        "130",
+        "12",
+        "13"
     ],
     "dispatchNameTags": [
         "(P)",
@@ -143,7 +145,7 @@
             "clientUidList": [""]
         },
         "permSuper": {
-            "serverGroupList": ["130"],
+            "serverGroupList": ["12", "13", "130"],
             "clientUidList": [""]
         }
     }
