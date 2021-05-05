@@ -18,12 +18,14 @@
         "(FIRE)",
         "(QA)",
         "(EVAL)",
+        "(911)",
         "[P]",
         "[S]",
         "[T]",
         "[FIRE]",
         "[QA]",
-        "[EVAL]"
+        "[EVAL]",
+        "[911]"
     ],
     "civilianServerGroups": [""],
     "civChannels": [0],
@@ -140,7 +142,7 @@
             "clientUidList": [""]
         },
         "permSuper": {
-            "serverGroupList": ["283"],
+            "serverGroupList": ["283", "6"],
             "clientUidList": [""]
         }
     }
