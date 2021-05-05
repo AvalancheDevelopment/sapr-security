@@ -47,7 +47,7 @@
             "name": "SA Fire Main",
             "soundName": "saFireMain",
             "type": "LEO",
-            "coloredName": "[color=yellow]SA Fire Main[/color]",
+            "coloredName": "[color=red]SA Fire Main[/color]",
             "talkEnforcement": true,
             "talkAround": false,
             "scannable": true,
@@ -56,6 +56,30 @@
         },
         {
             "id": 3,
+            "name": "SA EMS Main",
+            "soundName": "saEmsMain",
+            "type": "LEO",
+            "coloredName": "[color=yellow]SA EMS Main[/color]",
+            "talkEnforcement": true,
+            "talkAround": false,
+            "scannable": true,
+            "encrypted": false,
+            "permission": 1
+        },
+        {
+            "id": 4,
+            "name": "SA Public Wrks",
+            "soundName": "saPublicWrks",
+            "type": "LEO",
+            "coloredName": "[color=grey]SA Public Wrks[/color]",
+            "talkEnforcement": true,
+            "talkAround": false,
+            "scannable": true,
+            "encrypted": false,
+            "permission": 1
+        },
+        {
+            "id": 5,
             "name": "Tac 1",
             "soundName": "tac1",
             "type": "LEO",
@@ -67,7 +91,7 @@
             "permission": 1
         },
         {
-            "id": 4,
+            "id": 6,
             "name": "Tac 2",
             "soundName": "tac2",
             "type": "LEO",
@@ -79,7 +103,7 @@
             "permission": 1
         },
         {
-            "id": 5,
+            "id": 7,
             "name": "Federal Ops",
             "soundName": "federalOps",
             "type": "LEO",
@@ -88,6 +112,30 @@
             "talkAround": false,
             "scannable": true,
             "encrypted": true,
+            "permission": 1
+        },
+        {
+            "id": 8,
+            "name": "Military Police",
+            "soundName": "militaryPolice",
+            "type": "LEO",
+            "coloredName": "[color=green]Military Police[/color]",
+            "talkEnforcement": true,
+            "talkAround": false,
+            "scannable": true,
+            "encrypted": true,
+            "permission": 1
+        },
+        {
+            "id": 9,
+            "name": "FAA 1",
+            "soundName": "faa1",
+            "type": "LEO",
+            "coloredName": "[color=orange]FAA 1[/color]",
+            "talkEnforcement": true,
+            "talkAround": false,
+            "scannable": true,
+            "encrypted": false,
             "permission": 1
         }
     ],
