@@ -106,10 +106,10 @@
         },
         {
             "id": 7,
-            "name": "Horizon/Road Rangers",
+            "name": "Pulbic Services",
             "soundName": "",
             "type": "CIV",
-            "coloredName": "[color=orange]Horizon/Road Rangers[/color]",
+            "coloredName": "[color=orange]Public Services[/color]",
             "talkEnforcement": true,
             "talkAround": false,
             "scannable": true,
