@@ -18,24 +18,26 @@
         "(FIRE)",
         "(QA)",
         "(EVAL)",
+        "(911)",
         "[P]",
         "[S]",
         "[T]",
         "[FIRE]",
         "[QA]",
-        "[EVAL]"
+        "[EVAL]",
+        "[911]"
     ],
     "civilianServerGroups": [""],
     "civChannels": [0],
     "radioSystems": [965, 971],
-    "rtoChannels": [968,974],
+    "rtoChannels": [968, 974],
     "radioChannels": [
         {
             "id": 1,
             "name": "Patrol Ops",
             "soundName": "",
             "type": "LEO",
-            "coloredName": "[color=green]Patrol Ops[/color]",
+            "coloredName": "[color=blue]Patrol Ops[/color]",
             "talkEnforcement": true,
             "talkAround": false,
             "scannable": true,
@@ -47,7 +49,7 @@
             "name": "Fire Ops",
             "soundName": "",
             "type": "LEO",
-            "coloredName": "[color=yellow]Fire Ops[/color]",
+            "coloredName": "[color=red]Fire Ops[/color]",
             "talkEnforcement": true,
             "talkAround": false,
             "scannable": true,
@@ -95,10 +97,22 @@
             "name": "Private 1",
             "soundName": "",
             "type": "LEO",
-            "coloredName": "[color=red]Private 1[/color]",
+            "coloredName": "[color=purple]Private 1[/color]",
             "talkEnforcement": true,
             "talkAround": false,
             "scannable": false,
+            "encrypted": true,
+            "permission": 1
+        },
+        {
+            "id": 7,
+            "name": "Pulbic Services",
+            "soundName": "",
+            "type": "CIV",
+            "coloredName": "[color=orange]Public Services[/color]",
+            "talkEnforcement": true,
+            "talkAround": false,
+            "scannable": true,
             "encrypted": true,
             "permission": 1
         }
@@ -140,7 +154,7 @@
             "clientUidList": [""]
         },
         "permSuper": {
-            "serverGroupList": ["283"],
+            "serverGroupList": ["283", "6"],
             "clientUidList": [""]
         }
     }
