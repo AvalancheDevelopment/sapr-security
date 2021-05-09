@@ -1,7 +1,7 @@
 {
     "pluginStatus": true,
     "isPaid": true,
-    "communityName": "BlueJay Roleplay",
+    "communityName": "The Rookie RP",
     "features": {
         "inGameInterface": true,
         "rangeSimulation": true,
@@ -9,8 +9,8 @@
     },
     "talkAroundRange": 1500,
     "betaServerGroups": [""],
-    "dispatchServerGroups": ["19"],
-    "dispatchAdvancedServerGroups": ["19"],
+    "dispatchServerGroups": ["2789"],
+    "dispatchAdvancedServerGroups": ["2789", "2594"],
     "dispatchNameTags": [
         "(P)",
         "(S)",
@@ -27,8 +27,8 @@
     ],
     "civilianServerGroups": [""],
     "civChannels": [0],
-    "radioSystems": [29, 62],
-    "rtoChannels": [30, 59, 63],
+    "radioSystems": [5024],
+    "rtoChannels": [5028],
     "radioChannels": [
         {
             "id": 1,
@@ -116,7 +116,7 @@
     },
     "permissions": {
         "permBasic": {
-            "serverGroupList": ["17", "16", "21", "19"],
+            "serverGroupList": ["2601"],
             "clientUidList": [""]
         },
         "permExtra": {
@@ -124,23 +124,23 @@
             "clientUidList": [""]
         },
         "permSit": {
-            "serverGroupList": ["13"],
+            "serverGroupList": ["2600"],
             "clientUidList": [""]
         },
         "permStaff": {
-            "serverGroupList": ["12"],
+            "serverGroupList": ["2599"],
             "clientUidList": [""]
         },
         "permSenior": {
-            "serverGroupList": ["11"],
+            "serverGroupList": ["2598"],
             "clientUidList": [""]
         },
         "permAdmin": {
-            "serverGroupList": ["10", "9"],
+            "serverGroupList": ["2597", "2596", "2595"],
             "clientUidList": [""]
         },
         "permSuper": {
-            "serverGroupList": ["6"],
+            "serverGroupList": ["2594"],
             "clientUidList": [""]
         }
     }
