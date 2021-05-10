@@ -92,14 +92,26 @@
         },
         {
             "id": 6,
-            "name": "Private 1",
+            "name": "North State",
             "soundName": "",
             "type": "LEO",
-            "coloredName": "[color=red]Private 1[/color]",
+            "coloredName": "[color=cyan]North State[/color]",
             "talkEnforcement": true,
             "talkAround": false,
-            "scannable": false,
-            "encrypted": true,
+            "scannable": true,
+            "encrypted": false,
+            "permission": 1
+        },
+        {
+            "id": 7,
+            "name": "South State",
+            "soundName": "",
+            "type": "LEO",
+            "coloredName": "[color=cyan]South State[/color]",
+            "talkEnforcement": true,
+            "talkAround": false,
+            "scannable": true,
+            "encrypted": false,
             "permission": 1
         }
     ],
