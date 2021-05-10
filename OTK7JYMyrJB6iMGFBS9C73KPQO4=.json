@@ -58,6 +58,30 @@
         },
         {
             "id": 3,
+            "name": "North Ops",
+            "soundName": "",
+            "type": "LEO",
+            "coloredName": "[color=teal]North Ops[/color]",
+            "talkEnforcement": true,
+            "talkAround": false,
+            "scannable": true,
+            "encrypted": false,
+            "permission": 1
+        },
+        {
+            "id": 4,
+            "name": "South Ops",
+            "soundName": "",
+            "type": "LEO",
+            "coloredName": "[color=green]South Ops[/color]",
+            "talkEnforcement": true,
+            "talkAround": false,
+            "scannable": true,
+            "encrypted": false,
+            "permission": 1
+        },
+        {
+            "id": 5,
             "name": "Tac 1",
             "soundName": "",
             "type": "LEO",
@@ -69,7 +93,7 @@
             "permission": 1
         },
         {
-            "id": 4,
+            "id": 6,
             "name": "Tac 2",
             "soundName": "",
             "type": "LEO",
@@ -81,7 +105,7 @@
             "permission": 1
         },
         {
-            "id": 5,
+            "id": 7,
             "name": "Car/Car",
             "soundName": "",
             "type": "LEO",
@@ -93,7 +117,7 @@
             "permission": 1
         },
         {
-            "id": 6,
+            "id": 8,
             "name": "Private 1",
             "soundName": "",
             "type": "LEO",
@@ -105,8 +129,8 @@
             "permission": 1
         },
         {
-            "id": 7,
-            "name": "Pulbic Services",
+            "id": 9,
+            "name": "Public Services",
             "soundName": "",
             "type": "CIV",
             "coloredName": "[color=orange]Public Services[/color]",
