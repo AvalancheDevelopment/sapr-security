@@ -92,6 +92,18 @@
         },
         {
             "id": 6,
+            "name": "Fire Tac",
+            "soundName": "",
+            "type": "LEO",
+            "coloredName": "[color=orange]Fire Tac[/color]",
+            "talkEnforcement": true,
+            "talkAround": false,
+            "scannable": true,
+            "encrypted": true,
+            "permission": 1
+        },
+        {
+            "id": 6,
             "name": "Command",
             "soundName": "",
             "type": "LEO",
