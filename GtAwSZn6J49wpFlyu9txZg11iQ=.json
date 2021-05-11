@@ -44,30 +44,6 @@
         },
         {
             "id": 2,
-            "name": "Fire Ops",
-            "soundName": "",
-            "type": "LEO",
-            "coloredName": "[color=yellow]Fire Ops[/color]",
-            "talkEnforcement": true,
-            "talkAround": false,
-            "scannable": true,
-            "encrypted": false,
-            "permission": 1
-        },
-        {
-            "id": 3,
-            "name": "Tac 1",
-            "soundName": "",
-            "type": "LEO",
-            "coloredName": "[color=purple]Tac 1[/color]",
-            "talkEnforcement": true,
-            "talkAround": false,
-            "scannable": true,
-            "encrypted": true,
-            "permission": 1
-        },
-        {
-            "id": 4,
             "name": "North State",
             "soundName": "",
             "type": "LEO",
@@ -79,7 +55,7 @@
             "permission": 1
         },
         {
-            "id": 5,
+            "id": 3,
             "name": "South State",
             "soundName": "",
             "type": "LEO",
@@ -88,6 +64,30 @@
             "talkAround": false,
             "scannable": true,
             "encrypted": false,
+            "permission": 1
+        },
+        {
+            "id": 4,
+            "name": "Fire Ops",
+            "soundName": "",
+            "type": "LEO",
+            "coloredName": "[color=yellow]Fire Ops[/color]",
+            "talkEnforcement": true,
+            "talkAround": false,
+            "scannable": true,
+            "encrypted": false,
+            "permission": 1
+        },
+        {
+            "id": 5,
+            "name": "Tac 1",
+            "soundName": "",
+            "type": "LEO",
+            "coloredName": "[color=purple]Tac 1[/color]",
+            "talkEnforcement": true,
+            "talkAround": false,
+            "scannable": true,
+            "encrypted": true,
             "permission": 1
         }
     ],
