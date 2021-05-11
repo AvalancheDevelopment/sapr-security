@@ -32,10 +32,10 @@
     "radioChannels": [
         {
             "id": 1,
-            "name": "Patrol Ops",
+            "name": "Statewide",
             "soundName": "",
             "type": "LEO",
-            "coloredName": "[color=green]Patrol Ops[/color]",
+            "coloredName": "[color=green]Statewide[/color]",
             "talkEnforcement": true,
             "talkAround": false,
             "scannable": true,
@@ -68,30 +68,6 @@
         },
         {
             "id": 4,
-            "name": "Tac 2",
-            "soundName": "",
-            "type": "LEO",
-            "coloredName": "[color=purple]Tac 2[/color]",
-            "talkEnforcement": true,
-            "talkAround": false,
-            "scannable": true,
-            "encrypted": true,
-            "permission": 1
-        },
-        {
-            "id": 5,
-            "name": "Rptr TA",
-            "soundName": "",
-            "type": "LEO",
-            "coloredName": "[color=grey]Rptr TA[/color]",
-            "talkEnforcement": true,
-            "talkAround": true,
-            "scannable": true,
-            "encrypted": true,
-            "permission": 1
-        },
-        {
-            "id": 6,
             "name": "North State",
             "soundName": "",
             "type": "LEO",
@@ -103,7 +79,7 @@
             "permission": 1
         },
         {
-            "id": 7,
+            "id": 5,
             "name": "South State",
             "soundName": "",
             "type": "LEO",
