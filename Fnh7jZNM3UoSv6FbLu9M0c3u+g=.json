@@ -27,7 +27,7 @@
     ],
     "civilianServerGroups": [""],
     "civChannels": [0],
-    "radioSystems": [43],
+    "radioSystems": [26],
     "rtoChannels": [28],
     "radioChannels": [
         {
@@ -44,30 +44,6 @@
         },
         {
             "id": 2,
-            "name": "Admin",
-            "soundName": "",
-            "type": "LEO",
-            "coloredName": "[color=red]Admin[/color]",
-            "talkEnforcement": true,
-            "talkAround": false,
-            "scannable": true,
-            "encrypted": true,
-            "permission": 1
-        },
-        {
-            "id": 3,
-            "name": "Staff",
-            "soundName": "",
-            "type": "LEO",
-            "coloredName": "[color=red]Staff[/color]",
-            "talkEnforcement": true,
-            "talkAround": false,
-            "scannable": true,
-            "encrypted": true,
-            "permission": 1
-        },
-        {
-            "id": 4,
             "name": "EMS",
             "soundName": "",
             "type": "LEO",
@@ -79,7 +55,7 @@
             "permission": 1
         },
         {
-            "id": 5,
+            "id": 3,
             "name": "Air Traffic",
             "soundName": "",
             "type": "LEO",
@@ -91,7 +67,7 @@
             "permission": 1
         },
         {
-            "id": 6,
+            "id": 4,
             "name": "Statewide RTO",
             "soundName": "",
             "type": "LEO",
@@ -103,7 +79,7 @@
             "permission": 1
         },
         {
-            "id": 7,
+            "id": 5,
             "name": "On-Scene",
             "soundName": "",
             "type": "LEO",
@@ -115,7 +91,7 @@
             "permission": 1
         },
         {
-            "id": 8,
+            "id": 6,
             "name": "Spec Ops 1",
             "soundName": "",
             "type": "LEO",
@@ -127,7 +103,7 @@
             "permission": 1
         },
         {
-            "id": 9,
+            "id": 7,
             "name": "Spec Ops 2",
             "soundName": "",
             "type": "LEO",
@@ -139,7 +115,7 @@
             "permission": 1
         },
         {
-            "id": 10,
+            "id": 8,
             "name": "10-1",
             "soundName": "",
             "type": "LEO",
@@ -151,7 +127,7 @@
             "permission": 1
         },
         {
-            "id": 11,
+            "id": 9,
             "name": "Galindo Cartel",
             "soundName": "",
             "type": "LEO",
@@ -163,7 +139,7 @@
             "permission": 1
         },
         {
-            "id": 12,
+            "id": 10,
             "name": "SAMCRO",
             "soundName": "",
             "type": "LEO",
@@ -175,7 +151,7 @@
             "permission": 1
         },
         {
-            "id": 13,
+            "id": 11,
             "name": "MAYANS",
             "soundName": "",
             "type": "LEO",
@@ -187,7 +163,7 @@
             "permission": 1
         },
         {
-            "id": 14,
+            "id": 12,
             "name": "Bloods",
             "soundName": "",
             "type": "LEO",
@@ -199,7 +175,7 @@
             "permission": 1
         },
         {
-            "id": 15,
+            "id": 13,
             "name": "Crips",
             "soundName": "",
             "type": "LEO",
