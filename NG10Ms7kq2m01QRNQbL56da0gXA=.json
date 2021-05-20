@@ -33,7 +33,7 @@
         {
             "id": 1,
             "name": "Tac 3",
-            "soundName": "",
+            "soundName": "Ch_Tac3",
             "type": "LEO",
             "coloredName": "[color=purple]Tac 3[/color]",
             "talkEnforcement": true,
@@ -45,7 +45,7 @@
         {
             "id": 2,
             "name": "State",
-            "soundName": "",
+            "soundName": "Ch_State",
             "type": "LEO",
             "coloredName": "[color=green]State[/color]",
             "talkEnforcement": true,
@@ -57,7 +57,7 @@
         {
             "id": 3,
             "name": "Sheriff",
-            "soundName": "",
+            "soundName": "Ch_Sheriff",
             "type": "LEO",
             "coloredName": "[color=green]Sheriff[/color]",
             "talkEnforcement": true,
@@ -69,7 +69,7 @@
         {
             "id": 4,
             "name": "Metro",
-            "soundName": "",
+            "soundName": "Ch_Metro",
             "type": "LEO",
             "coloredName": "[color=green]Metro[/color]",
             "talkEnforcement": true,
@@ -81,7 +81,7 @@
         {
             "id": 5,
             "name": "Fire",
-            "soundName": "",
+            "soundName": "Ch_Fire",
             "type": "LEO",
             "coloredName": "[color=yellow]Fire[/color]",
             "talkEnforcement": true,
@@ -93,7 +93,7 @@
         {
             "id": 6,
             "name": "Tac 1",
-            "soundName": "",
+            "soundName": "Ch_Tac1",
             "type": "LEO",
             "coloredName": "[color=purple]Tac 1[/color]",
             "talkEnforcement": true,
@@ -105,7 +105,7 @@
         {
             "id": 7,
             "name": "Tac 2",
-            "soundName": "",
+            "soundName": "Ch_Tac2",
             "type": "LEO",
             "coloredName": "[color=purple]Tac 2[/color]",
             "talkEnforcement": true,
@@ -117,7 +117,7 @@
         {
             "id": 8,
             "name": "Car/Car",
-            "soundName": "",
+            "soundName": "Ch_CarCar",
             "type": "LEO",
             "coloredName": "[color=grey]Car to Car[/color]",
             "talkEnforcement": true,
