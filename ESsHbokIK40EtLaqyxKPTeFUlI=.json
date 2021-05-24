@@ -27,7 +27,7 @@
     ],
     "civilianServerGroups": [""],
     "civChannels": [0],
-    "radioSystems": [103],
+    "radioSystems": [804],
     "rtoChannels": [99],
     "radioChannels": [
         {
@@ -116,7 +116,7 @@
     },
     "permissions": {
         "permBasic": {
-            "serverGroupList": ["689", "691", "692"],
+            "serverGroupList": ["675", "676", "677", "678", "679", "680"],
             "clientUidList": [""]
         },
         "permExtra": {
