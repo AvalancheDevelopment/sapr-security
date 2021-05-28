@@ -1,0 +1,279 @@
+{
+    "pluginStatus": true,
+    "isPaid": true,
+    "communityName": "Blue Line Nation Roleplay",
+    "features": {
+        "inGameInterface": true,
+        "rangeSimulation": true,
+        "emergencyHotline": true
+    },
+    "talkAroundRange": 1500,
+    "betaServerGroups": [""],
+    "dispatchServerGroups": ["30"],
+    "dispatchAdvancedServerGroups": ["30", "29", "6"],
+    "dispatchNameTags": [
+        "(P)",
+        "(S)",
+        "(T)",
+        "(FIRE)",
+        "(QA)",
+        "(EVAL)",
+        "[P]",
+        "[S]",
+        "[T]",
+        "[FIRE]",
+        "[QA]",
+        "[EVAL]"
+    ],
+    "civilianServerGroups": [""],
+    "civChannels": [0],
+    "radioSystems": [16],
+    "rtoChannels": [19],
+    "radioChannels": [
+        {
+            "id": 1,
+            "name": "L-Tac 1",
+            "soundName": "",
+            "type": "LEO",
+            "coloredName": "[color=green]L-Tac 1[/color]",
+            "talkEnforcement": true,
+            "talkAround": false,
+            "scannable": true,
+            "encrypted": true,
+            "permission": 1
+        },
+        {
+            "id": 2,
+            "name": "L-Tac 2",
+            "soundName": "",
+            "type": "LEO",
+            "coloredName": "[color=green]L-Tac 2[/color]",
+            "talkEnforcement": true,
+            "talkAround": false,
+            "scannable": true,
+            "encrypted": true,
+            "permission": 1
+        },
+        {
+            "id": 3,
+            "name": "L-Tac 3",
+            "soundName": "",
+            "type": "LEO",
+            "coloredName": "[color=green]L-Tac 3[/color]",
+            "talkEnforcement": true,
+            "talkAround": false,
+            "scannable": true,
+            "encrypted": true,
+            "permission": 1
+        },
+        {
+            "id": 4,
+            "name": "LSPD",
+            "soundName": "",
+            "type": "LEO",
+            "coloredName": "[color=blue]LSPD[/color]",
+            "talkEnforcement": true,
+            "talkAround": false,
+            "scannable": true,
+            "encrypted": false,
+            "permission": 1
+        },
+        {
+            "id": 5,
+            "name": "BCSO",
+            "soundName": "",
+            "type": "LEO",
+            "coloredName": "[color=cyan]BCSO[/color]",
+            "talkEnforcement": true,
+            "talkAround": false,
+            "scannable": true,
+            "encrypted": false,
+            "permission": 1
+        },
+        {
+            "id": 6,
+            "name": "SAHP Main",
+            "soundName": "",
+            "type": "LEO",
+            "coloredName": "[color=cyan]SAHP Main[/color]",
+            "talkEnforcement": true,
+            "talkAround": false,
+            "scannable": true,
+            "encrypted": false,
+            "permission": 1
+        },
+        {
+            "id": 7,
+            "name": "SAHP North",
+            "soundName": "",
+            "type": "LEO",
+            "coloredName": "[color=cyan]SAHP North[/color]",
+            "talkEnforcement": true,
+            "talkAround": false,
+            "scannable": true,
+            "encrypted": false,
+            "permission": 1
+        },
+        {
+            "id": 8,
+            "name": "SAHP South",
+            "soundName": "",
+            "type": "LEO",
+            "coloredName": "[color=cyan]SAHP South[/color]",
+            "talkEnforcement": true,
+            "talkAround": false,
+            "scannable": true,
+            "encrypted": false,
+            "permission": 1
+        },
+        {
+            "id": 9,
+            "name": "SAFD",
+            "soundName": "",
+            "type": "LEO",
+            "coloredName": "[color=yellow]SAFD[/color]",
+            "talkEnforcement": true,
+            "talkAround": false,
+            "scannable": true,
+            "encrypted": false,
+            "permission": 1
+        },
+        {
+            "id": 10,
+            "name": "Orange TAC",
+            "soundName": "",
+            "type": "LEO",
+            "coloredName": "[color=purple]Orange TAC[/color]",
+            "talkEnforcement": true,
+            "talkAround": false,
+            "scannable": true,
+            "encrypted": true,
+            "permission": 1
+        },
+        {
+            "id": 11,
+            "name": "Blue TAC",
+            "soundName": "",
+            "type": "LEO",
+            "coloredName": "[color=purple]Blue TAC[/color]",
+            "talkEnforcement": true,
+            "talkAround": false,
+            "scannable": true,
+            "encrypted": true,
+            "permission": 1
+        },
+        {
+            "id": 12,
+            "name": "Red TAC",
+            "soundName": "",
+            "type": "LEO",
+            "coloredName": "[color=purple]Red TAC[/color]",
+            "talkEnforcement": true,
+            "talkAround": false,
+            "scannable": true,
+            "encrypted": true,
+            "permission": 1
+        },
+        {
+            "id": 13,
+            "name": "Yellow TAC",
+            "soundName": "",
+            "type": "LEO",
+            "coloredName": "[color=purple]Yellow TAC[/color]",
+            "talkEnforcement": true,
+            "talkAround": false,
+            "scannable": true,
+            "encrypted": true,
+            "permission": 1
+        },
+        {
+            "id": 14,
+            "name": "Green TAC",
+            "soundName": "",
+            "type": "LEO",
+            "coloredName": "[color=purple]Green TAC[/color]",
+            "talkEnforcement": true,
+            "talkAround": false,
+            "scannable": true,
+            "encrypted": true,
+            "permission": 1
+        },
+        {
+            "id": 15,
+            "name": "FDT TAC",
+            "soundName": "",
+            "type": "LEO",
+            "coloredName": "[color=purple]FDT TAC[/color]",
+            "talkEnforcement": true,
+            "talkAround": false,
+            "scannable": true,
+            "encrypted": true,
+            "permission": 1
+        },
+        {
+            "id": 16,
+            "name": "LEOT TAC",
+            "soundName": "",
+            "type": "LEO",
+            "coloredName": "[color=purple]LEOT TAC[/color]",
+            "talkEnforcement": true,
+            "talkAround": false,
+            "scannable": true,
+            "encrypted": true,
+            "permission": 1
+        },
+        {
+            "id": 17,
+            "name": "Staff TAC",
+            "soundName": "",
+            "type": "LEO",
+            "coloredName": "[color=purple]Staff TAC[/color]",
+            "talkEnforcement": true,
+            "talkAround": false,
+            "scannable": true,
+            "encrypted": true,
+            "permission": 1
+        }
+    ],
+    "time_settings": {
+        "emergencyOverridePeriod": 10,
+        "emergencyCooldown": 30,
+        "emergencyOtherCooldown": 20,
+        "dispatchToneCooldown": 15,
+        "radioStunCooldown": 5,
+        "radioPingCooldown": 10,
+        "911Cooldown": 30,
+        "commandStunPeriod": 300,
+        "toneWaitTalkPeriod": 5
+    },
+    "permissions": {
+        "permBasic": {
+            "serverGroupList": ["7", "26"],
+            "clientUidList": [""]
+        },
+        "permExtra": {
+            "serverGroupList": [""],
+            "clientUidList": [""]
+        },
+        "permSit": {
+            "serverGroupList": ["27"],
+            "clientUidList": [""]
+        },
+        "permStaff": {
+            "serverGroupList": ["28", "15"],
+            "clientUidList": [""]
+        },
+        "permSenior": {
+            "serverGroupList": [""],
+            "clientUidList": [""]
+        },
+        "permAdmin": {
+            "serverGroupList": ["14"],
+            "clientUidList": [""]
+        },
+        "permSuper": {
+            "serverGroupList": ["29", "6"],
+            "clientUidList": [""]
+        }
+    }
+}
