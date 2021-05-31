@@ -1,7 +1,7 @@
 {
-    "pluginStatus": false,
-    "isPaid": false,
-    "communityName": "Northern San Andreas Roleplay",
+    "pluginStatus": true,
+    "isPaid": true,
+    "communityName": "North San Andreas Roleplay",
     "features": {
         "inGameInterface": true,
         "rangeSimulation": true,
@@ -9,8 +9,8 @@
     },
     "talkAroundRange": 1500,
     "betaServerGroups": [""],
-    "dispatchServerGroups": ["467", "453"],
-    "dispatchAdvancedServerGroups": ["467", "453", "490", "489"],
+    "dispatchServerGroups": ["125", "132"],
+    "dispatchAdvancedServerGroups": ["125", "132", "175", "18"],
     "dispatchNameTags": [
         "(P)",
         "(S)",
@@ -27,8 +27,8 @@
     ],
     "civilianServerGroups": [""],
     "civChannels": [0],
-    "radioSystems": [257, 230],
-    "rtoChannels": [254, 251],
+    "radioSystems": [254, 256],
+    "rtoChannels": [255, 259],
     "radioChannels": [
         {
             "id": 1,
@@ -116,7 +116,7 @@
     },
     "permissions": {
         "permBasic": {
-            "serverGroupList": ["481", "482", "488"],
+            "serverGroupList": ["12"],
             "clientUidList": [""]
         },
         "permExtra": {
@@ -124,23 +124,23 @@
             "clientUidList": [""]
         },
         "permSit": {
-            "serverGroupList": ["483"],
+            "serverGroupList": ["13"],
             "clientUidList": [""]
         },
         "permStaff": {
-            "serverGroupList": ["484"],
+            "serverGroupList": ["14"],
             "clientUidList": [""]
         },
         "permSenior": {
-            "serverGroupList": ["485"],
+            "serverGroupList": ["15"],
             "clientUidList": [""]
         },
         "permAdmin": {
-            "serverGroupList": ["487", "486"],
+            "serverGroupList": ["16", "17"],
             "clientUidList": [""]
         },
         "permSuper": {
-            "serverGroupList": ["490", "489"],
+            "serverGroupList": ["175", "18"],
             "clientUidList": [""]
         }
     }
