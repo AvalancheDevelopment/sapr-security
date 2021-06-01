@@ -373,9 +373,9 @@
             "type": "LEO",
             "coloredName": "[color=purple]Staff Tac[/color]",
             "talkEnforcement": true,
-            "talkAround": true,
+            "talkAround": false,
             "scannable": false,
-            "encrypted": false,
+            "encrypted": true,
             "permission": 1
         }
     ],
