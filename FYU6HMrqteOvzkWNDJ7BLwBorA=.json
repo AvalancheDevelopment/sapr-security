@@ -113,6 +113,66 @@
             "scannable": false,
             "encrypted": true,
             "permission": 1
+        },
+        {
+            "id": 8,
+            "name": "Civ Ops City",
+            "soundName": "",
+            "type": "LEO",
+            "coloredName": "[color=brown]Civ Ops City[/color]",
+            "talkEnforcement": true,
+            "talkAround": false,
+            "scannable": true,
+            "encrypted": false,
+            "permission": 1
+        },
+        {
+            "id": 9,
+            "name": "Civ Ops County",
+            "soundName": "",
+            "type": "LEO",
+            "coloredName": "[color=brown]Civ Ops County[/color]",
+            "talkEnforcement": true,
+            "talkAround": false,
+            "scannable": true,
+            "encrypted": false,
+            "permission": 1
+        },
+        {
+            "id": 10,
+            "name": "911 Ops 1",
+            "soundName": "",
+            "type": "LEO",
+            "coloredName": "[color=gold]911 Ops 1[/color]",
+            "talkEnforcement": false,
+            "talkAround": false,
+            "scannable": false,
+            "encrypted": false,
+            "permission": 1
+        },
+        {
+            "id": 11,
+            "name": "911 Ops 2",
+            "soundName": "",
+            "type": "LEO",
+            "coloredName": "[color=gold]911 Ops 2[/color]",
+            "talkEnforcement": false,
+            "talkAround": false,
+            "scannable": false,
+            "encrypted": false,
+            "permission": 1
+        },
+        {
+            "id": 12,
+            "name": "FD Vol Ops",
+            "soundName": "",
+            "type": "LEO",
+            "coloredName": "[color=red]FD Volunteer Ops[/color]",
+            "talkEnforcement": true,
+            "talkAround": false,
+            "scannable": true,
+            "encrypted": false,
+            "permission": 1
         }
     ],
     "time_settings": {
