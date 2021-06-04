@@ -1,0 +1,165 @@
+{
+    "pluginStatus": true,
+    "isPaid": true,
+    "communityName": "Department of Public Safety Roleplay",
+    "features": {
+        "inGameInterface": true,
+        "rangeSimulation": true,
+        "emergencyHotline": true
+    },
+    "talkAroundRange": 1500,
+    "betaServerGroups": [""],
+    "dispatchServerGroups": [
+        "120",
+        "121",
+        "123",
+        "124",
+        "125",
+        "126",
+        "127",
+        "129",
+        "130",
+        "131",
+        "132",
+        "133",
+        "482"
+    ],
+    "dispatchAdvancedServerGroups": [
+        "120",
+        "121",
+        "123",
+        "124",
+        "125",
+        "126",
+        "127",
+        "129",
+        "130",
+        "131",
+        "132",
+        "133",
+        "482",
+        "523",
+        "522"
+    ],
+    "dispatchNameTags": [
+        "(P)",
+        "(S)",
+        "(T)",
+        "(FIRE)",
+        "(QA)",
+        "(EVAL)",
+        "[P]",
+        "[S]",
+        "[T]",
+        "[FIRE]",
+        "[QA]",
+        "[EVAL]"
+    ],
+    "civilianServerGroups": [""],
+    "civChannels": [0],
+    "radioSystems": [199, 211, 222],
+    "rtoChannels": [203, 215, 226],
+    "radioChannels": [
+        {
+            "id": 1,
+            "name": "Statewide",
+            "soundName": "",
+            "type": "LEO",
+            "coloredName": "[color=green]Statewide[/color]",
+            "talkEnforcement": true,
+            "talkAround": false,
+            "scannable": true,
+            "encrypted": false,
+            "permission": 1
+        },
+        {
+            "id": 2,
+            "name": "North State",
+            "soundName": "",
+            "type": "LEO",
+            "coloredName": "[color=cyan]North State[/color]",
+            "talkEnforcement": true,
+            "talkAround": false,
+            "scannable": true,
+            "encrypted": false,
+            "permission": 1
+        },
+        {
+            "id": 3,
+            "name": "South State",
+            "soundName": "",
+            "type": "LEO",
+            "coloredName": "[color=cyan]South State[/color]",
+            "talkEnforcement": true,
+            "talkAround": false,
+            "scannable": true,
+            "encrypted": false,
+            "permission": 1
+        },
+        {
+            "id": 4,
+            "name": "Fire Ops",
+            "soundName": "",
+            "type": "LEO",
+            "coloredName": "[color=yellow]Fire Ops[/color]",
+            "talkEnforcement": true,
+            "talkAround": false,
+            "scannable": true,
+            "encrypted": false,
+            "permission": 1
+        },
+        {
+            "id": 5,
+            "name": "Tac 1",
+            "soundName": "",
+            "type": "LEO",
+            "coloredName": "[color=purple]Tac 1[/color]",
+            "talkEnforcement": true,
+            "talkAround": false,
+            "scannable": true,
+            "encrypted": true,
+            "permission": 1
+        }
+    ],
+    "time_settings": {
+        "emergencyOverridePeriod": 10,
+        "emergencyCooldown": 30,
+        "emergencyOtherCooldown": 20,
+        "dispatchToneCooldown": 15,
+        "radioStunCooldown": 5,
+        "radioPingCooldown": 10,
+        "911Cooldown": 30,
+        "commandStunPeriod": 300,
+        "toneWaitTalkPeriod": 5
+    },
+    "permissions": {
+        "permBasic": {
+            "serverGroupList": ["515", "511", "512", "513"],
+            "clientUidList": [""]
+        },
+        "permExtra": {
+            "serverGroupList": [""],
+            "clientUidList": [""]
+        },
+        "permSit": {
+            "serverGroupList": ["516"],
+            "clientUidList": [""]
+        },
+        "permStaff": {
+            "serverGroupList": ["516"],
+            "clientUidList": [""]
+        },
+        "permSenior": {
+            "serverGroupList": ["519"],
+            "clientUidList": [""]
+        },
+        "permAdmin": {
+            "serverGroupList": ["520", "521"],
+            "clientUidList": [""]
+        },
+        "permSuper": {
+            "serverGroupList": ["522", "523"],
+            "clientUidList": [""]
+        }
+    }
+}
