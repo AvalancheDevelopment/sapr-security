@@ -1,7 +1,7 @@
 {
     "pluginStatus": true,
     "isPaid": true,
-    "communityName": "Creekside Roleplay",
+    "communityName": "Shoreline RP",
     "features": {
         "inGameInterface": true,
         "rangeSimulation": true,
@@ -28,7 +28,7 @@
     "civilianServerGroups": [""],
     "civChannels": [0],
     "radioSystems": [46129],
-    "rtoChannels": [46196],
+    "rtoChannels": [46196, 46253],
     "radioChannels": [
         {
             "id": 1,
@@ -160,19 +160,19 @@
             "clientUidList": [""]
         },
         "permSit": {
-            "serverGroupList": ["23489"],
+            "serverGroupList": ["23489", "23607"],
             "clientUidList": [""]
         },
         "permStaff": {
-            "serverGroupList": ["23488"],
+            "serverGroupList": ["23488", "23606"],
             "clientUidList": [""]
         },
         "permSenior": {
-            "serverGroupList": [""],
+            "serverGroupList": ["23605"],
             "clientUidList": [""]
         },
         "permAdmin": {
-            "serverGroupList": ["23486", "23596"],
+            "serverGroupList": ["23486", "23596", "23604", "23603"],
             "clientUidList": [""]
         },
         "permSuper": {
