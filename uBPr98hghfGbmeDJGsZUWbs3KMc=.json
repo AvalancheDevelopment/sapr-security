@@ -152,7 +152,7 @@
             "clientUidList": [""]
         },
         "permSuper": {
-            "serverGroupList": ["183"],
+            "serverGroupList": ["183", "219"],
             "clientUidList": [""]
         }
     }
