@@ -5,7 +5,7 @@
     "features": {
         "inGameInterface": true,
         "rangeSimulation": true,
-        "emergencyHotline": true
+        "emergencyHotline": false
     },
     "talkAroundRange": 1500,
     "betaServerGroups": [""],
@@ -44,6 +44,18 @@
         },
         {
             "id": 2,
+            "name": "Fire Comms",
+            "soundName": "",
+            "type": "LEO",
+            "coloredName": "[color=orange]Fire Comms[/color]",
+            "talkEnforcement": true,
+            "talkAround": false,
+            "scannable": true,
+            "encrypted": true,
+            "permission": 1
+        },,
+        {
+            "id": 3,
             "name": "Tac 1",
             "soundName": "",
             "type": "LEO",
@@ -55,23 +67,11 @@
             "permission": 1
         },
         {
-            "id": 3,
+            "id": 4,
             "name": "Tac 2",
             "soundName": "",
             "type": "LEO",
             "coloredName": "[color=purple]Tac 2[/color]",
-            "talkEnforcement": true,
-            "talkAround": false,
-            "scannable": true,
-            "encrypted": true,
-            "permission": 1
-        },
-        {
-            "id": 4,
-            "name": "Tac 3",
-            "soundName": "",
-            "type": "LEO",
-            "coloredName": "[color=purple]Tac 3[/color]",
             "talkEnforcement": true,
             "talkAround": false,
             "scannable": true,
