@@ -1,6 +1,6 @@
 {
-    "pluginStatus": true,
-    "isPaid": true,
+    "pluginStatus": false,
+    "isPaid": false,
     "communityName": "Department of Public Safety Roleplay",
     "features": {
         "inGameInterface": true,
