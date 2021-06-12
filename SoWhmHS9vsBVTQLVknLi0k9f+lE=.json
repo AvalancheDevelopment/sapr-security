@@ -32,18 +32,6 @@
     "radioChannels": [
         {
             "id": 1,
-            "name": "DOT Radio",
-            "soundName": "",
-            "type": "LEO",
-            "coloredName": "[color=green]DOT Radio[/color]",
-            "talkEnforcement": true,
-            "talkAround": false,
-            "scannable": true,
-            "encrypted": false,
-            "permission": 1
-        },
-        {
-            "id": 2,
             "name": "State Z1",
             "soundName": "",
             "type": "LEO",
@@ -55,7 +43,7 @@
             "permission": 1
         },
         {
-            "id": 3,
+            "id": 2,
             "name": "North Z1",
             "soundName": "",
             "type": "LEO",
@@ -67,7 +55,7 @@
             "permission": 1
         },
         {
-            "id": 4,
+            "id": 3,
             "name": "South Z1",
             "soundName": "",
             "type": "LEO",
@@ -79,7 +67,7 @@
             "permission": 1
         },
         {
-            "id": 5,
+            "id": 4,
             "name": "Tac 1",
             "soundName": "",
             "type": "LEO",
@@ -91,7 +79,7 @@
             "permission": 1
         },
         {
-            "id": 6,
+            "id": 5,
             "name": "Tac 2",
             "soundName": "",
             "type": "LEO",
@@ -103,7 +91,7 @@
             "permission": 1
         },
         {
-            "id": 7,
+            "id": 6,
             "name": "10-1",
             "soundName": "",
             "type": "LEO",
@@ -115,7 +103,7 @@
             "permission": 1
         },
         {
-            "id": 8,
+            "id": 7,
             "name": "Security Z1",
             "soundName": "",
             "type": "LEO",
@@ -124,6 +112,18 @@
             "talkAround": false,
             "scannable": true,
             "encrypted": true,
+            "permission": 1
+        },
+        {
+            "id": 8,
+            "name": "DOT Radio",
+            "soundName": "",
+            "type": "LEO",
+            "coloredName": "[color=green]DOT Radio[/color]",
+            "talkEnforcement": true,
+            "talkAround": false,
+            "scannable": true,
+            "encrypted": false,
             "permission": 1
         },
         {
