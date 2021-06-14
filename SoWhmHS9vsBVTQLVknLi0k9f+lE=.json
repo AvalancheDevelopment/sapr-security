@@ -1,7 +1,7 @@
 {
     "pluginStatus": true,
     "isPaid": true,
-    "communityName": "Department of Public Safety Roleplay",
+    "communityName": "Code 99 Roleplay",
     "features": {
         "inGameInterface": true,
         "rangeSimulation": true,
@@ -9,38 +9,8 @@
     },
     "talkAroundRange": 1500,
     "betaServerGroups": [""],
-    "dispatchServerGroups": [
-        "120",
-        "121",
-        "123",
-        "124",
-        "125",
-        "126",
-        "127",
-        "129",
-        "130",
-        "131",
-        "132",
-        "133",
-        "482"
-    ],
-    "dispatchAdvancedServerGroups": [
-        "120",
-        "121",
-        "123",
-        "124",
-        "125",
-        "126",
-        "127",
-        "129",
-        "130",
-        "131",
-        "132",
-        "133",
-        "482",
-        "523",
-        "522"
-    ],
+    "dispatchServerGroups": ["23953"],
+    "dispatchAdvancedServerGroups": ["23953", "22159"],
     "dispatchNameTags": [
         "(P)",
         "(S)",
@@ -57,15 +27,15 @@
     ],
     "civilianServerGroups": [""],
     "civChannels": [0],
-    "radioSystems": [199, 211, 222, 287],
-    "rtoChannels": [203, 215, 226, 717],
+    "radioSystems": [59039],
+    "rtoChannels": [62297],
     "radioChannels": [
         {
             "id": 1,
-            "name": "Statewide",
+            "name": "State Z1",
             "soundName": "",
             "type": "LEO",
-            "coloredName": "[color=green]Statewide[/color]",
+            "coloredName": "[color=blue]State Z1[/color]",
             "talkEnforcement": true,
             "talkAround": false,
             "scannable": true,
@@ -74,10 +44,10 @@
         },
         {
             "id": 2,
-            "name": "Statewide Tow",
+            "name": "North Z1",
             "soundName": "",
             "type": "LEO",
-            "coloredName": "[color=cyan]Statewide Tow[/color]",
+            "coloredName": "[color=orange]North Z1[/color]",
             "talkEnforcement": true,
             "talkAround": false,
             "scannable": true,
@@ -86,6 +56,18 @@
         },
         {
             "id": 3,
+            "name": "South Z1",
+            "soundName": "",
+            "type": "LEO",
+            "coloredName": "[color=orange]South Z1[/color]",
+            "talkEnforcement": true,
+            "talkAround": false,
+            "scannable": true,
+            "encrypted": false,
+            "permission": 1
+        },
+        {
+            "id": 4,
             "name": "Tac 1",
             "soundName": "",
             "type": "LEO",
@@ -97,7 +79,7 @@
             "permission": 1
         },
         {
-            "id": 4,
+            "id": 5,
             "name": "Tac 2",
             "soundName": "",
             "type": "LEO",
@@ -109,11 +91,47 @@
             "permission": 1
         },
         {
-            "id": 5,
-            "name": "Fire Ops",
+            "id": 6,
+            "name": "10-1",
             "soundName": "",
             "type": "LEO",
-            "coloredName": "[color=yellow]Fire Ops[/color]",
+            "coloredName": "[color=red]10-1[/color]",
+            "talkEnforcement": true,
+            "talkAround": false,
+            "scannable": false,
+            "encrypted": true,
+            "permission": 1
+        },
+        {
+            "id": 7,
+            "name": "Security Z1",
+            "soundName": "",
+            "type": "LEO",
+            "coloredName": "[color=grey]Security Z1[/color]",
+            "talkEnforcement": true,
+            "talkAround": false,
+            "scannable": true,
+            "encrypted": true,
+            "permission": 1
+        },
+        {
+            "id": 8,
+            "name": "DOT Radio",
+            "soundName": "",
+            "type": "LEO",
+            "coloredName": "[color=green]DOT Radio[/color]",
+            "talkEnforcement": true,
+            "talkAround": false,
+            "scannable": true,
+            "encrypted": false,
+            "permission": 1
+        },
+        {
+            "id": 9,
+            "name": "ATC 1",
+            "soundName": "",
+            "type": "LEO",
+            "coloredName": "[color=cyan]ATC 1[/color]",
             "talkEnforcement": true,
             "talkAround": false,
             "scannable": true,
@@ -134,7 +152,7 @@
     },
     "permissions": {
         "permBasic": {
-            "serverGroupList": ["515", "511", "512", "513"],
+            "serverGroupList": ["23282"],
             "clientUidList": [""]
         },
         "permExtra": {
@@ -142,23 +160,23 @@
             "clientUidList": [""]
         },
         "permSit": {
-            "serverGroupList": ["516"],
+            "serverGroupList": ["23281"],
             "clientUidList": [""]
         },
         "permStaff": {
-            "serverGroupList": ["517"],
+            "serverGroupList": ["23927"],
             "clientUidList": [""]
         },
         "permSenior": {
-            "serverGroupList": ["519"],
+            "serverGroupList": [""],
             "clientUidList": [""]
         },
         "permAdmin": {
-            "serverGroupList": ["520", "521"],
+            "serverGroupList": ["23280"],
             "clientUidList": [""]
         },
         "permSuper": {
-            "serverGroupList": ["522", "523"],
+            "serverGroupList": ["22159"],
             "clientUidList": [""]
         }
     }
