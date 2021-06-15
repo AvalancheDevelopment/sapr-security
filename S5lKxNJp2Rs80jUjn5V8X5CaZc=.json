@@ -63,7 +63,7 @@
         {
             "id": 1,
             "name": "Statewide",
-            "soundName": "",
+            "soundName": "statewide",
             "type": "LEO",
             "coloredName": "[color=green]Statewide[/color]",
             "talkEnforcement": true,
@@ -75,7 +75,7 @@
         {
             "id": 2,
             "name": "Statewide Tow",
-            "soundName": "",
+            "soundName": "statewideTow",
             "type": "LEO",
             "coloredName": "[color=cyan]Statewide Tow[/color]",
             "talkEnforcement": true,
@@ -87,7 +87,7 @@
         {
             "id": 3,
             "name": "Tac 1",
-            "soundName": "",
+            "soundName": "tac1",
             "type": "LEO",
             "coloredName": "[color=purple]Tac 1[/color]",
             "talkEnforcement": true,
@@ -99,7 +99,7 @@
         {
             "id": 4,
             "name": "Tac 2",
-            "soundName": "",
+            "soundName": "tac2",
             "type": "LEO",
             "coloredName": "[color=purple]Tac 2[/color]",
             "talkEnforcement": true,
@@ -111,7 +111,7 @@
         {
             "id": 5,
             "name": "Fire Ops",
-            "soundName": "",
+            "soundName": "fireOps",
             "type": "LEO",
             "coloredName": "[color=yellow]Fire Ops[/color]",
             "talkEnforcement": true,
