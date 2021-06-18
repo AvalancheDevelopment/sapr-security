@@ -9,8 +9,16 @@
     },
     "talkAroundRange": 1500,
     "betaServerGroups": [""],
-    "dispatchServerGroups": ["405", "392", "393"],
-    "dispatchAdvancedServerGroups": ["405", "392", "393", "419"],
+    "dispatchServerGroups": ["611", "588", "589"],
+    "dispatchAdvancedServerGroups": [
+        "611",
+        "588",
+        "589",
+        "12",
+        "13",
+        "14",
+        "15"
+    ],
     "dispatchNameTags": [
         "(P)",
         "(S)",
@@ -116,7 +124,7 @@
     },
     "permissions": {
         "permBasic": {
-            "serverGroupList": ["410", "420", "417"],
+            "serverGroupList": ["620"],
             "clientUidList": [""]
         },
         "permExtra": {
@@ -124,23 +132,23 @@
             "clientUidList": [""]
         },
         "permSit": {
-            "serverGroupList": ["411"],
+            "serverGroupList": ["621"],
             "clientUidList": [""]
         },
         "permStaff": {
-            "serverGroupList": ["412"],
+            "serverGroupList": ["622"],
             "clientUidList": [""]
         },
         "permSenior": {
-            "serverGroupList": ["413"],
+            "serverGroupList": ["623"],
             "clientUidList": [""]
         },
         "permAdmin": {
-            "serverGroupList": ["414", "415", "418"],
+            "serverGroupList": ["628", "629", "630"],
             "clientUidList": [""]
         },
         "permSuper": {
-            "serverGroupList": ["419"],
+            "serverGroupList": ["12", "13", "14", "15"],
             "clientUidList": [""]
         }
     }
