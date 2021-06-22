@@ -4,7 +4,7 @@
     "communityName": "San Andreas' Finest RP",
     "features": {
         "inGameInterface": true,
-        "rangeSimulation": true,
+        "rangeSimulation": false,
         "emergencyHotline": true
     },
     "talkAroundRange": 1500,
