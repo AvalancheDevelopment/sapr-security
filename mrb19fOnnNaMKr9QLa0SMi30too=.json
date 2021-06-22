@@ -9,8 +9,8 @@
     },
     "talkAroundRange": 1500,
     "betaServerGroups": [""],
-    "dispatchServerGroups": ["19"],
-    "dispatchAdvancedServerGroups": ["19", "9", "10", "11", "12"],
+    "dispatchServerGroups": ["305"],
+    "dispatchAdvancedServerGroups": ["305", "309"],
     "dispatchNameTags": [
         "(P)",
         "(S)",
@@ -27,8 +27,8 @@
     ],
     "civilianServerGroups": [""],
     "civChannels": [0],
-    "radioSystems": [3],
-    "rtoChannels": [8],
+    "radioSystems": [32],
+    "rtoChannels": [46],
     "radioChannels": [
         {
             "id": 1,
@@ -44,6 +44,18 @@
         },
         {
             "id": 2,
+            "name": "SW Dispatch",
+            "soundName": "",
+            "type": "LEO",
+            "coloredName": "[color=lightgreen]SW Dispatch[/color]",
+            "talkEnforcement": true,
+            "talkAround": false,
+            "scannable": true,
+            "encrypted": false,
+            "permission": 1
+        },
+        {
+            "id": 3,
             "name": "Fire Ops",
             "soundName": "",
             "type": "LEO",
@@ -55,7 +67,7 @@
             "permission": 1
         },
         {
-            "id": 3,
+            "id": 4,
             "name": "Tac 1",
             "soundName": "",
             "type": "LEO",
@@ -67,7 +79,7 @@
             "permission": 1
         },
         {
-            "id": 4,
+            "id": 5,
             "name": "Tac 2",
             "soundName": "",
             "type": "LEO",
@@ -79,7 +91,7 @@
             "permission": 1
         },
         {
-            "id": 5,
+            "id": 6,
             "name": "Private 1",
             "soundName": "",
             "type": "LEO",
@@ -91,7 +103,19 @@
             "permission": 1
         },
         {
-            "id": 6,
+            "id": 7,
+            "name": "Private 2",
+            "soundName": "",
+            "type": "LEO",
+            "coloredName": "[color=red]Private 2[/color]",
+            "talkEnforcement": true,
+            "talkAround": false,
+            "scannable": false,
+            "encrypted": true,
+            "permission": 1
+        },
+        {
+            "id": 8,
             "name": "Tow",
             "soundName": "",
             "type": "LEO",
@@ -116,7 +140,7 @@
     },
     "permissions": {
         "permBasic": {
-            "serverGroupList": ["18"],
+            "serverGroupList": ["316"],
             "clientUidList": [""]
         },
         "permExtra": {
@@ -124,23 +148,23 @@
             "clientUidList": [""]
         },
         "permSit": {
-            "serverGroupList": ["17"],
+            "serverGroupList": ["315"],
             "clientUidList": [""]
         },
         "permStaff": {
-            "serverGroupList": ["16"],
+            "serverGroupList": ["314"],
             "clientUidList": [""]
         },
         "permSenior": {
-            "serverGroupList": ["15"],
+            "serverGroupList": ["313"],
             "clientUidList": [""]
         },
         "permAdmin": {
-            "serverGroupList": ["14", "13"],
+            "serverGroupList": ["312", "311", "310"],
             "clientUidList": [""]
         },
         "permSuper": {
-            "serverGroupList": ["9", "10", "11", "12"],
+            "serverGroupList": ["309"],
             "clientUidList": [""]
         }
     }
