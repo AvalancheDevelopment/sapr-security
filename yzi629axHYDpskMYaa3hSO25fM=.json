@@ -1,7 +1,7 @@
 {
-    "pluginStatus": true,
-    "isPaid": true,
-    "communityName": "Tri-State Role Play",
+    "pluginStatus": false,
+    "isPaid": false,
+    "communityName": "",
     "features": {
         "inGameInterface": true,
         "rangeSimulation": true,
