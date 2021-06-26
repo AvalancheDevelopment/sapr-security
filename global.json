@@ -2,7 +2,7 @@
     "plugin_status": true,
     "CurrentFivemVersion": "1.0.4",
     "command_validation_str": "Radio20",
-    "current_versions": ["1.0.0", "1.1.0-beta1"],
+    "current_versions": ["1.0.0", "1.1.0-rc1"],
     "authorized_servers": [
         "KJy9Lc0WUpEwsO2a+tqnb5L6X8E=",
         "K8Zg5kXlPl/ute0mis+q+x/msVM=",
