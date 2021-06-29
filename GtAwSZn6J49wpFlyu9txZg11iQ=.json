@@ -112,15 +112,15 @@
             "clientUidList": [""]
         },
         "permSit": {
-            "serverGroupList": ["21108"],
+            "serverGroupList": ["21108", "23261"],
             "clientUidList": [""]
         },
         "permStaff": {
-            "serverGroupList": ["21106"],
+            "serverGroupList": ["21106", "23259"],
             "clientUidList": [""]
         },
         "permSenior": {
-            "serverGroupList": ["21107"],
+            "serverGroupList": ["21107", "23260"],
             "clientUidList": [""]
         },
         "permAdmin": {
