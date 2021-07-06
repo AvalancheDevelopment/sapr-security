@@ -8,7 +8,18 @@
         "emergencyHotline": true
     },
     "talkAroundRange": 1500,
-    "betaServerGroups": [""],
+    "betaServerGroups": [
+        "13",
+        "12",
+        "10",
+        "11",
+        "9",
+        "137",
+        "103",
+        "139",
+        "105",
+        "115"
+    ],
     "dispatchServerGroups": ["13"],
     "dispatchAdvancedServerGroups": ["13", "115"],
     "dispatchNameTags": [
@@ -117,7 +128,7 @@
     "permissions": {
         "permBasic": {
             "serverGroupList": ["13", "12", "10", "11", "9"],
-            "clientUidList": [""]
+            "clientUidList": []
         },
         "permExtra": {
             "serverGroupList": [""],
