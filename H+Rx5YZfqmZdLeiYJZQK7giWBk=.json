@@ -68,10 +68,10 @@
         },
         {
             "id": 4,
-            "name": "Tac 2",
+            "name": "FAA",
             "soundName": "",
             "type": "LEO",
-            "coloredName": "[color=purple]Tac 2[/color]",
+            "coloredName": "[color=brown]FAA[/color]",
             "talkEnforcement": true,
             "talkAround": false,
             "scannable": true,
