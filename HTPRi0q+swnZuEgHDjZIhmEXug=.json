@@ -9,8 +9,8 @@
     },
     "talkAroundRange": 1500,
     "betaServerGroups": [""],
-    "dispatchServerGroups": ["2789"],
-    "dispatchAdvancedServerGroups": ["2789", "2594"],
+    "dispatchServerGroups": ["2993"],
+    "dispatchAdvancedServerGroups": ["2993", "2804"],
     "dispatchNameTags": [
         "(P)",
         "(S)",
@@ -27,8 +27,8 @@
     ],
     "civilianServerGroups": [""],
     "civChannels": [0],
-    "radioSystems": [5024],
-    "rtoChannels": [5028],
+    "radioSystems": [5894],
+    "rtoChannels": [5898],
     "radioChannels": [
         {
             "id": 1,
@@ -1244,7 +1244,7 @@
     },
     "permissions": {
         "permBasic": {
-            "serverGroupList": ["2601"],
+            "serverGroupList": ["2811"],
             "clientUidList": [""]
         },
         "permExtra": {
@@ -1252,23 +1252,23 @@
             "clientUidList": [""]
         },
         "permSit": {
-            "serverGroupList": ["2600"],
+            "serverGroupList": ["2810"],
             "clientUidList": [""]
         },
         "permStaff": {
-            "serverGroupList": ["2599"],
+            "serverGroupList": ["2809"],
             "clientUidList": [""]
         },
         "permSenior": {
-            "serverGroupList": ["2598"],
+            "serverGroupList": ["2808"],
             "clientUidList": [""]
         },
         "permAdmin": {
-            "serverGroupList": ["2597", "2596", "2595"],
+            "serverGroupList": ["2805", "2806", "2807"],
             "clientUidList": [""]
         },
         "permSuper": {
-            "serverGroupList": ["2594"],
+            "serverGroupList": ["2804"],
             "clientUidList": [""]
         }
     }
