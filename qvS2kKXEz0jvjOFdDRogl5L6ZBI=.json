@@ -1,7 +1,7 @@
 {
     "pluginStatus": true,
     "isPaid": true,
-    "communityName": "Los Santos Finest Roleplay",
+    "communityName": "Los Santos Finest",
     "features": {
         "inGameInterface": true,
         "rangeSimulation": true,
@@ -9,8 +9,8 @@
     },
     "talkAroundRange": 1500,
     "betaServerGroups": [""],
-    "dispatchServerGroups": ["23653"],
-    "dispatchAdvancedServerGroups": ["23653", "23628"],
+    "dispatchServerGroups": ["2093"],
+    "dispatchAdvancedServerGroups": ["2093", "1505"],
     "dispatchNameTags": [
         "(P)",
         "(S)",
@@ -27,8 +27,8 @@
     ],
     "civilianServerGroups": [""],
     "civChannels": [0],
-    "radioSystems": [46337],
-    "rtoChannels": [46340, 46460],
+    "radioSystems": [2819],
+    "rtoChannels": [2523],
     "radioChannels": [
         {
             "id": 1,
@@ -116,7 +116,7 @@
     },
     "permissions": {
         "permBasic": {
-            "serverGroupList": ["23629"],
+            "serverGroupList": ["1556"],
             "clientUidList": [""]
         },
         "permExtra": {
@@ -124,11 +124,11 @@
             "clientUidList": [""]
         },
         "permSit": {
-            "serverGroupList": ["23644", "23645"],
+            "serverGroupList": [""],
             "clientUidList": [""]
         },
         "permStaff": {
-            "serverGroupList": ["23653", "23642"],
+            "serverGroupList": [""],
             "clientUidList": [""]
         },
         "permSenior": {
@@ -136,11 +136,11 @@
             "clientUidList": [""]
         },
         "permAdmin": {
-            "serverGroupList": ["23641", "23640"],
+            "serverGroupList": [""],
             "clientUidList": [""]
         },
         "permSuper": {
-            "serverGroupList": ["23628"],
+            "serverGroupList": ["1505"],
             "clientUidList": [""]
         }
     }
