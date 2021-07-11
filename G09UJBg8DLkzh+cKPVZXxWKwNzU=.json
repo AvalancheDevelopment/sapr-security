@@ -1,7 +1,7 @@
 {
-    "pluginStatus": false,
-    "isPaid": false,
-    "communityName": "DELETE LATER",
+    "pluginStatus": true,
+    "isPaid": true,
+    "communityName": "CoastSideRoleplay",
     "features": {
         "inGameInterface": true,
         "rangeSimulation": true,
@@ -9,8 +9,8 @@
     },
     "talkAroundRange": 1500,
     "betaServerGroups": [""],
-    "dispatchServerGroups": [""],
-    "dispatchAdvancedServerGroups": [""],
+    "dispatchServerGroups": ["19"],
+    "dispatchAdvancedServerGroups": ["19", "10", "9"],
     "dispatchNameTags": [
         "(P)",
         "(S)",
@@ -27,8 +27,8 @@
     ],
     "civilianServerGroups": [""],
     "civChannels": [0],
-    "radioSystems": [],
-    "rtoChannels": [],
+    "radioSystems": [20],
+    "rtoChannels": [23],
     "radioChannels": [
         {
             "id": 1,
@@ -125,6 +125,18 @@
             "scannable": false,
             "encrypted": true,
             "permission": 1
+        },
+        {
+            "id": 9,
+            "name": "Pursuit",
+            "soundName": "",
+            "type": "LEO",
+            "coloredName": "[color=cyan]Pursuit[/color]",
+            "talkEnforcement": true,
+            "talkAround": false,
+            "scannable": true,
+            "encrypted": false,
+            "permission": 1
         }
     ],
     "time_settings": {
@@ -140,7 +152,7 @@
     },
     "permissions": {
         "permBasic": {
-            "serverGroupList": [""],
+            "serverGroupList": ["8"],
             "clientUidList": [""]
         },
         "permExtra": {
@@ -148,11 +160,11 @@
             "clientUidList": [""]
         },
         "permSit": {
-            "serverGroupList": [""],
+            "serverGroupList": ["15"],
             "clientUidList": [""]
         },
         "permStaff": {
-            "serverGroupList": [""],
+            "serverGroupList": ["14"],
             "clientUidList": [""]
         },
         "permSenior": {
@@ -160,11 +172,11 @@
             "clientUidList": [""]
         },
         "permAdmin": {
-            "serverGroupList": [""],
+            "serverGroupList": ["13", "12"],
             "clientUidList": [""]
         },
         "permSuper": {
-            "serverGroupList": [""],
+            "serverGroupList": ["10", "9"],
             "clientUidList": [""]
         }
     }
