@@ -101,6 +101,18 @@
             "scannable": false,
             "encrypted": true,
             "permission": 1
+        },
+        {
+            "id": 7,
+            "name": "TOW",
+            "soundName": "",
+            "type": "LEO",
+            "coloredName": "[color=brown]TOW[/color]",
+            "talkEnforcement": true,
+            "talkAround": false,
+            "scannable": true,
+            "encrypted": false,
+            "permission": 1
         }
     ],
     "time_settings": {
