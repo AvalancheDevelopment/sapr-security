@@ -1,0 +1,123 @@
+{
+    "pluginStatus": true,
+    "isPaid": true,
+    "communityName": "North State RP",
+    "features": {
+        "inGameInterface": true,
+        "rangeSimulation": true,
+        "emergencyHotline": true
+    },
+    "talkAroundRange": 1500,
+    "betaServerGroups": [""],
+    "dispatchServerGroups": ["102"],
+    "dispatchAdvancedServerGroups": ["102", "1"],
+    "dispatchNameTags": [
+        "(P)",
+        "(S)",
+        "(T)",
+        "(FIRE)",
+        "(QA)",
+        "(EVAL)",
+        "[P]",
+        "[S]",
+        "[T]",
+        "[FIRE]",
+        "[QA]",
+        "[EVAL]"
+    ],
+    "civilianServerGroups": [""],
+    "civChannels": [0],
+    "radioSystems": [9],
+    "rtoChannels": [58],
+    "radioChannels": [
+        {
+            "id": 1,
+            "name": "SAFR",
+            "soundName": "",
+            "type": "LEO",
+            "coloredName": "[color=yellow]SAFR[/color]",
+            "talkEnforcement": true,
+            "talkAround": false,
+            "scannable": true,
+            "encrypted": false,
+            "permission": 1
+        },
+        {
+            "id": 2,
+            "name": "SAST",
+            "soundName": "",
+            "type": "LEO",
+            "coloredName": "[color=green]SAST[/color]",
+            "talkEnforcement": true,
+            "talkAround": false,
+            "scannable": true,
+            "encrypted": false,
+            "permission": 1
+        },
+        {
+            "id": 3,
+            "name": "BCSO",
+            "soundName": "",
+            "type": "LEO",
+            "coloredName": "[color=green]BCSO[/color]",
+            "talkEnforcement": true,
+            "talkAround": false,
+            "scannable": true,
+            "encrypted": false,
+            "permission": 1
+        },
+        {
+            "id": 4,
+            "name": "LSPD",
+            "soundName": "",
+            "type": "LEO",
+            "coloredName": "[color=green]LSPD[/color]",
+            "talkEnforcement": true,
+            "talkAround": false,
+            "scannable": true,
+            "encrypted": true,
+            "permission": 1
+        }
+    ],
+    "time_settings": {
+        "emergencyOverridePeriod": 10,
+        "emergencyCooldown": 30,
+        "emergencyOtherCooldown": 20,
+        "dispatchToneCooldown": 15,
+        "radioStunCooldown": 5,
+        "radioPingCooldown": 10,
+        "911Cooldown": 30,
+        "commandStunPeriod": 300,
+        "toneWaitTalkPeriod": 5
+    },
+    "permissions": {
+        "permBasic": {
+            "serverGroupList": ["6"],
+            "clientUidList": [""]
+        },
+        "permExtra": {
+            "serverGroupList": [""],
+            "clientUidList": [""]
+        },
+        "permSit": {
+            "serverGroupList": ["5"],
+            "clientUidList": [""]
+        },
+        "permStaff": {
+            "serverGroupList": ["4"],
+            "clientUidList": [""]
+        },
+        "permSenior": {
+            "serverGroupList": [""],
+            "clientUidList": [""]
+        },
+        "permAdmin": {
+            "serverGroupList": ["2", "3"],
+            "clientUidList": [""]
+        },
+        "permSuper": {
+            "serverGroupList": ["1"],
+            "clientUidList": [""]
+        }
+    }
+}
