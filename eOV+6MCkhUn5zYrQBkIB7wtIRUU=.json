@@ -75,6 +75,54 @@
             "talkEnforcement": true,
             "talkAround": false,
             "scannable": true,
+            "encrypted": false,
+            "permission": 1
+        },
+        {
+            "id": 5,
+            "name": "Tac 1",
+            "soundName": "",
+            "type": "LEO",
+            "coloredName": "[color=purple]Tac 1[/color]",
+            "talkEnforcement": true,
+            "talkAround": false,
+            "scannable": true,
+            "encrypted": true,
+            "permission": 1
+        },
+        {
+            "id": 6,
+            "name": "Tac 2",
+            "soundName": "",
+            "type": "LEO",
+            "coloredName": "[color=purple]Tac 2[/color]",
+            "talkEnforcement": true,
+            "talkAround": false,
+            "scannable": true,
+            "encrypted": true,
+            "permission": 1
+        },
+        {
+            "id": 7,
+            "name": "Fire Ops 1",
+            "soundName": "",
+            "type": "LEO",
+            "coloredName": "[color=orange]Fire Ops 1[/color]",
+            "talkEnforcement": true,
+            "talkAround": false,
+            "scannable": true,
+            "encrypted": true,
+            "permission": 1
+        },
+        {
+            "id": 8,
+            "name": "Fire Ops 2",
+            "soundName": "",
+            "type": "LEO",
+            "coloredName": "[color=orange]Fire Ops 2[/color]",
+            "talkEnforcement": true,
+            "talkAround": false,
+            "scannable": true,
             "encrypted": true,
             "permission": 1
         }
