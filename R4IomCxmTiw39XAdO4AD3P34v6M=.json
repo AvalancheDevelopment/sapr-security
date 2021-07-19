@@ -1,0 +1,255 @@
+{
+    "pluginStatus": true,
+    "isPaid": true,
+    "communityName": "Century Roleplay",
+    "features": {
+        "inGameInterface": true,
+        "rangeSimulation": true,
+        "emergencyHotline": true
+    },
+    "talkAroundRange": 1500,
+    "betaServerGroups": [""],
+    "dispatchServerGroups": ["1341", "1351"],
+    "dispatchAdvancedServerGroups": ["1341", "1351", "1327"],
+    "dispatchNameTags": [
+        "(P)",
+        "(S)",
+        "(T)",
+        "(FIRE)",
+        "(QA)",
+        "(EVAL)",
+        "[P]",
+        "[S]",
+        "[T]",
+        "[FIRE]",
+        "[QA]",
+        "[EVAL]"
+    ],
+    "civilianServerGroups": [""],
+    "civChannels": [0],
+    "radioSystems": [962],
+    "rtoChannels": [966],
+    "radioChannels": [
+        {
+            "id": 1,
+            "name": "State Frequency",
+            "soundName": "",
+            "type": "LEO",
+            "coloredName": "[color=green]State Frequency[/color]",
+            "talkEnforcement": true,
+            "talkAround": false,
+            "scannable": true,
+            "encrypted": false,
+            "permission": 1
+        },
+        {
+            "id": 2,
+            "name": "Metro Frequency",
+            "soundName": "",
+            "type": "LEO",
+            "coloredName": "[color=green]Metro Frequency[/color]",
+            "talkEnforcement": true,
+            "talkAround": false,
+            "scannable": true,
+            "encrypted": false,
+            "permission": 1
+        },
+        {
+            "id": 3,
+            "name": "County Frequency",
+            "soundName": "",
+            "type": "LEO",
+            "coloredName": "[color=green]County Frequency[/color]",
+            "talkEnforcement": true,
+            "talkAround": false,
+            "scannable": true,
+            "encrypted": false,
+            "permission": 1
+        },
+        {
+            "id": 4,
+            "name": "Private",
+            "soundName": "",
+            "type": "LEO",
+            "coloredName": "[color=red]Private[/color]",
+            "talkEnforcement": true,
+            "talkAround": false,
+            "scannable": false,
+            "encrypted": true,
+            "permission": 1
+        },
+        {
+            "id": 5,
+            "name": "Ops 1",
+            "soundName": "",
+            "type": "LEO",
+            "coloredName": "[color=purple]Ops 1[/color]",
+            "talkEnforcement": true,
+            "talkAround": false,
+            "scannable": true,
+            "encrypted": true,
+            "permission": 1
+        },
+        {
+            "id": 6,
+            "name": "Ops 2",
+            "soundName": "",
+            "type": "LEO",
+            "coloredName": "[color=purple]Ops 2[/color]",
+            "talkEnforcement": true,
+            "talkAround": false,
+            "scannable": true,
+            "encrypted": true,
+            "permission": 1
+        },
+        {
+            "id": 7,
+            "name": "Ops 3",
+            "soundName": "",
+            "type": "LEO",
+            "coloredName": "[color=purple]Ops 3[/color]",
+            "talkEnforcement": true,
+            "talkAround": false,
+            "scannable": true,
+            "encrypted": true,
+            "permission": 1
+        },
+        {
+            "id": 8,
+            "name": "Fire Ops",
+            "soundName": "",
+            "type": "LEO",
+            "coloredName": "[color=orange]Fire Ops[/color]",
+            "talkEnforcement": true,
+            "talkAround": false,
+            "scannable": true,
+            "encrypted": false,
+            "permission": 1
+        },
+        {
+            "id": 9,
+            "name": "EMRC",
+            "soundName": "",
+            "type": "LEO",
+            "coloredName": "[color=orange]EMRC[/color]",
+            "talkEnforcement": true,
+            "talkAround": false,
+            "scannable": true,
+            "encrypted": false,
+            "permission": 1
+        },
+        {
+            "id": 10,
+            "name": "Car/Car",
+            "soundName": "",
+            "type": "LEO",
+            "coloredName": "[color=orange]Car/Car[/color]",
+            "talkEnforcement": true,
+            "talkAround": true,
+            "scannable": true,
+            "encrypted": false,
+            "permission": 1
+        },
+        {
+            "id": 11,
+            "name": "Tac 12",
+            "soundName": "",
+            "type": "LEO",
+            "coloredName": "[color=yellow]Tac 12[/color]",
+            "talkEnforcement": true,
+            "talkAround": false,
+            "scannable": true,
+            "encrypted": true,
+            "permission": 1
+        },
+        {
+            "id": 12,
+            "name": "Tac 22",
+            "soundName": "",
+            "type": "LEO",
+            "coloredName": "[color=yellow]Tac 22[/color]",
+            "talkEnforcement": true,
+            "talkAround": false,
+            "scannable": true,
+            "encrypted": true,
+            "permission": 1
+        },
+        {
+            "id": 13,
+            "name": "Tac 32",
+            "soundName": "",
+            "type": "LEO",
+            "coloredName": "[color=yellow]Tac 32[/color]",
+            "talkEnforcement": true,
+            "talkAround": false,
+            "scannable": true,
+            "encrypted": true,
+            "permission": 1
+        },
+        {
+            "id": 14,
+            "name": "Public Works",
+            "soundName": "",
+            "type": "LEO",
+            "coloredName": "[color=grey]Public Works[/color]",
+            "talkEnforcement": true,
+            "talkAround": false,
+            "scannable": true,
+            "encrypted": false,
+            "permission": 1
+        },
+        {
+            "id": 15,
+            "name": "ATC Freq",
+            "soundName": "",
+            "type": "LEO",
+            "coloredName": "[color=grey]ATC Freq[/color]",
+            "talkEnforcement": true,
+            "talkAround": false,
+            "scannable": true,
+            "encrypted": false,
+            "permission": 1
+        }
+    ],
+    "time_settings": {
+        "emergencyOverridePeriod": 10,
+        "emergencyCooldown": 30,
+        "emergencyOtherCooldown": 20,
+        "dispatchToneCooldown": 15,
+        "radioStunCooldown": 5,
+        "radioPingCooldown": 10,
+        "911Cooldown": 30,
+        "commandStunPeriod": 300,
+        "toneWaitTalkPeriod": 5
+    },
+    "permissions": {
+        "permBasic": {
+            "serverGroupList": ["1334"],
+            "clientUidList": [""]
+        },
+        "permExtra": {
+            "serverGroupList": [""],
+            "clientUidList": [""]
+        },
+        "permSit": {
+            "serverGroupList": ["1333"],
+            "clientUidList": [""]
+        },
+        "permStaff": {
+            "serverGroupList": ["1332"],
+            "clientUidList": [""]
+        },
+        "permSenior": {
+            "serverGroupList": ["1331"],
+            "clientUidList": [""]
+        },
+        "permAdmin": {
+            "serverGroupList": ["1330", "1329", "1328"],
+            "clientUidList": [""]
+        },
+        "permSuper": {
+            "serverGroupList": ["1327"],
+            "clientUidList": [""]
+        }
+    }
+}
