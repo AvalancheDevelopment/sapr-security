@@ -32,7 +32,7 @@
     "radioChannels": [
         {
             "id": 1,
-            "name": "State Frequency",
+            "name": "State Freq",
             "soundName": "",
             "type": "LEO",
             "coloredName": "[color=green]State Frequency[/color]",
@@ -44,7 +44,7 @@
         },
         {
             "id": 2,
-            "name": "Metro Frequency",
+            "name": "Metro Freq",
             "soundName": "",
             "type": "LEO",
             "coloredName": "[color=green]Metro Frequency[/color]",
@@ -56,7 +56,7 @@
         },
         {
             "id": 3,
-            "name": "County Frequency",
+            "name": "County Freq",
             "soundName": "",
             "type": "LEO",
             "coloredName": "[color=green]County Frequency[/color]",
