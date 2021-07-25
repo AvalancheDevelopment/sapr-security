@@ -46,6 +46,30 @@
         },
         {
             "id": 2,
+            "name": "LS",
+            "soundName": "",
+            "type": "LEO",
+            "coloredName": "[color=cyan]LS[/color]",
+            "talkEnforcement": true,
+            "talkAround": false,
+            "scannable": true,
+            "encrypted": false,
+            "permission": 1
+        },
+        {
+            "id": 3,
+            "name": "LS",
+            "soundName": "",
+            "type": "LEO",
+            "coloredName": "[color=cyan]LS[/color]",
+            "talkEnforcement": true,
+            "talkAround": false,
+            "scannable": true,
+            "encrypted": false,
+            "permission": 1
+        },
+        {
+            "id": 4,
             "name": "Fire Ops",
             "soundName": "",
             "type": "LEO",
@@ -57,7 +81,7 @@
             "permission": 1
         },
         {
-            "id": 3,
+            "id": 5,
             "name": "Tac 1",
             "soundName": "",
             "type": "LEO",
@@ -69,7 +93,7 @@
             "permission": 1
         },
         {
-            "id": 4,
+            "id": 6,
             "name": "Tac 2",
             "soundName": "",
             "type": "LEO",
@@ -81,7 +105,7 @@
             "permission": 1
         },
         {
-            "id": 5,
+            "id": 7,
             "name": "Rptr T/A",
             "soundName": "",
             "type": "LEO",
@@ -93,7 +117,7 @@
             "permission": 1
         },
         {
-            "id": 6,
+            "id": 8,
             "name": "SW Tow",
             "soundName": "",
             "type": "LEO",
@@ -105,7 +129,7 @@
             "permission": 1
         },
         {
-            "id": 7,
+            "id": 9,
             "name": "Private 1",
             "soundName": "",
             "type": "LEO",
@@ -114,6 +138,18 @@
             "talkAround": false,
             "scannable": false,
             "encrypted": true,
+            "permission": 1
+        },
+        {
+            "id": 10,
+            "name": "Announcements",
+            "soundName": "announce",
+            "type": "LEO",
+            "coloredName": "[color=red]Announcements[/color]",
+            "talkEnforcement": true,
+            "talkAround": false,
+            "scannable": true,
+            "encrypted": false,
             "permission": 1
         }
     ],
