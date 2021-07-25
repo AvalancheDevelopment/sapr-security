@@ -33,7 +33,7 @@
         {
             "id": 1,
             "name": "State Freq",
-            "soundName": "",
+            "soundName": "stateFreq",
             "type": "LEO",
             "coloredName": "[color=green]State Frequency[/color]",
             "talkEnforcement": true,
@@ -45,7 +45,7 @@
         {
             "id": 2,
             "name": "Metro Freq",
-            "soundName": "",
+            "soundName": "metroFreq",
             "type": "LEO",
             "coloredName": "[color=green]Metro Frequency[/color]",
             "talkEnforcement": true,
@@ -57,7 +57,7 @@
         {
             "id": 3,
             "name": "County Freq",
-            "soundName": "",
+            "soundName": "countyFreq",
             "type": "LEO",
             "coloredName": "[color=green]County Frequency[/color]",
             "talkEnforcement": true,
@@ -69,19 +69,19 @@
         {
             "id": 4,
             "name": "Private",
-            "soundName": "",
+            "soundName": "private",
             "type": "LEO",
             "coloredName": "[color=red]Private[/color]",
             "talkEnforcement": true,
-            "talkAround": false,
-            "scannable": false,
+            "talkAround": true,
+            "scannable": true,
             "encrypted": true,
             "permission": 1
         },
         {
             "id": 5,
             "name": "Ops 1",
-            "soundName": "",
+            "soundName": "ops1",
             "type": "LEO",
             "coloredName": "[color=purple]Ops 1[/color]",
             "talkEnforcement": true,
@@ -93,7 +93,7 @@
         {
             "id": 6,
             "name": "Ops 2",
-            "soundName": "",
+            "soundName": "ops2",
             "type": "LEO",
             "coloredName": "[color=purple]Ops 2[/color]",
             "talkEnforcement": true,
@@ -105,7 +105,7 @@
         {
             "id": 7,
             "name": "Ops 3",
-            "soundName": "",
+            "soundName": "ops3",
             "type": "LEO",
             "coloredName": "[color=purple]Ops 3[/color]",
             "talkEnforcement": true,
@@ -117,7 +117,7 @@
         {
             "id": 8,
             "name": "Fire Ops",
-            "soundName": "",
+            "soundName": "fireOps",
             "type": "LEO",
             "coloredName": "[color=orange]Fire Ops[/color]",
             "talkEnforcement": true,
@@ -129,7 +129,7 @@
         {
             "id": 9,
             "name": "EMRC",
-            "soundName": "",
+            "soundName": "emrc",
             "type": "LEO",
             "coloredName": "[color=orange]EMRC[/color]",
             "talkEnforcement": true,
@@ -141,7 +141,7 @@
         {
             "id": 10,
             "name": "Car/Car",
-            "soundName": "",
+            "soundName": "carToCar",
             "type": "LEO",
             "coloredName": "[color=orange]Car/Car[/color]",
             "talkEnforcement": true,
@@ -153,7 +153,7 @@
         {
             "id": 11,
             "name": "Tac 12",
-            "soundName": "",
+            "soundName": "tac12",
             "type": "LEO",
             "coloredName": "[color=yellow]Tac 12[/color]",
             "talkEnforcement": true,
@@ -165,7 +165,7 @@
         {
             "id": 12,
             "name": "Tac 22",
-            "soundName": "",
+            "soundName": "tac22",
             "type": "LEO",
             "coloredName": "[color=yellow]Tac 22[/color]",
             "talkEnforcement": true,
@@ -177,7 +177,7 @@
         {
             "id": 13,
             "name": "Tac 32",
-            "soundName": "",
+            "soundName": "tac32",
             "type": "LEO",
             "coloredName": "[color=yellow]Tac 32[/color]",
             "talkEnforcement": true,
@@ -188,22 +188,10 @@
         },
         {
             "id": 14,
-            "name": "Public Works",
-            "soundName": "",
-            "type": "LEO",
-            "coloredName": "[color=grey]Public Works[/color]",
-            "talkEnforcement": true,
-            "talkAround": false,
-            "scannable": true,
-            "encrypted": false,
-            "permission": 1
-        },
-        {
-            "id": 15,
-            "name": "ATC Freq",
-            "soundName": "",
-            "type": "LEO",
-            "coloredName": "[color=grey]ATC Freq[/color]",
+            "name": "Announcements",
+            "soundName": "announcements",
+            "type": "announce",
+            "coloredName": "[color=red]Announcements[/color]",
             "talkEnforcement": true,
             "talkAround": false,
             "scannable": true,
