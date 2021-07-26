@@ -120,7 +120,7 @@
             "soundName": "",
             "type": "LEO",
             "coloredName": "[color=brown]Civ Ops City[/color]",
-            "talkEnforcement": true,
+            "talkEnforcement": false,
             "talkAround": false,
             "scannable": true,
             "encrypted": false,
@@ -132,7 +132,7 @@
             "soundName": "",
             "type": "LEO",
             "coloredName": "[color=brown]Civ Ops County[/color]",
-            "talkEnforcement": true,
+            "talkEnforcement": false,
             "talkAround": false,
             "scannable": true,
             "encrypted": false,
@@ -172,6 +172,30 @@
             "talkAround": false,
             "scannable": true,
             "encrypted": false,
+            "permission": 1
+        },
+        {
+            "id": 13,
+            "name": "10-1 A",
+            "soundName": "",
+            "type": "LEO",
+            "coloredName": "[color=red]10-1 A[/color]",
+            "talkEnforcement": false,
+            "talkAround": false,
+            "scannable": false,
+            "encrypted": true,
+            "permission": 1
+        },
+        {
+            "id": 14,
+            "name": "10-1 B",
+            "soundName": "",
+            "type": "LEO",
+            "coloredName": "[color=red]10-1 B[/color]",
+            "talkEnforcement": false,
+            "talkAround": false,
+            "scannable": false,
+            "encrypted": true,
             "permission": 1
         }
     ],
