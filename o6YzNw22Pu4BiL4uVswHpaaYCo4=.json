@@ -1,7 +1,7 @@
 {
-    "pluginStatus": false,
-    "isPaid": false,
-    "communityName": "",
+    "pluginStatus": true,
+    "isPaid": true,
+    "communityName": "Emergency Response San Andreas",
     "features": {
         "inGameInterface": true,
         "rangeSimulation": true,
@@ -27,15 +27,15 @@
     ],
     "civilianServerGroups": [""],
     "civChannels": [0],
-    "radioSystems": [16784],
-    "rtoChannels": [16785],
+    "radioSystems": [17907],
+    "rtoChannels": [17908],
     "radioChannels": [
         {
             "id": 1,
-            "name": "SW Dispatch",
-            "soundName": "CH_SWDispatch",
+            "name": "Central Dispatch",
+            "soundName": "CH_CentralDispatch",
             "type": "LEO",
-            "coloredName": "[color=green]SW Dispatch[/color]",
+            "coloredName": "[color=green]Central Dispatch[/color]",
             "talkEnforcement": true,
             "talkAround": false,
             "scannable": true,
@@ -56,6 +56,18 @@
         },
         {
             "id": 3,
+            "name": "Private 2",
+            "soundName": "Ch_Private2",
+            "type": "LEO",
+            "coloredName": "[color=red]Private 2[/color]",
+            "talkEnforcement": true,
+            "talkAround": false,
+            "scannable": false,
+            "encrypted": true,
+            "permission": 1
+        },
+        {
+            "id": 4,
             "name": "Fire Ops",
             "soundName": "Ch_FireOps",
             "type": "LEO",
@@ -67,7 +79,7 @@
             "permission": 1
         },
         {
-            "id": 4,
+            "id": 5,
             "name": "Tac 1",
             "soundName": "Ch_Tac1",
             "type": "LEO",
@@ -79,7 +91,7 @@
             "permission": 1
         },
         {
-            "id": 5,
+            "id": 6,
             "name": "Tac 2",
             "soundName": "Ch_Tac2",
             "type": "LEO",
@@ -91,11 +103,23 @@
             "permission": 1
         },
         {
-            "id": 6,
-            "name": "Car/Car",
-            "soundName": "",
+            "id": 7,
+            "name": "Civilian",
+            "soundName": "Ch_Civilian",
             "type": "LEO",
-            "coloredName": "[color=grey]Car/Car[/color]",
+            "coloredName": "[color=grey]Civilian[/color]",
+            "talkEnforcement": true,
+            "talkAround": true,
+            "scannable": true,
+            "encrypted": false,
+            "permission": 1
+        },
+        {
+            "id": 8,
+            "name": "Security Ops",
+            "soundName": "Ch_SecurityOps",
+            "type": "LEO",
+            "coloredName": "[color=grey]Security Ops[/color]",
             "talkEnforcement": true,
             "talkAround": true,
             "scannable": true,
@@ -140,7 +164,7 @@
             "clientUidList": [""]
         },
         "permSuper": {
-            "serverGroupList": ["13214"],
+            "serverGroupList": ["13214", "12712", "13257"],
             "clientUidList": [""]
         }
     }

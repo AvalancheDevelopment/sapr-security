@@ -1,6 +1,6 @@
 {
-    "pluginStatus": true,
-    "isPaid": true,
+    "pluginStatus": false,
+    "isPaid": false,
     "communityName": "Paradise State RP",
     "features": {
         "inGameInterface": true,
@@ -10,23 +10,21 @@
     "talkAroundRange": 1500,
     "betaServerGroups": [""],
     "dispatchServerGroups": ["170", "164"],
-    "dispatchAdvancedServerGroups": ["70", "164", "183"],
+    "dispatchAdvancedServerGroups": ["170", "164", "183", "219"],
     "dispatchNameTags": [
         "(P)",
         "(S)",
         "(T)",
         "(FIRE)",
-        "(QA)",
         "(EVAL)",
         "[P]",
         "[S]",
         "[T]",
         "[FIRE]",
-        "[QA]",
         "[EVAL]"
     ],
     "civilianServerGroups": [""],
-    "civChannels": [9, 15],
+    "civChannels": [0],
     "radioSystems": [4, 10],
     "rtoChannels": [7, 13],
     "radioChannels": [
@@ -144,7 +142,7 @@
             "clientUidList": [""]
         },
         "permSenior": {
-            "serverGroupList": ["179"],
+            "serverGroupList": ["179", "222"],
             "clientUidList": [""]
         },
         "permAdmin": {

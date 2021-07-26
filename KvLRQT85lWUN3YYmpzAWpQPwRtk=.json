@@ -1,7 +1,7 @@
 {
-    "pluginStatus": true,
-    "isPaid": true,
-    "communityName": "CoastSideRoleplay",
+    "pluginStatus": false,
+    "isPaid": false,
+    "communityName": "DELETE LATER",
     "features": {
         "inGameInterface": true,
         "rangeSimulation": true,
@@ -9,14 +9,8 @@
     },
     "talkAroundRange": 1500,
     "betaServerGroups": [""],
-    "dispatchServerGroups": ["169911"],
-    "dispatchAdvancedServerGroups": [
-        "169911",
-        "169556",
-        "169555",
-        "169554",
-        "169552"
-    ],
+    "dispatchServerGroups": [""],
+    "dispatchAdvancedServerGroups": [""],
     "dispatchNameTags": [
         "(P)",
         "(S)",
@@ -33,8 +27,8 @@
     ],
     "civilianServerGroups": [""],
     "civChannels": [0],
-    "radioSystems": [413605],
-    "rtoChannels": [413608],
+    "radioSystems": [],
+    "rtoChannels": [],
     "radioChannels": [
         {
             "id": 1,
@@ -146,7 +140,7 @@
     },
     "permissions": {
         "permBasic": {
-            "serverGroupList": ["169550"],
+            "serverGroupList": [""],
             "clientUidList": [""]
         },
         "permExtra": {
@@ -154,11 +148,11 @@
             "clientUidList": [""]
         },
         "permSit": {
-            "serverGroupList": ["169568"],
+            "serverGroupList": [""],
             "clientUidList": [""]
         },
         "permStaff": {
-            "serverGroupList": ["169567"],
+            "serverGroupList": [""],
             "clientUidList": [""]
         },
         "permSenior": {
@@ -166,11 +160,11 @@
             "clientUidList": [""]
         },
         "permAdmin": {
-            "serverGroupList": ["169566", "169563"],
+            "serverGroupList": [""],
             "clientUidList": [""]
         },
         "permSuper": {
-            "serverGroupList": ["169556", "169555", "169554", "169552"],
+            "serverGroupList": [""],
             "clientUidList": [""]
         }
     }

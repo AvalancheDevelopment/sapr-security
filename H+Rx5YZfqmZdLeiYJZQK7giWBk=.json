@@ -9,8 +9,8 @@
     },
     "talkAroundRange": 1500,
     "betaServerGroups": [""],
-    "dispatchServerGroups": ["23"],
-    "dispatchAdvancedServerGroups": ["23", "21", "22", "14", "9"],
+    "dispatchServerGroups": ["23", "12", "28"],
+    "dispatchAdvancedServerGroups": ["28", "23", "12", "21", "22", "14", "9"],
     "dispatchNameTags": [
         "(P)",
         "(S)",
@@ -27,8 +27,8 @@
     ],
     "civilianServerGroups": [""],
     "civChannels": [0],
-    "radioSystems": [39],
-    "rtoChannels": [47],
+    "radioSystems": [39, 138],
+    "rtoChannels": [47, 104, 141],
     "radioChannels": [
         {
             "id": 1,
@@ -116,7 +116,7 @@
     },
     "permissions": {
         "permBasic": {
-            "serverGroupList": ["12"],
+            "serverGroupList": ["12", "9", "28"],
             "clientUidList": [""]
         },
         "permExtra": {
