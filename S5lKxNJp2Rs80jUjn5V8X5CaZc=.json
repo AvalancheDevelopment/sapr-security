@@ -1,7 +1,7 @@
 {
-    "pluginStatus": false,
-    "isPaid": false,
-    "communityName": "Department of Public Safety Roleplay",
+    "pluginStatus": true,
+    "isPaid": true,
+    "communityName": "Coast Line RP",
     "features": {
         "inGameInterface": true,
         "rangeSimulation": true,
@@ -9,38 +9,8 @@
     },
     "talkAroundRange": 1500,
     "betaServerGroups": [""],
-    "dispatchServerGroups": [
-        "120",
-        "121",
-        "123",
-        "124",
-        "125",
-        "126",
-        "127",
-        "129",
-        "130",
-        "131",
-        "132",
-        "133",
-        "482"
-    ],
-    "dispatchAdvancedServerGroups": [
-        "120",
-        "121",
-        "123",
-        "124",
-        "125",
-        "126",
-        "127",
-        "129",
-        "130",
-        "131",
-        "132",
-        "133",
-        "482",
-        "523",
-        "522"
-    ],
+    "dispatchServerGroups": ["497", "482"],
+    "dispatchAdvancedServerGroups": ["497", "482"],
     "dispatchNameTags": [
         "(P)",
         "(S)",
@@ -57,8 +27,8 @@
     ],
     "civilianServerGroups": [""],
     "civChannels": [0],
-    "radioSystems": [199, 211, 222, 287],
-    "rtoChannels": [203, 215, 226, 717],
+    "radioSystems": [199, 211, 222],
+    "rtoChannels": [203, 215, 226],
     "radioChannels": [
         {
             "id": 1,
@@ -74,18 +44,6 @@
         },
         {
             "id": 2,
-            "name": "Statewide Tow",
-            "soundName": "statewideTow",
-            "type": "LEO",
-            "coloredName": "[color=cyan]Statewide Tow[/color]",
-            "talkEnforcement": true,
-            "talkAround": false,
-            "scannable": true,
-            "encrypted": false,
-            "permission": 1
-        },
-        {
-            "id": 3,
             "name": "Tac 1",
             "soundName": "tac1",
             "type": "LEO",
@@ -97,7 +55,7 @@
             "permission": 1
         },
         {
-            "id": 4,
+            "id": 3,
             "name": "Tac 2",
             "soundName": "tac2",
             "type": "LEO",
@@ -109,7 +67,7 @@
             "permission": 1
         },
         {
-            "id": 5,
+            "id": 4,
             "name": "Fire Ops",
             "soundName": "fireOps",
             "type": "LEO",
@@ -118,6 +76,30 @@
             "talkAround": false,
             "scannable": true,
             "encrypted": false,
+            "permission": 1
+        },
+        {
+            "id": 5,
+            "name": "Tow",
+            "soundName": "tow",
+            "type": "LEO",
+            "coloredName": "[color=grey]Tow[/color]",
+            "talkEnforcement": true,
+            "talkAround": false,
+            "scannable": true,
+            "encrypted": false,
+            "permission": 1
+        },
+        {
+            "id": 6,
+            "name": "Private 1",
+            "soundName": "private1",
+            "type": "LEO",
+            "coloredName": "[color=red]Private 1[/color]",
+            "talkEnforcement": true,
+            "talkAround": false,
+            "scannable": false,
+            "encrypted": true,
             "permission": 1
         }
     ],
@@ -134,7 +116,7 @@
     },
     "permissions": {
         "permBasic": {
-            "serverGroupList": ["515", "511", "512", "513"],
+            "serverGroupList": [""],
             "clientUidList": [""]
         },
         "permExtra": {
