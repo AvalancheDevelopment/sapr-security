@@ -104,10 +104,22 @@
         },
         {
             "id": 7,
-            "name": "Private 1",
+            "name": "Car/Car",
             "soundName": "",
             "type": "LEO",
-            "coloredName": "[color=red]Private 1[/color]",
+            "coloredName": "[color=grey]Car/Car[/color]",
+            "talkEnforcement": true,
+            "talkAround": true,
+            "scannable": true,
+            "encrypted": false,
+            "permission": 1
+        },
+        {
+            "id": 8,
+            "name": "Phone Call",
+            "soundName": "",
+            "type": "LEO",
+            "coloredName": "[color=red]Phone Call[/color]",
             "talkEnforcement": true,
             "talkAround": false,
             "scannable": false,
@@ -115,7 +127,7 @@
             "permission": 1
         },
         {
-            "id": 8,
+            "id": 9,
             "name": "Civ Ops City",
             "soundName": "",
             "type": "LEO",
@@ -127,7 +139,7 @@
             "permission": 1
         },
         {
-            "id": 9,
+            "id": 10,
             "name": "Civ Ops County",
             "soundName": "",
             "type": "LEO",
@@ -139,7 +151,7 @@
             "permission": 1
         },
         {
-            "id": 10,
+            "id": 11,
             "name": "911 Ops 1",
             "soundName": "",
             "type": "LEO",
@@ -151,7 +163,7 @@
             "permission": 1
         },
         {
-            "id": 11,
+            "id": 12,
             "name": "911 Ops 2",
             "soundName": "",
             "type": "LEO",
@@ -163,7 +175,7 @@
             "permission": 1
         },
         {
-            "id": 12,
+            "id": 13,
             "name": "FD Vol Ops",
             "soundName": "",
             "type": "LEO",
@@ -175,7 +187,7 @@
             "permission": 1
         },
         {
-            "id": 13,
+            "id": 14,
             "name": "10-1 A",
             "soundName": "",
             "type": "LEO",
@@ -187,7 +199,7 @@
             "permission": 1
         },
         {
-            "id": 14,
+            "id": 15,
             "name": "10-1 B",
             "soundName": "",
             "type": "LEO",
