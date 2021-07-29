@@ -44,6 +44,30 @@
         },
         {
             "id": 2,
+            "name": "VSP North",
+            "soundName": "",
+            "type": "LEO",
+            "coloredName": "[color=blue]VSP North[/color]",
+            "talkEnforcement": true,
+            "talkAround": false,
+            "scannable": true,
+            "encrypted": false,
+            "permission": 1
+        },
+        {
+            "id": 3,
+            "name": "VSP South",
+            "soundName": "",
+            "type": "LEO",
+            "coloredName": "[color=blue]VSP South[/color]",
+            "talkEnforcement": true,
+            "talkAround": false,
+            "scannable": true,
+            "encrypted": false,
+            "permission": 1
+        },
+        {
+            "id": 4,
             "name": "LCSO Tac 1",
             "soundName": "",
             "type": "LEO",
@@ -55,7 +79,7 @@
             "permission": 1
         },
         {
-            "id": 3,
+            "id": 5,
             "name": "LCSO Tac 2",
             "soundName": "",
             "type": "LEO",
@@ -67,7 +91,7 @@
             "permission": 1
         },
         {
-            "id": 4,
+            "id": 6,
             "name": "FCPD Tac 1",
             "soundName": "",
             "type": "LEO",
@@ -79,7 +103,7 @@
             "permission": 1
         },
         {
-            "id": 5,
+            "id": 7,
             "name": "FCPD Tac 2",
             "soundName": "",
             "type": "LEO",
@@ -91,7 +115,7 @@
             "permission": 1
         },
         {
-            "id": 6,
+            "id": 8,
             "name": "Special Ops 1",
             "soundName": "",
             "type": "LEO",
@@ -103,7 +127,7 @@
             "permission": 1
         },
         {
-            "id": 7,
+            "id": 9,
             "name": "Special Ops 2",
             "soundName": "",
             "type": "LEO",
@@ -115,7 +139,7 @@
             "permission": 1
         },
         {
-            "id": 8,
+            "id": 10,
             "name": "Fire/EMS",
             "soundName": "",
             "type": "LEO",
@@ -127,7 +151,7 @@
             "permission": 1
         },
         {
-            "id": 9,
+            "id": 11,
             "name": "Talkaround",
             "soundName": "",
             "type": "LEO",
