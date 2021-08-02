@@ -154,8 +154,8 @@
         },
         {
             "id": 11,
-            "name": "Annc",
-            "soundName": "announcements",
+            "name": "Announcements",
+            "soundName": "announce",
             "type": "LEO",
             "coloredName": "[color=pink]Announcements[/color]",
             "talkEnforcement": true,
