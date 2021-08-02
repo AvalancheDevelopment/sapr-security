@@ -1,6 +1,6 @@
 {
-    "pluginStatus": true,
-    "isPaid": true,
+    "pluginStatus": false,
+    "isPaid": false,
     "communityName": "LS Mayhem RP",
     "features": {
         "inGameInterface": true,
