@@ -27,8 +27,8 @@
     ],
     "civilianServerGroups": [""],
     "civChannels": [0],
-    "radioSystems": [254, 272],
-    "rtoChannels": [337, 271],
+    "radioSystems": [254, 272, 363, 380, 66],
+    "rtoChannels": [337, 271, 369, 387, 342],
     "radioChannels": [
         {
             "id": 1,
@@ -100,6 +100,18 @@
             "talkAround": false,
             "scannable": false,
             "encrypted": true,
+            "permission": 1
+        },
+        {
+            "id": 7,
+            "name": "Announcements",
+            "soundName": "",
+            "type": "announce",
+            "coloredName": "[color=red]Announcements[/color]",
+            "talkEnforcement": true,
+            "talkAround": false,
+            "scannable": true,
+            "encrypted": false,
             "permission": 1
         }
     ],
