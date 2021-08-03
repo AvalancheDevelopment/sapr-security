@@ -33,7 +33,7 @@
         {
             "id": 1,
             "name": "Patrol Ops",
-            "soundName": "",
+            "soundName": "patrolOps",
             "type": "LEO",
             "coloredName": "[color=green]Patrol Ops[/color]",
             "talkEnforcement": true,
@@ -45,7 +45,7 @@
         {
             "id": 2,
             "name": "Fire Ops",
-            "soundName": "",
+            "soundName": "fireOps",
             "type": "LEO",
             "coloredName": "[color=yellow]Fire Ops[/color]",
             "talkEnforcement": true,
@@ -57,7 +57,7 @@
         {
             "id": 3,
             "name": "Tac 1",
-            "soundName": "",
+            "soundName": "tac1",
             "type": "LEO",
             "coloredName": "[color=purple]Tac 1[/color]",
             "talkEnforcement": true,
@@ -69,7 +69,7 @@
         {
             "id": 4,
             "name": "Tac 2",
-            "soundName": "",
+            "soundName": "tac2",
             "type": "LEO",
             "coloredName": "[color=purple]Tac 2[/color]",
             "talkEnforcement": true,
@@ -81,7 +81,7 @@
         {
             "id": 5,
             "name": "Car/Car",
-            "soundName": "",
+            "soundName": "carToCar",
             "type": "LEO",
             "coloredName": "[color=grey]Car/Car[/color]",
             "talkEnforcement": true,
@@ -93,25 +93,13 @@
         {
             "id": 6,
             "name": "Private 1",
-            "soundName": "",
+            "soundName": "private1",
             "type": "LEO",
             "coloredName": "[color=red]Private 1[/color]",
             "talkEnforcement": true,
             "talkAround": false,
             "scannable": false,
             "encrypted": true,
-            "permission": 1
-        },
-        {
-            "id": 7,
-            "name": "Announcements",
-            "soundName": "",
-            "type": "announce",
-            "coloredName": "[color=red]Announcements[/color]",
-            "talkEnforcement": true,
-            "talkAround": false,
-            "scannable": true,
-            "encrypted": false,
             "permission": 1
         }
     ],
