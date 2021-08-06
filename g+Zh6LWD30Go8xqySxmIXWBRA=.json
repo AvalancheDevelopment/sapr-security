@@ -1,7 +1,7 @@
 {
-    "pluginStatus": false,
-    "isPaid": false,
-    "communityName": "DELETE LATER",
+    "pluginStatus": true,
+    "isPaid": true,
+    "communityName": "Alabama Statewide Roleplay",
     "features": {
         "inGameInterface": true,
         "rangeSimulation": true,
@@ -9,8 +9,8 @@
     },
     "talkAroundRange": 1500,
     "betaServerGroups": [""],
-    "dispatchServerGroups": ["23123"],
-    "dispatchAdvancedServerGroups": ["23123"],
+    "dispatchServerGroups": ["58"],
+    "dispatchAdvancedServerGroups": ["58"],
     "dispatchNameTags": [
         "(P)",
         "(S)",
@@ -27,8 +27,8 @@
     ],
     "civilianServerGroups": [""],
     "civChannels": [0],
-    "radioSystems": [49782],
-    "rtoChannels": [49784],
+    "radioSystems": [11],
+    "rtoChannels": [51],
     "radioChannels": [
         {
             "id": 1,
@@ -80,26 +80,26 @@
         },
         {
             "id": 5,
-            "name": "Car/Car",
+            "name": "Training RTO 1",
             "soundName": "",
             "type": "LEO",
-            "coloredName": "[color=grey]Car/Car[/color]",
+            "coloredName": "[color=cyan]Training RTO 1[/color]",
             "talkEnforcement": true,
-            "talkAround": true,
+            "talkAround": false,
             "scannable": true,
             "encrypted": false,
             "permission": 1
         },
         {
             "id": 6,
-            "name": "Private 1",
+            "name": "Training RTO 2",
             "soundName": "",
             "type": "LEO",
-            "coloredName": "[color=red]Private 1[/color]",
+            "coloredName": "[color=cyan]Training RTO 2[/color]",
             "talkEnforcement": true,
             "talkAround": false,
-            "scannable": false,
-            "encrypted": true,
+            "scannable": true,
+            "encrypted": false,
             "permission": 1
         }
     ],
@@ -116,7 +116,7 @@
     },
     "permissions": {
         "permBasic": {
-            "serverGroupList": ["22808"],
+            "serverGroupList": [""],
             "clientUidList": [""]
         },
         "permExtra": {
@@ -128,7 +128,7 @@
             "clientUidList": [""]
         },
         "permStaff": {
-            "serverGroupList": ["22743"],
+            "serverGroupList": [""],
             "clientUidList": [""]
         },
         "permSenior": {
@@ -140,7 +140,7 @@
             "clientUidList": [""]
         },
         "permSuper": {
-            "serverGroupList": [""],
+            "serverGroupList": ["3"],
             "clientUidList": [""]
         }
     }
