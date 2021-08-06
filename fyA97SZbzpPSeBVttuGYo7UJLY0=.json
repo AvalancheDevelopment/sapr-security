@@ -1,7 +1,7 @@
 {
-    "pluginStatus": false,
-    "isPaid": false,
-    "communityName": "delete later",
+    "pluginStatus": true,
+    "isPaid": true,
+    "communityName": "Southern Life Roleplay",
     "features": {
         "inGameInterface": true,
         "rangeSimulation": true,
@@ -9,8 +9,8 @@
     },
     "talkAroundRange": 1500,
     "betaServerGroups": [""],
-    "dispatchServerGroups": ["50", "51"],
-    "dispatchAdvancedServerGroups": ["50", "51", "40"],
+    "dispatchServerGroups": ["37"],
+    "dispatchAdvancedServerGroups": ["37"],
     "dispatchNameTags": [
         "(P)",
         "(S)",
@@ -27,8 +27,8 @@
     ],
     "civilianServerGroups": [""],
     "civChannels": [0],
-    "radioSystems": [12, 21],
-    "rtoChannels": [17, 26],
+    "radioSystems": [6, 11],
+    "rtoChannels": [8, 14],
     "radioChannels": [
         {
             "id": 1,
@@ -260,7 +260,7 @@
     },
     "permissions": {
         "permBasic": {
-            "serverGroupList": ["67"],
+            "serverGroupList": [""],
             "clientUidList": [""]
         },
         "permExtra": {
@@ -268,23 +268,23 @@
             "clientUidList": [""]
         },
         "permSit": {
-            "serverGroupList": ["48"],
+            "serverGroupList": ["34"],
             "clientUidList": [""]
         },
         "permStaff": {
-            "serverGroupList": ["47"],
+            "serverGroupList": ["35"],
             "clientUidList": [""]
         },
         "permSenior": {
-            "serverGroupList": ["46"],
+            "serverGroupList": [""],
             "clientUidList": [""]
         },
         "permAdmin": {
-            "serverGroupList": ["43", "42", "44", "41"],
+            "serverGroupList": ["33"],
             "clientUidList": [""]
         },
         "permSuper": {
-            "serverGroupList": ["40", "6"],
+            "serverGroupList": ["27", "26", "25"],
             "clientUidList": [""]
         }
     }
