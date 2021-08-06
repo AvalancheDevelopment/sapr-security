@@ -44,6 +44,30 @@
         },
         {
             "id": 2,
+            "name": "FCPD - City",
+            "soundName": "",
+            "type": "LEO",
+            "coloredName": "[color=cyan]FCPD - City[/color]",
+            "talkEnforcement": true,
+            "talkAround": false,
+            "scannable": true,
+            "encrypted": false,
+            "permission": 1
+        },
+        {
+            "id": 3,
+            "name": "LCSO - County",
+            "soundName": "",
+            "type": "LEO",
+            "coloredName": "[color=cyan]LCSO - County[/color]",
+            "talkEnforcement": true,
+            "talkAround": false,
+            "scannable": true,
+            "encrypted": false,
+            "permission": 1
+        },
+        {
+            "id": 4,
             "name": "VSP North",
             "soundName": "",
             "type": "LEO",
@@ -55,7 +79,7 @@
             "permission": 1
         },
         {
-            "id": 3,
+            "id": 5,
             "name": "VSP South",
             "soundName": "",
             "type": "LEO",
@@ -67,91 +91,7 @@
             "permission": 1
         },
         {
-            "id": 4,
-            "name": "LCSO Tac 1",
-            "soundName": "",
-            "type": "LEO",
-            "coloredName": "[color=purple]LCSO Tac 1[/color]",
-            "talkEnforcement": true,
-            "talkAround": false,
-            "scannable": true,
-            "encrypted": true,
-            "permission": 1
-        },
-        {
-            "id": 5,
-            "name": "LCSO Tac 2",
-            "soundName": "",
-            "type": "LEO",
-            "coloredName": "[color=purple]LCSO Tac 2[/color]",
-            "talkEnforcement": true,
-            "talkAround": false,
-            "scannable": true,
-            "encrypted": true,
-            "permission": 1
-        },
-        {
             "id": 6,
-            "name": "FCPD Tac 1",
-            "soundName": "",
-            "type": "LEO",
-            "coloredName": "[color=cyan]FCPD Tac 1[/color]",
-            "talkEnforcement": true,
-            "talkAround": false,
-            "scannable": true,
-            "encrypted": true,
-            "permission": 1
-        },
-        {
-            "id": 7,
-            "name": "FCPD Tac 2",
-            "soundName": "",
-            "type": "LEO",
-            "coloredName": "[color=cyan]FCPD Tac 2[/color]",
-            "talkEnforcement": true,
-            "talkAround": false,
-            "scannable": true,
-            "encrypted": true,
-            "permission": 1
-        },
-        {
-            "id": 8,
-            "name": "Special Ops 1",
-            "soundName": "",
-            "type": "LEO",
-            "coloredName": "[color=orange]Special Ops 1[/color]",
-            "talkEnforcement": true,
-            "talkAround": false,
-            "scannable": true,
-            "encrypted": true,
-            "permission": 1
-        },
-        {
-            "id": 9,
-            "name": "Special Ops 2",
-            "soundName": "",
-            "type": "LEO",
-            "coloredName": "[color=orange]Special Ops 2[/color]",
-            "talkEnforcement": true,
-            "talkAround": false,
-            "scannable": true,
-            "encrypted": true,
-            "permission": 1
-        },
-        {
-            "id": 10,
-            "name": "Fire/EMS",
-            "soundName": "",
-            "type": "LEO",
-            "coloredName": "[color=yellow]Fire/EMS[/color]",
-            "talkEnforcement": true,
-            "talkAround": false,
-            "scannable": true,
-            "encrypted": false,
-            "permission": 1
-        },
-        {
-            "id": 11,
             "name": "Talkaround",
             "soundName": "",
             "type": "LEO",
