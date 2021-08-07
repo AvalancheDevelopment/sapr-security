@@ -33,7 +33,7 @@
         {
             "id": 1,
             "name": "Statewide",
-            "soundName": "",
+            "soundName": "statewide",
             "type": "LEO",
             "coloredName": "[color=green]Statewide[/color]",
             "talkEnforcement": true,
@@ -45,7 +45,7 @@
         {
             "id": 2,
             "name": "North State",
-            "soundName": "",
+            "soundName": "northState",
             "type": "LEO",
             "coloredName": "[color=cyan]North State[/color]",
             "talkEnforcement": true,
@@ -57,7 +57,7 @@
         {
             "id": 3,
             "name": "South State",
-            "soundName": "",
+            "soundName": "southState",
             "type": "LEO",
             "coloredName": "[color=cyan]South State[/color]",
             "talkEnforcement": true,
@@ -69,7 +69,7 @@
         {
             "id": 4,
             "name": "Fire Ops",
-            "soundName": "",
+            "soundName": "fireOps",
             "type": "LEO",
             "coloredName": "[color=yellow]Fire Ops[/color]",
             "talkEnforcement": true,
@@ -81,7 +81,7 @@
         {
             "id": 5,
             "name": "Tac 1",
-            "soundName": "",
+            "soundName": "tac1",
             "type": "LEO",
             "coloredName": "[color=purple]Tac 1[/color]",
             "talkEnforcement": true,
