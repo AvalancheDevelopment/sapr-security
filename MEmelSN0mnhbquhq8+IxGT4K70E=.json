@@ -1,7 +1,7 @@
 {
     "pluginStatus": true,
     "isPaid": true,
-    "communityName": "delete later",
+    "communityName": "NoCrime RP",
     "features": {
         "inGameInterface": true,
         "rangeSimulation": true,
@@ -9,8 +9,8 @@
     },
     "talkAroundRange": 1500,
     "betaServerGroups": [""],
-    "dispatchServerGroups": ["103"],
-    "dispatchAdvancedServerGroups": ["103"],
+    "dispatchServerGroups": ["12", "13"],
+    "dispatchAdvancedServerGroups": ["12", "13"],
     "dispatchNameTags": [
         "(P)",
         "(S)",
@@ -27,8 +27,8 @@
     ],
     "civilianServerGroups": [""],
     "civChannels": [0],
-    "radioSystems": [79],
-    "rtoChannels": [89],
+    "radioSystems": [7],
+    "rtoChannels": [8],
     "radioChannels": [
         {
             "id": 1,
