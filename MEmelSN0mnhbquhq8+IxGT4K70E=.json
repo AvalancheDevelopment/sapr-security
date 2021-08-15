@@ -44,10 +44,10 @@
         },
         {
             "id": 2,
-            "name": "Blain County",
+            "name": "Blaine County",
             "soundName": "",
             "type": "LEO",
-            "coloredName": "[color=green]Blain County[/color]",
+            "coloredName": "[color=green]Blaine County[/color]",
             "talkEnforcement": true,
             "talkAround": false,
             "scannable": true,
