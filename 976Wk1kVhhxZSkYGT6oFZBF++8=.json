@@ -1,7 +1,7 @@
 {
-    "pluginStatus": false,
-    "isPaid": false,
-    "communityName": "DELETE LATER",
+    "pluginStatus": true,
+    "isPaid": true,
+    "communityName": "Real Come Up RP",
     "features": {
         "inGameInterface": true,
         "rangeSimulation": true,
@@ -9,8 +9,8 @@
     },
     "talkAroundRange": 1500,
     "betaServerGroups": [""],
-    "dispatchServerGroups": ["15"],
-    "dispatchAdvancedServerGroups": ["15", "6", "10", "11"],
+    "dispatchServerGroups": ["26"],
+    "dispatchAdvancedServerGroups": ["26"],
     "dispatchNameTags": [
         "(P)",
         "(S)",
@@ -27,8 +27,8 @@
     ],
     "civilianServerGroups": [""],
     "civChannels": [0],
-    "radioSystems": [13],
-    "rtoChannels": [14, 15],
+    "radioSystems": [26],
+    "rtoChannels": [29],
     "radioChannels": [
         {
             "id": 1,
@@ -44,6 +44,30 @@
         },
         {
             "id": 2,
+            "name": "Blaine County",
+            "soundName": "",
+            "type": "LEO",
+            "coloredName": "[color=green]Blaine County[/color]",
+            "talkEnforcement": true,
+            "talkAround": false,
+            "scannable": true,
+            "encrypted": false,
+            "permission": 1
+        },
+        {
+            "id": 3,
+            "name": "Los Santos",
+            "soundName": "",
+            "type": "LEO",
+            "coloredName": "[color=green]Los Santos[/color]",
+            "talkEnforcement": true,
+            "talkAround": false,
+            "scannable": true,
+            "encrypted": false,
+            "permission": 1
+        },
+        {
+            "id": 4,
             "name": "Fire Ops",
             "soundName": "",
             "type": "LEO",
@@ -55,7 +79,7 @@
             "permission": 1
         },
         {
-            "id": 3,
+            "id": 5,
             "name": "Tac 1",
             "soundName": "",
             "type": "LEO",
@@ -67,7 +91,7 @@
             "permission": 1
         },
         {
-            "id": 4,
+            "id": 6,
             "name": "Tac 2",
             "soundName": "",
             "type": "LEO",
@@ -79,19 +103,19 @@
             "permission": 1
         },
         {
-            "id": 5,
-            "name": "Car/Car",
+            "id": 7,
+            "name": "Special Assignment",
             "soundName": "",
             "type": "LEO",
-            "coloredName": "[color=grey]Car/Car[/color]",
+            "coloredName": "[color=grey]Special Assignment[/color]",
             "talkEnforcement": true,
-            "talkAround": true,
+            "talkAround": false,
             "scannable": true,
-            "encrypted": false,
+            "encrypted": true,
             "permission": 1
         },
         {
-            "id": 6,
+            "id": 8,
             "name": "Private 1",
             "soundName": "",
             "type": "LEO",
@@ -116,7 +140,7 @@
     },
     "permissions": {
         "permBasic": {
-            "serverGroupList": ["14", "13", "15"],
+            "serverGroupList": [""],
             "clientUidList": [""]
         },
         "permExtra": {
@@ -136,11 +160,11 @@
             "clientUidList": [""]
         },
         "permAdmin": {
-            "serverGroupList": ["12"],
+            "serverGroupList": ["24"],
             "clientUidList": [""]
         },
         "permSuper": {
-            "serverGroupList": ["11", "10", "6"],
+            "serverGroupList": ["6", "23"],
             "clientUidList": [""]
         }
     }
