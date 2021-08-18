@@ -128,7 +128,7 @@
             "clientUidList": [""]
         },
         "permStaff": {
-            "serverGroupList": ["5026"],
+            "serverGroupList": ["5026", "5025"],
             "clientUidList": [""]
         },
         "permSenior": {
@@ -136,11 +136,11 @@
             "clientUidList": [""]
         },
         "permAdmin": {
-            "serverGroupList": ["5021"],
+            "serverGroupList": [""],
             "clientUidList": [""]
         },
         "permSuper": {
-            "serverGroupList": [""],
+            "serverGroupList": ["5021"],
             "clientUidList": [""]
         }
     }
