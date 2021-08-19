@@ -167,7 +167,7 @@
             "name": "Announcements",
             "soundName": "",
             "type": "announce",
-            "coloredName": "[color=green]Announcements[/color]",
+            "coloredName": "[color=red]Announcements[/color]",
             "talkEnforcement": true,
             "talkAround": false,
             "scannable": true,
