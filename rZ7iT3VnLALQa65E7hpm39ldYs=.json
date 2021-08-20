@@ -56,10 +56,10 @@
         },
         {
             "id": 3,
-            "name": "Blain Law Common",
+            "name": "Blaine Law Common",
             "soundName": "",
             "type": "LEO",
-            "coloredName": "[color=cyan]Blain Law Common[/color]",
+            "coloredName": "[color=cyan]Blaine Law Common[/color]",
             "talkEnforcement": true,
             "talkAround": false,
             "scannable": true,
