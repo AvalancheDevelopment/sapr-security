@@ -32,6 +32,18 @@
     "radioChannels": [
         {
             "id": 1,
+            "name": "Patrol Ops",
+            "soundName": "",
+            "type": "LEO",
+            "coloredName": "[color=green]Patrol Ops[/color]",
+            "talkEnforcement": true,
+            "talkAround": false,
+            "scannable": true,
+            "encrypted": false,
+            "permission": 1
+        },
+        {
+            "id": 2,
             "name": "Private 1",
             "soundName": "",
             "type": "LEO",
@@ -43,7 +55,7 @@
             "permission": 1
         },
         {
-            "id": 2,
+            "id": 3,
             "name": "Private 2",
             "soundName": "",
             "type": "LEO",
@@ -55,7 +67,7 @@
             "permission": 1
         },
         {
-            "id": 3,
+            "id": 4,
             "name": "Private 3",
             "soundName": "",
             "type": "LEO",
@@ -67,7 +79,7 @@
             "permission": 1
         },
         {
-            "id": 4,
+            "id": 5,
             "name": "Tac 1",
             "soundName": "",
             "type": "LEO",
@@ -79,7 +91,7 @@
             "permission": 1
         },
         {
-            "id": 5,
+            "id": 6,
             "name": "Tac 2",
             "soundName": "",
             "type": "LEO",
@@ -91,7 +103,7 @@
             "permission": 1
         },
         {
-            "id": 6,
+            "id": 7,
             "name": "Fire Radio",
             "soundName": "",
             "type": "LEO",
@@ -103,7 +115,7 @@
             "permission": 1
         },
         {
-            "id": 7,
+            "id": 8,
             "name": "Tow",
             "soundName": "",
             "type": "LEO",
@@ -115,7 +127,7 @@
             "permission": 1
         },
         {
-            "id": 8,
+            "id": 9,
             "name": "Car/Car",
             "soundName": "",
             "type": "LEO",
