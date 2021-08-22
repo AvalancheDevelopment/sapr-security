@@ -32,10 +32,10 @@
     "radioChannels": [
         {
             "id": 1,
-            "name": "Patrol Ops",
+            "name": "State",
             "soundName": "",
             "type": "LEO",
-            "coloredName": "[color=green]Patrol Ops[/color]",
+            "coloredName": "[color=green]State[/color]",
             "talkEnforcement": true,
             "talkAround": false,
             "scannable": true,
@@ -44,6 +44,30 @@
         },
         {
             "id": 2,
+            "name": "Metro",
+            "soundName": "",
+            "type": "LEO",
+            "coloredName": "[color=green]Metro[/color]",
+            "talkEnforcement": true,
+            "talkAround": false,
+            "scannable": true,
+            "encrypted": false,
+            "permission": 1
+        },
+        {
+            "id": 3,
+            "name": "County",
+            "soundName": "",
+            "type": "LEO",
+            "coloredName": "[color=green]County[/color]",
+            "talkEnforcement": true,
+            "talkAround": false,
+            "scannable": true,
+            "encrypted": false,
+            "permission": 1
+        },
+        {
+            "id": 4,
             "name": "Fire Ops",
             "soundName": "",
             "type": "LEO",
@@ -55,7 +79,7 @@
             "permission": 1
         },
         {
-            "id": 3,
+            "id": 5,
             "name": "Tac 1",
             "soundName": "",
             "type": "LEO",
@@ -67,7 +91,7 @@
             "permission": 1
         },
         {
-            "id": 4,
+            "id": 6,
             "name": "Tac 2",
             "soundName": "",
             "type": "LEO",
@@ -79,11 +103,11 @@
             "permission": 1
         },
         {
-            "id": 5,
-            "name": "Car/Car",
+            "id": 7,
+            "name": "Fireground",
             "soundName": "",
             "type": "LEO",
-            "coloredName": "[color=grey]Car/Car[/color]",
+            "coloredName": "[color=orange]Fireground[/color]",
             "talkEnforcement": true,
             "talkAround": true,
             "scannable": true,
@@ -91,15 +115,15 @@
             "permission": 1
         },
         {
-            "id": 6,
-            "name": "Private 1",
+            "id": 8,
+            "name": "FD Volunteer",
             "soundName": "",
             "type": "LEO",
-            "coloredName": "[color=red]Private 1[/color]",
+            "coloredName": "[color=red]FD Volunteer[/color]",
             "talkEnforcement": true,
             "talkAround": false,
-            "scannable": false,
-            "encrypted": true,
+            "scannable": true,
+            "encrypted": false,
             "permission": 1
         }
     ],
