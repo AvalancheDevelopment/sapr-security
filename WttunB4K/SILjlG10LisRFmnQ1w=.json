@@ -160,23 +160,23 @@
             "clientUidList": [""]
         },
         "permSit": {
-            "serverGroupList": ["36379"],
+            "serverGroupList": ["72412"],
             "clientUidList": [""]
         },
         "permStaff": {
-            "serverGroupList": ["36380"],
+            "serverGroupList": ["72411"],
             "clientUidList": [""]
         },
         "permSenior": {
-            "serverGroupList": ["36382"],
+            "serverGroupList": ["72410"],
             "clientUidList": [""]
         },
         "permAdmin": {
-            "serverGroupList": ["36384","36386"],
+            "serverGroupList": ["72400","72399"],
             "clientUidList": [""]
         },
         "permSuper": {
-            "serverGroupList": ["36419"],
+            "serverGroupList": ["72398","72386"],
             "clientUidList": [""]
         }
     }
