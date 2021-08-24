@@ -3,7 +3,7 @@
     "CurrentFivemVersion": ["1.1.0", "1.1.1"],
     "command_validation_str": "Radio20",
     "current_versions": ["1.1.1", "1.1.2-rc2"],
-    "permitted_version": ["1.1.2-rc1"],
+    "permitted_versions": ["1.1.2-rc1"],
     "authorized_servers": [""],
     "dev_uid_list": [
         "GhfyobshzntzcZnh6o+IEUmJEc0=",
