@@ -156,7 +156,7 @@
             "id": 11,
             "name": "Announcements",
             "soundName": "announce",
-            "type": "LEO",
+            "type": "announce",
             "coloredName": "[color=pink]Announcements[/color]",
             "talkEnforcement": true,
             "talkAround": false,
