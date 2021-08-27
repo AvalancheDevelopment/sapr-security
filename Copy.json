@@ -101,6 +101,18 @@
             "scannable": false,
             "encrypted": true,
             "permission": 1
+        },
+        {
+            "id": 7,
+            "name": "Announcements",
+            "soundName": "announce",
+            "type": "LEO",
+            "coloredName": "[color=red]Announcements[/color]",
+            "talkEnforcement": true,
+            "talkAround": false,
+            "scannable": false,
+            "encrypted": true,
+            "permission": 1
         }
     ],
     "time_settings": {
