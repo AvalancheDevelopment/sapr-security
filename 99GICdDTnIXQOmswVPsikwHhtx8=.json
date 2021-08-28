@@ -1,7 +1,7 @@
 {
-    "pluginStatus": false,
-    "isPaid": false,
-    "communityName": "delete later",
+    "pluginStatus": true,
+    "isPaid": true,
+    "communityName": "Atlantic Networks",
     "features": {
         "inGameInterface": true,
         "rangeSimulation": true,
@@ -9,14 +9,8 @@
     },
     "talkAroundRange": 1500,
     "betaServerGroups": [""],
-    "dispatchServerGroups": ["14240"],
-    "dispatchAdvancedServerGroups": [
-        "14240",
-        "14249",
-        "14248",
-        "14247",
-        "14246"
-    ],
+    "dispatchServerGroups": ["14495", "14469"],
+    "dispatchAdvancedServerGroups": ["14495", "14469"],
     "dispatchNameTags": [
         "(P)",
         "(S)",
@@ -33,8 +27,8 @@
     ],
     "civilianServerGroups": [""],
     "civChannels": [0],
-    "radioSystems": [35598],
-    "rtoChannels": [35612],
+    "radioSystems": [35866],
+    "rtoChannels": [35868],
     "radioChannels": [
         {
             "id": 1,
@@ -98,7 +92,7 @@
     },
     "permissions": {
         "permBasic": {
-            "serverGroupList": ["14157"],
+            "serverGroupList": [""],
             "clientUidList": [""]
         },
         "permExtra": {
@@ -106,11 +100,11 @@
             "clientUidList": [""]
         },
         "permSit": {
-            "serverGroupList": [""],
+            "serverGroupList": ["14456"],
             "clientUidList": [""]
         },
         "permStaff": {
-            "serverGroupList": ["14251"],
+            "serverGroupList": ["14454"],
             "clientUidList": [""]
         },
         "permSenior": {
@@ -118,11 +112,11 @@
             "clientUidList": [""]
         },
         "permAdmin": {
-            "serverGroupList": ["14250"],
+            "serverGroupList": ["14453"],
             "clientUidList": [""]
         },
         "permSuper": {
-            "serverGroupList": ["14249", "14248", "14247", "14246"],
+            "serverGroupList": ["14370", "14476"],
             "clientUidList": [""]
         }
     }
