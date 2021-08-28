@@ -1,6 +1,6 @@
 {
     "plugin_status": true,
-    "CurrentFivemVersion": ["1.1.0", "1.1.1"],
+    "CurrentFivemVersion": ["1.1.1", "1.2.0"],
     "command_validation_str": "Radio20",
     "current_versions": ["1.1.1", "1.1.2-rc3"],
     "permitted_versions": [""],
