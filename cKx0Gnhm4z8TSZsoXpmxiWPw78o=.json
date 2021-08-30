@@ -143,8 +143,8 @@
         {
             "id": 10,
             "name": "Announcements",
-            "soundName": "announce",
-            "type": "LEO",
+            "soundName": "",
+            "type": "announce",
             "coloredName": "[color=red]Announcements[/color]",
             "talkEnforcement": true,
             "talkAround": false,
