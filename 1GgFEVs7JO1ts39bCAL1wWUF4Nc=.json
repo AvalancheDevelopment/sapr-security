@@ -38,7 +38,7 @@
             "coloredName": "[color=green]Statewide[/color]",
             "talkEnforcement": true,
             "talkAround": false,
-            "scannable": true,
+            "scannable": false,
             "encrypted": false,
             "permission": 1
         },
@@ -50,7 +50,7 @@
             "coloredName": "[color=cyan]County[/color]",
             "talkEnforcement": true,
             "talkAround": false,
-            "scannable": true,
+            "scannable": false,
             "encrypted": false,
             "permission": 1
         },
@@ -62,7 +62,7 @@
             "coloredName": "[color=cyan]City[/color]",
             "talkEnforcement": true,
             "talkAround": false,
-            "scannable": true,
+            "scannable": false,
             "encrypted": true,
             "permission": 1
         },
