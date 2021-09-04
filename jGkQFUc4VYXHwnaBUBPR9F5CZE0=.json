@@ -1,7 +1,7 @@
 {
-    "pluginStatus": false,
-    "isPaid": false,
-    "communityName": "Bayside Roleplay",
+    "pluginStatus": true,
+    "isPaid": true,
+    "communityName": "Imperial Roleplay",
     "features": {
         "inGameInterface": true,
         "rangeSimulation": true,
