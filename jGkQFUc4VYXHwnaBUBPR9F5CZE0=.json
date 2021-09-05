@@ -32,10 +32,10 @@
     "radioChannels": [
         {
             "id": 1,
-            "name": "Patrol Ops",
-            "soundName": "",
+            "name": "SW Dispatch",
+            "soundName": "Ch_SWDispatch",
             "type": "LEO",
-            "coloredName": "[color=green]Patrol Ops[/color]",
+            "coloredName": "[color=green]SW Dispatch[/color]",
             "talkEnforcement": true,
             "talkAround": false,
             "scannable": true,
@@ -45,7 +45,7 @@
         {
             "id": 2,
             "name": "Fire Ops",
-            "soundName": "",
+            "soundName": "Ch_FireOps",
             "type": "LEO",
             "coloredName": "[color=yellow]Fire Ops[/color]",
             "talkEnforcement": true,
@@ -57,7 +57,7 @@
         {
             "id": 3,
             "name": "Tac 1",
-            "soundName": "",
+            "soundName": "CH_Tac1",
             "type": "LEO",
             "coloredName": "[color=purple]Tac 1[/color]",
             "talkEnforcement": true,
@@ -69,7 +69,7 @@
         {
             "id": 4,
             "name": "Tac 2",
-            "soundName": "",
+            "soundName": "CH_Tac2",
             "type": "LEO",
             "coloredName": "[color=purple]Tac 2[/color]",
             "talkEnforcement": true,
@@ -81,7 +81,7 @@
         {
             "id": 5,
             "name": "Car/Car",
-            "soundName": "",
+            "soundName": "Ch_LEOCars",
             "type": "LEO",
             "coloredName": "[color=grey]Car/Car[/color]",
             "talkEnforcement": true,
