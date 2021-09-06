@@ -33,7 +33,7 @@
         {
             "id": 1,
             "name": "LAPD Metro",
-            "soundName": "",
+            "soundName": "lapdMetro",
             "type": "LEO",
             "coloredName": "[color=green]LAPD Metro[/color]",
             "talkEnforcement": true,
@@ -45,7 +45,7 @@
         {
             "id": 2,
             "name": "LASD County",
-            "soundName": "",
+            "soundName": "lasdCounty",
             "type": "LEO",
             "coloredName": "[color=green]LASD County[/color]",
             "talkEnforcement": true,
@@ -57,7 +57,7 @@
         {
             "id": 3,
             "name": "CHP Statewide",
-            "soundName": "",
+            "soundName": "chpStatewide",
             "type": "LEO",
             "coloredName": "[color=green]CHP Statewide[/color]",
             "talkEnforcement": true,
@@ -69,7 +69,7 @@
         {
             "id": 4,
             "name": "LA County Fire",
-            "soundName": "",
+            "soundName": "laCountyFire",
             "type": "LEO",
             "coloredName": "[color=yellow]LA County Fire[/color]",
             "talkEnforcement": true,
@@ -81,7 +81,7 @@
         {
             "id": 5,
             "name": "Special Functions",
-            "soundName": "",
+            "soundName": "specialFunctions",
             "type": "LEO",
             "coloredName": "[color=red]Special Functions[/color]",
             "talkEnforcement": true,
@@ -93,7 +93,7 @@
         {
             "id": 6,
             "name": "Tac 1",
-            "soundName": "",
+            "soundName": "tac1",
             "type": "LEO",
             "coloredName": "[color=purple]Tac 1[/color]",
             "talkEnforcement": true,
@@ -105,7 +105,7 @@
         {
             "id": 7,
             "name": "Tac 2",
-            "soundName": "",
+            "soundName": "tac2",
             "type": "LEO",
             "coloredName": "[color=purple]Tac 2[/color]",
             "talkEnforcement": true,
@@ -117,7 +117,7 @@
         {
             "id": 8,
             "name": "Tac 3",
-            "soundName": "",
+            "soundName": "tac3",
             "type": "LEO",
             "coloredName": "[color=purple]Tac 3[/color]",
             "talkEnforcement": true,
@@ -129,7 +129,7 @@
         {
             "id": 9,
             "name": "Private 1",
-            "soundName": "",
+            "soundName": "private1",
             "type": "LEO",
             "coloredName": "[color=red]Private 1[/color]",
             "talkEnforcement": true,
@@ -141,7 +141,7 @@
         {
             "id": 10,
             "name": "Car/Car",
-            "soundName": "",
+            "soundName": "carToCar",
             "type": "LEO",
             "coloredName": "[color=grey]Car/Car[/color]",
             "talkEnforcement": true,
