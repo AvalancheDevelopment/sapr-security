@@ -1,7 +1,7 @@
 {
-    "pluginStatus": false,
-    "isPaid": false,
-    "communityName": "Coast Line RP",
+    "pluginStatus": true,
+    "isPaid": true,
+    "communityName": "Golden Coast Roleplay",
     "features": {
         "inGameInterface": true,
         "rangeSimulation": true,
@@ -27,8 +27,8 @@
     ],
     "civilianServerGroups": [""],
     "civChannels": [0],
-    "radioSystems": [199, 211, 222],
-    "rtoChannels": [203, 215, 226],
+    "radioSystems": [197],
+    "rtoChannels": [203],
     "radioChannels": [
         {
             "id": 1,
