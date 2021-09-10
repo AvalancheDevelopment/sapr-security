@@ -97,9 +97,9 @@
             "type": "LEO",
             "coloredName": "[color=red]Private 1[/color]",
             "talkEnforcement": true,
-            "talkAround": true,
-            "scannable": true,
-            "encrypted": false,
+            "talkAround": false,
+            "scannable": false,
+            "encrypted": true,
             "permission": 1
         },
         {
@@ -109,9 +109,9 @@
             "type": "LEO",
             "coloredName": "[color=red]Private 2[/color]",
             "talkEnforcement": true,
-            "talkAround": true,
-            "scannable": true,
-            "encrypted": false,
+            "talkAround": false,
+            "scannable": false,
+            "encrypted": true,
             "permission": 1
         },
         {
@@ -121,9 +121,9 @@
             "type": "LEO",
             "coloredName": "[color=red]Private 3[/color]",
             "talkEnforcement": true,
-            "talkAround": true,
-            "scannable": true,
-            "encrypted": false,
+            "talkAround": false,
+            "scannable": false,
+            "encrypted": true,
             "permission": 1
         }
     ],
