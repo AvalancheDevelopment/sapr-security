@@ -128,7 +128,7 @@
             "clientUidList": [""]
         },
         "permSuper": {
-            "serverGroupList": ["493"],
+            "serverGroupList": ["493", "504"],
             "clientUidList": [""]
         }
     }
