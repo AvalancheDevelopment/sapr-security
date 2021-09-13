@@ -1,7 +1,7 @@
 {
-    "pluginStatus": false,
-    "isPaid": false,
-    "communityName": "delete later",
+    "pluginStatus": true,
+    "isPaid": true,
+    "communityName": "Chaos Battalion Roleplay",
     "features": {
         "inGameInterface": true,
         "rangeSimulation": true,
@@ -9,8 +9,8 @@
     },
     "talkAroundRange": 1500,
     "betaServerGroups": [""],
-    "dispatchServerGroups": ["46881"],
-    "dispatchAdvancedServerGroups": ["46881"],
+    "dispatchServerGroups": ["70858"],
+    "dispatchAdvancedServerGroups": [""],
     "dispatchNameTags": [
         "(P)",
         "(S)",
@@ -27,15 +27,15 @@
     ],
     "civilianServerGroups": [""],
     "civChannels": [0],
-    "radioSystems": [117735],
-    "rtoChannels": [116474],
+    "radioSystems": [86701],
+    "rtoChannels": [90278],
     "radioChannels": [
         {
             "id": 1,
-            "name": "Patrol Ops",
+            "name": "State",
             "soundName": "",
             "type": "LEO",
-            "coloredName": "[color=green]Patrol Ops[/color]",
+            "coloredName": "[color=green]State[/color]",
             "talkEnforcement": true,
             "talkAround": false,
             "scannable": true,
@@ -44,6 +44,30 @@
         },
         {
             "id": 2,
+            "name": "Police",
+            "soundName": "",
+            "type": "LEO",
+            "coloredName": "[color=green]Police[/color]",
+            "talkEnforcement": true,
+            "talkAround": false,
+            "scannable": true,
+            "encrypted": false,
+            "permission": 1
+        },
+        {
+            "id": 3,
+            "name": "Sheriff",
+            "soundName": "",
+            "type": "LEO",
+            "coloredName": "[color=green]Sheriff[/color]",
+            "talkEnforcement": true,
+            "talkAround": false,
+            "scannable": true,
+            "encrypted": false,
+            "permission": 1
+        },
+        {
+            "id": 4,
             "name": "Fire Ops",
             "soundName": "",
             "type": "LEO",
@@ -55,7 +79,7 @@
             "permission": 1
         },
         {
-            "id": 3,
+            "id": 5,
             "name": "Tac 1",
             "soundName": "",
             "type": "LEO",
@@ -67,7 +91,7 @@
             "permission": 1
         },
         {
-            "id": 4,
+            "id": 6,
             "name": "Tac 2",
             "soundName": "",
             "type": "LEO",
@@ -79,7 +103,7 @@
             "permission": 1
         },
         {
-            "id": 5,
+            "id": 7,
             "name": "Car/Car",
             "soundName": "",
             "type": "LEO",
@@ -91,7 +115,7 @@
             "permission": 1
         },
         {
-            "id": 6,
+            "id": 8,
             "name": "Private 1",
             "soundName": "",
             "type": "LEO",
@@ -103,7 +127,7 @@
             "permission": 1
         },
         {
-            "id": 7,
+            "id": 9,
             "name": "Announcements",
             "soundName": "",
             "type": "announce",
@@ -136,23 +160,23 @@
             "clientUidList": [""]
         },
         "permSit": {
-            "serverGroupList": ["46710"],
+            "serverGroupList": ["70762"],
             "clientUidList": [""]
         },
         "permStaff": {
-            "serverGroupList": ["46709"],
+            "serverGroupList": ["70761"],
             "clientUidList": [""]
         },
         "permSenior": {
-            "serverGroupList": ["46708"],
+            "serverGroupList": ["70760"],
             "clientUidList": [""]
         },
         "permAdmin": {
-            "serverGroupList": ["46706"],
+            "serverGroupList": ["70759"],
             "clientUidList": [""]
         },
         "permSuper": {
-            "serverGroupList": ["46704", "46705"],
+            "serverGroupList": ["70756"],
             "clientUidList": [""]
         }
     }
