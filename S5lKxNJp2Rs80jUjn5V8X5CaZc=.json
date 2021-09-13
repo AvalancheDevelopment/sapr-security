@@ -32,10 +32,10 @@
     "radioChannels": [
         {
             "id": 1,
-            "name": "Statewide",
-            "soundName": "statewide",
+            "name": "SW Dispatch",
+            "soundName": "swDispatch",
             "type": "LEO",
-            "coloredName": "[color=green]Statewide[/color]",
+            "coloredName": "[color=green]SW Dispatch[/color]",
             "talkEnforcement": true,
             "talkAround": false,
             "scannable": true,
