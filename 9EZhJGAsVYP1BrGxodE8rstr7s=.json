@@ -1,7 +1,7 @@
 {
-    "pluginStatus": false,
-    "isPaid": false,
-    "communityName": "delete later",
+    "pluginStatus": true,
+    "isPaid": true,
+    "communityName": "Westside Roleplay",
     "features": {
         "inGameInterface": true,
         "rangeSimulation": true,
