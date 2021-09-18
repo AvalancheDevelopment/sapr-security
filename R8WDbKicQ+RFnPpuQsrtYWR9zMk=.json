@@ -10,7 +10,7 @@
     "talkAroundRange": 1500,
     "betaServerGroups": [""],
     "dispatchServerGroups": ["6016", "6011"],
-    "dispatchAdvancedServerGroups": ["6016", "6011"],
+    "dispatchAdvancedServerGroups": [],
     "dispatchNameTags": [
         "(P)",
         "(S)",
@@ -32,10 +32,10 @@
     "radioChannels": [
         {
             "id": 1,
-            "name": "City Main",
+            "name": "LE 1",
             "soundName": "",
             "type": "LEO",
-            "coloredName": "[color=green]City Main[/color]",
+            "coloredName": "[color=green]LE 1[/color]",
             "talkEnforcement": true,
             "talkAround": false,
             "scannable": true,
@@ -44,10 +44,10 @@
         },
         {
             "id": 2,
-            "name": "County Main",
+            "name": "LE 2",
             "soundName": "",
             "type": "LEO",
-            "coloredName": "[color=blue]County Main[/color]",
+            "coloredName": "[color=green]LE 2[/color]",
             "talkEnforcement": true,
             "talkAround": false,
             "scannable": true,
@@ -56,10 +56,10 @@
         },
         {
             "id": 3,
-            "name": "Statewide",
+            "name": "Fire/EMS",
             "soundName": "",
             "type": "LEO",
-            "coloredName": "[color=cyan]Statewide[/color]",
+            "coloredName": "[color=orange]Fire/EMS[/color]",
             "talkEnforcement": true,
             "talkAround": false,
             "scannable": true,
@@ -68,18 +68,6 @@
         },
         {
             "id": 4,
-            "name": "Fire Disp",
-            "soundName": "",
-            "type": "LEO",
-            "coloredName": "[color=yellow]Fire Disp[/color]",
-            "talkEnforcement": true,
-            "talkAround": false,
-            "scannable": true,
-            "encrypted": false,
-            "permission": 1
-        },
-        {
-            "id": 5,
             "name": "Tac 1",
             "soundName": "",
             "type": "LEO",
@@ -91,7 +79,7 @@
             "permission": 1
         },
         {
-            "id": 6,
+            "id": 5,
             "name": "Tac 2",
             "soundName": "",
             "type": "LEO",
@@ -103,7 +91,7 @@
             "permission": 1
         },
         {
-            "id": 7,
+            "id": 6,
             "name": "Private 1",
             "soundName": "",
             "type": "LEO",
@@ -140,7 +128,7 @@
             "clientUidList": [""]
         },
         "permStaff": {
-            "serverGroupList": ["6021", "6022", "5026", "5025"],
+            "serverGroupList": ["6021", "6022", "5026", "5025", "6023", "6018"],
             "clientUidList": [""]
         },
         "permSenior": {
