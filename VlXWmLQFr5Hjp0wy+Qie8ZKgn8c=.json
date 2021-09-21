@@ -1,7 +1,7 @@
 {
-    "pluginStatus": false,
-    "isPaid": false,
-    "communityName": "Twin Peak Roleplay",
+    "pluginStatus": true,
+    "isPaid": true,
+    "communityName": "North Valley Roleplay",
     "features": {
         "inGameInterface": true,
         "rangeSimulation": true,
@@ -9,8 +9,23 @@
     },
     "talkAroundRange": 1500,
     "betaServerGroups": [""],
-    "dispatchServerGroups": ["6317", "6310"],
-    "dispatchAdvancedServerGroups": ["6317", "6310", "6360", "6200"],
+    "dispatchServerGroups": [
+        "31",
+        "32",
+        "33",
+        "34",
+        "80",
+        "81",
+        "82",
+        "99",
+        "100",
+        "114",
+        "115",
+        "116",
+        "117",
+        "118"
+    ],
+    "dispatchAdvancedServerGroups": [""],
     "dispatchNameTags": [
         "(P)",
         "(S)",
@@ -27,8 +42,8 @@
     ],
     "civilianServerGroups": [""],
     "civChannels": [0],
-    "radioSystems": [11630, 11628],
-    "rtoChannels": [11633, 11629],
+    "radioSystems": [19],
+    "rtoChannels": [28],
     "radioChannels": [
         {
             "id": 1,
@@ -101,6 +116,18 @@
             "scannable": false,
             "encrypted": true,
             "permission": 1
+        },
+        {
+            "id": 7,
+            "name": "Announcements",
+            "soundName": "",
+            "type": "announce",
+            "coloredName": "[color=red]Announcements[/color]",
+            "talkEnforcement": true,
+            "talkAround": false,
+            "scannable": false,
+            "encrypted": true,
+            "permission": 1
         }
     ],
     "time_settings": {
@@ -116,7 +143,7 @@
     },
     "permissions": {
         "permBasic": {
-            "serverGroupList": ["6193", "6194"],
+            "serverGroupList": [""],
             "clientUidList": [""]
         },
         "permExtra": {
@@ -124,23 +151,23 @@
             "clientUidList": [""]
         },
         "permSit": {
-            "serverGroupList": ["6195"],
+            "serverGroupList": [""],
             "clientUidList": [""]
         },
         "permStaff": {
-            "serverGroupList": ["6196"],
+            "serverGroupList": [""],
             "clientUidList": [""]
         },
         "permSenior": {
-            "serverGroupList": ["6197"],
+            "serverGroupList": [""],
             "clientUidList": [""]
         },
         "permAdmin": {
-            "serverGroupList": ["6198", "6199"],
+            "serverGroupList": [""],
             "clientUidList": [""]
         },
         "permSuper": {
-            "serverGroupList": ["6360", "6200"],
+            "serverGroupList": ["9", "10", "11"],
             "clientUidList": [""]
         }
     }
