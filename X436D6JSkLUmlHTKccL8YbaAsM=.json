@@ -1,6 +1,6 @@
 {
-    "pluginStatus": true,
-    "isPaid": true,
+    "pluginStatus": false,
+    "isPaid": false,
     "communityName": "Next Level RP",
     "features": {
         "inGameInterface": true,
