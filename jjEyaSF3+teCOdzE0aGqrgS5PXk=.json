@@ -1,6 +1,6 @@
 {
-    "pluginStatus": true,
-    "isPaid": true,
+    "pluginStatus": false,
+    "isPaid": false,
     "communityName": "Project Roleplay Community",
     "features": {
         "inGameInterface": true,
@@ -256,11 +256,11 @@
             "clientUidList": [""]
         },
         "permAdmin": {
-            "serverGroupList": ["294","295"],
+            "serverGroupList": ["294", "295"],
             "clientUidList": [""]
         },
         "permSuper": {
-            "serverGroupList": ["296","297"],
+            "serverGroupList": ["296", "297"],
             "clientUidList": [""]
         }
     }
