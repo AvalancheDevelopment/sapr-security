@@ -32,10 +32,10 @@
     "radioChannels": [
         {
             "id": 1,
-            "name": "Fire - 1",
+            "name": "Fire Main",
             "soundName": "",
             "type": "LEO",
-            "coloredName": "[color=yellow]Patrol Ops[/color]",
+            "coloredName": "[color=yellow]Fire Main[/color]",
             "talkEnforcement": true,
             "talkAround": false,
             "scannable": true,
@@ -44,6 +44,18 @@
         },
         {
             "id": 2,
+            "name": "Fire - 1",
+            "soundName": "",
+            "type": "LEO",
+            "coloredName": "[color=yellow]Fire - 1[/color]",
+            "talkEnforcement": true,
+            "talkAround": false,
+            "scannable": true,
+            "encrypted": false,
+            "permission": 1
+        },
+        {
+            "id": 3,
             "name": "Fire - 2",
             "soundName": "",
             "type": "LEO",
@@ -55,7 +67,7 @@
             "permission": 1
         },
         {
-            "id": 3,
+            "id": 4,
             "name": "Fire - 3",
             "soundName": "",
             "type": "LEO",
@@ -67,7 +79,7 @@
             "permission": 1
         },
         {
-            "id": 4,
+            "id": 5,
             "name": "Fire - 4",
             "soundName": "",
             "type": "LEO",
@@ -79,7 +91,7 @@
             "permission": 1
         },
         {
-            "id": 5,
+            "id": 6,
             "name": "Fire - 5",
             "soundName": "",
             "type": "LEO",
@@ -91,7 +103,7 @@
             "permission": 1
         },
         {
-            "id": 6,
+            "id": 7,
             "name": "Fire - 6",
             "soundName": "",
             "type": "LEO",
@@ -103,31 +115,31 @@
             "permission": 1
         },
         {
-            "id": 7,
+            "id": 8,
             "name": "Fire Direct",
             "soundName": "",
             "type": "LEO",
             "coloredName": "[color=orange]Fire Direct[/color]",
             "talkEnforcement": true,
-            "talkAround": false,
-            "scannable": true,
-            "encrypted": false,
-            "permission": 1
-        },
-        {
-            "id": 8,
-            "name": "Fire Training",
-            "soundName": "",
-            "type": "LEO",
-            "coloredName": "[color=orange]Fire Training[/color]",
-            "talkEnforcement": true,
-            "talkAround": false,
+            "talkAround": true,
             "scannable": true,
             "encrypted": false,
             "permission": 1
         },
         {
             "id": 9,
+            "name": "Fire Training",
+            "soundName": "",
+            "type": "LEO",
+            "coloredName": "[color=orange]Fire Training[/color]",
+            "talkEnforcement": true,
+            "talkAround": true,
+            "scannable": true,
+            "encrypted": false,
+            "permission": 1
+        },
+        {
+            "id": 10,
             "name": "Helicopter",
             "soundName": "",
             "type": "LEO",
@@ -139,7 +151,7 @@
             "permission": 1
         },
         {
-            "id": 10,
+            "id": 11,
             "name": "Sheriff Main",
             "soundName": "",
             "type": "LEO",
@@ -151,7 +163,7 @@
             "permission": 1
         },
         {
-            "id": 11,
+            "id": 12,
             "name": "Sheriff - 1",
             "soundName": "",
             "type": "LEO",
@@ -163,7 +175,7 @@
             "permission": 1
         },
         {
-            "id": 12,
+            "id": 13,
             "name": "Sheriff - 2",
             "soundName": "",
             "type": "LEO",
@@ -175,7 +187,7 @@
             "permission": 1
         },
         {
-            "id": 13,
+            "id": 14,
             "name": "Sheriff - 3",
             "soundName": "",
             "type": "LEO",
@@ -187,31 +199,31 @@
             "permission": 1
         },
         {
-            "id": 14,
+            "id": 15,
             "name": "Sheriff Direct",
             "soundName": "",
             "type": "LEO",
             "coloredName": "[color=cyan]Sheriff Direct[/color]",
             "talkEnforcement": true,
-            "talkAround": false,
-            "scannable": true,
-            "encrypted": false,
-            "permission": 1
-        },
-        {
-            "id": 15,
-            "name": "Sheriff Training",
-            "soundName": "",
-            "type": "LEO",
-            "coloredName": "[color=cyan]Sheriff Training[/color]",
-            "talkEnforcement": true,
-            "talkAround": false,
+            "talkAround": true,
             "scannable": true,
             "encrypted": false,
             "permission": 1
         },
         {
             "id": 16,
+            "name": "Sheriff Training",
+            "soundName": "",
+            "type": "LEO",
+            "coloredName": "[color=cyan]Sheriff Training[/color]",
+            "talkEnforcement": true,
+            "talkAround": true,
+            "scannable": true,
+            "encrypted": false,
+            "permission": 1
+        },
+        {
+            "id": 17,
             "name": "Special Event",
             "soundName": "",
             "type": "LEO",
