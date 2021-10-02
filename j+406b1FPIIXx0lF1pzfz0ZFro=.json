@@ -1,6 +1,6 @@
 {
-    "pluginStatus": true,
-    "isPaid": true,
+    "pluginStatus": false,
+    "isPaid": false,
     "communityName": "State Roleplay",
     "features": {
         "inGameInterface": true,
@@ -136,7 +136,7 @@
             "clientUidList": [""]
         },
         "permAdmin": {
-            "serverGroupList": ["36384","36386"],
+            "serverGroupList": ["36384", "36386"],
             "clientUidList": [""]
         },
         "permSuper": {
