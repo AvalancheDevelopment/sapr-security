@@ -1,7 +1,7 @@
 {
-    "pluginStatus": false,
-    "isPaid": false,
-    "communityName": "delete later",
+    "pluginStatus": true,
+    "isPaid": true,
+    "communityName": "Sunset Valley Roleplay",
     "features": {
         "inGameInterface": true,
         "rangeSimulation": true,
@@ -9,8 +9,8 @@
     },
     "talkAroundRange": 1500,
     "betaServerGroups": [""],
-    "dispatchServerGroups": ["715"],
-    "dispatchAdvancedServerGroups": ["715"],
+    "dispatchServerGroups": ["147", "133"],
+    "dispatchAdvancedServerGroups": [],
     "dispatchNameTags": [
         "(P)",
         "(S)",
@@ -27,8 +27,8 @@
     ],
     "civilianServerGroups": [""],
     "civChannels": [0],
-    "radioSystems": [734],
-    "rtoChannels": [741],
+    "radioSystems": [64],
+    "rtoChannels": [70],
     "radioChannels": [
         {
             "id": 1,
@@ -128,32 +128,25 @@
     },
     "permissions": {
         "permBasic": {
-            "serverGroupList": [""],
-            "clientUidList": [""]
+            "serverGroupList": [""]
         },
         "permExtra": {
-            "serverGroupList": [""],
-            "clientUidList": [""]
+            "serverGroupList": [""]
         },
         "permSit": {
-            "serverGroupList": ["725"],
-            "clientUidList": [""]
+            "serverGroupList": ["162"]
         },
         "permStaff": {
-            "serverGroupList": ["726"],
-            "clientUidList": [""]
+            "serverGroupList": ["161"]
         },
         "permSenior": {
-            "serverGroupList": ["727"],
-            "clientUidList": [""]
+            "serverGroupList": ["160"]
         },
         "permAdmin": {
-            "serverGroupList": ["729", "728"],
-            "clientUidList": [""]
+            "serverGroupList": ["158", "159"]
         },
         "permSuper": {
-            "serverGroupList": ["731", "730"],
-            "clientUidList": [""]
+            "serverGroupList": ["149", "150"]
         }
     }
 }
