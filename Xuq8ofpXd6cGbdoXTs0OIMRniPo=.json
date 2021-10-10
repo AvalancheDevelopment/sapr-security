@@ -1,6 +1,6 @@
 {
-    "pluginStatus": false,
-    "isPaid": false,
+    "pluginStatus": true,
+    "isPaid": true,
     "communityName": "Golden Coast Roleplay",
     "features": {
         "inGameInterface": true,
