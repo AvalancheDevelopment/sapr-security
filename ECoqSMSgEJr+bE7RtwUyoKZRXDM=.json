@@ -44,10 +44,10 @@
         },
         {
             "id": 2,
-            "name": "Fire Ops",
+            "name": "North RTO",
             "soundName": "",
             "type": "LEO",
-            "coloredName": "[color=yellow]Fire Ops[/color]",
+            "coloredName": "[color=blue]North RTO[/color]",
             "talkEnforcement": true,
             "talkAround": false,
             "scannable": true,
@@ -56,6 +56,18 @@
         },
         {
             "id": 3,
+            "name": "South RTO",
+            "soundName": "",
+            "type": "LEO",
+            "coloredName": "[color=blue]South RTO[/color]",
+            "talkEnforcement": true,
+            "talkAround": false,
+            "scannable": true,
+            "encrypted": false,
+            "permission": 1
+        },
+        {
+            "id": 4,
             "name": "Tac 1",
             "soundName": "",
             "type": "LEO",
@@ -67,7 +79,7 @@
             "permission": 1
         },
         {
-            "id": 4,
+            "id": 5,
             "name": "Tac 2",
             "soundName": "",
             "type": "LEO",
@@ -79,7 +91,19 @@
             "permission": 1
         },
         {
-            "id": 5,
+            "id": 6,
+            "name": "Fire/EMS",
+            "soundName": "",
+            "type": "LEO",
+            "coloredName": "[color=yellow]Fire/EMS[/color]",
+            "talkEnforcement": true,
+            "talkAround": false,
+            "scannable": true,
+            "encrypted": false,
+            "permission": 1
+        },
+        {
+            "id": 7,
             "name": "Car/Car",
             "soundName": "",
             "type": "LEO",
@@ -91,27 +115,39 @@
             "permission": 1
         },
         {
-            "id": 6,
-            "name": "Private 1",
+            "id": 8,
+            "name": "Public Service",
             "soundName": "",
             "type": "LEO",
-            "coloredName": "[color=red]Private 1[/color]",
+            "coloredName": "[color=brown]Public Service[/color]",
             "talkEnforcement": true,
             "talkAround": false,
-            "scannable": false,
-            "encrypted": true,
+            "scannable": true,
+            "encrypted": false,
             "permission": 1
         },
         {
-            "id": 7,
-            "name": "Announcements",
+            "id": 10,
+            "name": "ATC",
             "soundName": "",
-            "type": "announce",
-            "coloredName": "[color=red]Announcements[/color]",
+            "type": "LEO",
+            "coloredName": "[color=pink]ATC[/color]",
             "talkEnforcement": true,
             "talkAround": false,
-            "scannable": false,
-            "encrypted": true,
+            "scannable": true,
+            "encrypted": false,
+            "permission": 1
+        },
+        {
+            "id": 11,
+            "name": "Off Duty",
+            "soundName": "",
+            "type": "LEO",
+            "coloredName": "[color=grey]Off Duty[/color]",
+            "talkEnforcement": true,
+            "talkAround": false,
+            "scannable": true,
+            "encrypted": false,
             "permission": 1
         }
     ],
@@ -143,10 +179,10 @@
             "serverGroupList": ["5954"]
         },
         "permAdmin": {
-            "serverGroupList": ["5784","5952"]
+            "serverGroupList": ["5784", "5952"]
         },
         "permSuper": {
-            "serverGroupList": ["5782","5781"]
+            "serverGroupList": ["5782", "5781"]
         }
     }
 }
