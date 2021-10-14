@@ -127,7 +127,7 @@
             "permission": 1
         },
         {
-            "id": 10,
+            "id": 9,
             "name": "ATC",
             "soundName": "",
             "type": "LEO",
@@ -139,7 +139,7 @@
             "permission": 1
         },
         {
-            "id": 11,
+            "id": 10,
             "name": "Off Duty",
             "soundName": "",
             "type": "LEO",
