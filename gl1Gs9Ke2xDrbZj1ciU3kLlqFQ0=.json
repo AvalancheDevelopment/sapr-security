@@ -1,0 +1,200 @@
+{
+    "pluginStatus": true,
+    "isPaid": true,
+    "communityName": "Coastal State Roleplay",
+    "features": {
+        "inGameInterface": true,
+        "rangeSimulation": true,
+        "emergencyHotline": false
+    },
+    "talkAroundRange": 1500,
+    "betaServerGroups": [""],
+    "dispatchServerGroups": ["1919"],
+    "dispatchAdvancedServerGroups": [],
+    "dispatchNameTags": [
+        "(P)",
+        "(S)",
+        "(T)",
+        "(FIRE)",
+        "(QA)",
+        "(EVAL)",
+        "[P]",
+        "[S]",
+        "[T]",
+        "[FIRE]",
+        "[QA]",
+        "[EVAL]"
+    ],
+    "civilianServerGroups": [""],
+    "civChannels": [0],
+    "radioSystems": [4995],
+    "rtoChannels": [4996],
+    "radioChannels": [
+        {
+            "id": 1,
+            "name": "Joint Operations",
+            "soundName": "",
+            "type": "LEO",
+            "coloredName": "[color=purple]Joint Operations[/color]",
+            "talkEnforcement": true,
+            "talkAround": false,
+            "scannable": true,
+            "encrypted": true,
+            "permission": 1
+        },
+        {
+            "id": 2,
+            "name": "LMPD Main",
+            "soundName": "",
+            "type": "LEO",
+            "coloredName": "[color=green]LMPD Main[/color]",
+            "talkEnforcement": true,
+            "talkAround": false,
+            "scannable": true,
+            "encrypted": false,
+            "permission": 1
+        },
+        {
+            "id": 3,
+            "name": "CHP Main",
+            "soundName": "",
+            "type": "LEO",
+            "coloredName": "[color=green]CHP Main[/color]",
+            "talkEnforcement": true,
+            "talkAround": false,
+            "scannable": true,
+            "encrypted": false,
+            "permission": 1
+        },
+        {
+            "id": 4,
+            "name": "LMFD Main",
+            "soundName": "",
+            "type": "LEO",
+            "coloredName": "[color=yellow]LMFD Main[/color]",
+            "talkEnforcement": true,
+            "talkAround": false,
+            "scannable": true,
+            "encrypted": false,
+            "permission": 1
+        },
+        {
+            "id": 5,
+            "name": "LMPD LTAC 1",
+            "soundName": "",
+            "type": "LEO",
+            "coloredName": "[color=purple]LMPD LTAC 1[/color]",
+            "talkEnforcement": true,
+            "talkAround": false,
+            "scannable": true,
+            "encrypted": true,
+            "permission": 1
+        },
+        {
+            "id": 6,
+            "name": "LMPD LTAC 2",
+            "soundName": "",
+            "type": "LEO",
+            "coloredName": "[color=purple]LMPD LTAC 2[/color]",
+            "talkEnforcement": true,
+            "talkAround": false,
+            "scannable": true,
+            "encrypted": true,
+            "permission": 1
+        },
+        {
+            "id": 7,
+            "name": "CHP LTAC 1",
+            "soundName": "",
+            "type": "LEO",
+            "coloredName": "[color=purple]CHP LTAC 1[/color]",
+            "talkEnforcement": true,
+            "talkAround": false,
+            "scannable": true,
+            "encrypted": true,
+            "permission": 1
+        },
+        {
+            "id": 8,
+            "name": "CHP LTAC 2",
+            "soundName": "",
+            "type": "LEO",
+            "coloredName": "[color=purple]CHP LTAC 2[/color]",
+            "talkEnforcement": true,
+            "talkAround": false,
+            "scannable": true,
+            "encrypted": true,
+            "permission": 1
+        },
+        {
+            "id": 9,
+            "name": "LMPD Car/Car",
+            "soundName": "",
+            "type": "LEO",
+            "coloredName": "[color=grey]LMPD Car/Car[/color]",
+            "talkEnforcement": true,
+            "talkAround": true,
+            "scannable": true,
+            "encrypted": false,
+            "permission": 1
+        },
+        {
+            "id": 10,
+            "name": "CHP Car/Car",
+            "soundName": "",
+            "type": "LEO",
+            "coloredName": "[color=grey]CHP Car/Car[/color]",
+            "talkEnforcement": true,
+            "talkAround": true,
+            "scannable": true,
+            "encrypted": false,
+            "permission": 1
+        },
+        {
+            "id": 11,
+            "name": "LMFD Scene Operations",
+            "soundName": "",
+            "type": "LEO",
+            "coloredName": "[color=grey]LMFD Scene Operations[/color]",
+            "talkEnforcement": true,
+            "talkAround": true,
+            "scannable": true,
+            "encrypted": false,
+            "permission": 1
+        }
+    ],
+    "time_settings": {
+        "emergencyOverridePeriod": 10,
+        "emergencyCooldown": 30,
+        "emergencyOtherCooldown": 20,
+        "dispatchToneCooldown": 15,
+        "radioStunCooldown": 5,
+        "radioPingCooldown": 10,
+        "911Cooldown": 30,
+        "commandStunPeriod": 300,
+        "toneWaitTalkPeriod": 5
+    },
+    "permissions": {
+        "permBasic": {
+            "serverGroupList": [""]
+        },
+        "permExtra": {
+            "serverGroupList": [""]
+        },
+        "permSit": {
+            "serverGroupList": [""]
+        },
+        "permStaff": {
+            "serverGroupList": ["1918"]
+        },
+        "permSenior": {
+            "serverGroupList": [""]
+        },
+        "permAdmin": {
+            "serverGroupList": ["1917"]
+        },
+        "permSuper": {
+            "serverGroupList": ["1916"]
+        }
+    }
+}
