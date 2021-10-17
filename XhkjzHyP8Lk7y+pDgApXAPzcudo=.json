@@ -221,6 +221,30 @@
             "scannable": true,
             "encrypted": false,
             "permission": 1
+        },
+        {
+            "id": 17,
+            "name": "City 1",
+            "soundName": "",
+            "type": "LEO",
+            "coloredName": "[color=green]City 1[/color]",
+            "talkEnforcement": true,
+            "talkAround": false,
+            "scannable": true,
+            "encrypted": false,
+            "permission": 1
+        },
+        {
+            "id": 18,
+            "name": "City 2",
+            "soundName": "",
+            "type": "LEO",
+            "coloredName": "[color=green]City 2[/color]",
+            "talkEnforcement": true,
+            "talkAround": false,
+            "scannable": true,
+            "encrypted": false,
+            "permission": 1
         }
     ],
     "time_settings": {
