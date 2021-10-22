@@ -32,10 +32,10 @@
     "radioChannels": [
         {
             "id": 1,
-            "name": "LS Radio",
+            "name": "Patrol Ops",
             "soundName": "",
             "type": "LEO",
-            "coloredName": "[color=green]LS Radio[/color]",
+            "coloredName": "[color=green]Patrol Ops[/color]",
             "talkEnforcement": true,
             "talkAround": false,
             "scannable": true,
@@ -44,18 +44,6 @@
         },
         {
             "id": 2,
-            "name": "BC Radio",
-            "soundName": "",
-            "type": "LEO",
-            "coloredName": "[color=green]BC Radio[/color]",
-            "talkEnforcement": true,
-            "talkAround": false,
-            "scannable": true,
-            "encrypted": false,
-            "permission": 1
-        },
-        {
-            "id": 3,
             "name": "Tac 1",
             "soundName": "",
             "type": "LEO",
@@ -67,7 +55,7 @@
             "permission": 1
         },
         {
-            "id": 4,
+            "id": 3,
             "name": "Tac 2",
             "soundName": "",
             "type": "LEO",
@@ -79,7 +67,7 @@
             "permission": 1
         },
         {
-            "id": 5,
+            "id": 4,
             "name": "Tac 3",
             "soundName": "",
             "type": "LEO",
@@ -91,7 +79,7 @@
             "permission": 1
         },
         {
-            "id": 6,
+            "id": 5,
             "name": "LS 10-1",
             "soundName": "",
             "type": "LEO",
@@ -103,7 +91,7 @@
             "permission": 1
         },
         {
-            "id": 7,
+            "id": 6,
             "name": "BC 10-1",
             "soundName": "",
             "type": "LEO",
@@ -115,7 +103,7 @@
             "permission": 1
         },
         {
-            "id": 8,
+            "id": 7,
             "name": "FD Radio",
             "soundName": "",
             "type": "LEO",
@@ -127,7 +115,7 @@
             "permission": 1
         },
         {
-            "id": 9,
+            "id": 8,
             "name": "Car/Car",
             "soundName": "",
             "type": "LEO",
