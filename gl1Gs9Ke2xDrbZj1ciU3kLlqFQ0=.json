@@ -47,7 +47,7 @@
             "name": "LASP 13",
             "soundName": "",
             "type": "LEO",
-            "coloredName": "[color=green]LASP 13[/color]",
+            "coloredName": "[color=green]LASD 13[/color]",
             "talkEnforcement": true,
             "talkAround": false,
             "scannable": true,
@@ -176,7 +176,7 @@
         },
         {
             "id": 13,
-            "name": "LAPD Local",
+            "name": "LASD Local",
             "soundName": "",
             "type": "LEO",
             "coloredName": "[color=grey]LAPD Local[/color]",
