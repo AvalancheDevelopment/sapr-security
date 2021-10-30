@@ -44,7 +44,7 @@
         },
         {
             "id": 2,
-            "name": "LASP 13",
+            "name": "LASD 13",
             "soundName": "",
             "type": "LEO",
             "coloredName": "[color=green]LASD 13[/color]",
@@ -56,10 +56,10 @@
         },
         {
             "id": 3,
-            "name": "LAPD 06",
+            "name": "LAPD 12",
             "soundName": "",
             "type": "LEO",
-            "coloredName": "[color=green]LAPD 06[/color]",
+            "coloredName": "[color=green]LAPD 12[/color]",
             "talkEnforcement": true,
             "talkAround": false,
             "scannable": true,
