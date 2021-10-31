@@ -1,6 +1,6 @@
 {
-    "pluginStatus": false,
-    "isPaid": false,
+    "pluginStatus": true,
+    "isPaid": true,
     "communityName": "Integrity Gaming",
     "features": {
         "inGameInterface": true,
@@ -10,7 +10,7 @@
     "talkAroundRange": 1500,
     "betaServerGroups": [""],
     "dispatchServerGroups": ["30027"],
-    "dispatchAdvancedServerGroups": ["30027", "29998", "30002"],
+    "dispatchAdvancedServerGroups": [],
     "dispatchNameTags": [
         "(P)",
         "(S)",
@@ -27,8 +27,8 @@
     ],
     "civilianServerGroups": [""],
     "civChannels": [0],
-    "radioSystems": [87972],
-    "rtoChannels": [87973],
+    "radioSystems": [88750],
+    "rtoChannels": [88751],
     "radioChannels": [
         {
             "id": 1,
@@ -152,7 +152,7 @@
             "clientUidList": [""]
         },
         "permStaff": {
-            "serverGroupList": [""],
+            "serverGroupList": ["30350"],
             "clientUidList": [""]
         },
         "permSenior": {
@@ -164,7 +164,7 @@
             "clientUidList": [""]
         },
         "permSuper": {
-            "serverGroupList": ["29998", "30002"],
+            "serverGroupList": ["29998"],
             "clientUidList": [""]
         }
     }
