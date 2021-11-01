@@ -32,6 +32,18 @@
     "radioChannels": [
         {
             "id": 1,
+            "name": "Statewide",
+            "soundName": "",
+            "type": "LEO",
+            "coloredName": "[color=cyan]Statewide[/color]",
+            "talkEnforcement": true,
+            "talkAround": false,
+            "scannable": true,
+            "encrypted": false,
+            "permission": 1
+        },
+        {
+            "id": 2,
             "name": "Los Santos",
             "soundName": "",
             "type": "LEO",
@@ -43,23 +55,11 @@
             "permission": 1
         },
         {
-            "id": 2,
+            "id": 3,
             "name": "Blaine County",
             "soundName": "",
             "type": "LEO",
             "coloredName": "[color=cyan]Blaine County[/color]",
-            "talkEnforcement": true,
-            "talkAround": false,
-            "scannable": true,
-            "encrypted": false,
-            "permission": 1
-        },
-        {
-            "id": 3,
-            "name": "Statewide",
-            "soundName": "",
-            "type": "LEO",
-            "coloredName": "[color=cyan]Statewide[/color]",
             "talkEnforcement": true,
             "talkAround": false,
             "scannable": true,
@@ -111,6 +111,30 @@
             "talkEnforcement": true,
             "talkAround": false,
             "scannable": true,
+            "encrypted": true,
+            "permission": 1
+        },
+        {
+            "id": 8,
+            "name": "10-1 A",
+            "soundName": "",
+            "type": "LEO",
+            "coloredName": "[color=red]10-1 A[/color]",
+            "talkEnforcement": true,
+            "talkAround": false,
+            "scannable": false,
+            "encrypted": true,
+            "permission": 1
+        },
+        {
+            "id": 9,
+            "name": "10-1 B",
+            "soundName": "",
+            "type": "LEO",
+            "coloredName": "[color=red]10-1 B[/color]",
+            "talkEnforcement": true,
+            "talkAround": false,
+            "scannable": false,
             "encrypted": true,
             "permission": 1
         }
