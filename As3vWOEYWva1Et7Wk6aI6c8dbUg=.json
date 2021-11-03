@@ -137,6 +137,30 @@
             "scannable": true,
             "encrypted": false,
             "permission": 1
+        },
+        {
+            "id": 10,
+            "name": "SOSA Fleet",
+            "soundName": "",
+            "type": "LEO",
+            "coloredName": "[color=brown]SOSA Fleet[/color]",
+            "talkEnforcement": true,
+            "talkAround": true,
+            "scannable": true,
+            "encrypted": false,
+            "permission": 1
+        },
+        {
+            "id": 11,
+            "name": "SOSA Dev",
+            "soundName": "",
+            "type": "LEO",
+            "coloredName": "[color=brown]SOSA Dev[/color]",
+            "talkEnforcement": true,
+            "talkAround": true,
+            "scannable": true,
+            "encrypted": false,
+            "permission": 1
         }
     ],
     "time_settings": {
