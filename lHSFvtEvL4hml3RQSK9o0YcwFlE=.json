@@ -1,6 +1,6 @@
 {
-    "pluginStatus": true,
-    "isPaid": true,
+    "pluginStatus": false,
+    "isPaid": false,
     "communityName": "Legacy Roleplay",
     "features": {
         "inGameInterface": true,
@@ -8,7 +8,7 @@
         "emergencyHotline": false
     },
     "talkAroundRange": 1500,
-    "betaServerGroups": ["20874", "20875"],
+    "betaServerGroups": [],
     "dispatchServerGroups": ["20873"],
     "dispatchAdvancedServerGroups": ["20873"],
     "dispatchNameTags": [
