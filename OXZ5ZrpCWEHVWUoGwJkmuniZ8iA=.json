@@ -33,7 +33,7 @@
         {
             "id": 1,
             "name": "City",
-            "soundName": "",
+            "soundName": "CH_City",
             "type": "LEO",
             "coloredName": "[color=green]City[/color]",
             "talkEnforcement": true,
@@ -45,7 +45,7 @@
         {
             "id": 2,
             "name": "State",
-            "soundName": "",
+            "soundName": "CH_State",
             "type": "LEO",
             "coloredName": "[color=green]State[/color]",
             "talkEnforcement": true,
@@ -57,7 +57,7 @@
         {
             "id": 3,
             "name": "County",
-            "soundName": "",
+            "soundName": "CH_County",
             "type": "LEO",
             "coloredName": "[color=green]County[/color]",
             "talkEnforcement": true,
@@ -69,7 +69,7 @@
         {
             "id": 4,
             "name": "Fire Ops",
-            "soundName": "",
+            "soundName": "CH_FireOps",
             "type": "LEO",
             "coloredName": "[color=yellow]Fire Ops[/color]",
             "talkEnforcement": true,
@@ -81,7 +81,7 @@
         {
             "id": 5,
             "name": "Fire/LEO Shared",
-            "soundName": "",
+            "soundName": "CH_Shared",
             "type": "LEO",
             "coloredName": "[color=cyan]Fire/LEO Shared[/color]",
             "talkEnforcement": true,
@@ -93,7 +93,7 @@
         {
             "id": 6,
             "name": "Tac 1",
-            "soundName": "",
+            "soundName": "CH_Tac1",
             "type": "LEO",
             "coloredName": "[color=purple]Tac 1[/color]",
             "talkEnforcement": true,
@@ -105,7 +105,7 @@
         {
             "id": 7,
             "name": "Tac 2",
-            "soundName": "",
+            "soundName": "CH_Tac2",
             "type": "LEO",
             "coloredName": "[color=purple]Tac 2[/color]",
             "talkEnforcement": true,
@@ -117,7 +117,7 @@
         {
             "id": 8,
             "name": "Car/Car",
-            "soundName": "",
+            "soundName": "CH_CarToCar",
             "type": "LEO",
             "coloredName": "[color=grey]Car/Car[/color]",
             "talkEnforcement": true,
@@ -129,7 +129,7 @@
         {
             "id": 9,
             "name": "Bail Enforcement",
-            "soundName": "",
+            "soundName": "CH_BailEnforcement",
             "type": "LEO",
             "coloredName": "[color=blue]Bail Enforcement[/color]",
             "talkEnforcement": true,
@@ -141,7 +141,7 @@
         {
             "id": 10,
             "name": "Training",
-            "soundName": "",
+            "soundName": "CH_Training",
             "type": "LEO",
             "coloredName": "[color=red]Training[/color]",
             "talkEnforcement": true,
