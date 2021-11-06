@@ -149,6 +149,18 @@
             "scannable": true,
             "encrypted": false,
             "permission": 1
+        },
+        {
+            "id": 11,
+            "name": "SA DOT",
+            "soundName": "CH_SADOT",
+            "type": "LEO",
+            "coloredName": "[color=brown]SA DOT[/color]",
+            "talkEnforcement": true,
+            "talkAround": false,
+            "scannable": true,
+            "encrypted": false,
+            "permission": 1
         }
     ],
     "time_settings": {
