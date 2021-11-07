@@ -1,6 +1,6 @@
 {
-    "pluginStatus": true,
-    "isPaid": true,
+    "pluginStatus": false,
+    "isPaid": false,
     "communityName": "Bayline RP",
     "features": {
         "inGameInterface": true,
@@ -10,7 +10,7 @@
     "talkAroundRange": 1500,
     "betaServerGroups": [""],
     "dispatchServerGroups": ["23287", "23294"],
-    "dispatchAdvancedServerGroups": ["23287", "23294","23177"],
+    "dispatchAdvancedServerGroups": ["23287", "23294", "23177"],
     "dispatchNameTags": [
         "(P)",
         "(S)",
