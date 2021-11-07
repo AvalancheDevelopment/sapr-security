@@ -32,10 +32,10 @@
     "radioChannels": [
         {
             "id": 1,
-            "name": "City",
-            "soundName": "CH_City",
+            "name": "Metro",
+            "soundName": "CH_Metro",
             "type": "LEO",
-            "coloredName": "[color=green]City[/color]",
+            "coloredName": "[color=green]Metro[/color]",
             "talkEnforcement": true,
             "talkAround": false,
             "scannable": true,
@@ -56,10 +56,10 @@
         },
         {
             "id": 3,
-            "name": "County",
-            "soundName": "CH_County",
+            "name": "Sheriff",
+            "soundName": "CH_Sheriff",
             "type": "LEO",
-            "coloredName": "[color=green]County[/color]",
+            "coloredName": "[color=green]Sheriff[/color]",
             "talkEnforcement": true,
             "talkAround": false,
             "scannable": true,
