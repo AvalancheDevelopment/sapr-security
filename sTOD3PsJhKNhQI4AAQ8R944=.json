@@ -1,7 +1,7 @@
 {
-    "pluginStatus": false,
-    "isPaid": false,
-    "communityName": "delete later",
+    "pluginStatus": true,
+    "isPaid": true,
+    "communityName": "Narmada Springs RP",
     "features": {
         "inGameInterface": true,
         "rangeSimulation": true,
@@ -9,7 +9,7 @@
     },
     "talkAroundRange": 1500,
     "betaServerGroups": [""],
-    "dispatchServerGroups": ["178"],
+    "dispatchServerGroups": ["211", "202"],
     "dispatchAdvancedServerGroups": [],
     "dispatchNameTags": [
         "(P)",
@@ -27,8 +27,8 @@
     ],
     "civilianServerGroups": [""],
     "civChannels": [0],
-    "radioSystems": [13],
-    "rtoChannels": [14],
+    "radioSystems": [35, 44, 52],
+    "rtoChannels": [38, 48, 56],
     "radioChannels": [
         {
             "id": 1,
@@ -134,19 +134,19 @@
             "serverGroupList": [""]
         },
         "permSit": {
-            "serverGroupList": ["183"]
+            "serverGroupList": ["217"]
         },
         "permStaff": {
-            "serverGroupList": ["184"]
+            "serverGroupList": ["218"]
         },
         "permSenior": {
-            "serverGroupList": ["185"]
+            "serverGroupList": ["219"]
         },
         "permAdmin": {
-            "serverGroupList": ["187", "186"]
+            "serverGroupList": ["220", "221"]
         },
         "permSuper": {
-            "serverGroupList": ["189", "188"]
+            "serverGroupList": ["222", "223"]
         }
     }
 }
