@@ -9,8 +9,8 @@
     },
     "talkAroundRange": 1500,
     "betaServerGroups": [""],
-    "dispatchServerGroups": ["11131", "11125"],
-    "dispatchAdvancedServerGroups": ["11131", "11125", "11316", "11140"],
+    "dispatchServerGroups": ["11676"],
+    "dispatchAdvancedServerGroups": [],
     "dispatchNameTags": [
         "(P)",
         "(S)",
@@ -27,8 +27,8 @@
     ],
     "civilianServerGroups": [""],
     "civChannels": [0],
-    "radioSystems": [22951, 23500, 23714],
-    "rtoChannels": [22954, 23503, 23717],
+    "radioSystems": [23900, 23910],
+    "rtoChannels": [23904, 23914],
     "radioChannels": [
         {
             "id": 1,
@@ -101,6 +101,18 @@
             "scannable": false,
             "encrypted": true,
             "permission": 1
+        },
+        {
+            "id": 7,
+            "name": "Private 2",
+            "soundName": "",
+            "type": "LEO",
+            "coloredName": "[color=red]Private 2[/color]",
+            "talkEnforcement": true,
+            "talkAround": false,
+            "scannable": false,
+            "encrypted": true,
+            "permission": 1
         }
     ],
     "time_settings": {
@@ -116,7 +128,7 @@
     },
     "permissions": {
         "permBasic": {
-            "serverGroupList": ["11135"],
+            "serverGroupList": [],
             "clientUidList": [""]
         },
         "permExtra": {
@@ -124,23 +136,23 @@
             "clientUidList": [""]
         },
         "permSit": {
-            "serverGroupList": ["11465"],
+            "serverGroupList": ["12016"],
             "clientUidList": [""]
         },
         "permStaff": {
-            "serverGroupList": ["11136", "11393"],
+            "serverGroupList": ["11687"],
             "clientUidList": [""]
         },
         "permSenior": {
-            "serverGroupList": ["11137"],
+            "serverGroupList": ["11688"],
             "clientUidList": [""]
         },
         "permAdmin": {
-            "serverGroupList": ["11139", "11138"],
+            "serverGroupList": ["11689", "11690"],
             "clientUidList": [""]
         },
         "permSuper": {
-            "serverGroupList": ["11140", "11316"],
+            "serverGroupList": ["11687", "11691"],
             "clientUidList": [""]
         }
     }
