@@ -9,8 +9,8 @@
     },
     "talkAroundRange": 1500,
     "betaServerGroups": [""],
-    "dispatchServerGroups": ["628"],
-    "dispatchAdvancedServerGroups": [],
+    "dispatchServerGroups": ["628", "613"],
+    "dispatchAdvancedServerGroups": ["628", "613"],
     "dispatchNameTags": [
         "(P)",
         "(S)",
