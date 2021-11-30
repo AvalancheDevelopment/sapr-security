@@ -1,7 +1,7 @@
 {
-    "pluginStatus": true,
-    "isPaid": true,
-    "communityName": "Western State Roleplay ",
+    "pluginStatus": false,
+    "isPaid": false,
+    "communityName": "Western State Roleplay",
     "features": {
         "inGameInterface": true,
         "rangeSimulation": true,
