@@ -1,6 +1,6 @@
 {
-    "pluginStatus": true,
-    "isPaid": true,
+    "pluginStatus": false,
+    "isPaid": false,
     "communityName": "GTAKING23000's FivePD Server",
     "features": {
         "inGameInterface": true,
