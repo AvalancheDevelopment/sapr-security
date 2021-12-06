@@ -36,15 +36,15 @@
     ],
     "civilianServerGroups": [""],
     "civChannels": [0],
-    "radioSystems": [62027],
-    "rtoChannels": [62018],
+    "radioSystems": [63013],
+    "rtoChannels": [63018],
     "radioChannels": [
         {
             "id": 1,
-            "name": "Emergency Services",
+            "name": "Patrol Channel",
             "soundName": "",
             "type": "LEO",
-            "coloredName": "[color=green]Emergency Services[/color]",
+            "coloredName": "[color=green]Patrol Channel[/color]",
             "talkEnforcement": true,
             "talkAround": false,
             "scannable": true,
@@ -53,6 +53,18 @@
         },
         {
             "id": 2,
+            "name": "Fire Operations",
+            "soundName": "",
+            "type": "LEO",
+            "coloredName": "[color=yellow]Fire Operations[/color]",
+            "talkEnforcement": true,
+            "talkAround": false,
+            "scannable": true,
+            "encrypted": false,
+            "permission": 1
+        },
+        {
+            "id": 3,
             "name": "Tac Channel",
             "soundName": "",
             "type": "LEO",
@@ -61,18 +73,6 @@
             "talkAround": false,
             "scannable": true,
             "encrypted": true,
-            "permission": 1
-        },
-        {
-            "id": 3,
-            "name": "Fire Comms",
-            "soundName": "",
-            "type": "LEO",
-            "coloredName": "[color=yellow]Fire Comms[/color]",
-            "talkEnforcement": true,
-            "talkAround": false,
-            "scannable": true,
-            "encrypted": false,
             "permission": 1
         },
         {
@@ -88,19 +88,7 @@
             "permission": 1
         },
         {
-            "id": 6,
-            "name": "Private 1",
-            "soundName": "",
-            "type": "LEO",
-            "coloredName": "[color=red]Private 1[/color]",
-            "talkEnforcement": true,
-            "talkAround": false,
-            "scannable": false,
-            "encrypted": true,
-            "permission": 1
-        },
-        {
-            "id": 7,
+            "id": 5,
             "name": "Announcements",
             "soundName": "",
             "type": "announce",
