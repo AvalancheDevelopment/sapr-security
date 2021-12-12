@@ -145,7 +145,7 @@
             "type": "LEO",
             "coloredName": "[color=brown]SOSA Fleet[/color]",
             "talkEnforcement": true,
-            "talkAround": true,
+            "talkAround": false,
             "scannable": true,
             "encrypted": false,
             "permission": 1
@@ -157,7 +157,19 @@
             "type": "LEO",
             "coloredName": "[color=brown]SOSA Dev[/color]",
             "talkEnforcement": true,
-            "talkAround": true,
+            "talkAround": false,
+            "scannable": true,
+            "encrypted": false,
+            "permission": 1
+        },
+        {
+            "id": 12,
+            "name": "SOSA DOT",
+            "soundName": "",
+            "type": "LEO",
+            "coloredName": "[color=brown]SOSA DOT[/color]",
+            "talkEnforcement": true,
+            "talkAround": false,
             "scannable": true,
             "encrypted": false,
             "permission": 1
