@@ -1,7 +1,7 @@
 {
-    "pluginStatus": false,
-    "isPaid": false,
-    "communityName": "Pacific Side Role-Play",
+    "pluginStatus": true,
+    "isPaid": true,
+    "communityName": "Coastal Valley Role-Play",
     "features": {
         "inGameInterface": true,
         "rangeSimulation": true,
