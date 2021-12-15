@@ -1,16 +1,16 @@
 {
-    "pluginStatus": false,
-    "isPaid": false,
-    "communityName": "delete later",
+    "pluginStatus": true,
+    "isPaid": true,
+    "communityName": "Come Up Roleplay",
     "features": {
         "inGameInterface": true,
         "rangeSimulation": true,
-        "emergencyHotline": false
+        "emergencyHotline": true
     },
     "talkAroundRange": 1500,
     "betaServerGroups": [""],
-    "dispatchServerGroups": ["26"],
-    "dispatchAdvancedServerGroups": ["26"],
+    "dispatchServerGroups": ["10"],
+    "dispatchAdvancedServerGroups": [],
     "dispatchNameTags": [
         "(P)",
         "(S)",
@@ -27,8 +27,8 @@
     ],
     "civilianServerGroups": [""],
     "civChannels": [0],
-    "radioSystems": [26],
-    "rtoChannels": [29, 44, 45],
+    "radioSystems": [5],
+    "rtoChannels": [6],
     "radioChannels": [
         {
             "id": 1,
@@ -140,32 +140,25 @@
     },
     "permissions": {
         "permBasic": {
-            "serverGroupList": [""],
-            "clientUidList": [""]
+            "serverGroupList": [""]
         },
         "permExtra": {
-            "serverGroupList": [""],
-            "clientUidList": [""]
+            "serverGroupList": [""]
         },
         "permSit": {
-            "serverGroupList": [""],
-            "clientUidList": [""]
+            "serverGroupList": [""]
         },
         "permStaff": {
-            "serverGroupList": [""],
-            "clientUidList": [""]
+            "serverGroupList": [""]
         },
         "permSenior": {
-            "serverGroupList": [""],
-            "clientUidList": [""]
+            "serverGroupList": [""]
         },
         "permAdmin": {
-            "serverGroupList": ["24"],
-            "clientUidList": [""]
+            "serverGroupList": [""]
         },
         "permSuper": {
-            "serverGroupList": ["6", "23"],
-            "clientUidList": [""]
+            "serverGroupList": ["6"]
         }
     }
 }
