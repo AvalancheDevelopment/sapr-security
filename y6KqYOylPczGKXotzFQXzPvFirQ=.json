@@ -145,7 +145,7 @@
             "type": "LEO",
             "coloredName": "[color=grey]Tow[/color]",
             "talkEnforcement": true,
-            "talkAround": true,
+            "talkAround": false,
             "scannable": true,
             "encrypted": false,
             "permission": 1
@@ -157,7 +157,7 @@
             "type": "LEO",
             "coloredName": "[color=grey]Gruppe 6[/color]",
             "talkEnforcement": true,
-            "talkAround": true,
+            "talkAround": false,
             "scannable": true,
             "encrypted": false,
             "permission": 1
