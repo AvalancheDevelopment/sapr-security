@@ -29,8 +29,8 @@
     ],
     "civilianServerGroups": [""],
     "civChannels": [0],
-    "radioSystems": [132, 140, 147, 150],
-    "rtoChannels": [135, 143, 149, 154],
+    "radioSystems": [132, 140, 147, 150, 4958],
+    "rtoChannels": [135, 143, 149, 154, 4959],
     "radioChannels": [
         {
             "id": 1,
@@ -65,6 +65,7 @@
             "talkEnforcement": true,
             "talkAround": true,
             "scannable": true,
+            "defaultScanned": true,
             "encrypted": true,
             "permission": 1
         },
