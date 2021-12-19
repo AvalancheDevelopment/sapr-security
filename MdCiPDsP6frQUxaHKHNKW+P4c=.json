@@ -148,11 +148,11 @@
             "clientUidList": [""]
         },
         "permAdmin": {
-            "serverGroupList": ["265", "266"],
+            "serverGroupList": ["265", "266", "264"],
             "clientUidList": [""]
         },
         "permSuper": {
-            "serverGroupList": ["264"],
+            "serverGroupList": ["10", "11", "12"],
             "clientUidList": [""]
         }
     }
