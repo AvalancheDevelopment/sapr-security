@@ -1,7 +1,7 @@
 {
-    "pluginStatus": false,
-    "isPaid": false,
-    "communityName": "delete later",
+    "pluginStatus": true,
+    "isPaid": true,
+    "communityName": "Coastal Roleplay",
     "features": {
         "inGameInterface": true,
         "rangeSimulation": true,
@@ -9,7 +9,7 @@
     },
     "talkAroundRange": 1500,
     "betaServerGroups": [""],
-    "dispatchServerGroups": ["412"],
+    "dispatchServerGroups": ["22"],
     "dispatchAdvancedServerGroups": [],
     "dispatchNameTags": [
         "(P)",
@@ -27,8 +27,8 @@
     ],
     "civilianServerGroups": [""],
     "civChannels": [0],
-    "radioSystems": [31, 482],
-    "rtoChannels": [2, 476],
+    "radioSystems": [2],
+    "rtoChannels": [3],
     "radioChannels": [
         {
             "id": 1,
@@ -134,19 +134,19 @@
             "serverGroupList": [""]
         },
         "permSit": {
-            "serverGroupList": ["429"]
+            "serverGroupList": [""]
         },
         "permStaff": {
-            "serverGroupList": ["427"]
+            "serverGroupList": [""]
         },
         "permSenior": {
-            "serverGroupList": ["426"]
+            "serverGroupList": [""]
         },
         "permAdmin": {
-            "serverGroupList": ["424"]
+            "serverGroupList": [""]
         },
         "permSuper": {
-            "serverGroupList": ["422"]
+            "serverGroupList": [""]
         }
     }
 }
