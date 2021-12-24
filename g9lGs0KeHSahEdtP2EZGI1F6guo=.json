@@ -1,7 +1,7 @@
 {
     "pluginStatus": true,
     "isPaid": true,
-    "communityName": "delete later",
+    "communityName": "Flashing Lights Roleplay",
     "features": {
         "inGameInterface": true,
         "rangeSimulation": true,
@@ -9,7 +9,7 @@
     },
     "talkAroundRange": 1500,
     "betaServerGroups": [""],
-    "dispatchServerGroups": ["74"],
+    "dispatchServerGroups": [""],
     "dispatchAdvancedServerGroups": [],
     "dispatchNameTags": [
         "(P)",
@@ -27,8 +27,8 @@
     ],
     "civilianServerGroups": [""],
     "civChannels": [0],
-    "radioSystems": [43],
-    "rtoChannels": [81],
+    "radioSystems": [8],
+    "rtoChannels": [10],
     "radioChannels": [
         {
             "id": 1,
