@@ -1,6 +1,6 @@
 {
-    "pluginStatus": false,
-    "isPaid": false,
+    "pluginStatus": true,
+    "isPaid": true,
     "communityName": "BayAreaRoleplay",
     "features": {
         "inGameInterface": true,
@@ -9,8 +9,8 @@
     },
     "talkAroundRange": 1500,
     "betaServerGroups": [""],
-    "dispatchServerGroups": ["45057"],
-    "dispatchAdvancedServerGroups": ["45057", "45066"],
+    "dispatchServerGroups": ["45045", "45057"],
+    "dispatchAdvancedServerGroups": [],
     "dispatchNameTags": [
         "(P)",
         "(S)",
@@ -116,7 +116,7 @@
     },
     "permissions": {
         "permBasic": {
-            "serverGroupList": ["45070", "45114"],
+            "serverGroupList": [],
             "clientUidList": [""]
         },
         "permExtra": {
@@ -136,7 +136,7 @@
             "clientUidList": [""]
         },
         "permAdmin": {
-            "serverGroupList": ["45059", "45058"],
+            "serverGroupList": ["45059", "45058", "45114"],
             "clientUidList": [""]
         },
         "permSuper": {
