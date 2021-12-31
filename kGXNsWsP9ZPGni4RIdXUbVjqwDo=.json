@@ -1,0 +1,188 @@
+{
+    "pluginStatus": true,
+    "isPaid": true,
+    "communityName": "Northern Illinois Department of Justice",
+    "features": {
+        "inGameInterface": true,
+        "rangeSimulation": true,
+        "emergencyHotline": true
+    },
+    "talkAroundRange": 1500,
+    "betaServerGroups": [""],
+    "dispatchServerGroups": ["5"],
+    "dispatchAdvancedServerGroups": [],
+    "dispatchNameTags": [
+        "(P)",
+        "(S)",
+        "(T)",
+        "(FIRE)",
+        "(QA)",
+        "(EVAL)",
+        "[P]",
+        "[S]",
+        "[T]",
+        "[FIRE]",
+        "[QA]",
+        "[EVAL]"
+    ],
+    "civilianServerGroups": [""],
+    "civChannels": [0],
+    "radioSystems": [2],
+    "rtoChannels": [3],
+    "radioChannels": [
+        {
+            "id": 1,
+            "name": "Central Dispatch of N. Il.",
+            "soundName": "",
+            "type": "LEO",
+            "coloredName": "[color=green]Central Dispatch of N. Il.[/color]",
+            "talkEnforcement": true,
+            "talkAround": false,
+            "scannable": true,
+            "encrypted": false,
+            "permission": 1
+        },
+        {
+            "id": 2,
+            "name": "Lake County Dispatch",
+            "soundName": "",
+            "type": "LEO",
+            "coloredName": "[color=green]Lake County Dispatch[/color]",
+            "talkEnforcement": true,
+            "talkAround": false,
+            "scannable": true,
+            "encrypted": false,
+            "permission": 1
+        },
+        {
+            "id": 3,
+            "name": "Cook County Dispatch",
+            "soundName": "",
+            "type": "LEO",
+            "coloredName": "[color=green]Cook County Dispatch[/color]",
+            "talkEnforcement": true,
+            "talkAround": false,
+            "scannable": true,
+            "encrypted": false,
+            "permission": 1
+        },
+        {
+            "id": 4,
+            "name": "Chicago Police Dispatch",
+            "soundName": "",
+            "type": "LEO",
+            "coloredName": "[color=green]Chicago Police Dispatch[/color]",
+            "talkEnforcement": true,
+            "talkAround": false,
+            "scannable": true,
+            "encrypted": false,
+            "permission": 1
+        },
+        {
+            "id": 5,
+            "name": "Chicago Fire Dispatch",
+            "soundName": "",
+            "type": "LEO",
+            "coloredName": "[color=yellow]Chicago Fire Dispatch[/color]",
+            "talkEnforcement": true,
+            "talkAround": false,
+            "scannable": true,
+            "encrypted": false,
+            "permission": 1
+        },
+        {
+            "id": 6,
+            "name": "N. Il. Fire Dispatch",
+            "soundName": "",
+            "type": "LEO",
+            "coloredName": "[color=yellow]N. Il. Fire Dispatch[/color]",
+            "talkEnforcement": true,
+            "talkAround": false,
+            "scannable": true,
+            "encrypted": false,
+            "permission": 1
+        },
+        {
+            "id": 7,
+            "name": "N. Il. MABAS Dispatch",
+            "soundName": "",
+            "type": "LEO",
+            "coloredName": "[color=orange]N. Il. MABAS Dispatch[/color]",
+            "talkEnforcement": true,
+            "talkAround": false,
+            "scannable": true,
+            "encrypted": false,
+            "permission": 1
+        },
+        {
+            "id": 8,
+            "name": "Car/Car 1",
+            "soundName": "",
+            "type": "LEO",
+            "coloredName": "[color=grey]Car/Car 1[/color]",
+            "talkEnforcement": true,
+            "talkAround": true,
+            "scannable": true,
+            "encrypted": false,
+            "permission": 1
+        },
+        {
+            "id": 9,
+            "name": "Car/Car 2",
+            "soundName": "",
+            "type": "LEO",
+            "coloredName": "[color=grey]Car/Car 2[/color]",
+            "talkEnforcement": true,
+            "talkAround": true,
+            "scannable": true,
+            "encrypted": false,
+            "permission": 1
+        },
+        {
+            "id": 10,
+            "name": "Scene Management Dispatch",
+            "soundName": "",
+            "type": "LEO",
+            "coloredName": "[color=grey]Scene Management Dispatch[/color]",
+            "talkEnforcement": true,
+            "talkAround": true,
+            "scannable": true,
+            "encrypted": false,
+            "permission": 1
+        }
+    ],
+    "time_settings": {
+        "emergencyOverridePeriod": 10,
+        "emergencyCooldown": 30,
+        "emergencyOtherCooldown": 20,
+        "dispatchToneCooldown": 15,
+        "radioStunCooldown": 5,
+        "radioPingCooldown": 10,
+        "911Cooldown": 30,
+        "commandStunPeriod": 300,
+        "toneWaitTalkPeriod": 5
+    },
+    "permissions": {
+        "permBasic": {
+            "serverGroupList": [""]
+        },
+        "permExtra": {
+            "serverGroupList": [""]
+        },
+        "permSit": {
+            "serverGroupList": [""]
+        },
+        "permStaff": {
+            "serverGroupList": ["3"]
+        },
+        "permSenior": {
+            "serverGroupList": [""]
+        },
+        "permAdmin": {
+            "serverGroupList": [""]
+        },
+        "permSuper": {
+            "serverGroupList": ["2"]
+        }
+    }
+}
