@@ -9,7 +9,7 @@
     },
     "talkAroundRange": 1500,
     "betaServerGroups": [""],
-    "dispatchServerGroups": ["251", "244"],
+    "dispatchServerGroups": ["98", "92"],
     "dispatchAdvancedServerGroups": [],
     "dispatchNameTags": [
         "(P)",
@@ -184,23 +184,23 @@
             "clientUidList": [""]
         },
         "permSit": {
-            "serverGroupList": ["260"],
+            "serverGroupList": ["106"],
             "clientUidList": [""]
         },
         "permStaff": {
-            "serverGroupList": ["259"],
+            "serverGroupList": ["105"],
             "clientUidList": [""]
         },
         "permSenior": {
-            "serverGroupList": ["258"],
+            "serverGroupList": ["104"],
             "clientUidList": [""]
         },
         "permAdmin": {
-            "serverGroupList": ["256", "257"],
+            "serverGroupList": ["102", "103"],
             "clientUidList": [""]
         },
         "permSuper": {
-            "serverGroupList": ["285"],
+            "serverGroupList": ["119"],
             "clientUidList": [""]
         }
     }
