@@ -1,7 +1,7 @@
 {
     "pluginStatus": true,
     "isPaid": true,
-    "communityName": "Narmada Springs RP",
+    "communityName": "Department of Intelligence RP",
     "features": {
         "inGameInterface": true,
         "rangeSimulation": true,
@@ -32,10 +32,10 @@
     "radioChannels": [
         {
             "id": 1,
-            "name": "Patrol Ops",
+            "name": "Dispatch (Primary)",
             "soundName": "",
             "type": "LEO",
-            "coloredName": "[color=green]Patrol Ops[/color]",
+            "coloredName": "[color=green]Dispatch (Primary)[/color]",
             "talkEnforcement": true,
             "talkAround": false,
             "scannable": true,
@@ -44,10 +44,10 @@
         },
         {
             "id": 2,
-            "name": "Fire Ops",
+            "name": "Data (Secondary)",
             "soundName": "",
             "type": "LEO",
-            "coloredName": "[color=yellow]Fire Ops[/color]",
+            "coloredName": "[color=green]Data (Secondary)[/color]",
             "talkEnforcement": true,
             "talkAround": false,
             "scannable": true,
@@ -56,10 +56,10 @@
         },
         {
             "id": 3,
-            "name": "Tac 1",
+            "name": "Fire/EMS Dispatch",
             "soundName": "",
             "type": "LEO",
-            "coloredName": "[color=purple]Tac 1[/color]",
+            "coloredName": "[color=green]Fire/EMS Dispatch[/color]",
             "talkEnforcement": true,
             "talkAround": false,
             "scannable": true,
@@ -68,10 +68,10 @@
         },
         {
             "id": 4,
-            "name": "Tac 2",
+            "name": "Tac 1",
             "soundName": "",
             "type": "LEO",
-            "coloredName": "[color=purple]Tac 2[/color]",
+            "coloredName": "[color=yellow]Tac 1[/color]",
             "talkEnforcement": true,
             "talkAround": false,
             "scannable": true,
@@ -80,12 +80,12 @@
         },
         {
             "id": 5,
-            "name": "Car/Car",
+            "name": "Tac 2",
             "soundName": "",
             "type": "LEO",
-            "coloredName": "[color=grey]Car/Car[/color]",
+            "coloredName": "[color=yellow]Tac 2[/color]",
             "talkEnforcement": true,
-            "talkAround": true,
+            "talkAround": false,
             "scannable": true,
             "encrypted": false,
             "permission": 1
@@ -104,6 +104,18 @@
         },
         {
             "id": 7,
+            "name": "Car/Car",
+            "soundName": "",
+            "type": "LEO",
+            "coloredName": "[color=grey]Car/Car[/color]",
+            "talkEnforcement": true,
+            "talkAround": true,
+            "scannable": true,
+            "encrypted": false,
+            "permission": 1
+        },
+        {
+            "id": 8,
             "name": "Announcements",
             "soundName": "",
             "type": "announce",
