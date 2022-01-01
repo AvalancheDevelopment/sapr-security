@@ -113,6 +113,18 @@
             "scannable": false,
             "encrypted": true,
             "permission": 1
+        },
+        {
+            "id": 8,
+            "name": "DOT",
+            "soundName": "",
+            "type": "LEO",
+            "coloredName": "[color=red]DOT[/color]",
+            "talkEnforcement": true,
+            "talkAround": false,
+            "scannable": true,
+            "encrypted": false,
+            "permission": 1
         }
     ],
     "time_settings": {
