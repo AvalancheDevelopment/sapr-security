@@ -1,7 +1,7 @@
 {
-    "pluginStatus": false,
-    "isPaid": false,
-    "communityName": "delete later",
+    "pluginStatus": true,
+    "isPaid": true,
+    "communityName": "Come Up Roleplay",
     "features": {
         "inGameInterface": true,
         "rangeSimulation": true,
@@ -9,7 +9,7 @@
     },
     "talkAroundRange": 1500,
     "betaServerGroups": [""],
-    "dispatchServerGroups": ["10"],
+    "dispatchServerGroups": ["19"],
     "dispatchAdvancedServerGroups": [],
     "dispatchNameTags": [
         "(P)",
@@ -27,8 +27,8 @@
     ],
     "civilianServerGroups": [""],
     "civChannels": [0],
-    "radioSystems": [5],
-    "rtoChannels": [6],
+    "radioSystems": [9],
+    "rtoChannels": [10],
     "radioChannels": [
         {
             "id": 1,
@@ -44,10 +44,10 @@
         },
         {
             "id": 2,
-            "name": "Blaine County",
+            "name": "Countywide Band",
             "soundName": "",
             "type": "LEO",
-            "coloredName": "[color=green]Blaine County[/color]",
+            "coloredName": "[color=green]Countywide Band[/color]",
             "talkEnforcement": true,
             "talkAround": false,
             "scannable": true,
@@ -56,10 +56,10 @@
         },
         {
             "id": 3,
-            "name": "Los Santos",
+            "name": "Citywide Band",
             "soundName": "",
             "type": "LEO",
-            "coloredName": "[color=green]Los Santos[/color]",
+            "coloredName": "[color=green]Citywide Band[/color]",
             "talkEnforcement": true,
             "talkAround": false,
             "scannable": true,
@@ -155,10 +155,10 @@
             "serverGroupList": [""]
         },
         "permAdmin": {
-            "serverGroupList": [""]
+            "serverGroupList": ["16"]
         },
         "permSuper": {
-            "serverGroupList": ["6"]
+            "serverGroupList": ["9", "12"]
         }
     }
 }
