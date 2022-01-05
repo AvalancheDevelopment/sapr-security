@@ -33,7 +33,7 @@
         {
             "id": 1,
             "name": "Patrol Ops",
-            "soundName": "",
+            "soundName": "Patrolops",
             "type": "LEO",
             "coloredName": "[color=green]Patrol Ops[/color]",
             "talkEnforcement": true,
@@ -45,7 +45,7 @@
         {
             "id": 2,
             "name": "Countywide Band",
-            "soundName": "",
+            "soundName": "Countywide",
             "type": "LEO",
             "coloredName": "[color=green]Countywide Band[/color]",
             "talkEnforcement": true,
@@ -57,7 +57,7 @@
         {
             "id": 3,
             "name": "Citywide Band",
-            "soundName": "",
+            "soundName": "Citywide",
             "type": "LEO",
             "coloredName": "[color=green]Citywide Band[/color]",
             "talkEnforcement": true,
@@ -69,7 +69,7 @@
         {
             "id": 4,
             "name": "Fire Ops",
-            "soundName": "",
+            "soundName": "Fireops",
             "type": "LEO",
             "coloredName": "[color=yellow]Fire Ops[/color]",
             "talkEnforcement": true,
@@ -81,7 +81,7 @@
         {
             "id": 5,
             "name": "Tac 1",
-            "soundName": "",
+            "soundName": "Tac1",
             "type": "LEO",
             "coloredName": "[color=purple]Tac 1[/color]",
             "talkEnforcement": true,
@@ -93,7 +93,7 @@
         {
             "id": 6,
             "name": "Tac 2",
-            "soundName": "",
+            "soundName": "Tac2",
             "type": "LEO",
             "coloredName": "[color=purple]Tac 2[/color]",
             "talkEnforcement": true,
@@ -105,7 +105,7 @@
         {
             "id": 7,
             "name": "Special Assignment",
-            "soundName": "",
+            "soundName": "Special_Assignment",
             "type": "LEO",
             "coloredName": "[color=grey]Special Assignment[/color]",
             "talkEnforcement": true,
@@ -117,7 +117,7 @@
         {
             "id": 8,
             "name": "Private 1",
-            "soundName": "",
+            "soundName": "Private1",
             "type": "LEO",
             "coloredName": "[color=red]Private 1[/color]",
             "talkEnforcement": true,
