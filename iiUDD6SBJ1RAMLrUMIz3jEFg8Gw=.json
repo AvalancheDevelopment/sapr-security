@@ -27,7 +27,7 @@
     ],
     "civilianServerGroups": [""],
     "civChannels": [0],
-    "radioSystems": [5],
+    "radioSystems": [5, 33],
     "rtoChannels": [12, 24],
     "radioChannels": [
         {
