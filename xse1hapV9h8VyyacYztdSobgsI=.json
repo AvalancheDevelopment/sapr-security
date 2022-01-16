@@ -2,6 +2,7 @@
     "pluginStatus": false,
     "isPaid": false,
     "communityName": "United Shield RP",
+    "betaCommunity": false,
     "features": {
         "inGameInterface": true,
         "rangeSimulation": true,

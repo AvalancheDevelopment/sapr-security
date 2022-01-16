@@ -2,6 +2,7 @@
     "pluginStatus": false,
     "isPaid": false,
     "communityName": "Blaine County Department of Public Safety",
+    "betaCommunity": false,
     "features": {
         "inGameInterface": true,
         "rangeSimulation": true,

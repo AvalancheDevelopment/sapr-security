@@ -2,6 +2,7 @@
     "pluginStatus": false,
     "isPaid": false,
     "communityName": "Liberty or Death Roleplay",
+    "betaCommunity": false,
     "features": {
         "inGameInterface": true,
         "rangeSimulation": true,

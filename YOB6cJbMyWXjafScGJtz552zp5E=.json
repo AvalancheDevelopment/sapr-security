@@ -2,6 +2,7 @@
     "pluginStatus": false,
     "isPaid": false,
     "communityName": "Retrograde Gaming",
+    "betaCommunity": false,
     "features": {
         "inGameInterface": true,
         "rangeSimulation": true,

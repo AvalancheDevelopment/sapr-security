@@ -2,6 +2,7 @@
     "pluginStatus": false,
     "isPaid": false,
     "communityName": "Cleveland Role Play",
+    "betaCommunity": false,
     "features": {
         "inGameInterface": true,
         "rangeSimulation": true,

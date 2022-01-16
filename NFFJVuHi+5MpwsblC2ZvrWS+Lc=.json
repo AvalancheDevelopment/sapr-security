@@ -2,6 +2,7 @@
     "pluginStatus": true,
     "isPaid": true,
     "communityName": "Blue County RP",
+    "betaCommunity": false,
     "features": {
         "inGameInterface": true,
         "rangeSimulation": true,

@@ -2,6 +2,7 @@
     "pluginStatus": true,
     "isPaid": true,
     "communityName": "Latitude Roleplay",
+    "betaCommunity": false,
     "features": {
         "inGameInterface": true,
         "rangeSimulation": true,

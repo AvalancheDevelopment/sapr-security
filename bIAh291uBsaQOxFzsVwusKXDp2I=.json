@@ -2,6 +2,7 @@
     "pluginStatus": false,
     "isPaid": false,
     "communityName": "Western State Roleplay",
+    "betaCommunity": true,
     "features": {
         "inGameInterface": true,
         "rangeSimulation": true,

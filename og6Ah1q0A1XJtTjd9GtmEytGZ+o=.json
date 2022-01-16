@@ -2,6 +2,7 @@
     "pluginStatus": true,
     "isPaid": true,
     "communityName": "Department of Public Justice Roleplay Community",
+    "betaCommunity": false,
     "features": {
         "inGameInterface": true,
         "rangeSimulation": true,

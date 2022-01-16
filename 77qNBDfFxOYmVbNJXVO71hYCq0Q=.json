@@ -2,6 +2,7 @@
     "pluginStatus": true,
     "isPaid": true,
     "communityName": "Universal Gaming Network RP",
+    "betaCommunity": false,
     "features": {
         "inGameInterface": true,
         "rangeSimulation": true,

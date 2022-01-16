@@ -2,6 +2,7 @@
     "pluginStatus": true,
     "isPaid": true,
     "communityName": "OceaniaRP",
+    "betaCommunity": false,
     "features": {
         "inGameInterface": true,
         "rangeSimulation": true,
@@ -179,10 +180,10 @@
             "serverGroupList": ["3390"]
         },
         "permAdmin": {
-            "serverGroupList": ["3391","3392"]
+            "serverGroupList": ["3391", "3392"]
         },
         "permSuper": {
-            "serverGroupList": ["3393","3394"]
+            "serverGroupList": ["3393", "3394"]
         }
     }
 }
