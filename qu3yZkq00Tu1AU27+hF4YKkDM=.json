@@ -2,7 +2,6 @@
     "pluginStatus": true,
     "isPaid": true,
     "communityName": "New Limits Roleplay",
-    "betaCommunity": false,
     "features": {
         "inGameInterface": true,
         "rangeSimulation": true,
@@ -10,8 +9,8 @@
     },
     "talkAroundRange": 1500,
     "betaServerGroups": [""],
-    "dispatchServerGroups": ["147"],
-    "dispatchAdvancedServerGroups": ["147"],
+    "dispatchServerGroups": ["238", "307", "306", "305"],
+    "dispatchAdvancedServerGroups": [],
     "dispatchNameTags": [
         "(P)",
         "(S)",
@@ -28,8 +27,8 @@
     ],
     "civilianServerGroups": [""],
     "civChannels": [0],
-    "radioSystems": [30],
-    "rtoChannels": [33],
+    "radioSystems": [67],
+    "rtoChannels": [69, 68],
     "radioChannels": [
         {
             "id": 1,
@@ -137,23 +136,23 @@
             "clientUidList": [""]
         },
         "permSit": {
-            "serverGroupList": ["156"],
+            "serverGroupList": ["249"],
             "clientUidList": [""]
         },
         "permStaff": {
-            "serverGroupList": ["155"],
+            "serverGroupList": ["248"],
             "clientUidList": [""]
         },
         "permSenior": {
-            "serverGroupList": ["154"],
+            "serverGroupList": ["247"],
             "clientUidList": [""]
         },
         "permAdmin": {
-            "serverGroupList": ["152", "153"],
+            "serverGroupList": ["245"],
             "clientUidList": [""]
         },
         "permSuper": {
-            "serverGroupList": ["151"],
+            "serverGroupList": ["253"],
             "clientUidList": [""]
         }
     }
