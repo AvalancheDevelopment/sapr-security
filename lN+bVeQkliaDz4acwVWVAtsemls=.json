@@ -1,6 +1,6 @@
 {
-    "pluginStatus": false,
-    "isPaid": false,
+    "pluginStatus": true,
+    "isPaid": true,
     "communityName": "Tri State RP",
     "betaCommunity": false,
     "features": {
@@ -10,8 +10,8 @@
     },
     "talkAroundRange": 1500,
     "betaServerGroups": [""],
-    "dispatchServerGroups": ["552", "545"],
-    "dispatchAdvancedServerGroups": ["552", "545", "435", "595"],
+    "dispatchServerGroups": ["70", "71"],
+    "dispatchAdvancedServerGroups": [],
     "dispatchNameTags": [
         "(P)",
         "(S)",
@@ -28,8 +28,8 @@
     ],
     "civilianServerGroups": [""],
     "civChannels": [0],
-    "radioSystems": [781, 986],
-    "rtoChannels": [782, 987],
+    "radioSystems": [16163, 15765],
+    "rtoChannels": [16167, 16156],
     "radioChannels": [
         {
             "id": 1,
@@ -141,7 +141,7 @@
     },
     "permissions": {
         "permBasic": {
-            "serverGroupList": ["428", "429"],
+            "serverGroupList": [""],
             "clientUidList": [""]
         },
         "permExtra": {
@@ -149,23 +149,23 @@
             "clientUidList": [""]
         },
         "permSit": {
-            "serverGroupList": ["430"],
+            "serverGroupList": ["97"],
             "clientUidList": [""]
         },
         "permStaff": {
-            "serverGroupList": ["431"],
+            "serverGroupList": ["96"],
             "clientUidList": [""]
         },
         "permSenior": {
-            "serverGroupList": ["432"],
+            "serverGroupList": ["95"],
             "clientUidList": [""]
         },
         "permAdmin": {
-            "serverGroupList": ["433", "434"],
+            "serverGroupList": ["93", "92", "91"],
             "clientUidList": [""]
         },
         "permSuper": {
-            "serverGroupList": ["595", "435"],
+            "serverGroupList": ["90"],
             "clientUidList": [""]
         }
     }
