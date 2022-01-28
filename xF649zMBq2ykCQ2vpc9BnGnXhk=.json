@@ -84,7 +84,7 @@
             "name": "LS Frequency",
             "soundName": "",
             "type": "LEO",
-            "coloredName": "[color=gray]LS Frequency/color]",
+            "coloredName": "[color=gray]LS Frequency[/color]",
             "talkEnforcement": true,
             "talkAround": false,
             "scannable": true,
