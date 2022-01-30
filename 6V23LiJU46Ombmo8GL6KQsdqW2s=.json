@@ -33,18 +33,6 @@
     "radioChannels": [
         {
             "id": 1,
-            "name": "Dispatch Center",
-            "soundName": "",
-            "type": "LEO",
-            "coloredName": "[color=green]Dispatch Center[/color]",
-            "talkEnforcement": true,
-            "talkAround": false,
-            "scannable": true,
-            "encrypted": false,
-            "permission": 1
-        },
-        {
-            "id": 2,
             "name": "Los Santos County",
             "soundName": "",
             "type": "LEO",
@@ -56,7 +44,7 @@
             "permission": 1
         },
         {
-            "id": 3,
+            "id": 2,
             "name": "Blaine County",
             "soundName": "",
             "type": "LEO",
@@ -68,11 +56,23 @@
             "permission": 1
         },
         {
-            "id": 4,
+            "id": 3,
             "name": "Fire Rescue",
             "soundName": "",
             "type": "LEO",
             "coloredName": "[color=yellow]Fire Rescue[/color]",
+            "talkEnforcement": true,
+            "talkAround": false,
+            "scannable": true,
+            "encrypted": false,
+            "permission": 1
+        },
+        {
+            "id": 4,
+            "name": "Dispatch Center",
+            "soundName": "",
+            "type": "LEO",
+            "coloredName": "[color=green]Dispatch Center[/color]",
             "talkEnforcement": true,
             "talkAround": false,
             "scannable": true,
