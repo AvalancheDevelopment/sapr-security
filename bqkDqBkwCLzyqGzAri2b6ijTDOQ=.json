@@ -33,10 +33,10 @@
     "radioChannels": [
         {
             "id": 1,
-            "name": "Patrol Ops",
+            "name": "Blaine County PD",
             "soundName": "",
             "type": "LEO",
-            "coloredName": "[color=green]Patrol Ops[/color]",
+            "coloredName": "[color=green]Blaine County PD[/color]",
             "talkEnforcement": true,
             "talkAround": false,
             "scannable": true,
@@ -45,10 +45,10 @@
         },
         {
             "id": 2,
-            "name": "Fire Ops",
+            "name": "Los Santos PD",
             "soundName": "",
             "type": "LEO",
-            "coloredName": "[color=yellow]Fire Ops[/color]",
+            "coloredName": "[color=cyan]Los Santos PD[/color]",
             "talkEnforcement": true,
             "talkAround": false,
             "scannable": true,
@@ -57,6 +57,30 @@
         },
         {
             "id": 3,
+            "name": "Blaine County FD",
+            "soundName": "",
+            "type": "LEO",
+            "coloredName": "[color=yellow]Blaine County FD[/color]",
+            "talkEnforcement": true,
+            "talkAround": false,
+            "scannable": true,
+            "encrypted": false,
+            "permission": 1
+        },
+        {
+            "id": 4,
+            "name": "Los Santos FD",
+            "soundName": "",
+            "type": "LEO",
+            "coloredName": "[color=orange]Los Santos FD[/color]",
+            "talkEnforcement": true,
+            "talkAround": false,
+            "scannable": true,
+            "encrypted": false,
+            "permission": 1
+        },
+        {
+            "id": 5,
             "name": "Tac 1",
             "soundName": "",
             "type": "LEO",
@@ -68,7 +92,7 @@
             "permission": 1
         },
         {
-            "id": 4,
+            "id": 6,
             "name": "Tac 2",
             "soundName": "",
             "type": "LEO",
@@ -80,7 +104,7 @@
             "permission": 1
         },
         {
-            "id": 5,
+            "id": 7,
             "name": "Car/Car",
             "soundName": "",
             "type": "LEO",
@@ -92,7 +116,7 @@
             "permission": 1
         },
         {
-            "id": 6,
+            "id": 8,
             "name": "Private 1",
             "soundName": "",
             "type": "LEO",
@@ -104,7 +128,7 @@
             "permission": 1
         },
         {
-            "id": 7,
+            "id": 9,
             "name": "Announcements",
             "soundName": "",
             "type": "announce",
