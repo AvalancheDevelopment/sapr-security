@@ -13,17 +13,8 @@
     "dispatchServerGroups": ["13,46,106,141,140"],
     "dispatchAdvancedServerGroups": [],
     "dispatchNameTags": [
-        "(P)",
-        "(S)",
-        "(T)",
-        "(FIRE)",
-        "(QA)",
-        "(EVAL)",
         "[P]",
         "[S]",
-        "[T]",
-        "[FIRE]",
-        "[QA]",
         "[EVAL]"
     ],
     "civilianServerGroups": [""],
