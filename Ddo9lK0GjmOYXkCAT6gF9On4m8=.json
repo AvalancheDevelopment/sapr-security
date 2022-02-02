@@ -1,7 +1,7 @@
 {
     "pluginStatus": true,
     "isPaid": true,
-    "communityName": "Littles Paradise",
+    "communityName": "AST",
     "betaCommunity": false,
     "features": {
         "inGameInterface": true,
@@ -10,7 +10,7 @@
     },
     "talkAroundRange": 1500,
     "betaServerGroups": [""],
-    "dispatchServerGroups": ["15"],
+    "dispatchServerGroups": ["42","41","43","25"],
     "dispatchAdvancedServerGroups": [],
     "dispatchNameTags": [
         "(P)",
@@ -28,11 +28,23 @@
     ],
     "civilianServerGroups": [""],
     "civChannels": [0],
-    "radioSystems": [2],
-    "rtoChannels": [14],
+    "radioSystems": [28],
+    "rtoChannels": [38],
     "radioChannels": [
         {
             "id": 1,
+            "name": "Patrol Ops",
+            "soundName": "",
+            "type": "LEO",
+            "coloredName": "[color=green]Patrol Ops[/color]",
+            "talkEnforcement": true,
+            "talkAround": false,
+            "scannable": true,
+            "encrypted": false,
+            "permission": 1
+        },
+        {
+            "id": 2,
             "name": "Tac 1",
             "soundName": "",
             "type": "LEO",
@@ -44,7 +56,7 @@
             "permission": 1
         },
         {
-            "id": 2,
+            "id": 3,
             "name": "Tac 2",
             "soundName": "",
             "type": "LEO",
@@ -56,17 +68,41 @@
             "permission": 1
         },
         {
-            "id": 3,
-            "name": "Patrol Ops",
+            "id": 4,
+            "name": "Car to Car 1",
             "soundName": "",
             "type": "LEO",
-            "coloredName": "[color=green]Patrol Ops[/color]",
+            "coloredName": "[color=grey]Car to Car 1[/color]",
             "talkEnforcement": true,
-            "talkAround": false,
+            "talkAround": true,
             "scannable": true,
             "encrypted": false,
             "permission": 1
-        }
+        },
+        {
+            "id": 5,
+            "name": "Car to Car 2",
+            "soundName": "",
+            "type": "LEO",
+            "coloredName": "[color=grey]Car to Car 2[/color]",
+            "talkEnforcement": true,
+            "talkAround": true,
+            "scannable": true,
+            "encrypted": false,
+            "permission": 1
+        },
+        {
+            "id": 6,
+            "name": "Supervisor TA",
+            "soundName": "",
+            "type": "LEO",
+            "coloredName": "[color=grey]Supervisor TA[/color]",
+            "talkEnforcement": true,
+            "talkAround": true,
+            "scannable": true,
+            "encrypted": false,
+            "permission": 1
+        },
     ],
     "time_settings": {
         "emergencyOverridePeriod": 10,
@@ -90,16 +126,16 @@
             "serverGroupList": [""]
         },
         "permStaff": {
-            "serverGroupList": ["14"]
+            "serverGroupList": ["36"]
         },
         "permSenior": {
-            "serverGroupList": [""]
+            "serverGroupList": ["35"]
         },
         "permAdmin": {
-            "serverGroupList": ["13"]
+            "serverGroupList": ["33","34"]
         },
         "permSuper": {
-            "serverGroupList": ["10"]
+            "serverGroupList": ["32"]
         }
     }
 }
