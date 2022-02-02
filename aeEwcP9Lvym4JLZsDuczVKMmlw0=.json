@@ -1,7 +1,7 @@
 {
     "pluginStatus": true,
     "isPaid": true,
-    "communityName": "High Honor Roleplay",
+    "communityName": "NewcoastRP",
     "betaCommunity": false,
     "features": {
         "inGameInterface": true,
@@ -15,8 +15,8 @@
     "dispatchNameTags": ["(P)", "(S)", "(T)", "(FIRE)", "(QA)", "(EVAL)"],
     "civilianServerGroups": [""],
     "civChannels": [0],
-    "radioSystems": [411, 507],
-    "rtoChannels": [22, 176, 509],
+    "radioSystems": [436],
+    "rtoChannels": [440],
     "radioChannels": [
         {
             "id": 1,
