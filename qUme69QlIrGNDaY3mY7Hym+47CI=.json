@@ -10,7 +10,7 @@
     },
     "talkAroundRange": 1500,
     "betaServerGroups": [""],
-    "dispatchServerGroups": ["9558,9543"],
+    "dispatchServerGroups": ["9558","9543"],
     "dispatchAdvancedServerGroups": [],
     "dispatchNameTags": [
         "(P)",
@@ -156,10 +156,10 @@
             "serverGroupList": ["9572"]
         },
         "permAdmin": {
-            "serverGroupList": ["9573,9574"]
+            "serverGroupList": ["9573","9574"]
         },
         "permSuper": {
-            "serverGroupList": ["9575,9576"]
+            "serverGroupList": ["9575","9576"]
         }
     }
 }
