@@ -105,10 +105,10 @@
         },
         {
             "id": 7,
-            "name": "Fireground",
+            "name": "Car/Car",
             "soundName": "",
             "type": "LEO",
-            "coloredName": "[color=orange]Fireground[/color]",
+            "coloredName": "[color=grey]Car/Car[/color]",
             "talkEnforcement": true,
             "talkAround": true,
             "scannable": true,
