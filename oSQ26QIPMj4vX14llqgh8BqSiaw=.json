@@ -1,7 +1,7 @@
 {
-    "pluginStatus": false,
-    "isPaid": false,
-    "communityName": "Universal Gaming Network RP",
+    "pluginStatus": true,
+    "isPaid": true,
+    "communityName": "State of California Emergency Services",
     "betaCommunity": false,
     "features": {
         "inGameInterface": true,
@@ -10,8 +10,8 @@
     },
     "talkAroundRange": 1500,
     "betaServerGroups": [""],
-    "dispatchServerGroups": ["8"],
-    "dispatchAdvancedServerGroups": ["8"],
+    "dispatchServerGroups": ["125", "132"],
+    "dispatchAdvancedServerGroups": ["175", "18", "125", "132"],
     "dispatchNameTags": [
         "(P)",
         "(S)",
@@ -28,15 +28,15 @@
     ],
     "civilianServerGroups": [""],
     "civChannels": [0],
-    "radioSystems": [17],
-    "rtoChannels": [19],
+    "radioSystems": [7],
+    "rtoChannels": [26],
     "radioChannels": [
         {
             "id": 1,
-            "name": "LAPD Metro",
-            "soundName": "lapdMetro",
+            "name": "Patrol Ops",
+            "soundName": "",
             "type": "LEO",
-            "coloredName": "[color=green]LAPD Metro[/color]",
+            "coloredName": "[color=green]Patrol Ops[/color]",
             "talkEnforcement": true,
             "talkAround": false,
             "scannable": true,
@@ -45,10 +45,10 @@
         },
         {
             "id": 2,
-            "name": "LASD County",
-            "soundName": "lasdCounty",
+            "name": "Fire Ops",
+            "soundName": "",
             "type": "LEO",
-            "coloredName": "[color=green]LASD County[/color]",
+            "coloredName": "[color=yellow]Fire Ops[/color]",
             "talkEnforcement": true,
             "talkAround": false,
             "scannable": true,
@@ -57,44 +57,8 @@
         },
         {
             "id": 3,
-            "name": "CHP Statewide",
-            "soundName": "chpStatewide",
-            "type": "LEO",
-            "coloredName": "[color=green]CHP Statewide[/color]",
-            "talkEnforcement": true,
-            "talkAround": false,
-            "scannable": true,
-            "encrypted": false,
-            "permission": 1
-        },
-        {
-            "id": 4,
-            "name": "LA County Fire",
-            "soundName": "laCountyFire",
-            "type": "LEO",
-            "coloredName": "[color=yellow]LA County Fire[/color]",
-            "talkEnforcement": true,
-            "talkAround": false,
-            "scannable": true,
-            "encrypted": false,
-            "permission": 1
-        },
-        {
-            "id": 5,
-            "name": "Special Functions",
-            "soundName": "specialFunctions",
-            "type": "LEO",
-            "coloredName": "[color=red]Special Functions[/color]",
-            "talkEnforcement": true,
-            "talkAround": false,
-            "scannable": true,
-            "encrypted": false,
-            "permission": 1
-        },
-        {
-            "id": 6,
             "name": "Tac 1",
-            "soundName": "tac1",
+            "soundName": "",
             "type": "LEO",
             "coloredName": "[color=purple]Tac 1[/color]",
             "talkEnforcement": true,
@@ -104,9 +68,9 @@
             "permission": 1
         },
         {
-            "id": 7,
+            "id": 4,
             "name": "Tac 2",
-            "soundName": "tac2",
+            "soundName": "",
             "type": "LEO",
             "coloredName": "[color=purple]Tac 2[/color]",
             "talkEnforcement": true,
@@ -116,39 +80,27 @@
             "permission": 1
         },
         {
-            "id": 8,
-            "name": "Tac 3",
-            "soundName": "tac3",
-            "type": "LEO",
-            "coloredName": "[color=purple]Tac 3[/color]",
-            "talkEnforcement": true,
-            "talkAround": false,
-            "scannable": true,
-            "encrypted": true,
-            "permission": 1
-        },
-        {
-            "id": 9,
-            "name": "Private 1",
-            "soundName": "private1",
-            "type": "LEO",
-            "coloredName": "[color=red]Private 1[/color]",
-            "talkEnforcement": true,
-            "talkAround": false,
-            "scannable": false,
-            "encrypted": true,
-            "permission": 1
-        },
-        {
-            "id": 10,
+            "id": 5,
             "name": "Car/Car",
-            "soundName": "carToCar",
+            "soundName": "",
             "type": "LEO",
             "coloredName": "[color=grey]Car/Car[/color]",
             "talkEnforcement": true,
             "talkAround": true,
             "scannable": true,
             "encrypted": false,
+            "permission": 1
+        },
+        {
+            "id": 6,
+            "name": "Private 1",
+            "soundName": "",
+            "type": "LEO",
+            "coloredName": "[color=red]Private 1[/color]",
+            "talkEnforcement": true,
+            "talkAround": false,
+            "scannable": false,
+            "encrypted": true,
             "permission": 1
         }
     ],
@@ -165,7 +117,7 @@
     },
     "permissions": {
         "permBasic": {
-            "serverGroupList": [""],
+            "serverGroupList": ["11", "12"],
             "clientUidList": [""]
         },
         "permExtra": {
@@ -173,23 +125,23 @@
             "clientUidList": [""]
         },
         "permSit": {
-            "serverGroupList": [""],
+            "serverGroupList": ["13"],
             "clientUidList": [""]
         },
         "permStaff": {
-            "serverGroupList": [""],
+            "serverGroupList": ["14"],
             "clientUidList": [""]
         },
         "permSenior": {
-            "serverGroupList": [""],
+            "serverGroupList": ["15"],
             "clientUidList": [""]
         },
         "permAdmin": {
-            "serverGroupList": [""],
+            "serverGroupList": ["16", "17"],
             "clientUidList": [""]
         },
         "permSuper": {
-            "serverGroupList": ["6"],
+            "serverGroupList": ["175", "18"],
             "clientUidList": [""]
         }
     }
