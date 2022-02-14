@@ -1,7 +1,7 @@
 {
-    "pluginStatus": false,
-    "isPaid": false,
-    "communityName": "delete later",
+    "pluginStatus": true,
+    "isPaid": true,
+    "communityName": "Coastwide Roleplay",
     "betaCommunity": false,
     "features": {
         "inGameInterface": true,
@@ -10,7 +10,7 @@
     },
     "talkAroundRange": 1500,
     "betaServerGroups": [""],
-    "dispatchServerGroups": ["116"],
+    "dispatchServerGroups": ["12310", "12300"],
     "dispatchAdvancedServerGroups": [],
     "dispatchNameTags": [
         "(P)",
@@ -28,8 +28,8 @@
     ],
     "civilianServerGroups": [""],
     "civChannels": [0],
-    "radioSystems": [5],
-    "rtoChannels": [6],
+    "radioSystems": [13762],
+    "rtoChannels": [13765],
     "radioChannels": [
         {
             "id": 1,
@@ -81,6 +81,18 @@
         },
         {
             "id": 5,
+            "name": "Car/Car",
+            "soundName": "",
+            "type": "LEO",
+            "coloredName": "[color=grey]Car/Car[/color]",
+            "talkEnforcement": true,
+            "talkAround": true,
+            "scannable": true,
+            "encrypted": false,
+            "permission": 1
+        },
+        {
+            "id": 6,
             "name": "Private 1",
             "soundName": "",
             "type": "LEO",
@@ -92,23 +104,11 @@
             "permission": 1
         },
         {
-            "id": 6,
-            "name": "Private 2",
-            "soundName": "",
-            "type": "LEO",
-            "coloredName": "[color=red]Private 2[/color]",
-            "talkEnforcement": true,
-            "talkAround": false,
-            "scannable": false,
-            "encrypted": true,
-            "permission": 1
-        },
-        {
             "id": 7,
             "name": "North Frequency",
             "soundName": "",
             "type": "LEO",
-            "coloredName": "[color=green]North Frequency[/color]",
+            "coloredName": "[color=cyan]North Frequency[/color]",
             "talkEnforcement": true,
             "talkAround": false,
             "scannable": true,
@@ -120,7 +120,7 @@
             "name": "South Frequency",
             "soundName": "",
             "type": "LEO",
-            "coloredName": "[color=green]South Frequency[/color]",
+            "coloredName": "[color=cyan]South Frequency[/color]",
             "talkEnforcement": true,
             "talkAround": false,
             "scannable": true,
@@ -147,19 +147,19 @@
             "serverGroupList": [""]
         },
         "permSit": {
-            "serverGroupList": ["25"]
+            "serverGroupList": ["12328"]
         },
         "permStaff": {
-            "serverGroupList": ["24"]
+            "serverGroupList": ["12329"]
         },
         "permSenior": {
-            "serverGroupList": ["23"]
+            "serverGroupList": ["12330"]
         },
         "permAdmin": {
-            "serverGroupList": ["9", "22"]
+            "serverGroupList": ["12333", "12332", "12331"]
         },
         "permSuper": {
-            "serverGroupList": ["6"]
+            "serverGroupList": ["12334"]
         }
     }
 }
