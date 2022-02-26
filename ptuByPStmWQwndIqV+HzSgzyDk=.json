@@ -33,10 +33,10 @@
     "radioChannels": [
         {
             "id": 1,
-            "name": "Patrol Ops",
+            "name": "MRD Statewide Dispatch",
             "soundName": "",
             "type": "LEO",
-            "coloredName": "[color=green]Patrol Ops[/color]",
+            "coloredName": "[color=green]MRD Statewide Dispatch[/color]",
             "talkEnforcement": true,
             "talkAround": false,
             "scannable": true,
