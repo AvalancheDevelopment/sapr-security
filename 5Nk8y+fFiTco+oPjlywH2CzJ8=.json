@@ -1,7 +1,7 @@
 {
-    "pluginStatus": true,
-    "isPaid": true,
-    "communityName": "",
+    "pluginStatus": false,
+    "isPaid": false,
+    "communityName": "Blacksnake Roleplay",
     "betaCommunity": false,
     "features": {
         "inGameInterface": true,
