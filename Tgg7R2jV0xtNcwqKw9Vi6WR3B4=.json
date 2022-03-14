@@ -1,8 +1,8 @@
 {
-    "pluginStatus": false,
-    "isPaid": false,
-    "communityName": "delete later",
-    "betaCommunity": true,
+    "pluginStatus": true,
+    "isPaid": true,
+    "communityName": "sYnCity Patriots RP",
+    "betaCommunity": false,
     "features": {
         "inGameInterface": true,
         "rangeSimulation": true,
@@ -10,8 +10,8 @@
     },
     "talkAroundRange": 1500,
     "betaServerGroups": [""],
-    "dispatchServerGroups": ["1945"],
-    "dispatchAdvancedServerGroups": ["1945"],
+    "dispatchServerGroups": ["11"],
+    "dispatchAdvancedServerGroups": [],
     "dispatchNameTags": [
         "(P)",
         "(S)",
@@ -28,8 +28,8 @@
     ],
     "civilianServerGroups": [""],
     "civChannels": [0],
-    "radioSystems": [6350],
-    "rtoChannels": [6351],
+    "radioSystems": [2],
+    "rtoChannels": [3],
     "radioChannels": [
         {
             "id": 1,
@@ -201,32 +201,25 @@
     },
     "permissions": {
         "permBasic": {
-            "serverGroupList": [""],
-            "clientUidList": [""]
+            "serverGroupList": [""]
         },
         "permExtra": {
-            "serverGroupList": [""],
-            "clientUidList": [""]
+            "serverGroupList": [""]
         },
         "permSit": {
-            "serverGroupList": [""],
-            "clientUidList": [""]
+            "serverGroupList": [""]
         },
         "permStaff": {
-            "serverGroupList": ["1946"],
-            "clientUidList": [""]
+            "serverGroupList": ["14"]
         },
         "permSenior": {
-            "serverGroupList": [""],
-            "clientUidList": [""]
+            "serverGroupList": ["13"]
         },
         "permAdmin": {
-            "serverGroupList": [""],
-            "clientUidList": [""]
+            "serverGroupList": ["6"]
         },
         "permSuper": {
-            "serverGroupList": ["1939"],
-            "clientUidList": [""]
+            "serverGroupList": [""]
         }
     }
 }
