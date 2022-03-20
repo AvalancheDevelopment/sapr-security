@@ -2,7 +2,7 @@
     "pluginStatus": false,
     "isPaid": false,
     "communityName": "Potential RP",
-    "betaCommunity": true,
+    "betaCommunity": false,
     "features": {
         "inGameInterface": true,
         "rangeSimulation": true,
