@@ -1,7 +1,7 @@
 {
-    "pluginStatus": false,
-    "isPaid": false,
-    "communityName": "Thinline Roleplay",
+    "pluginStatus": true,
+    "isPaid": true,
+    "communityName": "PalmbayRP",
     "betaCommunity": false,
     "features": {
         "inGameInterface": true,
@@ -28,8 +28,8 @@
     ],
     "civilianServerGroups": [""],
     "civChannels": [0],
-    "radioSystems": [5288],
-    "rtoChannels": [5240],
+    "radioSystems": [7591],
+    "rtoChannels": [7597],
     "radioChannels": [
         {
             "id": 1,
@@ -141,7 +141,7 @@
             "clientUidList": [""]
         },
         "permStaff": {
-            "serverGroupList": ["4497"],
+            "serverGroupList": [""],
             "clientUidList": [""]
         },
         "permSenior": {
@@ -149,11 +149,11 @@
             "clientUidList": [""]
         },
         "permAdmin": {
-            "serverGroupList": ["4338"],
+            "serverGroupList": [""],
             "clientUidList": [""]
         },
         "permSuper": {
-            "serverGroupList": ["4498"],
+            "serverGroupList": ["6194", "6197"],
             "clientUidList": [""]
         }
     }
