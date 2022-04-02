@@ -36,7 +36,7 @@
         {
             "id": 1,
             "name": "SW Main",
-            "soundName": "lsMain",
+            "soundName": "swMain",
             "type": "LEO",
             "coloredName": "[color=#3a9fbf]SW Main[/color]",
             "talkEnforcement": true,
@@ -48,7 +48,7 @@
         {
             "id": 2,
             "name": "SW Reserve",
-            "soundName": "bcMain",
+            "soundName": "swReserve",
             "type": "LEO",
             "coloredName": "[color=#009a00]SW Reserve[/color]",
             "talkEnforcement": true,
