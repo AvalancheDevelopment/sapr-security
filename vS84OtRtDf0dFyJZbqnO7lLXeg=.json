@@ -1,7 +1,7 @@
 {
     "pluginStatus": true,
     "isPaid": true,
-    "communityName": "Sunset Valley Roleplay",
+    "communityName": "Countryside RP",
     "betaCommunity": false,
     "features": {
         "inGameInterface": true,
@@ -28,15 +28,15 @@
     ],
     "civilianServerGroups": [""],
     "civChannels": [0],
-    "radioSystems": [4907],
-    "rtoChannels": [4912],
+    "radioSystems": [861],
+    "rtoChannels": [867],
     "radioChannels": [
         {
             "id": 1,
-            "name": "Patrol Ops",
+            "name": "Statewide Dispatch",
             "soundName": "",
             "type": "LEO",
-            "coloredName": "[color=green]Patrol Ops[/color]",
+            "coloredName": "[color=green]Statewide Dispatch[/color]",
             "talkEnforcement": true,
             "talkAround": false,
             "scannable": true,
@@ -105,6 +105,18 @@
         },
         {
             "id": 7,
+            "name": "Private 2",
+            "soundName": "",
+            "type": "LEO",
+            "coloredName": "[color=red]Private 2[/color]",
+            "talkEnforcement": true,
+            "talkAround": false,
+            "scannable": false,
+            "encrypted": true,
+            "permission": 1
+        },
+        {
+            "id": 8,
             "name": "Announcements",
             "soundName": "",
             "type": "announce",
@@ -135,19 +147,19 @@
             "serverGroupList": [""]
         },
         "permSit": {
-            "serverGroupList": ["4222"]
+            "serverGroupList": ["1006"]
         },
         "permStaff": {
-            "serverGroupList": ["4221"]
+            "serverGroupList": ["1007"]
         },
         "permSenior": {
-            "serverGroupList": ["4220"]
+            "serverGroupList": ["1008"]
         },
         "permAdmin": {
-            "serverGroupList": ["4218", "4219"]
+            "serverGroupList": ["1010", "1009"]
         },
         "permSuper": {
-            "serverGroupList": ["4209", "4210", "4435"]
+            "serverGroupList": ["1012", "1011"]
         }
     }
 }
