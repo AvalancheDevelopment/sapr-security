@@ -1,0 +1,189 @@
+{
+    "pluginStatus": true,
+    "isPaid": true,
+    "communityName": "Society RP",
+    "betaCommunity": false,
+    "features": {
+        "inGameInterface": true,
+        "rangeSimulation": true,
+        "emergencyHotline": true
+    },
+    "talkAroundRange": 1500,
+    "betaServerGroups": [""],
+    "dispatchServerGroups": [""],
+    "dispatchAdvancedServerGroups": [],
+    "dispatchNameTags": [
+        "(P)",
+        "(S)",
+        "(T)",
+        "(FIRE)",
+        "(QA)",
+        "(EVAL)",
+        "[P]",
+        "[S]",
+        "[T]",
+        "[FIRE]",
+        "[QA]",
+        "[EVAL]"
+    ],
+    "civilianServerGroups": [""],
+    "civChannels": [0],
+    "radioSystems": [99124, 92412, 91134],
+    "rtoChannels": [99128, 99141],
+    "radioChannels": [
+        {
+            "id": 1,
+            "name": "LSPD Disp 1",
+            "soundName": "",
+            "type": "LEO",
+            "coloredName": "[color=green]LSPD Disp 1[/color]",
+            "talkEnforcement": true,
+            "talkAround": false,
+            "scannable": true,
+            "encrypted": false,
+            "permission": 1
+        },
+        {
+            "id": 2,
+            "name": "LSPD Disp 2",
+            "soundName": "",
+            "type": "LEO",
+            "coloredName": "[color=green]LSPD Disp 2[/color]",
+            "talkEnforcement": true,
+            "talkAround": false,
+            "scannable": true,
+            "encrypted": false,
+            "permission": 1
+        },
+        {
+            "id": 3,
+            "name": "Teletype",
+            "soundName": "",
+            "type": "LEO",
+            "coloredName": "[color=cyan]Teletype[/color]",
+            "talkEnforcement": true,
+            "talkAround": false,
+            "scannable": true,
+            "encrypted": false,
+            "permission": 1
+        },
+        {
+            "id": 4,
+            "name": "SAFR Tac 1",
+            "soundName": "",
+            "type": "LEO",
+            "coloredName": "[color=orange]SAFR Tac 1[/color]",
+            "talkEnforcement": true,
+            "talkAround": false,
+            "scannable": true,
+            "encrypted": false,
+            "permission": 1
+        },
+        {
+            "id": 5,
+            "name": "SAFR Tac 2",
+            "soundName": "",
+            "type": "LEO",
+            "coloredName": "[color=orange]SAFR Tac 2[/color]",
+            "talkEnforcement": true,
+            "talkAround": false,
+            "scannable": true,
+            "encrypted": false,
+            "permission": 1
+        },
+        {
+            "id": 6,
+            "name": "Medcomm",
+            "soundName": "",
+            "type": "LEO",
+            "coloredName": "[color=yellow]Medcomm[/color]",
+            "talkEnforcement": true,
+            "talkAround": false,
+            "scannable": true,
+            "encrypted": false,
+            "permission": 1
+        },
+        {
+            "id": 7,
+            "name": "BCSO 1",
+            "soundName": "",
+            "type": "LEO",
+            "coloredName": "[color=purple]BCSO 1[/color]",
+            "talkEnforcement": true,
+            "talkAround": false,
+            "scannable": true,
+            "encrypted": false,
+            "permission": 1
+        },
+        {
+            "id": 8,
+            "name": "BCSO 2",
+            "soundName": "",
+            "type": "LEO",
+            "coloredName": "[color=green]BCSO 2[/color]",
+            "talkEnforcement": true,
+            "talkAround": false,
+            "scannable": true,
+            "encrypted": false,
+            "permission": 1
+        },
+        {
+            "id": 9,
+            "name": "Avi 1",
+            "soundName": "",
+            "type": "LEO",
+            "coloredName": "[color=gray]Avi 1[/color]",
+            "talkEnforcement": true,
+            "talkAround": false,
+            "scannable": true,
+            "encrypted": false,
+            "permission": 1
+        },
+        {
+            "id": 10,
+            "name": "Spec DIT",
+            "soundName": "",
+            "type": "LEO",
+            "coloredName": "[color=brown]Spec DIT[/color]",
+            "talkEnforcement": true,
+            "talkAround": false,
+            "scannable": true,
+            "encrypted": false,
+            "permission": 1
+        }
+    ],
+    "time_settings": {
+        "emergencyOverridePeriod": 10,
+        "emergencyCooldown": 30,
+        "emergencyOtherCooldown": 20,
+        "dispatchToneCooldown": 15,
+        "radioStunCooldown": 5,
+        "radioPingCooldown": 10,
+        "911Cooldown": 30,
+        "commandStunPeriod": 300,
+        "toneWaitTalkPeriod": 5
+    },
+    "permissions": {
+        "permBasic": {
+            "serverGroupList": [""]
+        },
+        "permExtra": {
+            "serverGroupList": [""]
+        },
+        "permSit": {
+            "serverGroupList": [""]
+        },
+        "permStaff": {
+            "serverGroupList": [""]
+        },
+        "permSenior": {
+            "serverGroupList": [""]
+        },
+        "permAdmin": {
+            "serverGroupList": [""]
+        },
+        "permSuper": {
+            "serverGroupList": [""]
+        }
+    }
+}
