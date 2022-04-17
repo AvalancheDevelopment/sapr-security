@@ -126,6 +126,18 @@
             "scannable": false,
             "encrypted": true,
             "permission": 1
+        },
+        {
+            "id": 9,
+            "name": "Statewide Tow",
+            "soundName": "Ch_SWTow",
+            "type": "LEO",
+            "coloredName": "[color=brown]Statewide Tow[/color]",
+            "talkEnforcement": true,
+            "talkAround": false,
+            "scannable": true,
+            "encrypted": false,
+            "permission": 1
         }
     ],
     "time_settings": {
