@@ -34,7 +34,7 @@
         {
             "id": 1,
             "name": "LSPD Disp 1",
-            "soundName": "",
+            "soundName": "lspdDisp1",
             "type": "LEO",
             "coloredName": "[color=green]LSPD Disp 1[/color]",
             "talkEnforcement": true,
@@ -46,7 +46,7 @@
         {
             "id": 2,
             "name": "LSPD Disp 2",
-            "soundName": "",
+            "soundName": "lspdDisp2",
             "type": "LEO",
             "coloredName": "[color=green]LSPD Disp 2[/color]",
             "talkEnforcement": true,
@@ -58,7 +58,7 @@
         {
             "id": 3,
             "name": "Teletype",
-            "soundName": "",
+            "soundName": "teletype",
             "type": "LEO",
             "coloredName": "[color=cyan]Teletype[/color]",
             "talkEnforcement": true,
@@ -70,7 +70,7 @@
         {
             "id": 4,
             "name": "SAFR Tac 1",
-            "soundName": "",
+            "soundName": "safrTac1",
             "type": "LEO",
             "coloredName": "[color=orange]SAFR Tac 1[/color]",
             "talkEnforcement": true,
@@ -82,7 +82,7 @@
         {
             "id": 5,
             "name": "SAFR Tac 2",
-            "soundName": "",
+            "soundName": "safrTac2",
             "type": "LEO",
             "coloredName": "[color=orange]SAFR Tac 2[/color]",
             "talkEnforcement": true,
@@ -94,7 +94,7 @@
         {
             "id": 6,
             "name": "Medcomm",
-            "soundName": "",
+            "soundName": "medcomm",
             "type": "LEO",
             "coloredName": "[color=yellow]Medcomm[/color]",
             "talkEnforcement": true,
@@ -106,7 +106,7 @@
         {
             "id": 7,
             "name": "BCSO 1",
-            "soundName": "",
+            "soundName": "bcso1",
             "type": "LEO",
             "coloredName": "[color=purple]BCSO 1[/color]",
             "talkEnforcement": true,
@@ -118,7 +118,7 @@
         {
             "id": 8,
             "name": "BCSO 2",
-            "soundName": "",
+            "soundName": "bcso2",
             "type": "LEO",
             "coloredName": "[color=green]BCSO 2[/color]",
             "talkEnforcement": true,
@@ -130,7 +130,7 @@
         {
             "id": 9,
             "name": "Avi 1",
-            "soundName": "",
+            "soundName": "avi1",
             "type": "LEO",
             "coloredName": "[color=gray]Avi 1[/color]",
             "talkEnforcement": true,
@@ -142,7 +142,7 @@
         {
             "id": 10,
             "name": "Spec DIT",
-            "soundName": "",
+            "soundName": "specDIT",
             "type": "LEO",
             "coloredName": "[color=brown]Spec DIT[/color]",
             "talkEnforcement": true,
