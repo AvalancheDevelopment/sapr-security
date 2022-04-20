@@ -10,7 +10,7 @@
     },
     "talkAroundRange": 1500,
     "betaServerGroups": [""],
-    "dispatchServerGroups": ["12054"],
+    "dispatchServerGroups": ["629", "619"],
     "dispatchAdvancedServerGroups": [],
     "dispatchNameTags": [
         "(P)",
@@ -28,8 +28,8 @@
     ],
     "civilianServerGroups": [""],
     "civChannels": [0],
-    "radioSystems": [9730],
-    "rtoChannels": [9452],
+    "radioSystems": [413],
+    "rtoChannels": [426],
     "radioChannels": [
         {
             "id": 1,
@@ -183,19 +183,19 @@
             "serverGroupList": [""]
         },
         "permSit": {
-            "serverGroupList": [""]
+            "serverGroupList": ["636"]
         },
         "permStaff": {
-            "serverGroupList": [""]
+            "serverGroupList": ["637"]
         },
         "permSenior": {
-            "serverGroupList": [""]
+            "serverGroupList": ["638"]
         },
         "permAdmin": {
-            "serverGroupList": [""]
+            "serverGroupList": ["640", "639"]
         },
         "permSuper": {
-            "serverGroupList": ["9071", "8433"]
+            "serverGroupList": ["641"]
         }
     }
 }
