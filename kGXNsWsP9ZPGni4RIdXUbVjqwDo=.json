@@ -81,6 +81,18 @@
         },
         {
             "id": 5,
+            "name": "San Bernardino County Dispatch",
+            "soundName": "",
+            "type": "LEO",
+            "coloredName": "[color=cyan]San Bernardino County Dispatch[/color]",
+            "talkEnforcement": true,
+            "talkAround": false,
+            "scannable": true,
+            "encrypted": false,
+            "permission": 1
+        },
+        {
+            "id": 6,
             "name": "Highway Patrol Dispatch",
             "soundName": "",
             "type": "LEO",
@@ -92,7 +104,7 @@
             "permission": 1
         },
         {
-            "id": 6,
+            "id": 7,
             "name": "Park Service Dispatch",
             "soundName": "",
             "type": "LEO",
@@ -104,7 +116,7 @@
             "permission": 1
         },
         {
-            "id": 7,
+            "id": 8,
             "name": "National Guard Dispatch",
             "soundName": "",
             "type": "LEO",
@@ -116,7 +128,7 @@
             "permission": 1
         },
         {
-            "id": 8,
+            "id": 9,
             "name": "Scene Blue",
             "soundName": "",
             "type": "LEO",
@@ -128,7 +140,7 @@
             "permission": 1
         },
         {
-            "id": 9,
+            "id": 10,
             "name": "Scene Red",
             "soundName": "",
             "type": "LEO",
