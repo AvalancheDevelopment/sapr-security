@@ -1,7 +1,7 @@
 {
-    "pluginStatus": false,
-    "isPaid": false,
-    "communityName": "Westside Roleplay",
+    "pluginStatus": true,
+    "isPaid": true,
+    "communityName": "Department of Safety Roleplay",
     "betaCommunity": false,
     "features": {
         "inGameInterface": true,
@@ -12,11 +12,24 @@
     "betaServerGroups": [""],
     "dispatchServerGroups": ["219"],
     "dispatchAdvancedServerGroups": [],
-    "dispatchNameTags": ["(P)", "(S)", "(T)", "(FIRE)", "(QA)", "(EVAL)"],
+    "dispatchNameTags": [
+        "(P)",
+        "(S)",
+        "(T)",
+        "(FIRE)",
+        "(QA)",
+        "(EVAL)",
+        "[P]",
+        "[S]",
+        "[T]",
+        "[FIRE]",
+        "[QA]",
+        "[EVAL]"
+    ],
     "civilianServerGroups": [""],
     "civChannels": [0],
-    "radioSystems": [58],
-    "rtoChannels": [63],
+    "radioSystems": [57],
+    "rtoChannels": [61],
     "radioChannels": [
         {
             "id": 1,
@@ -140,7 +153,7 @@
             "clientUidList": [""]
         },
         "permSuper": {
-            "serverGroupList": ["234"],
+            "serverGroupList": ["234", "233"],
             "clientUidList": [""]
         }
     }
