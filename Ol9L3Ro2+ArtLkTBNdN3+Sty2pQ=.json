@@ -1,0 +1,177 @@
+{
+    "pluginStatus": true,
+    "isPaid": true,
+    "communityName": "North Carolina State Roleplay",
+    "betaCommunity": false,
+    "features": {
+        "inGameInterface": true,
+        "rangeSimulation": true,
+        "emergencyHotline": true
+    },
+    "talkAroundRange": 1500,
+    "betaServerGroups": [""],
+    "dispatchServerGroups": ["113"],
+    "dispatchAdvancedServerGroups": [],
+    "dispatchNameTags": [
+        "(P)",
+        "(S)",
+        "(T)",
+        "(FIRE)",
+        "(QA)",
+        "(EVAL)",
+        "[P]",
+        "[S]",
+        "[T]",
+        "[FIRE]",
+        "[QA]",
+        "[EVAL]"
+    ],
+    "civilianServerGroups": [""],
+    "civChannels": [0],
+    "radioSystems": [18],
+    "rtoChannels": [141],
+    "radioChannels": [
+        {
+            "id": 1,
+            "name": "County RTO",
+            "soundName": "",
+            "type": "LEO",
+            "coloredName": "[color=green]County RTO[/color]",
+            "talkEnforcement": true,
+            "talkAround": false,
+            "scannable": true,
+            "encrypted": false,
+            "permission": 1
+        },
+        {
+            "id": 2,
+            "name": "Wilmington RTO",
+            "soundName": "",
+            "type": "LEO",
+            "coloredName": "[color=green]Wilmington RTO[/color]",
+            "talkEnforcement": true,
+            "talkAround": false,
+            "scannable": true,
+            "encrypted": false,
+            "permission": 1
+        },
+        {
+            "id": 3,
+            "name": "NCSHP SW RTO",
+            "soundName": "",
+            "type": "LEO",
+            "coloredName": "[color=green]NCSHP SW RTO[/color]",
+            "talkEnforcement": true,
+            "talkAround": false,
+            "scannable": true,
+            "encrypted": false,
+            "permission": 1
+        },
+        {
+            "id": 4,
+            "name": "Fire/EMS RTO",
+            "soundName": "",
+            "type": "LEO",
+            "coloredName": "[color=yellow]Fire/EMS RTO[/color]",
+            "talkEnforcement": true,
+            "talkAround": false,
+            "scannable": true,
+            "encrypted": false,
+            "permission": 1
+        },
+        {
+            "id": 5,
+            "name": "LEO Tac 1",
+            "soundName": "",
+            "type": "LEO",
+            "coloredName": "[color=purple]LEO Tac 1[/color]",
+            "talkEnforcement": true,
+            "talkAround": false,
+            "scannable": true,
+            "encrypted": true,
+            "permission": 1
+        },
+        {
+            "id": 6,
+            "name": "LEO Tac 2",
+            "soundName": "",
+            "type": "LEO",
+            "coloredName": "[color=purple]LEO Tac 2[/color]",
+            "talkEnforcement": true,
+            "talkAround": false,
+            "scannable": true,
+            "encrypted": true,
+            "permission": 1
+        },
+        {
+            "id": 7,
+            "name": "Fire/EMS Tac 1",
+            "soundName": "",
+            "type": "LEO",
+            "coloredName": "[color=orange]Fire/EMS Tac 1[/color]",
+            "talkEnforcement": true,
+            "talkAround": false,
+            "scannable": true,
+            "encrypted": true,
+            "permission": 1
+        },
+        {
+            "id": 8,
+            "name": "SRT Tac 1",
+            "soundName": "",
+            "type": "LEO",
+            "coloredName": "[color=cyan]SRT Tac 1[/color]",
+            "talkEnforcement": true,
+            "talkAround": false,
+            "scannable": true,
+            "encrypted": true,
+            "permission": 1
+        },
+        {
+            "id": 9,
+            "name": "FAA Unicom",
+            "soundName": "",
+            "type": "LEO",
+            "coloredName": "[color=brown]FAA Unicom[/color]",
+            "talkEnforcement": true,
+            "talkAround": false,
+            "scannable": true,
+            "encrypted": false,
+            "permission": 1
+        }
+    ],
+    "time_settings": {
+        "emergencyOverridePeriod": 10,
+        "emergencyCooldown": 30,
+        "emergencyOtherCooldown": 20,
+        "dispatchToneCooldown": 15,
+        "radioStunCooldown": 5,
+        "radioPingCooldown": 10,
+        "911Cooldown": 30,
+        "commandStunPeriod": 300,
+        "toneWaitTalkPeriod": 5
+    },
+    "permissions": {
+        "permBasic": {
+            "serverGroupList": [""]
+        },
+        "permExtra": {
+            "serverGroupList": [""]
+        },
+        "permSit": {
+            "serverGroupList": [""]
+        },
+        "permStaff": {
+            "serverGroupList": ["23", "24"]
+        },
+        "permSenior": {
+            "serverGroupList": ["175"]
+        },
+        "permAdmin": {
+            "serverGroupList": ["21", "22"]
+        },
+        "permSuper": {
+            "serverGroupList": ["19", "20"]
+        }
+    }
+}
