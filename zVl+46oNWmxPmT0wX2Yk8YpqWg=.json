@@ -1,7 +1,7 @@
 {
-    "pluginStatus": true,
-    "isPaid": true,
-    "communityName": "Rocky Mountain Roleplay ",
+    "pluginStatus": false,
+    "isPaid": false,
+    "communityName": "Rocky Mountain Roleplay",
     "betaCommunity": false,
     "features": {
         "inGameInterface": true,
