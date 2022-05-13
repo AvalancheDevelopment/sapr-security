@@ -1,6 +1,6 @@
 {
-    "pluginStatus": true,
-    "isPaid": true,
+    "pluginStatus": false,
+    "isPaid": false,
     "communityName": "IslandLife",
     "betaCommunity": false,
     "features": {
@@ -144,10 +144,10 @@
             "serverGroupList": ["58"]
         },
         "permAdmin": {
-            "serverGroupList": ["61","60","59"]
+            "serverGroupList": ["61", "60", "59"]
         },
         "permSuper": {
-            "serverGroupList": ["6","25"]
+            "serverGroupList": ["6", "25"]
         }
     }
 }
