@@ -2,6 +2,7 @@
     "pluginStatus": true,
     "isPaid": true,
     "communityName": "Midnight City RP",
+    "betaCommunity": false,
     "features": {
         "inGameInterface": true,
         "rangeSimulation": true,
@@ -10,12 +11,12 @@
     "talkAroundRange": 1500,
     "betaServerGroups": [""],
     "dispatchServerGroups": ["177", "171"],
-    "dispatchAdvancedServerGroups": ["177", "171", "21"],
+    "dispatchAdvancedServerGroups": [],
     "dispatchNameTags": ["(P)", "(S)", "(T)", "(FIRE)", "(QA)", "(EVAL)"],
     "civilianServerGroups": [""],
     "civChannels": [0],
-    "radioSystems": [43, 62, 44],
-    "rtoChannels": [45, 64, 46, 85],
+    "radioSystems": [447],
+    "rtoChannels": [45, 46, 85, 372],
     "radioChannels": [
         {
             "id": 1,
@@ -135,7 +136,7 @@
             "clientUidList": [""]
         },
         "permSit": {
-            "serverGroupList": [""],
+            "serverGroupList": ["182"],
             "clientUidList": [""]
         },
         "permStaff": {
@@ -143,7 +144,7 @@
             "clientUidList": [""]
         },
         "permSenior": {
-            "serverGroupList": [""],
+            "serverGroupList": ["180"],
             "clientUidList": [""]
         },
         "permAdmin": {

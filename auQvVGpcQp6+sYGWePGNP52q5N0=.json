@@ -1,16 +1,17 @@
 {
     "pluginStatus": false,
     "isPaid": false,
-    "communityName": "delete later",
+    "communityName": "Northern State Roleplay",
+    "betaCommunity": false,
     "features": {
         "inGameInterface": true,
         "rangeSimulation": true,
-        "emergencyHotline": true
+        "emergencyHotline": false
     },
     "talkAroundRange": 1500,
     "betaServerGroups": [""],
-    "dispatchServerGroups": ["58", "152"],
-    "dispatchAdvancedServerGroups": ["58", "152"],
+    "dispatchServerGroups": ["917"],
+    "dispatchAdvancedServerGroups": [],
     "dispatchNameTags": [
         "(P)",
         "(S)",
@@ -27,15 +28,15 @@
     ],
     "civilianServerGroups": [""],
     "civChannels": [0],
-    "radioSystems": [11],
-    "rtoChannels": [51],
+    "radioSystems": [1931],
+    "rtoChannels": [1935],
     "radioChannels": [
         {
             "id": 1,
-            "name": "Patrol Ops",
+            "name": "Statewide Ops",
             "soundName": "",
             "type": "LEO",
-            "coloredName": "[color=green]Patrol Ops[/color]",
+            "coloredName": "[color=green]Statewide Ops[/color]",
             "talkEnforcement": true,
             "talkAround": false,
             "scannable": true,
@@ -44,6 +45,30 @@
         },
         {
             "id": 2,
+            "name": "North Ops",
+            "soundName": "",
+            "type": "LEO",
+            "coloredName": "[color=green]North Ops[/color]",
+            "talkEnforcement": true,
+            "talkAround": false,
+            "scannable": true,
+            "encrypted": false,
+            "permission": 1
+        },
+        {
+            "id": 3,
+            "name": "South Ops",
+            "soundName": "",
+            "type": "LEO",
+            "coloredName": "[color=green]South Ops[/color]",
+            "talkEnforcement": true,
+            "talkAround": false,
+            "scannable": true,
+            "encrypted": false,
+            "permission": 1
+        },
+        {
+            "id": 4,
             "name": "Fire Ops",
             "soundName": "",
             "type": "LEO",
@@ -55,7 +80,7 @@
             "permission": 1
         },
         {
-            "id": 3,
+            "id": 5,
             "name": "Tac 1",
             "soundName": "",
             "type": "LEO",
@@ -67,7 +92,7 @@
             "permission": 1
         },
         {
-            "id": 4,
+            "id": 6,
             "name": "Tac 2",
             "soundName": "",
             "type": "LEO",
@@ -79,23 +104,23 @@
             "permission": 1
         },
         {
-            "id": 5,
-            "name": "Training RTO 1",
+            "id": 7,
+            "name": "Private 1",
             "soundName": "",
             "type": "LEO",
-            "coloredName": "[color=cyan]Training RTO 1[/color]",
+            "coloredName": "[color=red]Private 1[/color]",
             "talkEnforcement": true,
             "talkAround": false,
-            "scannable": true,
-            "encrypted": false,
+            "scannable": false,
+            "encrypted": true,
             "permission": 1
         },
         {
-            "id": 6,
-            "name": "Training RTO 2",
+            "id": 8,
+            "name": "Public Services",
             "soundName": "",
             "type": "LEO",
-            "coloredName": "[color=cyan]Training RTO 2[/color]",
+            "coloredName": "[color=grey]Public Services[/color]",
             "talkEnforcement": true,
             "talkAround": false,
             "scannable": true,
@@ -116,32 +141,25 @@
     },
     "permissions": {
         "permBasic": {
-            "serverGroupList": [""],
-            "clientUidList": [""]
+            "serverGroupList": [""]
         },
         "permExtra": {
-            "serverGroupList": [""],
-            "clientUidList": [""]
+            "serverGroupList": [""]
         },
         "permSit": {
-            "serverGroupList": [""],
-            "clientUidList": [""]
+            "serverGroupList": ["925"]
         },
         "permStaff": {
-            "serverGroupList": [""],
-            "clientUidList": [""]
+            "serverGroupList": ["926"]
         },
         "permSenior": {
-            "serverGroupList": [""],
-            "clientUidList": [""]
+            "serverGroupList": ["927"]
         },
         "permAdmin": {
-            "serverGroupList": [""],
-            "clientUidList": [""]
+            "serverGroupList": ["929", "928"]
         },
         "permSuper": {
-            "serverGroupList": ["3"],
-            "clientUidList": [""]
+            "serverGroupList": ["932"]
         }
     }
 }

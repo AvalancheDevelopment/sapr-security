@@ -1,7 +1,8 @@
 {
-    "pluginStatus": true,
-    "isPaid": true,
+    "pluginStatus": false,
+    "isPaid": false,
     "communityName": "Golden Coast Roleplay",
+    "betaCommunity": false,
     "features": {
         "inGameInterface": true,
         "rangeSimulation": true,
@@ -28,7 +29,7 @@
     "civilianServerGroups": [""],
     "civChannels": [0],
     "radioSystems": [861, 211, 222, 769, 874, 884],
-    "rtoChannels": [867, 215, 226, 791, 877, 888],
+    "rtoChannels": [867, 215, 226, 791, 877, 888, 1384],
     "radioChannels": [
         {
             "id": 1,
@@ -144,6 +145,18 @@
             "soundName": "private3",
             "type": "LEO",
             "coloredName": "[color=red]Private 3[/color]",
+            "talkEnforcement": true,
+            "talkAround": false,
+            "scannable": false,
+            "encrypted": true,
+            "permission": 1
+        },
+        {
+            "id": 11,
+            "name": "SA Security 1",
+            "soundName": "saSecurity1",
+            "type": "LEO",
+            "coloredName": "[color=teal]SA Security 1[/color]",
             "talkEnforcement": true,
             "talkAround": false,
             "scannable": false,

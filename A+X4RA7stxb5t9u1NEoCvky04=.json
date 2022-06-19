@@ -1,0 +1,225 @@
+{
+    "pluginStatus": false,
+    "isPaid": false,
+    "communityName": "delete later",
+    "betaCommunity": false,
+    "features": {
+        "inGameInterface": true,
+        "rangeSimulation": true,
+        "emergencyHotline": false
+    },
+    "talkAroundRange": 1500,
+    "betaServerGroups": [""],
+    "dispatchServerGroups": ["9"],
+    "dispatchAdvancedServerGroups": [],
+    "dispatchNameTags": [
+        "(P)",
+        "(S)",
+        "(T)",
+        "(FIRE)",
+        "(QA)",
+        "(EVAL)",
+        "[P]",
+        "[S]",
+        "[T]",
+        "[FIRE]",
+        "[QA]",
+        "[EVAL]"
+    ],
+    "civilianServerGroups": [""],
+    "civChannels": [0],
+    "radioSystems": [1],
+    "rtoChannels": [2],
+    "radioChannels": [
+        {
+            "id": 1,
+            "name": "RTO 1",
+            "soundName": "",
+            "type": "LEO",
+            "coloredName": "[color=green]RTO 1[/color]",
+            "talkEnforcement": true,
+            "talkAround": false,
+            "scannable": true,
+            "encrypted": false,
+            "permission": 1
+        },
+        {
+            "id": 2,
+            "name": "RTO 2",
+            "soundName": "",
+            "type": "LEO",
+            "coloredName": "[color=green]RTO 2[/color]",
+            "talkEnforcement": true,
+            "talkAround": false,
+            "scannable": true,
+            "encrypted": false,
+            "permission": 1
+        },
+        {
+            "id": 3,
+            "name": "CITYWIDE",
+            "soundName": "",
+            "type": "LEO",
+            "coloredName": "[color=green]CITYWIDE[/color]",
+            "talkEnforcement": true,
+            "talkAround": false,
+            "scannable": true,
+            "encrypted": false,
+            "permission": 1
+        },
+        {
+            "id": 4,
+            "name": "COUNTYWIDE",
+            "soundName": "",
+            "type": "LEO",
+            "coloredName": "[color=green]COUNTYWIDE[/color]",
+            "talkEnforcement": true,
+            "talkAround": false,
+            "scannable": true,
+            "encrypted": false,
+            "permission": 1
+        },
+        {
+            "id": 5,
+            "name": "STATEWIDE",
+            "soundName": "",
+            "type": "LEO",
+            "coloredName": "[color=green]STATEWIDE[/color]",
+            "talkEnforcement": true,
+            "talkAround": false,
+            "scannable": true,
+            "encrypted": false,
+            "permission": 1
+        },
+        {
+            "id": 6,
+            "name": "Tac 1",
+            "soundName": "",
+            "type": "LEO",
+            "coloredName": "[color=purple]Tac 1[/color]",
+            "talkEnforcement": true,
+            "talkAround": false,
+            "scannable": true,
+            "encrypted": true,
+            "permission": 1
+        },
+        {
+            "id": 7,
+            "name": "Tac 2",
+            "soundName": "",
+            "type": "LEO",
+            "coloredName": "[color=purple]Tac 2[/color]",
+            "talkEnforcement": true,
+            "talkAround": false,
+            "scannable": true,
+            "encrypted": true,
+            "permission": 1
+        },
+        {
+            "id": 8,
+            "name": "10-11",
+            "soundName": "",
+            "type": "LEO",
+            "coloredName": "[color=red]10-11[/color]",
+            "talkEnforcement": true,
+            "talkAround": false,
+            "scannable": false,
+            "encrypted": true,
+            "permission": 1
+        },
+        {
+            "id": 9,
+            "name": "10-12",
+            "soundName": "",
+            "type": "LEO",
+            "coloredName": "[color=red]10-12[/color]",
+            "talkEnforcement": true,
+            "talkAround": false,
+            "scannable": false,
+            "encrypted": true,
+            "permission": 1
+        },
+        {
+            "id": 10,
+            "name": "FIRE 1",
+            "soundName": "",
+            "type": "LEO",
+            "coloredName": "[color=yellow]FIRE 1[/color]",
+            "talkEnforcement": true,
+            "talkAround": false,
+            "scannable": true,
+            "encrypted": false,
+            "permission": 1
+        },
+        {
+            "id": 11,
+            "name": "FIRE 2",
+            "soundName": "",
+            "type": "LEO",
+            "coloredName": "[color=yellow]FIRE 2[/color]",
+            "talkEnforcement": true,
+            "talkAround": false,
+            "scannable": true,
+            "encrypted": false,
+            "permission": 1
+        },
+        {
+            "id": 12,
+            "name": "FIRE OPS 1",
+            "soundName": "",
+            "type": "LEO",
+            "coloredName": "[color=yellow]FIRE OPS 1[/color]",
+            "talkEnforcement": true,
+            "talkAround": false,
+            "scannable": true,
+            "encrypted": false,
+            "permission": 1
+        },
+        {
+            "id": 13,
+            "name": "FIRE TAC 1",
+            "soundName": "",
+            "type": "LEO",
+            "coloredName": "[color=yellow]FIRE TAC 1[/color]",
+            "talkEnforcement": true,
+            "talkAround": false,
+            "scannable": true,
+            "encrypted": false,
+            "permission": 1
+        }
+    ],
+    "time_settings": {
+        "emergencyOverridePeriod": 10,
+        "emergencyCooldown": 30,
+        "emergencyOtherCooldown": 20,
+        "dispatchToneCooldown": 15,
+        "radioStunCooldown": 5,
+        "radioPingCooldown": 10,
+        "911Cooldown": 30,
+        "commandStunPeriod": 300,
+        "toneWaitTalkPeriod": 5
+    },
+    "permissions": {
+        "permBasic": {
+            "serverGroupList": [""]
+        },
+        "permExtra": {
+            "serverGroupList": [""]
+        },
+        "permSit": {
+            "serverGroupList": ["17"]
+        },
+        "permStaff": {
+            "serverGroupList": ["10,11"]
+        },
+        "permSenior": {
+            "serverGroupList": ["12,13,14"]
+        },
+        "permAdmin": {
+            "serverGroupList": ["15"]
+        },
+        "permSuper": {
+            "serverGroupList": ["16"]
+        }
+    }
+}

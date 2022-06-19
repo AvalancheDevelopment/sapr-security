@@ -2,6 +2,7 @@
     "pluginStatus": true,
     "isPaid": true,
     "communityName": "Colorado State Roleplay",
+    "betaCommunity": false,
     "features": {
         "inGameInterface": true,
         "rangeSimulation": true,
@@ -172,11 +173,11 @@
             "clientUidList": [""]
         },
         "permAdmin": {
-            "serverGroupList": ["72400","72399"],
+            "serverGroupList": ["72400", "72399"],
             "clientUidList": [""]
         },
         "permSuper": {
-            "serverGroupList": ["72398","72386"],
+            "serverGroupList": ["72398", "72386"],
             "clientUidList": [""]
         }
     }

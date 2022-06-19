@@ -1,7 +1,8 @@
 {
-    "pluginStatus": true,
-    "isPaid": true,
+    "pluginStatus": false,
+    "isPaid": false,
     "communityName": "HorizonRP",
+    "betaCommunity": false,
     "features": {
         "inGameInterface": true,
         "rangeSimulation": true,
@@ -9,7 +10,7 @@
     },
     "talkAroundRange": 1500,
     "betaServerGroups": [""],
-    "dispatchServerGroups": ["94"],
+    "dispatchServerGroups": ["94", "187", "188"],
     "dispatchAdvancedServerGroups": [],
     "dispatchNameTags": [
         "(P)",

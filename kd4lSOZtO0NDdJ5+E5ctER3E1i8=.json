@@ -1,7 +1,8 @@
 {
-    "pluginStatus": true,
-    "isPaid": true,
+    "pluginStatus": false,
+    "isPaid": false,
     "communityName": "San Andreas State RP",
+    "betaCommunity": false,
     "features": {
         "inGameInterface": true,
         "rangeSimulation": true,
@@ -44,10 +45,10 @@
         },
         {
             "id": 2,
-            "name": "Country",
+            "name": "County",
             "soundName": "",
             "type": "LEO",
-            "coloredName": "[color=green]Country[/color]",
+            "coloredName": "[color=green]County[/color]",
             "talkEnforcement": true,
             "talkAround": false,
             "scannable": true,

@@ -1,7 +1,8 @@
 {
     "pluginStatus": true,
     "isPaid": true,
-    "communityName": "New Limits Roleplay",
+    "communityName": "Ethelstan",
+    "betaCommunity": false,
     "features": {
         "inGameInterface": true,
         "rangeSimulation": true,
@@ -9,8 +10,8 @@
     },
     "talkAroundRange": 1500,
     "betaServerGroups": [""],
-    "dispatchServerGroups": ["147"],
-    "dispatchAdvancedServerGroups": ["147"],
+    "dispatchServerGroups": [""],
+    "dispatchAdvancedServerGroups": [],
     "dispatchNameTags": [
         "(P)",
         "(S)",
@@ -27,8 +28,8 @@
     ],
     "civilianServerGroups": [""],
     "civChannels": [0],
-    "radioSystems": [30],
-    "rtoChannels": [33],
+    "radioSystems": [3],
+    "rtoChannels": [8],
     "radioChannels": [
         {
             "id": 1,
@@ -128,32 +129,25 @@
     },
     "permissions": {
         "permBasic": {
-            "serverGroupList": [""],
-            "clientUidList": [""]
+            "serverGroupList": [""]
         },
         "permExtra": {
-            "serverGroupList": [""],
-            "clientUidList": [""]
+            "serverGroupList": [""]
         },
         "permSit": {
-            "serverGroupList": ["156"],
-            "clientUidList": [""]
+            "serverGroupList": [""]
         },
         "permStaff": {
-            "serverGroupList": ["155"],
-            "clientUidList": [""]
+            "serverGroupList": [""]
         },
         "permSenior": {
-            "serverGroupList": ["154"],
-            "clientUidList": [""]
+            "serverGroupList": [""]
         },
         "permAdmin": {
-            "serverGroupList": ["152", "153"],
-            "clientUidList": [""]
+            "serverGroupList": [""]
         },
         "permSuper": {
-            "serverGroupList": ["151"],
-            "clientUidList": [""]
+            "serverGroupList": ["6"]
         }
     }
 }

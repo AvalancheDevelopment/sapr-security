@@ -1,7 +1,8 @@
 {
     "pluginStatus": true,
     "isPaid": true,
-    "communityName": "World Wide RP",
+    "communityName": "WorldwideRP",
+    "betaCommunity": true,
     "features": {
         "inGameInterface": true,
         "rangeSimulation": true,
@@ -10,7 +11,7 @@
     "talkAroundRange": 1500,
     "betaServerGroups": [""],
     "dispatchServerGroups": ["136", "224", "437"],
-    "dispatchAdvancedServerGroups": ["136", "224", "437", "9", "153"],
+    "dispatchAdvancedServerGroups": ["136", "224", "437", "9", "153","411"],
     "dispatchNameTags": [
         "(P)",
         "(S)",
@@ -29,8 +30,8 @@
     ],
     "civilianServerGroups": [""],
     "civChannels": [0],
-    "radioSystems": [29, 45],
-    "rtoChannels": [33, 49],
+    "radioSystems": [29, 45, 56],
+    "rtoChannels": [33, 49, 602],
     "radioChannels": [
         {
             "id": 1,

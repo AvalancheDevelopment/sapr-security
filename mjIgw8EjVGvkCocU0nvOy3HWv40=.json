@@ -2,6 +2,7 @@
     "pluginStatus": true,
     "isPaid": true,
     "communityName": "State of California Emergency Services",
+    "betaCommunity": false,
     "features": {
         "inGameInterface": true,
         "rangeSimulation": true,
@@ -27,8 +28,8 @@
     ],
     "civilianServerGroups": [""],
     "civChannels": [0],
-    "radioSystems": [35,34,32],
-    "rtoChannels": [49,43,33],
+    "radioSystems": [35, 34, 32],
+    "rtoChannels": [49, 43, 33],
     "radioChannels": [
         {
             "id": 1,

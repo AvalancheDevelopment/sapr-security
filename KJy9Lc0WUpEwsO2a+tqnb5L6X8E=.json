@@ -2,15 +2,16 @@
     "pluginStatus": true,
     "isPaid": true,
     "communityName": "Test Community // Avalanche Development",
+    "betaCommunity": true,
     "features": {
         "inGameInterface": true,
         "rangeSimulation": true,
         "emergencyHotline": true
     },
     "talkAroundRange": 1500,
-    "betaServerGroups": ["10", "11", "12", "9"],
+    "betaServerGroups": [""],
     "dispatchServerGroups": ["12"],
-    "dispatchAdvancedServerGroups": ["12"],
+    "dispatchAdvancedServerGroups": [],
     "dispatchNameTags": ["(P)", "(S)", "(T)", "(FIRE)", "(QA)", "(EVAL)"],
     "civilianServerGroups": [""],
     "civChannels": [8],

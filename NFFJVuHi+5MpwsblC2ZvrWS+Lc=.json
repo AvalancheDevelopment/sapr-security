@@ -2,6 +2,7 @@
     "pluginStatus": true,
     "isPaid": true,
     "communityName": "Blue County RP",
+    "betaCommunity": false,
     "features": {
         "inGameInterface": true,
         "rangeSimulation": true,
@@ -35,14 +36,14 @@
     "civilianServerGroups": [""],
     "civChannels": [0],
     "radioSystems": [79, 184],
-    "rtoChannels": [82, 84],
+    "rtoChannels": [82, 84, 458],
     "radioChannels": [
         {
             "id": 1,
-            "name": "Patrol Ops",
+            "name": "LS Ops",
             "soundName": "",
             "type": "LEO",
-            "coloredName": "[color=green]Patrol Ops[/color]",
+            "coloredName": "[color=green]LS Ops[/color]",
             "talkEnforcement": true,
             "talkAround": false,
             "scannable": true,
@@ -51,6 +52,18 @@
         },
         {
             "id": 2,
+            "name": "BC Ops",
+            "soundName": "",
+            "type": "LEO",
+            "coloredName": "[color=green]BC Ops[/color]",
+            "talkEnforcement": true,
+            "talkAround": false,
+            "scannable": true,
+            "encrypted": false,
+            "permission": 1
+        },
+        {
+            "id": 3,
             "name": "Fire Ops",
             "soundName": "",
             "type": "LEO",
@@ -62,7 +75,7 @@
             "permission": 1
         },
         {
-            "id": 3,
+            "id": 4,
             "name": "Tac 1",
             "soundName": "",
             "type": "LEO",
@@ -74,7 +87,7 @@
             "permission": 1
         },
         {
-            "id": 4,
+            "id": 5,
             "name": "Tac 2",
             "soundName": "",
             "type": "LEO",
@@ -86,7 +99,7 @@
             "permission": 1
         },
         {
-            "id": 5,
+            "id": 6,
             "name": "Rptr TA",
             "soundName": "",
             "type": "LEO",
@@ -98,7 +111,7 @@
             "permission": 1
         },
         {
-            "id": 6,
+            "id": 7,
             "name": "Private 1",
             "soundName": "",
             "type": "LEO",

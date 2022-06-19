@@ -1,7 +1,8 @@
 {
     "pluginStatus": true,
     "isPaid": true,
-    "communityName": "StateSide Roleplay",
+    "communityName": "F Around Roleplay",
+    "betaCommunity": false,
     "features": {
         "inGameInterface": true,
         "rangeSimulation": true,
@@ -9,7 +10,7 @@
     },
     "talkAroundRange": 1500,
     "betaServerGroups": [""],
-    "dispatchServerGroups": ["109"],
+    "dispatchServerGroups": ["459"],
     "dispatchAdvancedServerGroups": [],
     "dispatchNameTags": [
         "(P)",
@@ -27,8 +28,8 @@
     ],
     "civilianServerGroups": [""],
     "civChannels": [0],
-    "radioSystems": [46],
-    "rtoChannels": [52],
+    "radioSystems": [802],
+    "rtoChannels": [808],
     "radioChannels": [
         {
             "id": 1,
@@ -158,19 +159,19 @@
             "serverGroupList": [""]
         },
         "permSit": {
-            "serverGroupList": ["124"]
+            "serverGroupList": ["470"]
         },
         "permStaff": {
-            "serverGroupList": ["195"]
+            "serverGroupList": ["508"]
         },
         "permSenior": {
-            "serverGroupList": ["135"]
+            "serverGroupList": ["480"]
         },
         "permAdmin": {
-            "serverGroupList": ["130", "133"]
+            "serverGroupList": ["478", "476", "723"]
         },
         "permSuper": {
-            "serverGroupList": ["118"]
+            "serverGroupList": ["468"]
         }
     }
 }

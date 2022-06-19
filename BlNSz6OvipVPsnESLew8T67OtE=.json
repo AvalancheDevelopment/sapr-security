@@ -1,7 +1,8 @@
 {
-    "pluginStatus": true,
-    "isPaid": true,
+    "pluginStatus": false,
+    "isPaid": false,
     "communityName": "ToxicMines",
+    "betaCommunity": false,
     "features": {
         "inGameInterface": true,
         "rangeSimulation": true,
@@ -27,15 +28,15 @@
     ],
     "civilianServerGroups": [""],
     "civChannels": [0],
-    "radioSystems": [118],
-    "rtoChannels": [338],
+    "radioSystems": [401],
+    "rtoChannels": [402],
     "radioChannels": [
         {
             "id": 1,
-            "name": "North RTO",
+            "name": "AST",
             "soundName": "",
             "type": "LEO",
-            "coloredName": "[color=green]North RTO[/color]",
+            "coloredName": "[color=green]AST[/color]",
             "talkEnforcement": true,
             "talkAround": false,
             "scannable": true,
@@ -44,10 +45,10 @@
         },
         {
             "id": 2,
-            "name": "South RTO",
+            "name": "BPD",
             "soundName": "",
             "type": "LEO",
-            "coloredName": "[color=green]South RTO[/color]",
+            "coloredName": "[color=green]BPD[/color]",
             "talkEnforcement": true,
             "talkAround": false,
             "scannable": true,
@@ -56,10 +57,10 @@
         },
         {
             "id": 3,
-            "name": "Statewide RTO",
+            "name": "BCPD",
             "soundName": "",
             "type": "LEO",
-            "coloredName": "[color=green]Statewide RTO[/color]",
+            "coloredName": "[color=green]BCPD[/color]",
             "talkEnforcement": true,
             "talkAround": false,
             "scannable": true,
@@ -68,6 +69,18 @@
         },
         {
             "id": 4,
+            "name": "Fire",
+            "soundName": "",
+            "type": "LEO",
+            "coloredName": "[color=green]Fire[/color]",
+            "talkEnforcement": true,
+            "talkAround": false,
+            "scannable": true,
+            "encrypted": false,
+            "permission": 1
+        },
+        {
+            "id": 5,
             "name": "Tac 1",
             "soundName": "",
             "type": "LEO",
@@ -79,7 +92,7 @@
             "permission": 1
         },
         {
-            "id": 5,
+            "id": 6,
             "name": "Tac 2",
             "soundName": "",
             "type": "LEO",
@@ -91,7 +104,7 @@
             "permission": 1
         },
         {
-            "id": 6,
+            "id": 7,
             "name": "Tac 3",
             "soundName": "",
             "type": "LEO",
@@ -99,54 +112,6 @@
             "talkEnforcement": true,
             "talkAround": false,
             "scannable": true,
-            "encrypted": true,
-            "permission": 1
-        },
-        {
-            "id": 7,
-            "name": "Car/Car",
-            "soundName": "",
-            "type": "LEO",
-            "coloredName": "[color=grey]Car/Car[/color]",
-            "talkEnforcement": true,
-            "talkAround": true,
-            "scannable": true,
-            "encrypted": false,
-            "permission": 1
-        },
-        {
-            "id": 8,
-            "name": "Private 1",
-            "soundName": "",
-            "type": "LEO",
-            "coloredName": "[color=red]Private 1[/color]",
-            "talkEnforcement": true,
-            "talkAround": false,
-            "scannable": false,
-            "encrypted": true,
-            "permission": 1
-        },
-        {
-            "id": 9,
-            "name": "Private 2",
-            "soundName": "",
-            "type": "LEO",
-            "coloredName": "[color=red]Private 2[/color]",
-            "talkEnforcement": true,
-            "talkAround": false,
-            "scannable": false,
-            "encrypted": true,
-            "permission": 1
-        },
-        {
-            "id": 10,
-            "name": "Private 3",
-            "soundName": "",
-            "type": "LEO",
-            "coloredName": "[color=red]Private 3[/color]",
-            "talkEnforcement": true,
-            "talkAround": false,
-            "scannable": false,
             "encrypted": true,
             "permission": 1
         }
@@ -173,13 +138,13 @@
             "serverGroupList": [""]
         },
         "permStaff": {
-            "serverGroupList": ["50"]
+            "serverGroupList": ["153"]
         },
         "permSenior": {
-            "serverGroupList": ["12"]
+            "serverGroupList": ["152"]
         },
         "permAdmin": {
-            "serverGroupList": ["125"]
+            "serverGroupList": ["170"]
         },
         "permSuper": {
             "serverGroupList": ["6"]

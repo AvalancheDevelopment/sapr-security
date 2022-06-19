@@ -1,7 +1,8 @@
 {
-    "pluginStatus": true,
-    "isPaid": true,
-    "communityName": "Pacific Northwest Roleplay",
+    "pluginStatus": false,
+    "isPaid": false,
+    "communityName": "Integrity Gaming",
+    "betaCommunity": false,
     "features": {
         "inGameInterface": true,
         "rangeSimulation": true,
@@ -9,8 +10,8 @@
     },
     "talkAroundRange": 1500,
     "betaServerGroups": [""],
-    "dispatchServerGroups": ["75"],
-    "dispatchAdvancedServerGroups": ["75"],
+    "dispatchServerGroups": ["87", "88", "89"],
+    "dispatchAdvancedServerGroups": [],
     "dispatchNameTags": [
         "(P)",
         "(S)",
@@ -26,16 +27,16 @@
         "[EVAL]"
     ],
     "civilianServerGroups": [""],
-    "civChannels": [124],
-    "radioSystems": [42],
-    "rtoChannels": [44],
+    "civChannels": [0],
+    "radioSystems": [37],
+    "rtoChannels": [38],
     "radioChannels": [
         {
             "id": 1,
-            "name": "Patrol Ops",
+            "name": "State",
             "soundName": "",
             "type": "LEO",
-            "coloredName": "[color=green]Patrol Ops[/color]",
+            "coloredName": "[color=green]State[/color]",
             "talkEnforcement": true,
             "talkAround": false,
             "scannable": true,
@@ -44,6 +45,30 @@
         },
         {
             "id": 2,
+            "name": "Metro",
+            "soundName": "",
+            "type": "LEO",
+            "coloredName": "[color=green]Metro[/color]",
+            "talkEnforcement": true,
+            "talkAround": false,
+            "scannable": true,
+            "encrypted": false,
+            "permission": 1
+        },
+        {
+            "id": 3,
+            "name": "County",
+            "soundName": "",
+            "type": "LEO",
+            "coloredName": "[color=green]County[/color]",
+            "talkEnforcement": true,
+            "talkAround": false,
+            "scannable": true,
+            "encrypted": false,
+            "permission": 1
+        },
+        {
+            "id": 4,
             "name": "Fire Ops",
             "soundName": "",
             "type": "LEO",
@@ -55,7 +80,7 @@
             "permission": 1
         },
         {
-            "id": 3,
+            "id": 5,
             "name": "Tac 1",
             "soundName": "",
             "type": "LEO",
@@ -67,7 +92,7 @@
             "permission": 1
         },
         {
-            "id": 4,
+            "id": 6,
             "name": "Tac 2",
             "soundName": "",
             "type": "LEO",
@@ -79,7 +104,7 @@
             "permission": 1
         },
         {
-            "id": 5,
+            "id": 7,
             "name": "Car/Car",
             "soundName": "",
             "type": "LEO",
@@ -91,15 +116,15 @@
             "permission": 1
         },
         {
-            "id": 6,
-            "name": "Private 1",
+            "id": 8,
+            "name": "FD Volunteer",
             "soundName": "",
             "type": "LEO",
-            "coloredName": "[color=red]Private 1[/color]",
+            "coloredName": "[color=red]FD Volunteer[/color]",
             "talkEnforcement": true,
             "talkAround": false,
-            "scannable": false,
-            "encrypted": true,
+            "scannable": true,
+            "encrypted": false,
             "permission": 1
         }
     ],
@@ -116,7 +141,7 @@
     },
     "permissions": {
         "permBasic": {
-            "serverGroupList": ["66"],
+            "serverGroupList": ["29999"],
             "clientUidList": [""]
         },
         "permExtra": {
@@ -128,7 +153,7 @@
             "clientUidList": [""]
         },
         "permStaff": {
-            "serverGroupList": ["67"],
+            "serverGroupList": ["30350"],
             "clientUidList": [""]
         },
         "permSenior": {
@@ -136,11 +161,11 @@
             "clientUidList": [""]
         },
         "permAdmin": {
-            "serverGroupList": ["68"],
+            "serverGroupList": [""],
             "clientUidList": [""]
         },
         "permSuper": {
-            "serverGroupList": ["52", "69"],
+            "serverGroupList": ["29998"],
             "clientUidList": [""]
         }
     }

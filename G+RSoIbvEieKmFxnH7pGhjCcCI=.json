@@ -1,7 +1,8 @@
 {
-    "pluginStatus": true,
-    "isPaid": true,
-    "communityName": "Chase Way Gaming Network",
+    "pluginStatus": false,
+    "isPaid": false,
+    "communityName": "delete later",
+    "betaCommunity": false,
     "features": {
         "inGameInterface": true,
         "rangeSimulation": true,
@@ -27,8 +28,8 @@
     ],
     "civilianServerGroups": [""],
     "civChannels": [0],
-    "radioSystems": [31],
-    "rtoChannels": [2],
+    "radioSystems": [31, 482],
+    "rtoChannels": [2, 476],
     "radioChannels": [
         {
             "id": 1,

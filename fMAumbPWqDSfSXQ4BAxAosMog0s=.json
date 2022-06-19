@@ -2,6 +2,7 @@
     "pluginStatus": false,
     "isPaid": false,
     "communityName": "West Valley RP",
+    "betaCommunity": false,
     "features": {
         "inGameInterface": true,
         "rangeSimulation": true,
@@ -27,8 +28,8 @@
     ],
     "civilianServerGroups": [""],
     "civChannels": [0],
-    "radioSystems": [27,28,30],
-    "rtoChannels": [31,29,34],
+    "radioSystems": [27, 28, 30],
+    "rtoChannels": [31, 29, 34],
     "radioChannels": [
         {
             "id": 1,

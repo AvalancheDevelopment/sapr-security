@@ -1,7 +1,8 @@
 {
-    "pluginStatus": true,
-    "isPaid": true,
-    "communityName": "Mistic",
+    "pluginStatus": false,
+    "isPaid": false,
+    "communityName": "delete later",
+    "betaCommunity": false,
     "features": {
         "inGameInterface": true,
         "rangeSimulation": true,

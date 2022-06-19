@@ -1,16 +1,17 @@
 {
-    "pluginStatus": true,
-    "isPaid": true,
-    "communityName": "Thinline Roleplay",
+    "pluginStatus": false,
+    "isPaid": false,
+    "communityName": "Benzz",
+    "betaCommunity": false,
     "features": {
         "inGameInterface": true,
         "rangeSimulation": true,
-        "emergencyHotline": false
+        "emergencyHotline": true
     },
     "talkAroundRange": 1500,
     "betaServerGroups": [""],
-    "dispatchServerGroups": ["3013"],
-    "dispatchAdvancedServerGroups": ["3013"],
+    "dispatchServerGroups": ["16"],
+    "dispatchAdvancedServerGroups": [],
     "dispatchNameTags": [
         "(P)",
         "(S)",
@@ -27,8 +28,8 @@
     ],
     "civilianServerGroups": [""],
     "civChannels": [0],
-    "radioSystems": [6213],
-    "rtoChannels": [9960],
+    "radioSystems": [25, 2],
+    "rtoChannels": [29, 21],
     "radioChannels": [
         {
             "id": 1,
@@ -128,32 +129,25 @@
     },
     "permissions": {
         "permBasic": {
-            "serverGroupList": [""],
-            "clientUidList": [""]
+            "serverGroupList": [""]
         },
         "permExtra": {
-            "serverGroupList": [""],
-            "clientUidList": [""]
+            "serverGroupList": [""]
         },
         "permSit": {
-            "serverGroupList": [""],
-            "clientUidList": [""]
+            "serverGroupList": ["15"]
         },
         "permStaff": {
-            "serverGroupList": [""],
-            "clientUidList": [""]
+            "serverGroupList": ["14"]
         },
         "permSenior": {
-            "serverGroupList": [""],
-            "clientUidList": [""]
+            "serverGroupList": ["13"]
         },
         "permAdmin": {
-            "serverGroupList": ["1770"],
-            "clientUidList": [""]
+            "serverGroupList": ["12"]
         },
         "permSuper": {
-            "serverGroupList": [""],
-            "clientUidList": [""]
+            "serverGroupList": ["6"]
         }
     }
 }

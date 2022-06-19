@@ -2,10 +2,11 @@
     "pluginStatus": true,
     "isPaid": true,
     "communityName": "Latitude Roleplay",
+    "betaCommunity": false,
     "features": {
         "inGameInterface": true,
         "rangeSimulation": true,
-        "emergencyHotline": true
+        "emergencyHotline": false
     },
     "talkAroundRange": 1500,
     "betaServerGroups": [""],

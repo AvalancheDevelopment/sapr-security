@@ -1,7 +1,8 @@
 {
-    "pluginStatus": true,
-    "isPaid": true,
-    "communityName": "SouthLand RP",
+    "pluginStatus": false,
+    "isPaid": false,
+    "communityName": "CostalSide RP",
+    "betaCommunity": false,
     "features": {
         "inGameInterface": true,
         "rangeSimulation": true,
@@ -9,7 +10,7 @@
     },
     "talkAroundRange": 1500,
     "betaServerGroups": [""],
-    "dispatchServerGroups": [""],
+    "dispatchServerGroups": ["395"],
     "dispatchAdvancedServerGroups": [],
     "dispatchNameTags": [
         "(P)",
@@ -28,10 +29,46 @@
     "civilianServerGroups": [""],
     "civChannels": [0],
     "radioSystems": [46],
-    "rtoChannels": [51],
+    "rtoChannels": [52, 64],
     "radioChannels": [
         {
             "id": 1,
+            "name": "Statewide",
+            "soundName": "",
+            "type": "LEO",
+            "coloredName": "[color=cyan]Statewide[/color]",
+            "talkEnforcement": true,
+            "talkAround": false,
+            "scannable": true,
+            "encrypted": false,
+            "permission": 1
+        },
+        {
+            "id": 2,
+            "name": "Los Santos",
+            "soundName": "",
+            "type": "LEO",
+            "coloredName": "[color=cyan]Los Santos[/color]",
+            "talkEnforcement": true,
+            "talkAround": false,
+            "scannable": true,
+            "encrypted": false,
+            "permission": 1
+        },
+        {
+            "id": 3,
+            "name": "Blaine County",
+            "soundName": "",
+            "type": "LEO",
+            "coloredName": "[color=cyan]Blaine County[/color]",
+            "talkEnforcement": true,
+            "talkAround": false,
+            "scannable": true,
+            "encrypted": false,
+            "permission": 1
+        },
+        {
+            "id": 4,
             "name": "Patrol Ops",
             "soundName": "",
             "type": "LEO",
@@ -43,7 +80,7 @@
             "permission": 1
         },
         {
-            "id": 2,
+            "id": 5,
             "name": "Fire Ops",
             "soundName": "",
             "type": "LEO",
@@ -55,7 +92,7 @@
             "permission": 1
         },
         {
-            "id": 3,
+            "id": 6,
             "name": "Tac 1",
             "soundName": "",
             "type": "LEO",
@@ -67,7 +104,7 @@
             "permission": 1
         },
         {
-            "id": 4,
+            "id": 7,
             "name": "Tac 2",
             "soundName": "",
             "type": "LEO",
@@ -79,23 +116,11 @@
             "permission": 1
         },
         {
-            "id": 5,
-            "name": "Car/Car",
+            "id": 8,
+            "name": "10-1 A",
             "soundName": "",
             "type": "LEO",
-            "coloredName": "[color=grey]Car/Car[/color]",
-            "talkEnforcement": true,
-            "talkAround": true,
-            "scannable": true,
-            "encrypted": false,
-            "permission": 1
-        },
-        {
-            "id": 6,
-            "name": "Private 1",
-            "soundName": "",
-            "type": "LEO",
-            "coloredName": "[color=red]Private 1[/color]",
+            "coloredName": "[color=red]10-1 A[/color]",
             "talkEnforcement": true,
             "talkAround": false,
             "scannable": false,
@@ -103,11 +128,11 @@
             "permission": 1
         },
         {
-            "id": 7,
-            "name": "Announcements",
+            "id": 9,
+            "name": "10-1 B",
             "soundName": "",
-            "type": "announce",
-            "coloredName": "[color=red]Announcements[/color]",
+            "type": "LEO",
+            "coloredName": "[color=red]10-1 B[/color]",
             "talkEnforcement": true,
             "talkAround": false,
             "scannable": false,
@@ -134,19 +159,19 @@
             "serverGroupList": [""]
         },
         "permSit": {
-            "serverGroupList": ["419"]
+            "serverGroupList": ["413"]
         },
         "permStaff": {
-            "serverGroupList": ["420"]
+            "serverGroupList": ["414"]
         },
         "permSenior": {
-            "serverGroupList": ["421"]
+            "serverGroupList": ["415"]
         },
         "permAdmin": {
-            "serverGroupList": ["423", "422"]
+            "serverGroupList": ["417", "416"]
         },
         "permSuper": {
-            "serverGroupList": ["425", "424"]
+            "serverGroupList": ["419", "418"]
         }
     }
 }

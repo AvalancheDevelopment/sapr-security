@@ -1,11 +1,12 @@
 {
-    "pluginStatus": true,
-    "isPaid": true,
-    "communityName": "Real Come Up RP",
+    "pluginStatus": false,
+    "isPaid": false,
+    "communityName": "delete later",
+    "betaCommunity": false,
     "features": {
         "inGameInterface": true,
         "rangeSimulation": true,
-        "emergencyHotline": true
+        "emergencyHotline": false
     },
     "talkAroundRange": 1500,
     "betaServerGroups": [""],

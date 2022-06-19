@@ -2,6 +2,7 @@
     "pluginStatus": true,
     "isPaid": true,
     "communityName": "Western State RP",
+    "betaCommunity": false,
     "features": {
         "inGameInterface": true,
         "rangeSimulation": true,
@@ -9,7 +10,7 @@
     },
     "talkAroundRange": 1500,
     "betaServerGroups": [""],
-    "dispatchServerGroups": ["408"],
+    "dispatchServerGroups": ["184"],
     "dispatchAdvancedServerGroups": [],
     "dispatchNameTags": [
         "(P)",
@@ -27,8 +28,8 @@
     ],
     "civilianServerGroups": [""],
     "civChannels": [0],
-    "radioSystems": [287],
-    "rtoChannels": [238],
+    "radioSystems": [52],
+    "rtoChannels": [55],
     "radioChannels": [
         {
             "id": 1,
@@ -110,19 +111,19 @@
             "serverGroupList": [""]
         },
         "permSit": {
-            "serverGroupList": ["419"]
+            "serverGroupList": ["195"]
         },
         "permStaff": {
-            "serverGroupList": ["418"]
+            "serverGroupList": ["194"]
         },
         "permSenior": {
-            "serverGroupList": ["417"]
+            "serverGroupList": ["193"]
         },
         "permAdmin": {
-            "serverGroupList": ["414", "415", "416"]
+            "serverGroupList": ["192", "190", "191"]
         },
         "permSuper": {
-            "serverGroupList": ["413"]
+            "serverGroupList": ["189"]
         }
     }
 }

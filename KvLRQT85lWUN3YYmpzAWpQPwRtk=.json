@@ -2,6 +2,7 @@
     "pluginStatus": false,
     "isPaid": false,
     "communityName": "In Custody RP",
+    "betaCommunity": false,
     "features": {
         "inGameInterface": true,
         "rangeSimulation": true,
@@ -9,8 +10,8 @@
     },
     "talkAroundRange": 1500,
     "betaServerGroups": [""],
-    "dispatchServerGroups": [""],
-    "dispatchAdvancedServerGroups": [""],
+    "dispatchServerGroups": ["1676", "1662", "1731"],
+    "dispatchAdvancedServerGroups": [],
     "dispatchNameTags": [
         "(P)",
         "(S)",
@@ -27,8 +28,8 @@
     ],
     "civilianServerGroups": [""],
     "civChannels": [0],
-    "radioSystems": [429565],
-    "rtoChannels": [414617, 431248],
+    "radioSystems": [1488],
+    "rtoChannels": [1705, 1738],
     "radioChannels": [
         {
             "id": 1,
@@ -136,23 +137,23 @@
             "clientUidList": [""]
         },
         "permSit": {
-            "serverGroupList": ["177724"],
+            "serverGroupList": ["1684"],
             "clientUidList": [""]
         },
         "permStaff": {
-            "serverGroupList": ["177725"],
+            "serverGroupList": ["1685"],
             "clientUidList": [""]
         },
         "permSenior": {
-            "serverGroupList": ["177726"],
+            "serverGroupList": ["1686"],
             "clientUidList": [""]
         },
         "permAdmin": {
-            "serverGroupList": ["177729", "177728", "177727"],
+            "serverGroupList": ["1687", "1688", "1689"],
             "clientUidList": [""]
         },
         "permSuper": {
-            "serverGroupList": ["177730"],
+            "serverGroupList": ["1690", "1554"],
             "clientUidList": [""]
         }
     }
