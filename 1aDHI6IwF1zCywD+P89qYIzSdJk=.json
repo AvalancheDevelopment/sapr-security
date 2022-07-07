@@ -105,6 +105,42 @@
         },
         {
             "id": 7,
+            "name": "DOT",
+            "soundName": "",
+            "type": "LEO",
+            "coloredName": "[color=brown]DOT[/color]",
+            "talkEnforcement": true,
+            "talkAround": false,
+            "scannable": true,
+            "encrypted": true,
+            "permission": 1
+        },
+        {
+            "id": 8,
+            "name": "Civilian 1",
+            "soundName": "",
+            "type": "LEO",
+            "coloredName": "[color=brown]Civilian 1[/color]",
+            "talkEnforcement": true,
+            "talkAround": false,
+            "scannable": false,
+            "encrypted": true,
+            "permission": 1
+        },
+        {
+            "id": 9,
+            "name": "Civilian 2",
+            "soundName": "",
+            "type": "LEO",
+            "coloredName": "[color=brown]Civilian 2[/color]",
+            "talkEnforcement": true,
+            "talkAround": false,
+            "scannable": false,
+            "encrypted": true,
+            "permission": 1
+        },
+        {
+            "id": 10,
             "name": "Announcements",
             "soundName": "",
             "type": "announce",
