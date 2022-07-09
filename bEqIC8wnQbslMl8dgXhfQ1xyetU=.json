@@ -1,5 +1,5 @@
 {
-    "pluginStatus": false,
+    "pluginStatus": true,
     "isPaid": true,
     "communityName": "Department Of Los Santos Roleplay",
     "betaCommunity": false,
@@ -33,10 +33,10 @@
     "radioChannels": [
         {
             "id": 1,
-            "name": "SW RTO",
-            "soundName": "",
+            "name": "SW Dispatch",
+            "soundName": "Ch_SWDispatch",
             "type": "LEO",
-            "coloredName": "[color=green]SW RTO[/color]",
+            "coloredName": "[color=green]SW Dispatch[/color]",
             "talkEnforcement": true,
             "talkAround": false,
             "scannable": true,
@@ -45,20 +45,8 @@
         },
         {
             "id": 2,
-            "name": "SW Tow",
-            "soundName": "",
-            "type": "LEO",
-            "coloredName": "[color=brown]SW Tow[/color]",
-            "talkEnforcement": true,
-            "talkAround": false,
-            "scannable": true,
-            "encrypted": false,
-            "permission": 1
-        },
-        {
-            "id": 3,
             "name": "Fire Ops",
-            "soundName": "",
+            "soundName": "Ch_FireOps",
             "type": "LEO",
             "coloredName": "[color=yellow]Fire Ops[/color]",
             "talkEnforcement": true,
@@ -68,9 +56,9 @@
             "permission": 1
         },
         {
-            "id": 4,
+            "id": 3,
             "name": "Tac 1",
-            "soundName": "",
+            "soundName": "Ch_Tac1",
             "type": "LEO",
             "coloredName": "[color=purple]Tac 1[/color]",
             "talkEnforcement": true,
@@ -80,9 +68,9 @@
             "permission": 1
         },
         {
-            "id": 5,
+            "id": 4,
             "name": "Tac 2",
-            "soundName": "",
+            "soundName": "Ch_Tac2",
             "type": "LEO",
             "coloredName": "[color=purple]Tac 2[/color]",
             "talkEnforcement": true,
@@ -92,21 +80,21 @@
             "permission": 1
         },
         {
-            "id": 6,
-            "name": "Car/Car",
-            "soundName": "",
+            "id": 5,
+            "name": "SW Tow",
+            "soundName": "Ch_Tow",
             "type": "LEO",
-            "coloredName": "[color=grey]Car/Car[/color]",
+            "coloredName": "[color=brown]SW Tow[/color]",
             "talkEnforcement": true,
-            "talkAround": true,
-            "scannable": true,
-            "encrypted": false,
+            "talkAround": false,
+            "scannable": false,
+            "encrypted": true,
             "permission": 1
         },
         {
-            "id": 7,
+            "id": 6,
             "name": "Private 1",
-            "soundName": "",
+            "soundName": "Ch_Private1",
             "type": "LEO",
             "coloredName": "[color=red]Private 1[/color]",
             "talkEnforcement": true,
@@ -116,11 +104,11 @@
             "permission": 1
         },
         {
-            "id": 8,
-            "name": "Announcements",
-            "soundName": "",
-            "type": "announce",
-            "coloredName": "[color=red]Announcements[/color]",
+            "id": 7,
+            "name": "Private 2",
+            "soundName": "Ch_Private2",
+            "type": "LEO",
+            "coloredName": "[color=red]Private 2[/color]",
             "talkEnforcement": true,
             "talkAround": false,
             "scannable": false,
@@ -156,10 +144,10 @@
             "serverGroupList": ["390"]
         },
         "permAdmin": {
-            "serverGroupList": ["388"]
+            "serverGroupList": ["388", "387", "389"]
         },
         "permSuper": {
-            "serverGroupList": ["11", "12", "14"]
+            "serverGroupList": ["386"]
         }
     }
 }
