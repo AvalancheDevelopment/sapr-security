@@ -1,6 +1,6 @@
 {
-    "pluginStatus": false,
-    "isPaid": false,
+    "pluginStatus": true,
+    "isPaid": true,
     "communityName": "CostalSide RP",
     "betaCommunity": false,
     "features": {
@@ -28,8 +28,8 @@
     ],
     "civilianServerGroups": [""],
     "civChannels": [0],
-    "radioSystems": [46],
-    "rtoChannels": [52, 64],
+    "radioSystems": [45],
+    "rtoChannels": [737],
     "radioChannels": [
         {
             "id": 1,
