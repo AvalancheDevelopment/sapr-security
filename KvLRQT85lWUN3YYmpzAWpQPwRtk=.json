@@ -1,6 +1,6 @@
 {
-    "pluginStatus": false,
-    "isPaid": false,
+    "pluginStatus": true,
+    "isPaid": true,
     "communityName": "In Custody RP",
     "betaCommunity": false,
     "features": {
@@ -10,7 +10,7 @@
     },
     "talkAroundRange": 1500,
     "betaServerGroups": [""],
-    "dispatchServerGroups": ["1676", "1662", "1731"],
+    "dispatchServerGroups": ["1948", "1934", "2000"],
     "dispatchAdvancedServerGroups": [],
     "dispatchNameTags": [
         "(P)",
@@ -28,8 +28,8 @@
     ],
     "civilianServerGroups": [""],
     "civChannels": [0],
-    "radioSystems": [1488],
-    "rtoChannels": [1705, 1738],
+    "radioSystems": [1872],
+    "rtoChannels": [1875],
     "radioChannels": [
         {
             "id": 1,
@@ -137,23 +137,23 @@
             "clientUidList": [""]
         },
         "permSit": {
-            "serverGroupList": ["1684"],
+            "serverGroupList": ["1956"],
             "clientUidList": [""]
         },
         "permStaff": {
-            "serverGroupList": ["1685"],
+            "serverGroupList": ["1957"],
             "clientUidList": [""]
         },
         "permSenior": {
-            "serverGroupList": ["1686"],
+            "serverGroupList": ["1958"],
             "clientUidList": [""]
         },
         "permAdmin": {
-            "serverGroupList": ["1687", "1688", "1689"],
+            "serverGroupList": ["2089", "2088"],
             "clientUidList": [""]
         },
         "permSuper": {
-            "serverGroupList": ["1690", "1554"],
+            "serverGroupList": ["1829", "1960", "1959"],
             "clientUidList": [""]
         }
     }
