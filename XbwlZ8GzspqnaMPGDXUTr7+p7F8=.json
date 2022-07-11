@@ -117,10 +117,10 @@
         },
         {
             "id": 8,
-            "name": "Private 2",
+            "name": "Staff Ops",
             "soundName": "",
             "type": "LEO",
-            "coloredName": "[color=red]Private 2[/color]",
+            "coloredName": "[color=red]Staff Ops[/color]",
             "talkEnforcement": true,
             "talkAround": false,
             "scannable": false,
