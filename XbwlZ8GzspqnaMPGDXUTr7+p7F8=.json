@@ -156,7 +156,7 @@
             "name": "Los Santos",
             "soundName": "",
             "type": "LEO",
-            "coloredName": "[color=purple]Los Santos Bay[/color]",
+            "coloredName": "[color=purple]Los Santos[/color]",
             "talkEnforcement": true,
             "talkAround": false,
             "scannable": true,
