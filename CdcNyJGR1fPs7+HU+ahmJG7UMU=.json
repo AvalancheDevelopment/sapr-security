@@ -1,6 +1,6 @@
 {
-    "pluginStatus": false,
-    "isPaid": false,
+    "pluginStatus": true,
+    "isPaid": true,
     "communityName": "Statewide RP",
     "betaCommunity": false,
     "features": {
@@ -10,8 +10,25 @@
     },
     "talkAroundRange": 1500,
     "betaServerGroups": [""],
-    "dispatchServerGroups": ["1426"],
-    "dispatchAdvancedServerGroups": ["1426", "1428"],
+    "dispatchServerGroups": ["3098"],
+    "dispatchAdvancedServerGroups": [
+        "3084",
+        "3041",
+        "3040",
+        "3039",
+        "3038",
+        "3037",
+        "3142",
+        "3138",
+        "3137",
+        "3141",
+        "3140",
+        "2993",
+        "2994",
+        "2995",
+        "3136",
+        "2996"
+    ],
     "dispatchNameTags": [
         "[P]",
         "[S]",
@@ -34,10 +51,10 @@
         "(EVAL)",
         "(LEO)"
     ],
-    "civilianServerGroups": [""],
-    "civChannels": [68, 69, 70],
-    "radioSystems": [403, 409, 1302],
-    "rtoChannels": [61, 62, 63, 59, 410, 1640],
+    "civilianServerGroups": [],
+    "civChannels": [3185, 3183, 3182],
+    "radioSystems": [3178, 3186],
+    "rtoChannels": [3181, 3184, 3187],
     "radioChannels": [
         {
             "id": 1,
@@ -137,7 +154,7 @@
     },
     "permissions": {
         "permBasic": {
-            "serverGroupList": ["1442"],
+            "serverGroupList": ["3310", "3102", "3114"],
             "clientUidList": [""]
         },
         "permExtra": {
@@ -145,23 +162,23 @@
             "clientUidList": [""]
         },
         "permSit": {
-            "serverGroupList": ["1441"],
+            "serverGroupList": ["3113"],
             "clientUidList": [""]
         },
         "permStaff": {
-            "serverGroupList": ["1440"],
+            "serverGroupList": ["3112"],
             "clientUidList": [""]
         },
         "permSenior": {
-            "serverGroupList": ["1439"],
+            "serverGroupList": ["3111"],
             "clientUidList": [""]
         },
         "permAdmin": {
-            "serverGroupList": ["1438", "1437", "1429"],
+            "serverGroupList": ["3110", "3109"],
             "clientUidList": [""]
         },
         "permSuper": {
-            "serverGroupList": ["1428"],
+            "serverGroupList": ["3100", "3101", "3350"],
             "clientUidList": [""]
         }
     }
