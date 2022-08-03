@@ -102,6 +102,102 @@
             "scannable": true,
             "encrypted": true,
             "permission": 1
+        },
+        {
+            "id": 7,
+            "name": "LS DOT",
+            "soundName": "",
+            "type": "LEO",
+            "coloredName": "[color=gray]LS DOT[/color]",
+            "talkEnforcement": true,
+            "talkAround": false,
+            "scannable": true,
+            "encrypted": true,
+            "permission": 1
+        },
+        {
+            "id": 8,
+            "name": "SS DOT",
+            "soundName": "",
+            "type": "LEO",
+            "coloredName": "[color=gray]SS DOT[/color]",
+            "talkEnforcement": true,
+            "talkAround": false,
+            "scannable": true,
+            "encrypted": true,
+            "permission": 1
+        },
+        {
+            "id": 9,
+            "name": "PB DOT",
+            "soundName": "",
+            "type": "LEO",
+            "coloredName": "[color=gray]PB DOT[/color]",
+            "talkEnforcement": true,
+            "talkAround": false,
+            "scannable": true,
+            "encrypted": true,
+            "permission": 1
+        },
+        {
+            "id": 10,
+            "name": "SA DOT",
+            "soundName": "",
+            "type": "LEO",
+            "coloredName": "[color=gray]SA DOT[/color]",
+            "talkEnforcement": true,
+            "talkAround": false,
+            "scannable": true,
+            "encrypted": true,
+            "permission": 1
+        },
+        {
+            "id": 11,
+            "name": "LS G6",
+            "soundName": "",
+            "type": "LEO",
+            "coloredName": "[color=pink]LS G6[/color]",
+            "talkEnforcement": true,
+            "talkAround": false,
+            "scannable": true,
+            "encrypted": true,
+            "permission": 1
+        },
+        {
+            "id": 12,
+            "name": "SS G6",
+            "soundName": "",
+            "type": "LEO",
+            "coloredName": "[color=pink]SS G6[/color]",
+            "talkEnforcement": true,
+            "talkAround": false,
+            "scannable": true,
+            "encrypted": true,
+            "permission": 1
+        },
+        {
+            "id": 13,
+            "name": "PB G6",
+            "soundName": "",
+            "type": "LEO",
+            "coloredName": "[color=pink]PB G6[/color]",
+            "talkEnforcement": true,
+            "talkAround": false,
+            "scannable": true,
+            "encrypted": true,
+            "permission": 1
+        },
+        {
+            "id": 14,
+            "name": "SA G6",
+            "soundName": "",
+            "type": "LEO",
+            "coloredName": "[color=pink]SA G6[/color]",
+            "talkEnforcement": true,
+            "talkAround": false,
+            "scannable": true,
+            "encrypted": true,
+            "permission": 1
         }
     ],
     "time_settings": {
