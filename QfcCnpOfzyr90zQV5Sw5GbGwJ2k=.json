@@ -1,5 +1,5 @@
 {
-    "pluginStatus": false,
+    "pluginStatus": true,
     "isPaid": true,
     "communityName": "Department of Safety Roleplay",
     "betaCommunity": false,
@@ -33,10 +33,10 @@
     "radioChannels": [
         {
             "id": 1,
-            "name": "Patrol Ops",
-            "soundName": "Ch_PatrolOps1",
+            "name": "SW Dispatch",
+            "soundName": "Ch_SWDispatch",
             "type": "LEO",
-            "coloredName": "[color=green]Patrol Ops[/color]",
+            "coloredName": "[color=green]SW Dispatch[/color]",
             "talkEnforcement": true,
             "talkAround": false,
             "scannable": true,
@@ -57,18 +57,6 @@
         },
         {
             "id": 3,
-            "name": "SW Dispatch",
-            "soundName": "Ch_SwDispatch",
-            "type": "LEO",
-            "coloredName": "[color=cyan]SW Dispatch[/color]",
-            "talkEnforcement": true,
-            "talkAround": false,
-            "scannable": true,
-            "encrypted": false,
-            "permission": 1
-        },
-        {
-            "id": 4,
             "name": "Tac 1",
             "soundName": "Ch_Tac1",
             "type": "LEO",
@@ -80,7 +68,7 @@
             "permission": 1
         },
         {
-            "id": 5,
+            "id": 4,
             "name": "Tac 2",
             "soundName": "Ch_Tac2",
             "type": "LEO",
@@ -88,6 +76,18 @@
             "talkEnforcement": true,
             "talkAround": false,
             "scannable": true,
+            "encrypted": true,
+            "permission": 1
+        },
+        {
+            "id": 5,
+            "name": "SW Tow",
+            "soundName": "Ch_Tow",
+            "type": "LEO",
+            "coloredName": "[color=brown]SW Tow[/color]",
+            "talkEnforcement": true,
+            "talkAround": false,
+            "scannable": false,
             "encrypted": true,
             "permission": 1
         },
@@ -105,14 +105,14 @@
         },
         {
             "id": 7,
-            "name": "Tow",
-            "soundName": "Ch_Tow",
+            "name": "Private 2",
+            "soundName": "Ch_Private2",
             "type": "LEO",
-            "coloredName": "[color=brown]Tow[/color]",
+            "coloredName": "[color=red]Private 2[/color]",
             "talkEnforcement": true,
             "talkAround": false,
-            "scannable": true,
-            "encrypted": false,
+            "scannable": false,
+            "encrypted": true,
             "permission": 1
         }
     ],

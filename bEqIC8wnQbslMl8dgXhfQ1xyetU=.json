@@ -1,7 +1,7 @@
 {
-    "pluginStatus": true,
-    "isPaid": true,
-    "communityName": "Department Of Los Santos Roleplay",
+    "pluginStatus": false,
+    "isPaid": false,
+    "communityName": "delete later",
     "betaCommunity": false,
     "features": {
         "inGameInterface": true,
