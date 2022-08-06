@@ -1,7 +1,7 @@
 {
-    "pluginStatus": false,
-    "isPaid": false,
-    "communityName": "Blue Line County Rp ",
+    "pluginStatus": true,
+    "isPaid": true,
+    "communityName": "Blue Line County Rp",
     "betaCommunity": false,
     "features": {
         "inGameInterface": true,
