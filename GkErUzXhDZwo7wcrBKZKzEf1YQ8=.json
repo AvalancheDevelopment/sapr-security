@@ -1,6 +1,6 @@
 {
-    "pluginStatus": true,
-    "isPaid": true,
+    "pluginStatus": false,
+    "isPaid": false,
     "communityName": "Nightline Roleplay",
     "betaCommunity": false,
     "features": {
@@ -28,8 +28,8 @@
     ],
     "civilianServerGroups": [""],
     "civChannels": [0],
-    "radioSystems": [94516],
-    "rtoChannels": [94504],
+    "radioSystems": [94516, 97003],
+    "rtoChannels": [94504, 97005],
     "radioChannels": [
         {
             "id": 1,

@@ -1,7 +1,7 @@
 {
-    "pluginStatus": true,
+    "pluginStatus": false,
     "isPaid": true,
-    "communityName": "Blacklist RP",
+    "communityName": "Ethelstan",
     "betaCommunity": false,
     "features": {
         "inGameInterface": true,
@@ -10,7 +10,7 @@
     },
     "talkAroundRange": 1500,
     "betaServerGroups": [""],
-    "dispatchServerGroups": ["63641"],
+    "dispatchServerGroups": [""],
     "dispatchAdvancedServerGroups": [],
     "dispatchNameTags": [
         "(P)",
@@ -28,8 +28,8 @@
     ],
     "civilianServerGroups": [""],
     "civChannels": [0],
-    "radioSystems": [63639],
-    "rtoChannels": [63758],
+    "radioSystems": [3],
+    "rtoChannels": [8],
     "radioChannels": [
         {
             "id": 1,
@@ -135,19 +135,19 @@
             "serverGroupList": [""]
         },
         "permSit": {
-            "serverGroupList": ["24636"]
+            "serverGroupList": [""]
         },
         "permStaff": {
-            "serverGroupList": ["24635"]
+            "serverGroupList": [""]
         },
         "permSenior": {
-            "serverGroupList": ["24679"]
+            "serverGroupList": [""]
         },
         "permAdmin": {
-            "serverGroupList": ["24680"]
+            "serverGroupList": [""]
         },
         "permSuper": {
-            "serverGroupList": ["24613"]
+            "serverGroupList": ["6"]
         }
     }
 }

@@ -10,7 +10,7 @@
     },
     "talkAroundRange": 1500,
     "betaServerGroups": [""],
-    "dispatchServerGroups": ["6670", "10632"],
+    "dispatchServerGroups": ["19457"],
     "dispatchAdvancedServerGroups": [
         "6670",
         "10632",
@@ -35,15 +35,15 @@
     ],
     "civilianServerGroups": [""],
     "civChannels": [0],
-    "radioSystems": [79, 184],
-    "rtoChannels": [82, 84],
+    "radioSystems": [309],
+    "rtoChannels": [251],
     "radioChannels": [
         {
             "id": 1,
-            "name": "Patrol Ops",
+            "name": "Statewide Dispatch",
             "soundName": "",
             "type": "LEO",
-            "coloredName": "[color=green]Patrol Ops[/color]",
+            "coloredName": "[color=green]Statewide Dispatch[/color]",
             "talkEnforcement": true,
             "talkAround": false,
             "scannable": true,
@@ -52,10 +52,10 @@
         },
         {
             "id": 2,
-            "name": "Fire Ops",
+            "name": "Los Santos Dispatch",
             "soundName": "",
             "type": "LEO",
-            "coloredName": "[color=yellow]Fire Ops[/color]",
+            "coloredName": "[color=green]Los Santos Dispatch[/color]",
             "talkEnforcement": true,
             "talkAround": false,
             "scannable": true,
@@ -64,6 +64,42 @@
         },
         {
             "id": 3,
+            "name": "Blaine County Dispatch",
+            "soundName": "",
+            "type": "LEO",
+            "coloredName": "[color=green]Blaine County Dispatch[/color]",
+            "talkEnforcement": true,
+            "talkAround": false,
+            "scannable": true,
+            "encrypted": false,
+            "permission": 1
+        },
+        {
+            "id": 4,
+            "name": "Fire/EMS Dispatch",
+            "soundName": "",
+            "type": "LEO",
+            "coloredName": "[color=yellow]Fire/EMS Dispatch[/color]",
+            "talkEnforcement": true,
+            "talkAround": false,
+            "scannable": true,
+            "encrypted": false,
+            "permission": 1
+        },
+        {
+            "id": 5,
+            "name": "INTEROPS",
+            "soundName": "",
+            "type": "LEO",
+            "coloredName": "[color=green]INTEROPS[/color]",
+            "talkEnforcement": true,
+            "talkAround": false,
+            "scannable": true,
+            "encrypted": false,
+            "permission": 1
+        },
+        {
+            "id": 6,
             "name": "Tac 1",
             "soundName": "",
             "type": "LEO",
@@ -75,7 +111,7 @@
             "permission": 1
         },
         {
-            "id": 4,
+            "id": 7,
             "name": "Tac 2",
             "soundName": "",
             "type": "LEO",
@@ -87,19 +123,19 @@
             "permission": 1
         },
         {
-            "id": 5,
-            "name": "Rptr TA",
+            "id": 8,
+            "name": "Car/Car",
             "soundName": "",
             "type": "LEO",
-            "coloredName": "[color=grey]Rptr TA[/color]",
+            "coloredName": "[color=grey]Car/Car[/color]",
             "talkEnforcement": true,
             "talkAround": true,
             "scannable": true,
-            "encrypted": true,
+            "encrypted": false,
             "permission": 1
         },
         {
-            "id": 6,
+            "id": 9,
             "name": "Private 1",
             "soundName": "",
             "type": "LEO",
@@ -132,23 +168,23 @@
             "clientUidList": [""]
         },
         "permSit": {
-            "serverGroupList": ["6776"],
+            "serverGroupList": ["19461"],
             "clientUidList": [""]
         },
         "permStaff": {
-            "serverGroupList": ["6775"],
+            "serverGroupList": ["19460"],
             "clientUidList": [""]
         },
         "permSenior": {
-            "serverGroupList": ["6774"],
+            "serverGroupList": ["19459"],
             "clientUidList": [""]
         },
         "permAdmin": {
-            "serverGroupList": ["6777"],
+            "serverGroupList": ["19560"],
             "clientUidList": [""]
         },
         "permSuper": {
-            "serverGroupList": ["6591", "6590", "6583"],
+            "serverGroupList": ["19390", "19393", "19394"],
             "clientUidList": [""]
         }
     }

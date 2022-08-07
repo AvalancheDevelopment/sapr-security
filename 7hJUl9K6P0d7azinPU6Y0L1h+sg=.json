@@ -1,8 +1,8 @@
 {
-    "pluginStatus": true,
-    "isPaid": true,
-    "communityName": "Potential RP",
-    "betaCommunity": true,
+    "pluginStatus": false,
+    "isPaid": false,
+    "communityName": "Rush Hour RP",
+    "betaCommunity": false,
     "features": {
         "inGameInterface": true,
         "rangeSimulation": true,
@@ -10,7 +10,7 @@
     },
     "talkAroundRange": 1500,
     "betaServerGroups": [""],
-    "dispatchServerGroups": ["98", "92"],
+    "dispatchServerGroups": ["6332"],
     "dispatchAdvancedServerGroups": [],
     "dispatchNameTags": [
         "(P)",
@@ -28,15 +28,15 @@
     ],
     "civilianServerGroups": [""],
     "civChannels": [0],
-    "radioSystems": [27],
-    "rtoChannels": [28],
+    "radioSystems": [7607],
+    "rtoChannels": [7608],
     "radioChannels": [
         {
             "id": 1,
-            "name": "Statewide",
+            "name": "Patrol Ops",
             "soundName": "",
             "type": "LEO",
-            "coloredName": "[color=green]Statewide[/color]",
+            "coloredName": "[color=green]Patrol Ops[/color]",
             "talkEnforcement": true,
             "talkAround": false,
             "scannable": true,
@@ -45,30 +45,6 @@
         },
         {
             "id": 2,
-            "name": "Blaine County",
-            "soundName": "",
-            "type": "LEO",
-            "coloredName": "[color=green]Blaine County[/color]",
-            "talkEnforcement": true,
-            "talkAround": false,
-            "scannable": true,
-            "encrypted": false,
-            "permission": 1
-        },
-        {
-            "id": 3,
-            "name": "Los Santos",
-            "soundName": "",
-            "type": "LEO",
-            "coloredName": "[color=green]Los Santos[/color]",
-            "talkEnforcement": true,
-            "talkAround": false,
-            "scannable": true,
-            "encrypted": false,
-            "permission": 1
-        },
-        {
-            "id": 4,
             "name": "Fire Ops",
             "soundName": "",
             "type": "LEO",
@@ -80,7 +56,7 @@
             "permission": 1
         },
         {
-            "id": 5,
+            "id": 3,
             "name": "Tac 1",
             "soundName": "",
             "type": "LEO",
@@ -92,7 +68,7 @@
             "permission": 1
         },
         {
-            "id": 6,
+            "id": 4,
             "name": "Tac 2",
             "soundName": "",
             "type": "LEO",
@@ -104,11 +80,35 @@
             "permission": 1
         },
         {
-            "id": 7,
-            "name": "10-1",
+            "id": 5,
+            "name": "911 Centre",
             "soundName": "",
             "type": "LEO",
-            "coloredName": "[color=red]10-1[/color]",
+            "coloredName": "[color=grey]911 Centre[/color]",
+            "talkEnforcement": true,
+            "talkAround": false,
+            "scannable": true,
+            "encrypted": false,
+            "permission": 1
+        },
+        {
+            "id": 6,
+            "name": "Tow Ops",
+            "soundName": "",
+            "type": "LEO",
+            "coloredName": "[color=brown]Tow Ops[/color]",
+            "talkEnforcement": true,
+            "talkAround": false,
+            "scannable": true,
+            "encrypted": false,
+            "permission": 1
+        },
+        {
+            "id": 7,
+            "name": "10-1 Channel",
+            "soundName": "",
+            "type": "LEO",
+            "coloredName": "[color=red]10-1 Channel[/color]",
             "talkEnforcement": true,
             "talkAround": false,
             "scannable": false,
@@ -117,46 +117,10 @@
         },
         {
             "id": 8,
-            "name": "WS",
+            "name": "Civ Ops",
             "soundName": "",
             "type": "LEO",
-            "coloredName": "[color=grey]WS[/color]",
-            "talkEnforcement": true,
-            "talkAround": true,
-            "scannable": true,
-            "encrypted": false,
-            "permission": 1
-        },
-        {
-            "id": 9,
-            "name": "ES",
-            "soundName": "",
-            "type": "LEO",
-            "coloredName": "[color=grey]ES[/color]",
-            "talkEnforcement": true,
-            "talkAround": true,
-            "scannable": true,
-            "encrypted": false,
-            "permission": 1
-        },
-        {
-            "id": 10,
-            "name": "Tow",
-            "soundName": "",
-            "type": "LEO",
-            "coloredName": "[color=grey]Tow[/color]",
-            "talkEnforcement": true,
-            "talkAround": false,
-            "scannable": true,
-            "encrypted": false,
-            "permission": 1
-        },
-        {
-            "id": 11,
-            "name": "Gruppe 6",
-            "soundName": "",
-            "type": "LEO",
-            "coloredName": "[color=grey]Gruppe 6[/color]",
+            "coloredName": "[color=pink]Civ Ops[/color]",
             "talkEnforcement": true,
             "talkAround": false,
             "scannable": true,
@@ -177,32 +141,25 @@
     },
     "permissions": {
         "permBasic": {
-            "serverGroupList": [""],
-            "clientUidList": [""]
+            "serverGroupList": [""]
         },
         "permExtra": {
-            "serverGroupList": [""],
-            "clientUidList": [""]
+            "serverGroupList": [""]
         },
         "permSit": {
-            "serverGroupList": ["106"],
-            "clientUidList": [""]
+            "serverGroupList": ["6345"]
         },
         "permStaff": {
-            "serverGroupList": ["105"],
-            "clientUidList": [""]
+            "serverGroupList": ["6344"]
         },
         "permSenior": {
-            "serverGroupList": ["104"],
-            "clientUidList": [""]
+            "serverGroupList": ["6343"]
         },
         "permAdmin": {
-            "serverGroupList": ["102", "103"],
-            "clientUidList": [""]
+            "serverGroupList": ["6340", "6341", "6342"]
         },
         "permSuper": {
-            "serverGroupList": ["119"],
-            "clientUidList": [""]
+            "serverGroupList": ["6339"]
         }
     }
 }

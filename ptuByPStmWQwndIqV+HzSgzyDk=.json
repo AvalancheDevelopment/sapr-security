@@ -1,12 +1,12 @@
 {
     "pluginStatus": true,
     "isPaid": true,
-    "communityName": "AST",
+    "communityName": "Alaska State Troopers Clan",
     "betaCommunity": false,
     "features": {
         "inGameInterface": true,
         "rangeSimulation": true,
-        "emergencyHotline": true
+        "emergencyHotline": false
     },
     "talkAroundRange": 1500,
     "betaServerGroups": [""],
@@ -29,14 +29,14 @@
     "civilianServerGroups": [""],
     "civChannels": [0],
     "radioSystems": [28],
-    "rtoChannels": [38],
+    "rtoChannels": [38, 39],
     "radioChannels": [
         {
             "id": 1,
-            "name": "Patrol Ops",
+            "name": "MRD Statewide Dispatch",
             "soundName": "",
             "type": "LEO",
-            "coloredName": "[color=green]Patrol Ops[/color]",
+            "coloredName": "[color=green]MRD Statewide Dispatch[/color]",
             "talkEnforcement": true,
             "talkAround": false,
             "scannable": true,
@@ -97,6 +97,18 @@
             "soundName": "",
             "type": "LEO",
             "coloredName": "[color=grey]Supervisor TA[/color]",
+            "talkEnforcement": true,
+            "talkAround": true,
+            "scannable": true,
+            "encrypted": false,
+            "permission": 1
+        },
+        {
+            "id": 7,
+            "name": "DOT Operations",
+            "soundName": "",
+            "type": "LEO",
+            "coloredName": "[color=brown]DOT Operations[/color]",
             "talkEnforcement": true,
             "talkAround": true,
             "scannable": true,

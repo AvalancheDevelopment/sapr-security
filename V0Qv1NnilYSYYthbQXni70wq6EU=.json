@@ -1,17 +1,17 @@
 {
     "pluginStatus": true,
     "isPaid": true,
-    "communityName": "State of California Emergency Services",
+    "communityName": "ElevationRoleplay",
     "betaCommunity": false,
     "features": {
         "inGameInterface": true,
         "rangeSimulation": true,
-        "emergencyHotline": true
+        "emergencyHotline": false
     },
     "talkAroundRange": 1500,
     "betaServerGroups": [""],
-    "dispatchServerGroups": ["125", "132"],
-    "dispatchAdvancedServerGroups": ["175", "18", "125", "132"],
+    "dispatchServerGroups": ["14"],
+    "dispatchAdvancedServerGroups": [],
     "dispatchNameTags": [
         "(P)",
         "(S)",
@@ -28,15 +28,15 @@
     ],
     "civilianServerGroups": [""],
     "civChannels": [0],
-    "radioSystems": [7],
-    "rtoChannels": [26],
+    "radioSystems": [12],
+    "rtoChannels": [3],
     "radioChannels": [
         {
             "id": 1,
-            "name": "Patrol Ops",
+            "name": "State Central",
             "soundName": "",
             "type": "LEO",
-            "coloredName": "[color=green]Patrol Ops[/color]",
+            "coloredName": "[color=green]State Central[/color]",
             "talkEnforcement": true,
             "talkAround": false,
             "scannable": true,
@@ -45,10 +45,10 @@
         },
         {
             "id": 2,
-            "name": "Fire Ops",
+            "name": "Metro",
             "soundName": "",
             "type": "LEO",
-            "coloredName": "[color=yellow]Fire Ops[/color]",
+            "coloredName": "[color=green]Metro[/color]",
             "talkEnforcement": true,
             "talkAround": false,
             "scannable": true,
@@ -57,22 +57,34 @@
         },
         {
             "id": 3,
-            "name": "Tac 1",
+            "name": "County",
             "soundName": "",
             "type": "LEO",
-            "coloredName": "[color=purple]Tac 1[/color]",
+            "coloredName": "[color=green]County[/color]",
             "talkEnforcement": true,
             "talkAround": false,
             "scannable": true,
-            "encrypted": true,
+            "encrypted": false,
             "permission": 1
         },
         {
             "id": 4,
-            "name": "Tac 2",
+            "name": "Fire Comms",
             "soundName": "",
             "type": "LEO",
-            "coloredName": "[color=purple]Tac 2[/color]",
+            "coloredName": "[color=yellow]Fire Comms[/color]",
+            "talkEnforcement": true,
+            "talkAround": false,
+            "scannable": true,
+            "encrypted": false,
+            "permission": 1
+        },
+        {
+            "id": 5,
+            "name": "Tac #1",
+            "soundName": "",
+            "type": "LEO",
+            "coloredName": "[color=purple]Tac #1[/color]",
             "talkEnforcement": true,
             "talkAround": false,
             "scannable": true,
@@ -80,7 +92,7 @@
             "permission": 1
         },
         {
-            "id": 5,
+            "id": 6,
             "name": "Car/Car",
             "soundName": "",
             "type": "LEO",
@@ -92,7 +104,7 @@
             "permission": 1
         },
         {
-            "id": 6,
+            "id": 7,
             "name": "Private 1",
             "soundName": "",
             "type": "LEO",
@@ -117,32 +129,25 @@
     },
     "permissions": {
         "permBasic": {
-            "serverGroupList": ["11", "12"],
-            "clientUidList": [""]
+            "serverGroupList": [""]
         },
         "permExtra": {
-            "serverGroupList": [""],
-            "clientUidList": [""]
+            "serverGroupList": [""]
         },
         "permSit": {
-            "serverGroupList": ["13"],
-            "clientUidList": [""]
+            "serverGroupList": [""]
         },
         "permStaff": {
-            "serverGroupList": ["14"],
-            "clientUidList": [""]
+            "serverGroupList": [""]
         },
         "permSenior": {
-            "serverGroupList": ["15"],
-            "clientUidList": [""]
+            "serverGroupList": [""]
         },
         "permAdmin": {
-            "serverGroupList": ["16", "17"],
-            "clientUidList": [""]
+            "serverGroupList": [""]
         },
         "permSuper": {
-            "serverGroupList": ["175", "18"],
-            "clientUidList": [""]
+            "serverGroupList": [""]
         }
     }
 }

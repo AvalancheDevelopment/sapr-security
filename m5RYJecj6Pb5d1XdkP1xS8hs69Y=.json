@@ -1,7 +1,7 @@
 {
-    "pluginStatus": true,
+    "pluginStatus": false,
     "isPaid": true,
-    "communityName": "Sunset Valley Roleplay",
+    "communityName": "San Andreas State Roleplay",
     "betaCommunity": false,
     "features": {
         "inGameInterface": true,
@@ -10,7 +10,7 @@
     },
     "talkAroundRange": 1500,
     "betaServerGroups": [""],
-    "dispatchServerGroups": ["4207", "4193"],
+    "dispatchServerGroups": ["191"],
     "dispatchAdvancedServerGroups": [],
     "dispatchNameTags": [
         "(P)",
@@ -28,8 +28,8 @@
     ],
     "civilianServerGroups": [""],
     "civChannels": [0],
-    "radioSystems": [4907],
-    "rtoChannels": [4912],
+    "radioSystems": [42],
+    "rtoChannels": [45],
     "radioChannels": [
         {
             "id": 1,
@@ -105,10 +105,10 @@
         },
         {
             "id": 7,
-            "name": "Announcements",
+            "name": "Private 2",
             "soundName": "",
-            "type": "announce",
-            "coloredName": "[color=red]Announcements[/color]",
+            "type": "LEO",
+            "coloredName": "[color=red]Private 2[/color]",
             "talkEnforcement": true,
             "talkAround": false,
             "scannable": false,
@@ -118,7 +118,7 @@
     ],
     "time_settings": {
         "emergencyOverridePeriod": 10,
-        "emergencyCooldown": 20,
+        "emergencyCooldown": 30,
         "emergencyOtherCooldown": 20,
         "dispatchToneCooldown": 15,
         "radioStunCooldown": 5,
@@ -135,19 +135,19 @@
             "serverGroupList": [""]
         },
         "permSit": {
-            "serverGroupList": ["4222"]
+            "serverGroupList": ["19"]
         },
         "permStaff": {
-            "serverGroupList": ["4221"]
+            "serverGroupList": ["18"]
         },
         "permSenior": {
-            "serverGroupList": ["4220"]
+            "serverGroupList": ["17"]
         },
         "permAdmin": {
-            "serverGroupList": ["4218", "4219"]
+            "serverGroupList": ["13", "16", "17"]
         },
         "permSuper": {
-            "serverGroupList": ["4209", "4210", "4435"]
+            "serverGroupList": ["12"]
         }
     }
 }
