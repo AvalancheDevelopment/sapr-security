@@ -116,6 +116,18 @@
         },
         {
             "id": 7,
+            "name": "Warden",
+            "soundName": "",
+            "type": "LEO",
+            "coloredName": "[color=teal]Warden[/color]",
+            "talkEnforcement": true,
+            "talkAround": false,
+            "scannable": true,
+            "encrypted": true,
+            "permission": 1
+        },
+        {
+            "id": 8,
             "name": "BC Fire Radio",
             "soundName": "",
             "type": "LEO",
@@ -127,7 +139,7 @@
             "permission": 1
         },
         {
-            "id": 8,
+            "id": 9,
             "name": "LS Fire Radio",
             "soundName": "",
             "type": "LEO",
@@ -139,7 +151,7 @@
             "permission": 1
         },
         {
-            "id": 9,
+            "id": 10,
             "name": "BC Fire Tac 1",
             "soundName": "",
             "type": "LEO",
@@ -151,7 +163,7 @@
             "permission": 1
         },
         {
-            "id": 10,
+            "id": 11,
             "name": "BC Fire Tac 2",
             "soundName": "",
             "type": "LEO",
@@ -163,7 +175,7 @@
             "permission": 1
         },
         {
-            "id": 11,
+            "id": 12,
             "name": "LS Fire Tac 1",
             "soundName": "",
             "type": "LEO",
@@ -175,7 +187,7 @@
             "permission": 1
         },
         {
-            "id": 12,
+            "id": 13,
             "name": "LS Fire Tac 2",
             "soundName": "",
             "type": "LEO",
@@ -187,7 +199,7 @@
             "permission": 1
         },
         {
-            "id": 13,
+            "id": 14,
             "name": "Joint Tow Ops",
             "soundName": "",
             "type": "LEO",
