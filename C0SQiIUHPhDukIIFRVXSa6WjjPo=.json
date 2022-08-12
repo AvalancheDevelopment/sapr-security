@@ -1,12 +1,12 @@
 {
-    "pluginStatus": false,
-    "isPaid": false,
+    "pluginStatus": true,
+    "isPaid": true,
     "communityName": "Project Empire Roleplay",
     "betaCommunity": false,
     "features": {
         "inGameInterface": true,
         "rangeSimulation": true,
-        "emergencyHotline": true
+        "emergencyHotline": false
     },
     "talkAroundRange": 1500,
     "betaServerGroups": [""],
