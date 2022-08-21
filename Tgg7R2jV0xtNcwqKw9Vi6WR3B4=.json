@@ -2,7 +2,7 @@
     "pluginStatus": false,
     "isPaid": false,
     "communityName": "Midnight Galaxy",
-    "betaCommunity": true,
+    "betaCommunity": false,
     "features": {
         "inGameInterface": true,
         "rangeSimulation": true,
