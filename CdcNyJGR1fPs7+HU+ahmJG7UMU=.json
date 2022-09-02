@@ -9,20 +9,20 @@
         "emergencyHotline": true
     },
     "talkAroundRange": 1500,
-    "betaServerGroups": [""],
-    "dispatchServerGroups": ["3098"],
+    "betaServerGroups": ["117"],
+    "dispatchServerGroups": ["147"],
     "dispatchAdvancedServerGroups": [
-        "3084",
-        "3041",
-        "3040",
-        "3039",
-        "3038",
-        "3037",
-        "3142",
-        "3138",
-        "3137",
-        "3141",
-        "3140",
+        "47",
+        "48",
+        "49",
+        "185",
+        "90",
+        "91",
+        "92",
+        "93",
+        "94",
+        "172",
+        "147",
         "2993",
         "2994",
         "2995",
@@ -38,6 +38,7 @@
         "[911]",
         "[QA]",
         "[SA]",
+        "[L]",
         "[EVAL]",
         "[LEO]",
         "(P)",
@@ -51,10 +52,31 @@
         "(EVAL)",
         "(LEO)"
     ],
-    "civilianServerGroups": [],
-    "civChannels": [3185, 3183, 3182],
-    "radioSystems": [3178, 3186],
-    "rtoChannels": [3181, 3184, 3187],
+    "civilianServerGroups": [
+        "163",
+        "151",
+        "352",
+        "146",
+        "106",
+        "105",
+        "104",
+        "103",
+        "105",
+        "100",
+        "101",
+        "53",
+        "52",
+        "181",
+        "180",
+        "51",
+        "362",
+        "41",
+        "39",
+        "40"
+    ],
+    "civChannels": [76, 77, 78, 74, 75, 71, 72],
+    "radioSystems": [69, 79, 74],
+    "rtoChannels": [73, 80, 370],
     "radioChannels": [
         {
             "id": 1,
@@ -154,31 +176,31 @@
     },
     "permissions": {
         "permBasic": {
-            "serverGroupList": ["3310", "3102", "3114"],
+            "serverGroupList": ["352", "151", "166", "163"],
             "clientUidList": [""]
         },
         "permExtra": {
-            "serverGroupList": [""],
+            "serverGroupList": ["389"],
             "clientUidList": [""]
         },
         "permSit": {
-            "serverGroupList": ["3113"],
+            "serverGroupList": ["162"],
             "clientUidList": [""]
         },
         "permStaff": {
-            "serverGroupList": ["3112"],
+            "serverGroupList": ["161"],
             "clientUidList": [""]
         },
         "permSenior": {
-            "serverGroupList": ["3111"],
+            "serverGroupList": ["160"],
             "clientUidList": [""]
         },
         "permAdmin": {
-            "serverGroupList": ["3110", "3109"],
+            "serverGroupList": ["158", "159"],
             "clientUidList": [""]
         },
         "permSuper": {
-            "serverGroupList": ["3100", "3101", "3350"],
+            "serverGroupList": ["150", "149", "19"],
             "clientUidList": [""]
         }
     }
