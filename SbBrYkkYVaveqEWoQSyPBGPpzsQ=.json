@@ -1,7 +1,7 @@
 {
-    "pluginStatus": false,
-    "isPaid": false,
-    "communityName": "delete later",
+    "pluginStatus": true,
+    "isPaid": true,
+    "communityName": "Silver State Roleplay",
     "betaCommunity": false,
     "features": {
         "inGameInterface": true,
@@ -10,7 +10,7 @@
     },
     "talkAroundRange": 1500,
     "betaServerGroups": [""],
-    "dispatchServerGroups": ["1145", "1421", "1420"],
+    "dispatchServerGroups": ["9", "157", "144", "145"],
     "dispatchAdvancedServerGroups": [],
     "dispatchNameTags": [
         "(P)",
@@ -28,8 +28,8 @@
     ],
     "civilianServerGroups": [""],
     "civChannels": [0],
-    "radioSystems": [851],
-    "rtoChannels": [857],
+    "radioSystems": [80],
+    "rtoChannels": [83],
     "radioChannels": [
         {
             "id": 1,
@@ -159,19 +159,19 @@
             "serverGroupList": [""]
         },
         "permSit": {
-            "serverGroupList": ["1049"]
+            "serverGroupList": ["20"]
         },
         "permStaff": {
-            "serverGroupList": ["1048"]
+            "serverGroupList": ["19"]
         },
         "permSenior": {
-            "serverGroupList": ["1047"]
+            "serverGroupList": ["18"]
         },
         "permAdmin": {
-            "serverGroupList": ["1044", "1045", "1046"]
+            "serverGroupList": ["160", "16", "17"]
         },
         "permSuper": {
-            "serverGroupList": ["1043"]
+            "serverGroupList": ["15"]
         }
     }
 }
