@@ -9,7 +9,7 @@
         "emergencyHotline": true
     },
     "talkAroundRange": 1500,
-    "betaServerGroups": ["16", "120", "112", "105", "104", "46", "45", "168"],
+    "betaServerGroups": [""],
     "dispatchServerGroups": [
         "380",
         "118",
@@ -45,7 +45,7 @@
         {
             "id": 1,
             "name": "SW Main",
-            "soundName": "swMain",
+            "soundName": "Statewide Main",
             "type": "LEO",
             "coloredName": "[color=#3a9fbf]SW Main[/color]",
             "talkEnforcement": true,
@@ -57,7 +57,7 @@
         {
             "id": 2,
             "name": "SW Reserve",
-            "soundName": "swReserve",
+            "soundName": "Statewide Reserve",
             "type": "LEO",
             "coloredName": "[color=#009a00]SW Reserve[/color]",
             "talkEnforcement": true,
@@ -69,7 +69,7 @@
         {
             "id": 3,
             "name": "L/S Main",
-            "soundName": "lsMain",
+            "soundName": "Los Santos Main",
             "type": "LEO",
             "coloredName": "[color=#3a9fbf]L/S Main[/color]",
             "talkEnforcement": true,
@@ -80,8 +80,8 @@
         },
         {
             "id": 4,
-            "name": "L/S Reserve",
-            "soundName": "lsReserve",
+            "name": "Los Santos Reserve",
+            "soundName": "",
             "type": "LEO",
             "coloredName": "[color=#4aaac8]L/S Reserve[/color]",
             "talkEnforcement": true,
@@ -93,7 +93,7 @@
         {
             "id": 5,
             "name": "Car/Car",
-            "soundName": "carTocar",
+            "soundName": "Car To Car",
             "type": "LEO",
             "coloredName": "[color=grey]Car/Car[/color]",
             "talkEnforcement": true,
@@ -106,7 +106,7 @@
         {
             "id": 6,
             "name": "B/C Main",
-            "soundName": "bcMain",
+            "soundName": "Blaine County Main",
             "type": "LEO",
             "coloredName": "[color=#009a00]B/C Main[/color]",
             "talkEnforcement": true,
@@ -118,7 +118,7 @@
         {
             "id": 7,
             "name": "B/C Reserve",
-            "soundName": "bcReserve",
+            "soundName": "Blaine County Reserve",
             "type": "LEO",
             "coloredName": "[color=#00b400]B/C Reserve[/color]",
             "talkEnforcement": true,
@@ -130,7 +130,7 @@
         {
             "id": 8,
             "name": "Fire Ops",
-            "soundName": "fireOps",
+            "soundName": "Fire Ops",
             "type": "LEO",
             "coloredName": "[color=orange]Fire Ops[/color]",
             "talkEnforcement": true,
@@ -142,7 +142,7 @@
         {
             "id": 9,
             "name": "Tac 1",
-            "soundName": "tac1",
+            "soundName": "Tac 1",
             "type": "LEO",
             "coloredName": "[color=#b19cd9]Tac 1[/color]",
             "talkEnforcement": true,
@@ -154,7 +154,7 @@
         {
             "id": 10,
             "name": "Tac 2",
-            "soundName": "tac2",
+            "soundName": "Tac 2",
             "type": "LEO",
             "coloredName": "[color=#b19cd9]Tac 2[/color]",
             "talkEnforcement": true,
@@ -166,7 +166,7 @@
         {
             "id": 11,
             "name": "Private 1",
-            "soundName": "private1",
+            "soundName": "Private 1",
             "type": "LEO",
             "coloredName": "[color=red]Private 1[/color]",
             "talkEnforcement": true,
@@ -178,7 +178,7 @@
         {
             "id": 12,
             "name": "Services",
-            "soundName": "services",
+            "soundName": "Services",
             "type": "LEO",
             "coloredName": "[color=brown]Services[/color]",
             "talkEnforcement": true,
@@ -190,7 +190,7 @@
         {
             "id": 13,
             "name": "Announcements",
-            "soundName": "announce",
+            "soundName": "Announcements",
             "type": "announce",
             "coloredName": "[color=pink]Announcements[/color]",
             "talkEnforcement": true,
@@ -213,7 +213,7 @@
     },
     "permissions": {
         "permBasic": {
-            "serverGroupList": ["45", "168"],
+            "serverGroupList": [""],
             "clientUidList": [""]
         },
         "permExtra": {
@@ -221,7 +221,7 @@
             "clientUidList": [""]
         },
         "permSit": {
-            "serverGroupList": ["46"],
+            "serverGroupList": [""],
             "clientUidList": [""]
         },
         "permStaff": {
