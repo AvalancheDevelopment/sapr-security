@@ -80,8 +80,8 @@
         },
         {
             "id": 4,
-            "name": "Los Santos Reserve",
-            "soundName": "",
+            "name": "L/S Reserve",
+            "soundName": "Los Santos Reserve",
             "type": "LEO",
             "coloredName": "[color=#4aaac8]L/S Reserve[/color]",
             "talkEnforcement": true,
