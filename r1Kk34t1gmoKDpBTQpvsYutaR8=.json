@@ -93,18 +93,30 @@
         },
         {
             "id": 6,
-            "name": "Car/Car",
+            "name": "Fire Ground 1",
             "soundName": "",
             "type": "LEO",
-            "coloredName": "[color=grey]Car/Car[/color]",
+            "coloredName": "[color=yellow]Fire Ground 1[/color]",
             "talkEnforcement": true,
-            "talkAround": true,
+            "talkAround": false,
             "scannable": true,
             "encrypted": false,
             "permission": 1
         },
         {
             "id": 7,
+            "name": "Fire Ground 2",
+            "soundName": "",
+            "type": "LEO",
+            "coloredName": "[color=yellow]Fire Ground 2[/color]",
+            "talkEnforcement": true,
+            "talkAround": false,
+            "scannable": true,
+            "encrypted": false,
+            "permission": 1
+        },
+        {
+            "id": 8,
             "name": "Private 1",
             "soundName": "",
             "type": "LEO",
