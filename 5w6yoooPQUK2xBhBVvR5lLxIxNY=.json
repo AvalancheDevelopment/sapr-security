@@ -10,8 +10,8 @@
     },
     "talkAroundRange": 1500,
     "betaServerGroups": [""],
-    "dispatchServerGroups": ["1493"],
-    "dispatchAdvancedServerGroups": ["1493"],
+    "dispatchServerGroups": ["2765"],
+    "dispatchAdvancedServerGroups": ["2765"],
     "dispatchNameTags": [
         "(P)",
         "(S)",
@@ -28,8 +28,8 @@
     ],
     "civilianServerGroups": [""],
     "civChannels": [0],
-    "radioSystems": [90600],
-    "rtoChannels": [90601],
+    "radioSystems": [2975],
+    "rtoChannels": [1493],
     "radioChannels": [
         {
             "id": 1,
@@ -152,23 +152,11 @@
             "permission": 1
         },
         {
-            "id": 11,
-            "name": "Sheriff Main",
-            "soundName": "",
-            "type": "LEO",
-            "coloredName": "[color=blue]Sheriff Main[/color]",
-            "talkEnforcement": true,
-            "talkAround": false,
-            "scannable": true,
-            "encrypted": false,
-            "permission": 1
-        },
-        {
             "id": 12,
-            "name": "Sheriff - 1",
+            "name": "Special Event",
             "soundName": "",
             "type": "LEO",
-            "coloredName": "[color=blue]Sheriff - 1[/color]",
+            "coloredName": "[color=purple]Special Event[/color]",
             "talkEnforcement": true,
             "talkAround": false,
             "scannable": true,
@@ -177,10 +165,10 @@
         },
         {
             "id": 13,
-            "name": "Sheriff - 2",
+            "name": "LCSO Main",
             "soundName": "",
             "type": "LEO",
-            "coloredName": "[color=blue]Sheriff - 2[/color]",
+            "coloredName": "[color=blue]LCSO Main[/color]",
             "talkEnforcement": true,
             "talkAround": false,
             "scannable": true,
@@ -189,10 +177,10 @@
         },
         {
             "id": 14,
-            "name": "Sheriff - 3",
+            "name": "TAC - 1",
             "soundName": "",
             "type": "LEO",
-            "coloredName": "[color=blue]Sheriff - 3[/color]",
+            "coloredName": "[color=blue]TAC - 1[/color]",
             "talkEnforcement": true,
             "talkAround": false,
             "scannable": true,
@@ -201,10 +189,10 @@
         },
         {
             "id": 15,
-            "name": "Sheriff Direct",
+            "name": "TAC - 2",
             "soundName": "",
             "type": "LEO",
-            "coloredName": "[color=cyan]Sheriff Direct[/color]",
+            "coloredName": "[color=cyan]TAC - 2[/color]",
             "talkEnforcement": true,
             "talkAround": true,
             "scannable": true,
@@ -213,24 +201,12 @@
         },
         {
             "id": 16,
-            "name": "Sheriff Training",
+            "name": "TAC - 3",
             "soundName": "",
             "type": "LEO",
-            "coloredName": "[color=cyan]Sheriff Training[/color]",
+            "coloredName": "[color=cyan]TAC - 3[/color]",
             "talkEnforcement": true,
             "talkAround": true,
-            "scannable": true,
-            "encrypted": false,
-            "permission": 1
-        },
-        {
-            "id": 17,
-            "name": "Special Event",
-            "soundName": "",
-            "type": "LEO",
-            "coloredName": "[color=purple]Special Event[/color]",
-            "talkEnforcement": true,
-            "talkAround": false,
             "scannable": true,
             "encrypted": false,
             "permission": 1
@@ -261,7 +237,7 @@
             "clientUidList": [""]
         },
         "permStaff": {
-            "serverGroupList": ["74406"],
+            "serverGroupList": [""],
             "clientUidList": [""]
         },
         "permSenior": {
@@ -269,11 +245,11 @@
             "clientUidList": [""]
         },
         "permAdmin": {
-            "serverGroupList": ["74313"],
+            "serverGroupList": [""],
             "clientUidList": [""]
         },
         "permSuper": {
-            "serverGroupList": ["74316"],
+            "serverGroupList": ["255"],
             "clientUidList": [""]
         }
     }
