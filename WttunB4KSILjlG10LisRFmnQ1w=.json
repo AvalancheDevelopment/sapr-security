@@ -45,6 +45,54 @@
         },
         {
             "id": 2,
+            "name": "City Ops",
+            "soundName": "",
+            "type": "LEO",
+            "coloredName": "[color=green]City Ops[/color]",
+            "talkEnforcement": true,
+            "talkAround": false,
+            "scannable": true,
+            "encrypted": false,
+            "permission": 1
+        },
+        {
+            "id": 3,
+            "name": "County Ops",
+            "soundName": "",
+            "type": "LEO",
+            "coloredName": "[color=green]County Ops[/color]",
+            "talkEnforcement": true,
+            "talkAround": false,
+            "scannable": true,
+            "encrypted": false,
+            "permission": 1
+        },
+        {
+            "id": 4,
+            "name": "State Ops",
+            "soundName": "",
+            "type": "LEO",
+            "coloredName": "[color=green]State Ops[/color]",
+            "talkEnforcement": true,
+            "talkAround": false,
+            "scannable": true,
+            "encrypted": false,
+            "permission": 1
+        },
+        {
+            "id": 5,
+            "name": "All LEO",
+            "soundName": "",
+            "type": "LEO",
+            "coloredName": "[color=green]All LEO[/color]",
+            "talkEnforcement": true,
+            "talkAround": false,
+            "scannable": true,
+            "encrypted": false,
+            "permission": 1
+        },
+        {
+            "id": 6,
             "name": "Fire Ops",
             "soundName": "",
             "type": "LEO",
@@ -56,7 +104,7 @@
             "permission": 1
         },
         {
-            "id": 3,
+            "id": 7,
             "name": "LEO Tac 1",
             "soundName": "",
             "type": "LEO",
@@ -68,7 +116,7 @@
             "permission": 1
         },
         {
-            "id": 4,
+            "id": 8,
             "name": "LEO Tac 2",
             "soundName": "",
             "type": "LEO",
@@ -80,7 +128,7 @@
             "permission": 1
         },
         {
-            "id": 5,
+            "id": 9,
             "name": "FIRE Tac 1",
             "soundName": "",
             "type": "LEO",
@@ -92,7 +140,7 @@
             "permission": 1
         },
         {
-            "id": 6,
+            "id": 10,
             "name": "FIRE Tac 2",
             "soundName": "",
             "type": "LEO",
@@ -104,7 +152,7 @@
             "permission": 1
         },
         {
-            "id": 7,
+            "id": 11,
             "name": "Private 1",
             "soundName": "",
             "type": "LEO",
@@ -116,7 +164,7 @@
             "permission": 1
         },
         {
-            "id": 8,
+            "id": 12,
             "name": "Private 2",
             "soundName": "",
             "type": "LEO",
@@ -128,7 +176,7 @@
             "permission": 1
         },
         {
-            "id": 9,
+            "id": 13,
             "name": "Private 3",
             "soundName": "",
             "type": "LEO",
