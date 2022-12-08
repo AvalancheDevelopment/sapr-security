@@ -39,7 +39,7 @@
             "coloredName": "[color=green]LAPD DISP B[/color]",
             "talkEnforcement": true,
             "talkAround": false,
-            "scannable": false,
+            "scannable": true,
             "encrypted": true,
             "permission": 1
         },
@@ -51,7 +51,7 @@
             "coloredName": "[color=green]LAPD DISP 1[/color]",
             "talkEnforcement": true,
             "talkAround": false,
-            "scannable": false,
+            "scannable": true,
             "encrypted": true,
             "permission": 1
         },
@@ -63,7 +63,7 @@
             "coloredName": "[color=green]LAPD DISP 5[/color]",
             "talkEnforcement": true,
             "talkAround": false,
-            "scannable": false,
+            "scannable": true,
             "encrypted": true,
             "permission": 1
         },
@@ -75,7 +75,7 @@
             "coloredName": "[color=green]LAPD DISP 14[/color]",
             "talkEnforcement": true,
             "talkAround": false,
-            "scannable": false,
+            "scannable": true,
             "encrypted": true,
             "permission": 1
         },
@@ -87,7 +87,7 @@
             "coloredName": "[color=green]LAPD DISP 24[/color]",
             "talkEnforcement": true,
             "talkAround": false,
-            "scannable": false,
+            "scannable": true,
             "encrypted": true,
             "permission": 1
         },
@@ -99,7 +99,7 @@
             "coloredName": "[color=green]LAPD T/A 1[/color]",
             "talkEnforcement": true,
             "talkAround": true,
-            "scannable": false,
+            "scannable": true,
             "encrypted": true,
             "permission": 1
         },
@@ -111,7 +111,7 @@
             "coloredName": "[color=green]LAPD T/A 5[/color]",
             "talkEnforcement": true,
             "talkAround": true,
-            "scannable": false,
+            "scannable": true,
             "encrypted": true,
             "permission": 1
         },
@@ -123,7 +123,7 @@
             "coloredName": "[color=green]LAPD T/A 14[/color]",
             "talkEnforcement": true,
             "talkAround": true,
-            "scannable": false,
+            "scannable": true,
             "encrypted": true,
             "permission": 1
         },
@@ -135,7 +135,7 @@
             "coloredName": "[color=green]LAPD T/A 24[/color]",
             "talkEnforcement": true,
             "talkAround": false,
-            "scannable": false,
+            "scannable": true,
             "encrypted": true,
             "permission": 1
         },
@@ -147,7 +147,7 @@
             "coloredName": "[color=purple]CW TAC 1[/color]",
             "talkEnforcement": true,
             "talkAround": false,
-            "scannable": false,
+            "scannable": true,
             "encrypted": true,
             "permission": 1
         },
@@ -159,7 +159,7 @@
             "coloredName": "[color=purple]CW TAC 2[/color]",
             "talkEnforcement": true,
             "talkAround": false,
-            "scannable": false,
+            "scannable": true,
             "encrypted": true,
             "permission": 1
         },
@@ -171,7 +171,7 @@
             "coloredName": "[color=purple]CW TAC 3[/color]",
             "talkEnforcement": true,
             "talkAround": false,
-            "scannable": false,
+            "scannable": true,
             "encrypted": true,
             "permission": 1
         },
@@ -183,7 +183,7 @@
             "coloredName": "[color=purple]1 TAC 1[/color]",
             "talkEnforcement": true,
             "talkAround": false,
-            "scannable": false,
+            "scannable": true,
             "encrypted": true,
             "permission": 1
         },
@@ -195,7 +195,7 @@
             "coloredName": "[color=purple]1 TAC 2[/color]",
             "talkEnforcement": true,
             "talkAround": false,
-            "scannable": false,
+            "scannable": true,
             "encrypted": true,
             "permission": 1
         },
@@ -207,7 +207,7 @@
             "coloredName": "[color=green]LAPD K9[/color]",
             "talkEnforcement": true,
             "talkAround": false,
-            "scannable": false,
+            "scannable": true,
             "encrypted": true,
             "permission": 1
         },
@@ -219,7 +219,7 @@
             "coloredName": "[color=green]LAPD EMERG[/color]",
             "talkEnforcement": true,
             "talkAround": false,
-            "scannable": false,
+            "scannable": true,
             "encrypted": true,
             "permission": 1
         },
@@ -231,7 +231,7 @@
             "coloredName": "[color=green]LAPD METRO 1[/color]",
             "talkEnforcement": true,
             "talkAround": false,
-            "scannable": false,
+            "scannable": true,
             "encrypted": true,
             "permission": 1
         },
@@ -243,7 +243,7 @@
             "coloredName": "[color=green]LAPD METRO 2[/color]",
             "talkEnforcement": true,
             "talkAround": false,
-            "scannable": false,
+            "scannable": true,
             "encrypted": true,
             "permission": 1
         },
@@ -255,7 +255,7 @@
             "coloredName": "[color=green]LAPD ACC[/color]",
             "talkEnforcement": true,
             "talkAround": false,
-            "scannable": false,
+            "scannable": true,
             "encrypted": true,
             "permission": 1
         },
@@ -267,7 +267,7 @@
             "coloredName": "[color=green]LAPD COMM[/color]",
             "talkEnforcement": true,
             "talkAround": false,
-            "scannable": false,
+            "scannable": true,
             "encrypted": true,
             "permission": 1
         },
@@ -279,7 +279,7 @@
             "coloredName": "[color=green]LAPD DET BUR[/color]",
             "talkEnforcement": true,
             "talkAround": false,
-            "scannable": false,
+            "scannable": true,
             "encrypted": true,
             "permission": 1
         },
@@ -291,7 +291,7 @@
             "coloredName": "[color=green]LAPD DET ROB[/color]",
             "talkEnforcement": true,
             "talkAround": false,
-            "scannable": false,
+            "scannable": true,
             "encrypted": true,
             "permission": 1
         },
@@ -303,7 +303,7 @@
             "coloredName": "[color=green]LAPD DET JUV[/color]",
             "talkEnforcement": true,
             "talkAround": false,
-            "scannable": false,
+            "scannable": true,
             "encrypted": true,
             "permission": 1
         },
@@ -315,7 +315,7 @@
             "coloredName": "[color=green]LA PORT PD D[/color]",
             "talkEnforcement": true,
             "talkAround": false,
-            "scannable": false,
+            "scannable": true,
             "encrypted": true,
             "permission": 1
         },
@@ -327,7 +327,7 @@
             "coloredName": "[color=green]LA PORT PD T[/color]",
             "talkEnforcement": true,
             "talkAround": false,
-            "scannable": false,
+            "scannable": true,
             "encrypted": true,
             "permission": 1
         },
@@ -339,7 +339,7 @@
             "coloredName": "[color=green]LAC BL1 W[/color]",
             "talkEnforcement": true,
             "talkAround": false,
-            "scannable": false,
+            "scannable": true,
             "encrypted": true,
             "permission": 1
         },
@@ -351,7 +351,7 @@
             "coloredName": "[color=green]LAC BL4 W[/color]",
             "talkEnforcement": true,
             "talkAround": false,
-            "scannable": false,
+            "scannable": true,
             "encrypted": true,
             "permission": 1
         },
@@ -363,7 +363,7 @@
             "coloredName": "[color=green]LAC BL8 W[/color]",
             "talkEnforcement": true,
             "talkAround": false,
-            "scannable": false,
+            "scannable": true,
             "encrypted": true,
             "permission": 1
         },
@@ -375,7 +375,7 @@
             "coloredName": "[color=green]LAC BL19 N[/color]",
             "talkEnforcement": true,
             "talkAround": false,
-            "scannable": false,
+            "scannable": true,
             "encrypted": true,
             "permission": 1
         },
@@ -387,7 +387,7 @@
             "coloredName": "[color=green]LAC BL20 N[/color]",
             "talkEnforcement": true,
             "talkAround": false,
-            "scannable": false,
+            "scannable": true,
             "encrypted": true,
             "permission": 1
         },
@@ -399,7 +399,7 @@
             "coloredName": "[color=purple]TAC 1[/color]",
             "talkEnforcement": true,
             "talkAround": false,
-            "scannable": false,
+            "scannable": true,
             "encrypted": true,
             "permission": 1
         },
@@ -411,7 +411,7 @@
             "coloredName": "[color=purple]TAC 2[/color]",
             "talkEnforcement": true,
             "talkAround": false,
-            "scannable": false,
+            "scannable": true,
             "encrypted": true,
             "permission": 1
         },
@@ -423,7 +423,7 @@
             "coloredName": "[color=purple]TAC 3[/color]",
             "talkEnforcement": true,
             "talkAround": false,
-            "scannable": false,
+            "scannable": true,
             "encrypted": true,
             "permission": 1
         },
@@ -435,7 +435,7 @@
             "coloredName": "[color=green]OCD 4[/color]",
             "talkEnforcement": true,
             "talkAround": false,
-            "scannable": false,
+            "scannable": true,
             "encrypted": true,
             "permission": 1
         },
@@ -447,7 +447,7 @@
             "coloredName": "[color=red]Alert 6[/color]",
             "talkEnforcement": true,
             "talkAround": false,
-            "scannable": false,
+            "scannable": true,
             "encrypted": true,
             "permission": 1
         },
@@ -459,7 +459,7 @@
             "coloredName": "[color=green]CMD 11[/color]",
             "talkEnforcement": true,
             "talkAround": false,
-            "scannable": false,
+            "scannable": true,
             "encrypted": true,
             "permission": 1
         },
@@ -471,7 +471,7 @@
             "coloredName": "[color=gray]LA ARPRT PD D[/color]",
             "talkEnforcement": true,
             "talkAround": false,
-            "scannable": false,
+            "scannable": true,
             "encrypted": true,
             "permission": 1
         },
@@ -483,7 +483,7 @@
             "coloredName": "[color=gray]LA ARPRT PD T[/color]",
             "talkEnforcement": true,
             "talkAround": false,
-            "scannable": false,
+            "scannable": true,
             "encrypted": true,
             "permission": 1
         }
