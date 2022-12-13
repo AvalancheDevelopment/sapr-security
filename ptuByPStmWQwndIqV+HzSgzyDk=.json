@@ -10,8 +10,8 @@
     },
     "talkAroundRange": 1500,
     "betaServerGroups": [""],
-    "dispatchServerGroups": ["42", "41", "43", "25"],
-    "dispatchAdvancedServerGroups": [],
+    "dispatchServerGroups": ["110", "111", "112", "113", "114", "115"],
+    "dispatchAdvancedServerGroups": ["109"],
     "dispatchNameTags": [
         "(P)",
         "(S)",
@@ -28,15 +28,15 @@
     ],
     "civilianServerGroups": [""],
     "civChannels": [0],
-    "radioSystems": [28],
-    "rtoChannels": [38, 39],
+    "radioSystems": [35],
+    "rtoChannels": [119],
     "radioChannels": [
         {
             "id": 1,
-            "name": "MRD Statewide Dispatch",
+            "name": "Statewide",
             "soundName": "",
             "type": "LEO",
-            "coloredName": "[color=green]MRD Statewide Dispatch[/color]",
+            "coloredName": "[color=green]Statewide[/color]",
             "talkEnforcement": true,
             "talkAround": false,
             "scannable": true,
@@ -45,22 +45,22 @@
         },
         {
             "id": 2,
-            "name": "Tac 1",
+            "name": "Fire Ops",
             "soundName": "",
             "type": "LEO",
-            "coloredName": "[color=purple]Tac 1[/color]",
+            "coloredName": "[color=yellow]Fire Ops[/color]",
             "talkEnforcement": true,
             "talkAround": false,
             "scannable": true,
-            "encrypted": true,
+            "encrypted": false,
             "permission": 1
         },
         {
             "id": 3,
-            "name": "Tac 2",
+            "name": "Los Santos Ops",
             "soundName": "",
             "type": "LEO",
-            "coloredName": "[color=purple]Tac 2[/color]",
+            "coloredName": "[color=green]Los Santos Ops[/color]",
             "talkEnforcement": true,
             "talkAround": false,
             "scannable": true,
@@ -69,6 +69,18 @@
         },
         {
             "id": 4,
+            "name": "Blaine County Ops",
+            "soundName": "",
+            "type": "LEO",
+            "coloredName": "[color=green]Blaine County Ops[/color]",
+            "talkEnforcement": true,
+            "talkAround": false,
+            "scannable": true,
+            "encrypted": true,
+            "permission": 1
+        },
+        {
+            "id": 5,
             "name": "Car to Car 1",
             "soundName": "",
             "type": "LEO",
@@ -80,7 +92,7 @@
             "permission": 1
         },
         {
-            "id": 5,
+            "id": 6,
             "name": "Car to Car 2",
             "soundName": "",
             "type": "LEO",
@@ -92,23 +104,11 @@
             "permission": 1
         },
         {
-            "id": 6,
+            "id": 7,
             "name": "Supervisor TA",
             "soundName": "",
             "type": "LEO",
             "coloredName": "[color=grey]Supervisor TA[/color]",
-            "talkEnforcement": true,
-            "talkAround": true,
-            "scannable": true,
-            "encrypted": false,
-            "permission": 1
-        },
-        {
-            "id": 7,
-            "name": "DOT Operations",
-            "soundName": "",
-            "type": "LEO",
-            "coloredName": "[color=brown]DOT Operations[/color]",
             "talkEnforcement": true,
             "talkAround": true,
             "scannable": true,
@@ -135,19 +135,19 @@
             "serverGroupList": [""]
         },
         "permSit": {
-            "serverGroupList": [""]
+            "serverGroupList": ["175"]
         },
         "permStaff": {
-            "serverGroupList": ["36"]
+            "serverGroupList": ["174"]
         },
         "permSenior": {
-            "serverGroupList": ["35"]
+            "serverGroupList": ["170"]
         },
         "permAdmin": {
-            "serverGroupList": ["33", "34"]
+            "serverGroupList": ["168", "166"]
         },
         "permSuper": {
-            "serverGroupList": ["32", "6", "47"]
+            "serverGroupList": ["164", "1"]
         }
     }
 }
