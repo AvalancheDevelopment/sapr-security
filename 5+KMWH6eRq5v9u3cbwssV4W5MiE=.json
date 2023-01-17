@@ -75,6 +75,18 @@
         },
         {
             "id": 4,
+            "name": "Encrypted",
+            "soundName": "",
+            "type": "LEO",
+            "coloredName": "[color=cyan]Encrypted[/color]",
+            "talkEnforcement": true,
+            "talkAround": false,
+            "scannable": true,
+            "encrypted": true,
+            "permission": 1
+        },
+        {
+            "id": 5,
             "name": "Fire Ops",
             "soundName": "",
             "type": "LEO",
@@ -86,7 +98,19 @@
             "permission": 1
         },
         {
-            "id": 5,
+            "id": 6,
+            "name": "CHC Frequency",
+            "soundName": "",
+            "type": "LEO",
+            "coloredName": "[color=orange]CHC Frequency[/color]",
+            "talkEnforcement": true,
+            "talkAround": false,
+            "scannable": true,
+            "encrypted": false,
+            "permission": 1
+        },
+        {
+            "id": 7,
             "name": "Tac 1",
             "soundName": "",
             "type": "LEO",
@@ -110,7 +134,7 @@
             "permission": 1
         },
         {
-            "id": 7,
+            "id": 8,
             "name": "Private 1",
             "soundName": "",
             "type": "LEO",
@@ -122,7 +146,7 @@
             "permission": 1
         },
         {
-            "id": 8,
+            "id": 9,
             "name": "Private 2",
             "soundName": "",
             "type": "LEO",
