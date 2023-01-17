@@ -1,7 +1,7 @@
 {
     "pluginStatus": true,
     "isPaid": true,
-    "communityName": "Massachusetts State Roleplay",
+    "communityName": "South Coast Roleplay",
     "betaCommunity": false,
     "features": {
         "inGameInterface": true,
@@ -33,7 +33,7 @@
     "radioChannels": [
         {
             "id": 1,
-            "name": "Statewide - Radio",
+            "name": "Statewide Frequency",
             "soundName": "",
             "type": "LEO",
             "coloredName": "[color=green]Statewide - Radio[/color]",
@@ -45,7 +45,7 @@
         },
         {
             "id": 2,
-            "name": "Boston - Radio",
+            "name": "LS Frequency",
             "soundName": "",
             "type": "LEO",
             "coloredName": "[color=cyan]Boston - Radio[/color]",
@@ -57,7 +57,7 @@
         },
         {
             "id": 3,
-            "name": "Norfolk County - Radio",
+            "name": "BC Frequency",
             "soundName": "",
             "type": "LEO",
             "coloredName": "[color=cyan]Norfolk County - Radio[/color]",
