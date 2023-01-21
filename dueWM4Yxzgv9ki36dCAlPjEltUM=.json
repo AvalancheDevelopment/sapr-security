@@ -1,7 +1,7 @@
 {
     "pluginStatus": false,
     "isPaid": false,
-    "communityName": "Just Send It Roleplay",
+    "communityName": "Big Country Roleplay",
     "betaCommunity": false,
     "features": {
         "inGameInterface": true,
@@ -10,8 +10,8 @@
     },
     "talkAroundRange": 1500,
     "betaServerGroups": [""],
-    "dispatchServerGroups": ["66244"],
-    "dispatchAdvancedServerGroups": ["66244", "65938"],
+    "dispatchServerGroups": ["9"],
+    "dispatchAdvancedServerGroups": ["9", "65938"],
     "dispatchNameTags": [
         "(P)",
         "(S)",
@@ -33,7 +33,7 @@
     "radioChannels": [
         {
             "id": 1,
-            "name": "SW Dispatch",
+            "name": "Patrol Ops",
             "soundName": "",
             "type": "LEO",
             "coloredName": "[color=green]SW Dispatch[/color]",
@@ -45,7 +45,7 @@
         },
         {
             "id": 2,
-            "name": "Metro",
+            "name": "Fire Ops",
             "soundName": "",
             "type": "LEO",
             "coloredName": "[color=blue]Metro[/color]",
@@ -57,7 +57,7 @@
         },
         {
             "id": 3,
-            "name": "County Dispatch",
+            "name": "Tac 1",
             "soundName": "",
             "type": "LEO",
             "coloredName": "[color=blue]County Dispatch[/color]",
@@ -69,7 +69,7 @@
         },
         {
             "id": 4,
-            "name": "Tac 1",
+            "name": "Tac 2",
             "soundName": "",
             "type": "LEO",
             "coloredName": "[color=purple]Tac 1[/color]",
@@ -105,7 +105,7 @@
         },
         {
             "id": 7,
-            "name": "Fire/EMS",
+            "name": "Car/Car",
             "soundName": "",
             "type": "LEO",
             "coloredName": "[color=orange]Fire/EMS[/color]",
@@ -118,6 +118,54 @@
         {
             "id": 8,
             "name": "DOT",
+            "soundName": "",
+            "type": "LEO",
+            "coloredName": "[color=brown]DOT[/color]",
+            "talkEnforcement": true,
+            "talkAround": false,
+            "scannable": true,
+            "encrypted": true,
+            "permission": 1
+        },
+        {
+            "id": 9,
+            "name": "Private 1",
+            "soundName": "",
+            "type": "LEO",
+            "coloredName": "[color=brown]DOT[/color]",
+            "talkEnforcement": true,
+            "talkAround": false,
+            "scannable": true,
+            "encrypted": true,
+            "permission": 1
+        },
+        {
+            "id": 10,
+            "name": "Private 2",
+            "soundName": "",
+            "type": "LEO",
+            "coloredName": "[color=brown]DOT[/color]",
+            "talkEnforcement": true,
+            "talkAround": false,
+            "scannable": true,
+            "encrypted": true,
+            "permission": 1
+        },
+        {
+            "id": 11,
+            "name": "Private 3",
+            "soundName": "",
+            "type": "LEO",
+            "coloredName": "[color=brown]DOT[/color]",
+            "talkEnforcement": true,
+            "talkAround": false,
+            "scannable": true,
+            "encrypted": true,
+            "permission": 1
+        }
+        {
+            "id": 12,
+            "name": "Tow",
             "soundName": "",
             "type": "LEO",
             "coloredName": "[color=brown]DOT[/color]",
@@ -167,15 +215,15 @@
             "clientUidList": [""]
         },
         "permSenior": {
-            "serverGroupList": [""],
+            "serverGroupList": ["14"],
             "clientUidList": [""]
         },
         "permAdmin": {
-            "serverGroupList": [""],
+            "serverGroupList": ["13"],
             "clientUidList": [""]
         },
         "permSuper": {
-            "serverGroupList": ["65938"],
+            "serverGroupList": ["15"],
             "clientUidList": [""]
         }
     }
