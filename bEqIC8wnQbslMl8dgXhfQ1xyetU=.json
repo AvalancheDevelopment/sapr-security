@@ -1,7 +1,7 @@
 {
-    "pluginStatus": false,
-    "isPaid": false,
-    "communityName": "delete later",
+    "pluginStatus": true,
+    "isPaid": true,
+    "communityName": "Department of LSRP",
     "betaCommunity": false,
     "features": {
         "inGameInterface": true,
@@ -10,7 +10,7 @@
     },
     "talkAroundRange": 1500,
     "betaServerGroups": [""],
-    "dispatchServerGroups": ["376"],
+    "dispatchServerGroups": ["257"],
     "dispatchAdvancedServerGroups": [],
     "dispatchNameTags": [
         "(P)",
@@ -28,7 +28,7 @@
     ],
     "civilianServerGroups": [""],
     "civChannels": [0],
-    "radioSystems": [62, 77, 400],
+    "radioSystems": [45, 59, 72],
     "rtoChannels": [68, 82, 405],
     "radioChannels": [
         {
@@ -135,19 +135,19 @@
             "serverGroupList": [""]
         },
         "permSit": {
-            "serverGroupList": ["392"]
+            "serverGroupList": ["250"]
         },
         "permStaff": {
-            "serverGroupList": ["391"]
+            "serverGroupList": ["249"]
         },
         "permSenior": {
-            "serverGroupList": ["390"]
+            "serverGroupList": ["248"]
         },
         "permAdmin": {
-            "serverGroupList": ["388", "387", "389"]
+            "serverGroupList": ["247"]
         },
         "permSuper": {
-            "serverGroupList": ["386"]
+            "serverGroupList": ["246"]
         }
     }
 }
