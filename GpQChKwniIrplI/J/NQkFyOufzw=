@@ -1,7 +1,7 @@
 {
-    "pluginStatus": false,
-    "isPaid": false,
-    "communityName": "Countryside RP",
+    "pluginStatus": true,
+    "isPaid": true,
+    "communityName": "Northshore Roleplay",
     "betaCommunity": false,
     "features": {
         "inGameInterface": true,
@@ -10,7 +10,7 @@
     },
     "talkAroundRange": 1500,
     "betaServerGroups": [""],
-    "dispatchServerGroups": ["4207", "4193", "994", "979"],
+    "dispatchServerGroups": ["4207", "446", "445", "447"],
     "dispatchAdvancedServerGroups": [],
     "dispatchNameTags": [
         "(P)",
@@ -28,8 +28,8 @@
     ],
     "civilianServerGroups": [""],
     "civChannels": [0],
-    "radioSystems": [861],
-    "rtoChannels": [867],
+    "radioSystems": [39, 58],
+    "rtoChannels": [47, 48, 49, 50],
     "radioChannels": [
         {
             "id": 1,
@@ -159,19 +159,19 @@
             "serverGroupList": [""]
         },
         "permSit": {
-            "serverGroupList": ["1006"]
+            "serverGroupList": ["473"]
         },
         "permStaff": {
-            "serverGroupList": ["1007"]
+            "serverGroupList": ["474"]
         },
         "permSenior": {
-            "serverGroupList": ["1008"]
+            "serverGroupList": ["475"]
         },
         "permAdmin": {
-            "serverGroupList": ["1010", "1009"]
+            "serverGroupList": ["477", "476"]
         },
         "permSuper": {
-            "serverGroupList": ["1012", "1011"]
+            "serverGroupList": ["479", "478"]
         }
     }
 }
