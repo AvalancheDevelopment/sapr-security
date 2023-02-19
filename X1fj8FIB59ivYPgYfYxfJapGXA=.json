@@ -1,6 +1,6 @@
 {
-    "pluginStatus": false,
-    "isPaid": false,
+    "pluginStatus": true,
+    "isPaid": true,
     "communityName": "Senora RP",
     "betaCommunity": false,
     "features": {
@@ -33,7 +33,7 @@
     "radioChannels": [
         {
             "id": 1,
-            "name": "Patrol Ops",
+            "name": "LS Patrol Ops",
             "soundName": "",
             "type": "LEO",
             "coloredName": "[color=green]Patrol Ops[/color]",
@@ -45,7 +45,7 @@
         },
         {
             "id": 2,
-            "name": "Fire Ops",
+            "name": "SW Patrol Ops",
             "soundName": "",
             "type": "LEO",
             "coloredName": "[color=yellow]Fire Ops[/color]",
@@ -57,7 +57,7 @@
         },
         {
             "id": 3,
-            "name": "Tac 1",
+            "name": "BC Patrol Ops",
             "soundName": "",
             "type": "LEO",
             "coloredName": "[color=purple]Tac 1[/color]",
@@ -69,7 +69,7 @@
         },
         {
             "id": 4,
-            "name": "Tac 2",
+            "name": "SW SA-DOT Ops",
             "soundName": "",
             "type": "LEO",
             "coloredName": "[color=purple]Tac 2[/color]",
@@ -81,10 +81,94 @@
         },
         {
             "id": 5,
-            "name": "Tac 3",
+            "name": "LS Fire Ops",
             "soundName": "",
             "type": "LEO",
             "coloredName": "[color=purple]Tac 3[/color]",
+            "talkEnforcement": true,
+            "talkAround": false,
+            "scannable": true,
+            "encrypted": true,
+            "permission": 1
+        },
+        {
+            "id": 6,
+            "name": "LS Fire Ops",
+            "soundName": "",
+            "type": "LEO",
+            "coloredName": "[color=purple]Tac 2[/color]",
+            "talkEnforcement": true,
+            "talkAround": false,
+            "scannable": true,
+            "encrypted": true,
+            "permission": 1
+        },
+        {
+            "id": 7,
+            "name": "BC Fire Ops",
+            "soundName": "",
+            "type": "LEO",
+            "coloredName": "[color=purple]Tac 2[/color]",
+            "talkEnforcement": true,
+            "talkAround": false,
+            "scannable": true,
+            "encrypted": true,
+            "permission": 1
+        },
+        {
+            "id": 8,
+            "name": "Tac 1",
+            "soundName": "",
+            "type": "LEO",
+            "coloredName": "[color=purple]Tac 2[/color]",
+            "talkEnforcement": true,
+            "talkAround": false,
+            "scannable": true,
+            "encrypted": true,
+            "permission": 1
+        },
+        {
+            "id": 9,
+            "name": "Tac 2",
+            "soundName": "",
+            "type": "LEO",
+            "coloredName": "[color=purple]Tac 2[/color]",
+            "talkEnforcement": true,
+            "talkAround": false,
+            "scannable": true,
+            "encrypted": true,
+            "permission": 1
+        },
+        {
+            "id": 10,
+            "name": "Car/Car 1",
+            "soundName": "",
+            "type": "LEO",
+            "coloredName": "[color=purple]Tac 2[/color]",
+            "talkEnforcement": true,
+            "talkAround": false,
+            "scannable": true,
+            "encrypted": true,
+            "permission": 1
+        },
+        {
+            "id": 11,
+            "name": "Car/Car 2",
+            "soundName": "",
+            "type": "LEO",
+            "coloredName": "[color=purple]Tac 2[/color]",
+            "talkEnforcement": true,
+            "talkAround": false,
+            "scannable": true,
+            "encrypted": true,
+            "permission": 1
+        },
+        {
+            "id": 12,
+            "name": "Announcements",
+            "soundName": "",
+            "type": "LEO",
+            "coloredName": "[color=purple]Tac 2[/color]",
             "talkEnforcement": true,
             "talkAround": false,
             "scannable": true,
