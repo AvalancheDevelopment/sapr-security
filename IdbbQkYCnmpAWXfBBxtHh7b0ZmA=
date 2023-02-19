@@ -1,7 +1,7 @@
 {
-    "pluginStatus": false,
-    "isPaid": false,
-    "communityName": "ShadyCash23",
+    "pluginStatus": true,
+    "isPaid": true,
+    "communityName": "InfiniteTurbo",
     "betaCommunity": false,
     "features": {
         "inGameInterface": true,
@@ -10,7 +10,7 @@
     },
     "talkAroundRange": 1500,
     "betaServerGroups": [""],
-    "dispatchServerGroups": ["202428"],
+    "dispatchServerGroups": ["30492"],
     "dispatchAdvancedServerGroups": [],
     "dispatchNameTags": [
         "(P)",
@@ -28,8 +28,8 @@
     ],
     "civilianServerGroups": [""],
     "civChannels": [0],
-    "radioSystems": [471389],
-    "rtoChannels": [471390],
+    "radioSystems": [44521],
+    "rtoChannels": [44525],
     "radioChannels": [
         {
             "id": 1,
@@ -135,19 +135,19 @@
             "serverGroupList": [""]
         },
         "permSit": {
-            "serverGroupList": ["202427"]
+            "serverGroupList": [""]
         },
         "permStaff": {
-            "serverGroupList": ["202426"]
+            "serverGroupList": [""]
         },
         "permSenior": {
-            "serverGroupList": ["202425"]
+            "serverGroupList": [""]
         },
         "permAdmin": {
-            "serverGroupList": ["202424"]
+            "serverGroupList": [""]
         },
         "permSuper": {
-            "serverGroupList": ["202423"]
+            "serverGroupList": ["30491"]
         }
     }
 }
