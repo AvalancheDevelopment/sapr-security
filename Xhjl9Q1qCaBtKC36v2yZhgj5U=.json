@@ -187,27 +187,27 @@
         "commandStunPeriod": 300,
         "toneWaitTalkPeriod": 5
     },
-    "permissions": {
+     "permissions": {
         "permBasic": {
-            "serverGroupList": [""]
+            "serverGroupList": ["23595"]
         },
         "permExtra": {
-            "serverGroupList": [""]
+            "serverGroupList": ["23595"]
         },
         "permSit": {
-            "serverGroupList": [""]
+            "serverGroupList": ["23595"]
         },
         "permStaff": {
-            "serverGroupList": ["10964"]
+            "serverGroupList": ["37116"]
         },
         "permSenior": {
-            "serverGroupList": ["10965"]
+            "serverGroupList": ["37114"]
         },
         "permAdmin": {
-            "serverGroupList": [""]
+            "serverGroupList": ["37113"]
         },
         "permSuper": {
-            "serverGroupList": ["10958"]
+            "serverGroupList": ["23594"]
         }
     }
 }
