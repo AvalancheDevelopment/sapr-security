@@ -1,6 +1,6 @@
 {
-    "pluginStatus": false,
-    "isPaid": false,
+    "pluginStatus": true,
+    "isPaid": true,
     "communityName": "Golden Coast Roleplay",
     "betaCommunity": false,
     "features": {
@@ -28,8 +28,8 @@
     ],
     "civilianServerGroups": [""],
     "civChannels": [0],
-    "radioSystems": [861, 211, 222, 769, 874, 884],
-    "rtoChannels": [867, 215, 226, 791, 877, 888, 1384],
+    "radioSystems": [65, 211, 222, 769, 874, 884],
+    "rtoChannels": [67, 215, 226, 791, 877, 888, 1384],
     "radioChannels": [
         {
             "id": 1,
@@ -189,19 +189,19 @@
             "clientUidList": [""]
         },
         "permStaff": {
-            "serverGroupList": ["1007"],
+            "serverGroupList": [""],
             "clientUidList": [""]
         },
         "permSenior": {
-            "serverGroupList": ["1008"],
+            "serverGroupList": [""],
             "clientUidList": [""]
         },
         "permAdmin": {
-            "serverGroupList": ["1009", "1010"],
+            "serverGroupList": [""],
             "clientUidList": [""]
         },
         "permSuper": {
-            "serverGroupList": ["1012", "1011"],
+            "serverGroupList": ["9"],
             "clientUidList": [""]
         }
     }
