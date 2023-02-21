@@ -10,8 +10,8 @@
     },
     "talkAroundRange": 1500,
     "betaServerGroups": [""],
-    "dispatchServerGroups": ["10963"],
-    "dispatchAdvancedServerGroups": [],
+    "dispatchServerGroups": ["39362"],
+    "dispatchAdvancedServerGroups": ["39362"],
     "dispatchNameTags": [
         "(P)",
         "(S)",
@@ -26,10 +26,10 @@
         "[QA]",
         "[EVAL]"
     ],
-    "civilianServerGroups": [""],
-    "civChannels": [0],
-    "radioSystems": [12546],
-    "rtoChannels": [12993],
+    "civilianServerGroups": ["39363"],
+    "civChannels": [28295],
+    "radioSystems": [28288],
+    "rtoChannels": [27760],
     "radioChannels": [
         {
             "id": 1,
