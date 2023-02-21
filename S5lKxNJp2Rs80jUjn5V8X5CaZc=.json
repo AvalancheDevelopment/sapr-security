@@ -185,7 +185,7 @@
             "clientUidList": [""]
         },
         "permSit": {
-            "serverGroupList": ["1006"],
+            "serverGroupList": [""],
             "clientUidList": [""]
         },
         "permStaff": {
