@@ -1,6 +1,6 @@
 {
-    "pluginStatus": false,
-    "isPaid": false,
+    "pluginStatus": true,
+    "isPaid": true,
     "communityName": "Northern State Roleplay",
     "betaCommunity": false,
     "features": {
@@ -10,7 +10,7 @@
     },
     "talkAroundRange": 1500,
     "betaServerGroups": [""],
-    "dispatchServerGroups": ["917"],
+    "dispatchServerGroups": ["147"],
     "dispatchAdvancedServerGroups": [],
     "dispatchNameTags": [
         "(P)",
@@ -28,8 +28,8 @@
     ],
     "civilianServerGroups": [""],
     "civChannels": [0],
-    "radioSystems": [1931],
-    "rtoChannels": [1935],
+    "radioSystems": [64],
+    "rtoChannels": [69],
     "radioChannels": [
         {
             "id": 1,
@@ -147,19 +147,19 @@
             "serverGroupList": [""]
         },
         "permSit": {
-            "serverGroupList": ["925"]
+            "serverGroupList": ["161"]
         },
         "permStaff": {
-            "serverGroupList": ["926"]
+            "serverGroupList": ["159"]
         },
         "permSenior": {
-            "serverGroupList": ["927"]
+            "serverGroupList": ["158"]
         },
         "permAdmin": {
-            "serverGroupList": ["929", "928"]
+            "serverGroupList": ["150""]
         },
         "permSuper": {
-            "serverGroupList": ["932"]
+            "serverGroupList": ["149"]
         }
     }
 }
