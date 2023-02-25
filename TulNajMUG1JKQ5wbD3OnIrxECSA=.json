@@ -1,6 +1,6 @@
 {
-    "pluginStatus": true,
-    "isPaid": true,
+    "pluginStatus": false,
+    "isPaid": false,
     "communityName": "Northshore Roleplay",
     "betaCommunity": false,
     "features": {
@@ -28,8 +28,8 @@
     ],
     "civilianServerGroups": [""],
     "civChannels": [0],
-    "radioSystems": [39, 58],
-    "rtoChannels": [47, 48, 49, 50],
+    "radioSystems": [50, 65, 75, 106],
+    "rtoChannels": [57, 68, 79, 107],
     "radioChannels": [
         {
             "id": 1,
@@ -159,19 +159,19 @@
             "serverGroupList": [""]
         },
         "permSit": {
-            "serverGroupList": ["473"]
+            "serverGroupList": ["409"]
         },
         "permStaff": {
-            "serverGroupList": ["474"]
+            "serverGroupList": ["410"]
         },
         "permSenior": {
-            "serverGroupList": ["475"]
+            "serverGroupList": ["411"]
         },
         "permAdmin": {
-            "serverGroupList": ["477", "476"]
+            "serverGroupList": ["413", "412"]
         },
         "permSuper": {
-            "serverGroupList": ["479", "478"]
+            "serverGroupList": ["415", "414"]
         }
     }
 }
