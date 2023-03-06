@@ -186,7 +186,7 @@
             "serverGroupList": ["458"]
         },
         "permAdmin": {
-            "serverGroupList": ["460"]
+            "serverGroupList": ["460", "459"]
         },
         "permSuper": {
             "serverGroupList": ["461", "462"]
