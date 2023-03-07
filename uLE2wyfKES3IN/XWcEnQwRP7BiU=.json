@@ -1,7 +1,7 @@
 {
     "pluginStatus": true,
     "isPaid": true,
-    "communityName": "Atlantic Roleplay",
+    "communityName": "Main Line Project",
     "betaCommunity": false,
     "features": {
         "inGameInterface": true,
@@ -10,7 +10,7 @@
     },
     "talkAroundRange": 1500,
     "betaServerGroups": [""],
-    "dispatchServerGroups": ["63"],
+    "dispatchServerGroups": ["301", "309"],
     "dispatchAdvancedServerGroups": [],
     "dispatchNameTags": [
         "(P)",
@@ -147,19 +147,19 @@
             "serverGroupList": [""]
         },
         "permSit": {
-            "serverGroupList": ["17"]
+            "serverGroupList": ["287"]
         },
         "permStaff": {
-            "serverGroupList": ["16"]
+            "serverGroupList": ["288"]
         },
         "permSenior": {
-            "serverGroupList": ["15"]
+            "serverGroupList": ["289"]
         },
         "permAdmin": {
-            "serverGroupList": ["13"]
+            "serverGroupList": ["290", "291"]
         },
         "permSuper": {
-            "serverGroupList": ["10"]
+            "serverGroupList": ["213", "390", "389", "159", "309"]
         }
     }
 }
