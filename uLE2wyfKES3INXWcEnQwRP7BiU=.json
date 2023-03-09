@@ -10,8 +10,8 @@
     },
     "talkAroundRange": 1500,
     "betaServerGroups": [""],
-    "dispatchServerGroups": ["301", "309"],
-    "dispatchAdvancedServerGroups": [],
+    "dispatchServerGroups": [""],
+    "dispatchAdvancedServerGroups": ["301", "309"],
     "dispatchNameTags": [
         "(P)",
         "(S)",
@@ -28,8 +28,8 @@
     ],
     "civilianServerGroups": [""],
     "civChannels": ["609", "480", "481", "487"],
-    "radioSystems": [3],
-    "rtoChannels": [5],
+    "radioSystems": [474],
+    "rtoChannels": [252],
     "radioChannels": [
         {
             "id": 1,
