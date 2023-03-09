@@ -11,7 +11,7 @@
     "talkAroundRange": 1500,
     "betaServerGroups": [""],
     "dispatchServerGroups": [""],
-    "dispatchAdvancedServerGroups": ["301", "309"],
+    "dispatchAdvancedServerGroups": ["301", "319"],
     "dispatchNameTags": [
         "(P)",
         "(S)",
@@ -28,7 +28,7 @@
     ],
     "civilianServerGroups": [""],
     "civChannels": ["609", "480", "481", "487"],
-    "radioSystems": [474],
+    "radioSystems": ["474", "479", "482", "486"],
     "rtoChannels": [252],
     "radioChannels": [
         {
