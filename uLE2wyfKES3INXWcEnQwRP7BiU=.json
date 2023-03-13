@@ -150,13 +150,13 @@
             "serverGroupList": ["127"]
         },
         "permStaff": {
-            "serverGroupList": ["128", "129"]
+            "serverGroupList": ["128"]
         },
         "permSenior": {
-            "serverGroupList": ["130"]
+            "serverGroupList": ["129"]
         },
         "permAdmin": {
-            "serverGroupList": ["131"]
+            "serverGroupList": ["130", "131"]
         },
         "permSuper": {
             "serverGroupList": ["59", "255", "226", "227", "9", "147"]
