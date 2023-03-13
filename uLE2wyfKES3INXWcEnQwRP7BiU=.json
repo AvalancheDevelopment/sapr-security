@@ -147,19 +147,19 @@
             "serverGroupList": [""]
         },
         "permSit": {
-            "serverGroupList": ["287"]
+            "serverGroupList": ["127"]
         },
         "permStaff": {
-            "serverGroupList": ["288"]
+            "serverGroupList": ["128", "129"]
         },
         "permSenior": {
-            "serverGroupList": ["289"]
+            "serverGroupList": ["130"]
         },
         "permAdmin": {
-            "serverGroupList": ["290", "291"]
+            "serverGroupList": ["131"]
         },
         "permSuper": {
-            "serverGroupList": ["213", "390", "389", "159", "309"]
+            "serverGroupList": ["59", "255", "226", "227", "9", "147"]
         }
     }
 }
