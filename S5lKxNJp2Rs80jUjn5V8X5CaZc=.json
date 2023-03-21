@@ -26,10 +26,10 @@
         "[QA]",
         "[EVAL]"
     ],
-    "civilianServerGroups": [""],
+    "civilianServerGroups": ["558"],
     "civChannels": [0],
     "radioSystems": ["59"],
-    "rtoChannels": ["65"],
+    "rtoChannels": ["556"],
     "radioChannels": [
         {
             "id": 1,
