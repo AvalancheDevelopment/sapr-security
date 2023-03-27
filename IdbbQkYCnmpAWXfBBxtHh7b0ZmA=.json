@@ -41,8 +41,8 @@
     "radioChannels": [
         {
             "id": 1,
-            "name": "Patrol Ops",
-            "soundName": "Ch_PatrolOps1",
+            "name": "Gen Dis",
+            "soundName": "",
             "type": "LEO",
             "coloredName": "[color=green]Patrol Ops[/color]",
             "talkEnforcement": true,
@@ -53,8 +53,8 @@
         },
         {
             "id": 2,
-            "name": "Fire Ops",
-            "soundName": "Ch_FireOps",
+            "name": "LSPD Dis",
+            "soundName": "",
             "type": "LEO",
             "coloredName": "[color=yellow]Fire Ops[/color]",
             "talkEnforcement": true,
@@ -65,8 +65,8 @@
         },
         {
             "id": 3,
-            "name": "Tac 1",
-            "soundName": "Ch_Tac1",
+            "name": "BCSO Dis",
+            "soundName": "",
             "type": "LEO",
             "coloredName": "[color=purple]Tac 1[/color]",
             "talkEnforcement": true,
@@ -77,8 +77,8 @@
         },
         {
             "id": 4,
-            "name": "Tac 2",
-            "soundName": "Ch_Tac2",
+            "name": "LCSO Dis",
+            "soundName": "",
             "type": "LEO",
             "coloredName": "[color=purple]Tac 2[/color]",
             "talkEnforcement": true,
@@ -89,8 +89,8 @@
         },
         {
             "id": 5,
-            "name": "Car/Car",
-            "soundName": "Ch_LEOCars",
+            "name": "PBPD Dis",
+            "soundName": "",
             "type": "LEO",
             "coloredName": "[color=grey]Car/Car[/color]",
             "talkEnforcement": true,
@@ -101,8 +101,44 @@
         },
         {
             "id": 6,
-            "name": "Private 1",
-            "soundName": "Ch_Private1",
+            "name": "HP North",
+            "soundName": "",
+            "type": "LEO",
+            "coloredName": "[color=red]Private 1[/color]",
+            "talkEnforcement": true,
+            "talkAround": false,
+            "scannable": true,
+            "encrypted": true,
+            "permission": 1
+        },
+        {
+            "id": 7,
+            "name": "HP South",
+            "soundName": "",
+            "type": "LEO",
+            "coloredName": "[color=red]Private 2[/color]",
+            "talkEnforcement": true,
+            "talkAround": false,
+            "scannable": true,
+            "encrypted": true,
+            "permission": 1
+        },
+        {
+            "id": 8,
+            "name": "HP North",
+            "soundName": "",
+            "type": "LEO",
+            "coloredName": "[color=red]Private 1[/color]",
+            "talkEnforcement": true,
+            "talkAround": false,
+            "scannable": true,
+            "encrypted": true,
+            "permission": 1
+        },
+        {
+            "id": 9,
+            "name": "RDC Fire",
+            "soundName": "",
             "type": "LEO",
             "coloredName": "[color=red]Private 1[/color]",
             "talkEnforcement": true,
@@ -111,18 +147,6 @@
             "encrypted": true,
             "permission": 1
         },
-        {
-            "id": 7,
-            "name": "Private 2",
-            "soundName": "Ch_Private2",
-            "type": "LEO",
-            "coloredName": "[color=red]Private 2[/color]",
-            "talkEnforcement": true,
-            "talkAround": false,
-            "scannable": false,
-            "encrypted": true,
-            "permission": 1
-        }
     ],
     "time_settings": {
         "emergencyOverridePeriod": 10,
