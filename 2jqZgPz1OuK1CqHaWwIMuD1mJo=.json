@@ -41,7 +41,7 @@
     "radioChannels": [
         {
             "id": 1,
-            "name": "Law Dis",
+            "name": "Patrol Ops",
             "soundName": "Ch_LawDispatch",
             "type": "LEO",
             "coloredName": "[color=green]Patrol Ops[/color]",
