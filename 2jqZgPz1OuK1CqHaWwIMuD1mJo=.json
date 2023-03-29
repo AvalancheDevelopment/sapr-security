@@ -41,10 +41,10 @@
     "radioChannels": [
         {
             "id": 1,
-            "name": "Patrol Ops",
+            "name": "Law Dispatch",
             "soundName": "Ch_LawDispatch",
             "type": "LEO",
-            "coloredName": "[color=green]Patrol Ops[/color]",
+            "coloredName": "[color=green]Law Dispatch[/color]",
             "talkEnforcement": true,
             "talkAround": false,
             "scannable": true,
@@ -53,10 +53,10 @@
         },
         {
             "id": 2,
-            "name": "Fire Ops",
+            "name": "Fire Dispatch",
             "soundName": "Ch_FireOps",
             "type": "LEO",
-            "coloredName": "[color=yellow]Fire Ops[/color]",
+            "coloredName": "[color=yellow]Fire Dispatch[/color]",
             "talkEnforcement": true,
             "talkAround": false,
             "scannable": true,
