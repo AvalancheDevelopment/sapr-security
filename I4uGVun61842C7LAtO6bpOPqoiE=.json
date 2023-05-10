@@ -1,6 +1,6 @@
 {
-    "pluginStatus": true,
-    "isPaid": true,
+    "pluginStatus": false,
+    "isPaid": false,
     "communityName": "OceanFrontRP",
     "betaCommunity": false,
     "features": {
@@ -36,8 +36,8 @@
     ],
     "civilianServerGroups": [""],
     "civChannels": [0],
-    "radioSystems": [100],
-    "rtoChannels": [104],
+    "radioSystems": [0],
+    "rtoChannels": [0],
     "radioChannels": [
         {
             "id": 1,
@@ -143,19 +143,19 @@
             "serverGroupList": [""]
         },
         "permSit": {
-            "serverGroupList": ["540"]
+            "serverGroupList": ["0"]
         },
         "permStaff": {
-            "serverGroupList": ["543"]
+            "serverGroupList": ["0"]
         },
         "permSenior": {
-            "serverGroupList": ["544"]
+            "serverGroupList": ["0"]
         },
         "permAdmin": {
-            "serverGroupList": ["546"]
+            "serverGroupList": ["0"]
         },
         "permSuper": {
-            "serverGroupList": ["547"]
+            "serverGroupList": ["0"]
         }
     }
 }
