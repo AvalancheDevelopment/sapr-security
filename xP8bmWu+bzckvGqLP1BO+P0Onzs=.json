@@ -169,15 +169,15 @@
             "clientUidList": [""]
         },
         "permSenior": {
-            "serverGroupList": ["81"],
+            "serverGroupList": ["20", "22", "21", "23", "91"],
             "clientUidList": [""]
         },
         "permAdmin": {
-            "serverGroupList": ["84","83","82"],
+            "serverGroupList": ["363"],
             "clientUidList": [""]
         },
         "permSuper": {
-            "serverGroupList": ["85"],
+            "serverGroupList": ["12", "19"],
             "clientUidList": [""]
         }
     }
