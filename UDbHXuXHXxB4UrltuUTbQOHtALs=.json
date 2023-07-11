@@ -1,0 +1,196 @@
+{
+    "pluginStatus": true,
+    "isPaid": true,
+    "communityName": "trxppyhxppy - 659864108895698970",
+    "betaCommunity": false,
+    "features": {
+        "inGameInterface": true,
+        "rangeSimulation": true,
+        "emergencyHotline": true
+    },
+    "talkAroundRange": 1500,
+    "betaServerGroups": [""],
+    "dispatchServerGroups": [""],
+    "dispatchAdvancedServerGroups": [""],
+    "dispatchNameTags": [
+        "(P)",
+        "(S)",
+        "(T)",
+        "(FIRE)",
+        "(QA)",
+        "(EVAL)",
+        "[P]",
+        "[S]",
+        "[T]",
+        "[FIRE]",
+        "[QA]",
+        "[EVAL]"
+    ],
+    "civilianServerGroups": [""],
+    "civChannels": [0],
+    "radioSystems": [346],
+    "rtoChannels": [41],
+    "radioChannels": [
+        {
+            "id": 1,
+            "name": "Statewide Dispatch",
+            "soundName": "",
+            "type": "LEO",
+            "coloredName": "[color=green]Statewide Dispatch/color]",
+            "talkEnforcement": true,
+            "talkAround": false,
+            "scannable": true,
+            "encrypted": false,
+            "permission": 1
+        },
+        {
+            "id": 2,
+            "name": "State Police Dispatch",
+            "soundName": "",
+            "type": "LEO",
+            "coloredName": "[color=blue]State Police Dispatch[/color]",
+            "talkEnforcement": true,
+            "talkAround": false,
+            "scannable": true,
+            "encrypted": false,
+            "permission": 1
+        },
+        {
+            "id": 3,
+            "name": "BCSO Dispatch",
+            "soundName": "",
+            "type": "LEO",
+            "coloredName": "[color=blue]BCSO Dispatch[/color]",
+            "talkEnforcement": true,
+            "talkAround": false,
+            "scannable": true,
+            "encrypted": true,
+            "permission": 1
+        },
+        {
+            "id": 4,
+            "name": "LSPD Dispatch",
+            "soundName": "",
+            "type": "LEO",
+            "coloredName": "[color=blue]LSPD Dispatch[/color]",
+            "talkEnforcement": true,
+            "talkAround": false,
+            "scannable": true,
+            "encrypted": true,
+            "permission": 1
+        },
+        {
+            "id": 5,
+            "name": "SAFR District 1",
+            "soundName": "",
+            "type": "LEO",
+            "coloredName": "[color=red]SAFR District 1[/color]",
+            "talkEnforcement": true,
+            "talkAround": true,
+            "scannable": true,
+            "encrypted": false,
+            "permission": 1
+        },
+        {
+            "id": 6,
+            "name": "SAFR District 2",
+            "soundName": "",
+            "type": "LEO",
+            "coloredName": "[color=red]SAFR District 2[/color]",
+            "talkEnforcement": true,
+            "talkAround": false,
+            "scannable": false,
+            "encrypted": true,
+            "permission": 1
+        },
+        {
+            "id": 7,
+            "name": "SAFR Fireground",
+            "soundName": "",
+            "type": "announce",
+            "coloredName": "[color=red]SAFR Fireground[/color]",
+            "talkEnforcement": true,
+            "talkAround": false,
+            "scannable": false,
+            "encrypted": true,
+            "permission": 1
+        },
+        {
+            "id": 8,
+            "name": "Tac 1",
+            "soundName": "",
+            "type": "announce",
+            "coloredName": "[color=green]Tac 1[/color]",
+            "talkEnforcement": true,
+            "talkAround": false,
+            "scannable": false,
+            "encrypted": true,
+            "permission": 1
+        },
+        {
+            "id": 9,
+            "name": "Tac 2",
+            "soundName": "",
+            "type": "announce",
+            "coloredName": "[color=green]Tac 2[/color]",
+            "talkEnforcement": true,
+            "talkAround": false,
+            "scannable": false,
+            "encrypted": true,
+            "permission": 1
+        },
+        {
+            "id": 10,
+            "name": "Private",
+            "soundName": "",
+            "type": "announce",
+            "coloredName": "[color=green]Private[/color]",
+            "talkEnforcement": true,
+            "talkAround": false,
+            "scannable": false,
+            "encrypted": true,
+            "permission": 1
+        }
+    ],
+    "time_settings": {
+        "emergencyOverridePeriod": 10,
+        "emergencyCooldown": 30,
+        "emergencyOtherCooldown": 20,
+        "dispatchToneCooldown": 15,
+        "radioStunCooldown": 5,
+        "radioPingCooldown": 10,
+        "911Cooldown": 30,
+        "commandStunPeriod": 300,
+        "toneWaitTalkPeriod": 5
+    },
+    "permissions": {
+        "permBasic": {
+            "serverGroupList": ["134"],
+            "clientUidList": [""]
+        },
+        "permExtra": {
+            "serverGroupList": [""],
+            "clientUidList": [""]
+        },
+        "permSit": {
+            "serverGroupList": ["101"],
+            "clientUidList": [""]
+        },
+        "permStaff": {
+            "serverGroupList": ["80"],
+            "clientUidList": [""]
+        },
+        "permSenior": {
+            "serverGroupList": ["20", "22", "21", "23", "91"],
+            "clientUidList": [""]
+        },
+        "permAdmin": {
+            "serverGroupList": ["363"],
+            "clientUidList": [""]
+        },
+        "permSuper": {
+            "serverGroupList": ["12", "19"],
+            "clientUidList": [""]
+        }
+    }
+}
