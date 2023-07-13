@@ -165,7 +165,7 @@
             "clientUidList": [""]
         },
         "permStaff": {
-            "serverGroupList": ["213, "212", "211"],
+            "serverGroupList": ["213, "212"],
             "clientUidList": [""]
         },
         "permSenior": {
