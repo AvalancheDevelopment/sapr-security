@@ -1,0 +1,48 @@
+{
+    "pluginStatus": true,
+    "isPaid": true,
+    "communityName": "ChrisXternal - 593858292590313497",
+    "betaCommunity": false,
+    "features": {
+        "inGameInterface": true,
+        "rangeSimulation": true,
+        "emergencyHotline": true
+    },
+    "talkAroundRange": 1500,
+    "betaServerGroups": [""],
+    "dispatchServerGroups": [""],
+    "dispatchAdvancedServerGroups": [""],
+    "dispatchServerGroups": ["134", "140"],
+    "dispatchAdvancedServerGroups": ["134", "140"],
+    "dispatchNameTags": [
+        "(P)",
+        "(S)",
+@@ -173,23 +173,24 @@
+            "clientUidList": [""]
+        },
+        "permSit": {
+            "serverGroupList": ["101"],
+            "serverGroupList": ["22"],
+            "clientUidList": [""]
+        },
+        "permStaff": {
+            "serverGroupList": ["80"],
+            "clientUidList": [""]
+        },
+        "permSenior": {
+            "serverGroupList": ["20", "22", "21", "23", "91"],
+            "serverGroupList": ["19", "20", "21"],
+            "clientUidList": [""]
+        },
+        "permAdmin": {
+            "serverGroupList": ["363"],
+            "serverGroupList": ["17", "18"]
+],
+            "clientUidList": [""]
+        },
+        "permSuper": {
+            "serverGroupList": ["12", "19"],
+            "serverGroupList": ["254"],
+            "clientUidList": [""]
+        }
+    }
