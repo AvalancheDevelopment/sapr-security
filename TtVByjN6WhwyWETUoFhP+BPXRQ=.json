@@ -1,7 +1,7 @@
 {
     "pluginStatus": true,
     "isPaid": true,
-    "communityName": "Michael - 146486037638545408",
+    "communityName": "Plactrix - 410584601996820483",
     "betaCommunity": false,
     "features": {
         "inGameInterface": true,
@@ -29,7 +29,7 @@
     "civilianServerGroups": [""],
     "civChannels": [0],
     "radioSystems": [0],
-    "rtoChannels": [24],
+    "rtoChannels": [12],
     "radioChannels": [
         {
             "id": 1,
@@ -173,7 +173,7 @@
             "clientUidList": [""]
         },
         "permAdmin": {
-            "serverGroupList": [""],
+            "serverGroupList": ["6"],
             "clientUidList": [""]
         },
         "permSuper": {
