@@ -99,7 +99,7 @@
             "coloredName": "[color=red]SAFR District 2[/color]",
             "talkEnforcement": true,
             "talkAround": false,
-            "scannable": false,
+            "scannable": true,
             "encrypted": true,
             "permission": 1
         },
@@ -111,7 +111,7 @@
             "coloredName": "[color=red]SAFR Fireground[/color]",
             "talkEnforcement": true,
             "talkAround": false,
-            "scannable": false,
+            "scannable": true,
             "encrypted": true,
             "permission": 1
         },
@@ -123,7 +123,7 @@
             "coloredName": "[color=green]Tac 1[/color]",
             "talkEnforcement": true,
             "talkAround": false,
-            "scannable": false,
+            "scannable": true,
             "encrypted": true,
             "permission": 1
         },
@@ -135,7 +135,7 @@
             "coloredName": "[color=green]Tac 2[/color]",
             "talkEnforcement": true,
             "talkAround": false,
-            "scannable": false,
+            "scannable": true,
             "encrypted": true,
             "permission": 1
         }
