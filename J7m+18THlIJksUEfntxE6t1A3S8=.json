@@ -1,7 +1,7 @@
 {
     "pluginStatus": false,
     "isPaid": false,
-    "communityName": "Come Up Roleplay",
+    "communityName": "Ocean Breeze Roleplay",
     "betaCommunity": false,
     "features": {
         "inGameInterface": true,
@@ -10,7 +10,7 @@
     },
     "talkAroundRange": 1500,
     "betaServerGroups": [""],
-    "dispatchServerGroups": ["19"],
+    "dispatchServerGroups": [""],
     "dispatchAdvancedServerGroups": [],
     "dispatchNameTags": [
         "(P)",
@@ -28,8 +28,8 @@
     ],
     "civilianServerGroups": [""],
     "civChannels": [0],
-    "radioSystems": [9],
-    "rtoChannels": [10],
+    "radioSystems": [55],
+    "rtoChannels": [60],
     "radioChannels": [
         {
             "id": 1,
@@ -141,25 +141,25 @@
     },
     "permissions": {
         "permBasic": {
-            "serverGroupList": [""]
+            "serverGroupList": ["84"]
         },
         "permExtra": {
             "serverGroupList": [""]
         },
         "permSit": {
-            "serverGroupList": [""]
+            "serverGroupList": ["82"]
         },
         "permStaff": {
-            "serverGroupList": [""]
+            "serverGroupList": ["81"]
         },
         "permSenior": {
-            "serverGroupList": [""]
+            "serverGroupList": ["80"]
         },
         "permAdmin": {
-            "serverGroupList": ["16"]
+            "serverGroupList": ["98"]
         },
         "permSuper": {
-            "serverGroupList": ["9", "12"]
+            "serverGroupList": ["78", "291"]
         }
     }
 }
