@@ -1,7 +1,7 @@
 {
     "pluginStatus": true,
     "isPaid": true,
-    "communityName": "Come Up RP",
+    "communityName": "Come Up Roleplay",
     "betaCommunity": false,
     "features": {
         "inGameInterface": true,
@@ -11,7 +11,7 @@
     "talkAroundRange": 1500,
     "betaServerGroups": [""],
     "dispatchServerGroups": [""],
-    "dispatchAdvancedServerGroups": [],
+    "dispatchAdvancedServerGroups": [""],
     "dispatchNameTags": [
         "(P)",
         "(S)",
