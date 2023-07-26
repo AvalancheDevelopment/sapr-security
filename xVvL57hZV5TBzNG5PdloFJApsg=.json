@@ -182,7 +182,7 @@
             "scannable": false,
             "encrypted": true,
             "permission": 1
-        }
+        },
         {
             "id": 13,
             "name": "Airport Maintenance",
@@ -197,8 +197,8 @@
         }
     ],
     "time_settings": {
-        "emergencyOverridePeriod": 10,
-        "emergencyCooldown": 30,
+        "emergencyOverridePeriod": 5,
+        "emergencyCooldown": 20,
         "emergencyOtherCooldown": 20,
         "dispatchToneCooldown": 15,
         "radioStunCooldown": 5,
@@ -227,7 +227,7 @@
             "serverGroupList": [""]
         },
         "permSuper": {
-            "serverGroupList": ["30491"]
+            "serverGroupList": [""]
         }
     }
 }
