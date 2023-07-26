@@ -42,7 +42,7 @@
         {
             "id": 1,
             "name": "Citywide",
-            "soundName": "Ch_Citywide",
+            "soundName": "Cn_Citywide",
             "type": "LEO",
             "coloredName": "[color=green]Citywide[/color]",
             "talkEnforcement": true,
@@ -66,7 +66,7 @@
         {
             "id": 3,
             "name": "Tac 2",
-            "soundName": "Ch_Tac",
+            "soundName": "Cn_Tac2",
             "type": "LEO",
             "coloredName": "[color=yellow]Tac 2[/color]",
             "talkEnforcement": true,
@@ -78,7 +78,7 @@
         {
             "id": 4,
             "name": "Northeast Band",
-            "soundName": "Ch_Northeast Band",
+            "soundName": "Cn_Northeast Band",
             "type": "LEO",
             "coloredName": "[color=blue]Northeast Band[/color]",
             "talkEnforcement": true,
@@ -90,7 +90,7 @@
         {
             "id": 5,
             "name": "Southwest Band",
-            "soundName": "Ch_Southwest Band",
+            "soundName": "Cn_Southwest Band",
             "type": "LEO",
             "coloredName": "[color=blue]Southwest Band[/color]",
             "talkEnforcement": true,
