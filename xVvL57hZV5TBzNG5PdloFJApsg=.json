@@ -1,17 +1,17 @@
 {
     "pluginStatus": true,
     "isPaid": true,
-    "communityName": "CURP",
+    "communityName": "Come Up RP",
     "betaCommunity": false,
     "features": {
         "inGameInterface": true,
         "rangeSimulation": true,
-        "emergencyHotline": false
+        "emergencyHotline": true
     },
     "talkAroundRange": 1500,
     "betaServerGroups": [""],
     "dispatchServerGroups": [""],
-    "dispatchAdvancedServerGroups": [""],
+    "dispatchAdvancedServerGroups": [],
     "dispatchNameTags": [
         "(P)",
         "(S)",
@@ -19,24 +19,32 @@
         "(FIRE)",
         "(QA)",
         "(EVAL)",
+        "(RTO)",  
+        "(NEO)",
+        "(TA)",
+        "(OPS)",
         "[P]",
         "[S]",
         "[T]",
         "[FIRE]",
         "[QA]",
-        "[EVAL]"
+        "[EVAL]",
+        "[RTO]",
+        "[NEO]",
+        "[TA]",
+        "[OPS]"
     ],
     "civilianServerGroups": [""],
     "civChannels": [0],
-    "radioSystems": [2],
-    "rtoChannels": [3],
+    "radioSystems": [8],
+    "rtoChannels": [9],
     "radioChannels": [
         {
             "id": 1,
             "name": "Citywide",
-            "soundName": "Cn_Citywide",
+            "soundName": "Ch_Citywide",
             "type": "LEO",
-            "coloredName": "[color=blue]Citywide[/color]",
+            "coloredName": "[color=green]Citywide[/color]",
             "talkEnforcement": true,
             "talkAround": false,
             "scannable": true,
@@ -45,10 +53,10 @@
         },
         {
             "id": 2,
-            "name": "North Dispatch",
-            "soundName": "Cn_North Dispatch ",
+            "name": "Tac 1",
+            "soundName": "Ch_Tac1",
             "type": "LEO",
-            "coloredName": "[color=blue]North Dispatch[/color]",
+            "coloredName": "[color=yellow]Tac 1[/color]",
             "talkEnforcement": true,
             "talkAround": false,
             "scannable": true,
@@ -57,10 +65,10 @@
         },
         {
             "id": 3,
-            "name": "South Dispatch",
-            "soundName": "CN_South Dispatch",
+            "name": "Tac 2",
+            "soundName": "Ch_Tac",
             "type": "LEO",
-            "coloredName": "[color=blue]South Dispatch[/color]",
+            "coloredName": "[color=yellow]Tac 2[/color]",
             "talkEnforcement": true,
             "talkAround": false,
             "scannable": true,
@@ -69,10 +77,10 @@
         },
         {
             "id": 4,
-            "name": "Tactical 1",
-            "soundName": "CN_Tac 1",
+            "name": "Northeast Band",
+            "soundName": "Ch_Northeast Band",
             "type": "LEO",
-            "coloredName": "[color=blue]Tac 1[/color]",
+            "coloredName": "[color=blue]Northeast Band[/color]",
             "talkEnforcement": true,
             "talkAround": false,
             "scannable": true,
@@ -81,22 +89,22 @@
         },
         {
             "id": 5,
-            "name": "Tactical 2",
-            "soundName": "CN_Tac 2",
+            "name": "Southwest Band",
+            "soundName": "Ch_Southwest Band",
             "type": "LEO",
-            "coloredName": "[color=blue]Tac 2[/color]",
+            "coloredName": "[color=blue]Southwest Band[/color]",
             "talkEnforcement": true,
-            "talkAround": false,
+            "talkAround": true,
             "scannable": true,
             "encrypted": false,
             "permission": 1
         },
         {
             "id": 6,
-            "name": "Event 1",
-            "soundName": "CN_Event 1",
+            "name": "FireGround",
+            "soundName": "FireGround",
             "type": "LEO",
-            "coloredName": "[color=green]Event 1[/color]",
+            "coloredName": "[color=red]Fire Ground[/color]",
             "talkEnforcement": true,
             "talkAround": false,
             "scannable": false,
@@ -105,10 +113,10 @@
         },
         {
             "id": 7,
-            "name": "Event 2",
-            "soundName": "CN_Event 2",
+            "name": "Special Events 1",
+            "soundName": "Special Events 1",
             "type": "LEO",
-            "coloredName": "[color=green]Event 2[/color]",
+            "coloredName": "[color=green]Special Events 1[/color]",
             "talkEnforcement": true,
             "talkAround": false,
             "scannable": false,
@@ -117,62 +125,74 @@
         },
         {
             "id": 8,
-            "name": "Car/Car",
-            "soundName": "CN_Car/Car",
+            "name": "Special Events 2",
+            "soundName": "Special Events 2",
             "type": "LEO",
-            "coloredName": "[color=grey]Car/Car[/color]",
+            "coloredName": "[color=green]Special Events 2[/color]",
             "talkEnforcement": true,
-            "talkAround": true,
-            "scannable": true,
-            "encrypted": false,
+            "talkAround": false,
+            "scannable": false,
+            "encrypted": true,
             "permission": 1
         },
         {
             "id": 9,
-            "name": "Fire Dispatch",
-            "soundName": "CN_Fire Dispatch",
+            "name": "Training 1",
+            "soundName": "Training 1",
             "type": "LEO",
-            "coloredName": "[color=red]Fire Dispatch[/color]",
+            "coloredName": "[color=purple]Training 1[/color]",
             "talkEnforcement": true,
             "talkAround": false,
-            "scannable": true,
-            "encrypted": false,
+            "scannable": false,
+            "encrypted": true,
             "permission": 1
         },
         {
             "id": 10,
-            "name": "Fire Tac 1",
-            "soundName": "CN_Fire_Tac 1",
+            "name": "Training 2",
+            "soundName": "Training 2",
             "type": "LEO",
-            "coloredName": "[color=red]Fire Tac 1[/color]",
+            "coloredName": "[color=purple]Training 2[/color]",
             "talkEnforcement": true,
             "talkAround": false,
-            "scannable": true,
-            "encrypted": false,
+            "scannable": false,
+            "encrypted": true,
             "permission": 1
         },
         {
             "id": 11,
-            "name": "Fire Tac 2",
-            "soundName": "CN_Fire Tac 2",
+            "name": "Training 3",
+            "soundName": "Training 3",
             "type": "LEO",
-            "coloredName": "[color=orange]Fire Tac 2[/color]",
+            "coloredName": "[color=purple]Training 3[/color]",
             "talkEnforcement": true,
             "talkAround": false,
-            "scannable": true,
-            "encrypted": false,
+            "scannable": false,
+            "encrypted": true,
             "permission": 1
         },
         {
             "id": 12,
-            "name": "Fireground",
-            "soundName": "CN_Fireground",
+            "name": "Airport Operations",
+            "soundName": "Airport Operations",
             "type": "LEO",
-            "coloredName": "[color=red]Fireground[/color]",
+            "coloredName": "[color=purple]Airport Operations[/color]",
             "talkEnforcement": true,
-            "talkAround": true,
-            "scannable": true,
-            "encrypted": false,
+            "talkAround": false,
+            "scannable": false,
+            "encrypted": true,
+            "permission": 1
+        }
+        {
+            "id": 13,
+            "name": "Airport Maintenance",
+            "soundName": "Airport Maintenance",
+            "type": "LEO",
+            "coloredName": "[color=purple]Airport Maintenance[/color]",
+            "talkEnforcement": true,
+            "talkAround": false,
+            "scannable": false,
+            "encrypted": true,
             "permission": 1
         }
     ],
@@ -189,32 +209,25 @@
     },
     "permissions": {
         "permBasic": {
-            "serverGroupList": ["14"],
-            "clientUidList": [""]
+            "serverGroupList": [""]
         },
         "permExtra": {
-            "serverGroupList": [""],
-            "clientUidList": [""]
+            "serverGroupList": [""]
         },
         "permSit": {
-            "serverGroupList": [""],
-            "clientUidList": [""]
+            "serverGroupList": [""]
         },
         "permStaff": {
-            "serverGroupList": ["12"],
-            "clientUidList": [""]
+            "serverGroupList": [""]
         },
         "permSenior": {
-            "serverGroupList": [""],
-            "clientUidList": [""]
+            "serverGroupList": [""]
         },
         "permAdmin": {
-            "serverGroupList": ["11"],
-            "clientUidList": [""]
+            "serverGroupList": [""]
         },
         "permSuper": {
-            "serverGroupList": ["10"],
-            "clientUidList": [""]
+            "serverGroupList": ["30491"]
         }
     }
 }
