@@ -54,7 +54,7 @@
         {
             "id": 2,
             "name": "Tac 1",
-            "soundName": "Ch_Tac1",
+            "soundName": "Ch_Tac_1",
             "type": "LEO",
             "coloredName": "[color=yellow]Tac 1[/color]",
             "talkEnforcement": true,
@@ -66,7 +66,7 @@
         {
             "id": 3,
             "name": "Tac 2",
-            "soundName": "Ch_Tac",
+            "soundName": "Ch_Tac_2",
             "type": "LEO",
             "coloredName": "[color=yellow]Tac 2[/color]",
             "talkEnforcement": true,
@@ -78,7 +78,7 @@
         {
             "id": 4,
             "name": "Northeast Band",
-            "soundName": "Ch_Northeast Band",
+            "soundName": "Ch_North_East_Band",
             "type": "LEO",
             "coloredName": "[color=blue]Northeast Band[/color]",
             "talkEnforcement": true,
@@ -90,7 +90,7 @@
         {
             "id": 5,
             "name": "Southwest Band",
-            "soundName": "Ch_Southwest Band",
+            "soundName": "Ch_South_West_Band",
             "type": "LEO",
             "coloredName": "[color=blue]Southwest Band[/color]",
             "talkEnforcement": true,
@@ -102,7 +102,7 @@
         {
             "id": 6,
             "name": "FireGround",
-            "soundName": "FireGround",
+            "soundName": "Ch_Fire_Ground",
             "type": "LEO",
             "coloredName": "[color=red]Fire Ground[/color]",
             "talkEnforcement": true,
@@ -114,7 +114,7 @@
         {
             "id": 7,
             "name": "Special Events 1",
-            "soundName": "Special Events 1",
+            "soundName": "Ch_Special_Events_1",
             "type": "LEO",
             "coloredName": "[color=green]Special Events 1[/color]",
             "talkEnforcement": true,
@@ -126,7 +126,7 @@
         {
             "id": 8,
             "name": "Special Events 2",
-            "soundName": "Special Events 2",
+            "soundName": "Ch_Special_Events_2",
             "type": "LEO",
             "coloredName": "[color=green]Special Events 2[/color]",
             "talkEnforcement": true,
@@ -138,7 +138,7 @@
         {
             "id": 9,
             "name": "Training 1",
-            "soundName": "Training 1",
+            "soundName": "Ch_Training_1",
             "type": "LEO",
             "coloredName": "[color=purple]Training 1[/color]",
             "talkEnforcement": true,
@@ -150,7 +150,7 @@
         {
             "id": 10,
             "name": "Training 2",
-            "soundName": "Training 2",
+            "soundName": "Ch_Training_2",
             "type": "LEO",
             "coloredName": "[color=purple]Training 2[/color]",
             "talkEnforcement": true,
@@ -162,7 +162,7 @@
         {
             "id": 11,
             "name": "Training 3",
-            "soundName": "Training 3",
+            "soundName": "Ch_Training_3",
             "type": "LEO",
             "coloredName": "[color=purple]Training 3[/color]",
             "talkEnforcement": true,
@@ -174,7 +174,7 @@
         {
             "id": 12,
             "name": "Airport Operations",
-            "soundName": "Airport Operations",
+            "soundName": "Ch_Airport_Operations",
             "type": "LEO",
             "coloredName": "[color=purple]Airport Operations[/color]",
             "talkEnforcement": true,
@@ -186,7 +186,7 @@
         {
             "id": 13,
             "name": "Airport Maintenance",
-            "soundName": "Airport Maintenance",
+            "soundName": "Ch_Airport_Maintenance",
             "type": "LEO",
             "coloredName": "[color=purple]Airport Maintenance[/color]",
             "talkEnforcement": true,
