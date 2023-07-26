@@ -215,19 +215,19 @@
             "serverGroupList": [""]
         },
         "permSit": {
-            "serverGroupList": [""]
+            "serverGroupList": ["0"]
         },
         "permStaff": {
-            "serverGroupList": [""]
+            "serverGroupList": ["0"]
         },
         "permSenior": {
-            "serverGroupList": [""]
+            "serverGroupList": ["0"]
         },
         "permAdmin": {
-            "serverGroupList": [""]
+            "serverGroupList": ["0"]
         },
         "permSuper": {
-            "serverGroupList": [""]
+            "serverGroupList": ["0"]
         }
     }
 }
