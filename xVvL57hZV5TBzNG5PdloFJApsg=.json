@@ -182,7 +182,7 @@
             "scannable": false,
             "encrypted": true,
             "permission": 1
-        }
+        },
         {
             "id": 13,
             "name": "Airport Maintenance",
