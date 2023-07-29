@@ -10,8 +10,8 @@
     },
     "talkAroundRange": 1500,
     "betaServerGroups": [""],
-    "dispatchServerGroups": ["134", "140"],
-    "dispatchAdvancedServerGroups": ["134", "140"],
+    "dispatchServerGroups": ["134","140"],
+    "dispatchAdvancedServerGroups": [""],
     "dispatchNameTags": [
         "(P)",
         "(S)",
@@ -33,10 +33,10 @@
     "radioChannels": [
         {
             "id": 1,
-            "name": "Statewide Dispatch",
+            "name": "SW Dispatch",
             "soundName": "",
             "type": "LEO",
-            "coloredName": "[color=green]Statewide Dispatch/color]",
+            "coloredName": "[color=green]SW Dispatch/color]",
             "talkEnforcement": true,
             "talkAround": false,
             "scannable": true,
@@ -45,46 +45,10 @@
         },
         {
             "id": 2,
-            "name": "State Police Dispatch",
+            "name": "Fire Ops",
             "soundName": "",
             "type": "LEO",
-            "coloredName": "[color=blue]State Police Dispatch[/color]",
-            "talkEnforcement": true,
-            "talkAround": false,
-            "scannable": true,
-            "encrypted": false,
-            "permission": 1
-        },
-        {
-            "id": 3,
-            "name": "BCSO Dispatch",
-            "soundName": "",
-            "type": "LEO",
-            "coloredName": "[color=blue]BCSO Dispatch[/color]",
-            "talkEnforcement": true,
-            "talkAround": false,
-            "scannable": true,
-            "encrypted": true,
-            "permission": 1
-        },
-        {
-            "id": 4,
-            "name": "LSPD Dispatch",
-            "soundName": "",
-            "type": "LEO",
-            "coloredName": "[color=blue]LSPD Dispatch[/color]",
-            "talkEnforcement": true,
-            "talkAround": false,
-            "scannable": true,
-            "encrypted": true,
-            "permission": 1
-        },
-        {
-            "id": 5,
-            "name": "SAFR District 1",
-            "soundName": "",
-            "type": "LEO",
-            "coloredName": "[color=red]SAFR District 1[/color]",
+            "coloredName": "[color=orange]Fire Ops[/color]",
             "talkEnforcement": true,
             "talkAround": true,
             "scannable": true,
@@ -92,31 +56,7 @@
             "permission": 1
         },
         {
-            "id": 6,
-            "name": "SAFR District 2",
-            "soundName": "",
-            "type": "LEO",
-            "coloredName": "[color=red]SAFR District 2[/color]",
-            "talkEnforcement": true,
-            "talkAround": false,
-            "scannable": false,
-            "encrypted": true,
-            "permission": 1
-        },
-        {
-            "id": 7,
-            "name": "SAFR Fireground",
-            "soundName": "",
-            "type": "announce",
-            "coloredName": "[color=red]SAFR Fireground[/color]",
-            "talkEnforcement": true,
-            "talkAround": false,
-            "scannable": false,
-            "encrypted": true,
-            "permission": 1
-        },
-        {
-            "id": 8,
+            "id": 3,
             "name": "Tac 1",
             "soundName": "",
             "type": "announce",
@@ -128,23 +68,11 @@
             "permission": 1
         },
         {
-            "id": 9,
-            "name": "Tac 2",
-            "soundName": "",
-            "type": "announce",
-            "coloredName": "[color=green]Tac 2[/color]",
-            "talkEnforcement": true,
-            "talkAround": false,
-            "scannable": false,
-            "encrypted": true,
-            "permission": 1
-        },
-        {
-            "id": 10,
+            "id": 4,
             "name": "Private",
             "soundName": "",
             "type": "announce",
-            "coloredName": "[color=green]Private[/color]",
+            "coloredName": "[color=blue]Private[/color]",
             "talkEnforcement": true,
             "talkAround": false,
             "scannable": false,
@@ -165,7 +93,7 @@
     },
     "permissions": {
         "permBasic": {
-            "serverGroupList": ["134"]
+            "serverGroupList": ["149"]
         },
         "permExtra": {
             "serverGroupList": [""]
@@ -174,16 +102,16 @@
             "serverGroupList": ["22"]
         },
         "permStaff": {
-            "serverGroupList": ["80"]
+            "serverGroupList": ["21"]
         },
         "permSenior": {
-            "serverGroupList": ["19", "20", "21"]
+            "serverGroupList": ["20"]
         },
         "permAdmin": {
-            "serverGroupList": ["17", "18"]
+            "serverGroupList": ["19","18"]
         },
         "permSuper": {
-            "serverGroupList": ["254"]
+            "serverGroupList": ["17","234"]
         }
     }
 }
