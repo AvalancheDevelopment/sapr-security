@@ -80,7 +80,7 @@
             "permission": 1
         },
         {
-            "id": 1,
+            "id": 5,
             "name": "LEO",
             "soundName": "",
             "type": "LEO",
@@ -92,7 +92,7 @@
             "permission": 1
         },
         {
-            "id": 1,
+            "id": 6,
             "name": "DOT",
             "soundName": "",
             "type": "LEO",
@@ -104,7 +104,7 @@
             "permission": 1
         },
         {
-            "id": 5,
+            "id": 7,
             "name": "10-1 Channel 1A",
             "soundName": "",
             "type": "LEO",
@@ -116,7 +116,7 @@
             "permission": 1
         },
         {
-            "id": 5,
+            "id": 8,
             "name": "10-1 Channel 1B",
             "soundName": "",
             "type": "LEO",
