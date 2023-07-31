@@ -36,7 +36,7 @@
             "name": "SW Dispatch",
             "soundName": "",
             "type": "LEO",
-            "coloredName": "[color=green]SW Dispatch/color]",
+            "coloredName": "[color=green]SW Dispatch[/color]",
             "talkEnforcement": true,
             "talkAround": false,
             "scannable": true,
