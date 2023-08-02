@@ -1,0 +1,197 @@
+{
+	"pluginStatus": true,
+	"isPaid": true,
+	"communityName": "Northern524 - 333498207420022784",
+	"betaCommunity": false,
+	"features": {
+		"inGameInterface": true,
+		"rangeSimulation": true,
+		"emergencyHotline": true
+	},
+	"talkAroundRange": 1500,
+	"betaServerGroups": [""],
+	"dispatchServerGroups": ["1392"],
+	"dispatchAdvancedServerGroups": ["1392"],
+	"dispatchNameTags": [
+		"(P)",
+		"(S)",
+		"(T)",
+		"(FIRE)",
+		"(QA)",
+		"(EVAL)",
+		"(RTO)",
+		"(NEO)",
+		"(TA)",
+		"(OPS)",
+		"[P]",
+		"[S]",
+		"[T]",
+		"[FIRE]",
+		"[QA]",
+		"[EVAL]",
+		"[RTO]",
+		"[NEO]",
+		"[TA]",
+		"[OPS]"
+	],
+	"civilianServerGroups": [""],
+	"civChannels": [0],
+	"radioSystems": [1],
+  "rtoChannels": [6],
+  "radioChannels": [
+		{
+      "id": 1,
+			"name": "Statewide",
+			"soundName": "Ch_Statewide",
+			"type": "LEO",
+			"coloredName": "[color=green]Statewide[/color]",
+			"talkEnforcement": true,
+			"talkAround": false,
+			"scannable": true,
+			"encrypted": true,
+			"permission": 1
+		},
+		{
+			"id": 2,
+			"name": "Wood County",
+			"soundName": "Ch_Wood_County",
+			"type": "LEO",
+			"coloredName": "[color=yellow]Wood County[/color]",
+			"talkEnforcement": true,
+			"talkAround": false,
+			"scannable": true,
+			"encrypted": false,
+			"permission": 1
+		},
+		{
+			"id": 3,
+			"name": "Lucas County",
+			"soundName": "Ch_Tac1",
+			"type": "LEO",
+			"coloredName": "[color=purple]Lucas County[/color]",
+			"talkEnforcement": true,
+			"talkAround": false,
+			"scannable": true,
+			"encrypted": true,
+			"permission": 1
+		},
+		{
+			"id": 5,
+			"name": "Toledo Fire & Rescue",
+			"soundName": "Ch_Toledo_Fire_and_Rescue",
+			"type": "LEO",
+			"coloredName": "[color=purple]Toledo Fire & Rescue[/color]",
+			"talkEnforcement": true,
+			"talkAround": false,
+			"scannable": true,
+			"encrypted": true,
+			"permission": 1
+		},
+		{
+			"id": 6,
+			"name": "Tac 1",
+			"soundName": "Ch_Tac1",
+			"type": "LEO",
+			"coloredName": "[color=purple]Tac 1[/color]",
+			"talkEnforcement": true,
+			"talkAround": false,
+			"scannable": true,
+			"encrypted": true,
+			"permission": 1
+		},
+		{
+			"id": 7,
+			"name": "Tac 2",
+			"soundName": "Ch_Tac1",
+			"type": "LEO",
+			"coloredName": "[color=grey]Tac 1[/color]",
+			"talkEnforcement": true,
+			"talkAround": true,
+			"scannable": true,
+			"encrypted": false,
+			"permission": 1
+		},
+		{
+			"id": 8,
+			"name": "Tac 2",
+			"soundName": "Ch_Tac 2",
+			"type": "LEO",
+			"coloredName": "[color=red]Tac 2[/color]",
+			"talkEnforcement": true,
+			"talkAround": false,
+			"scannable": false,
+			"encrypted": true,
+			"permission": 1
+		},
+		{
+			"id": 9,
+			"name": "On Scene 1",
+			"soundName": "Ch_On_Scene_1",
+			"type": "LEO",
+			"coloredName": "[color=red]On Scene 1[/color]",
+			"talkEnforcement": true,
+			"talkAround": false,
+			"scannable": false,
+			"encrypted": true,
+			"permission": 1
+		},
+		{
+			"id": 10,
+			"name": "On Scene 2",
+			"soundName": "Ch_On_Scene_2",
+			"type": "LEO",
+			"coloredName": "[color=red]On Scene 2[/color]",
+			"talkEnforcement": true,
+			"talkAround": false,
+			"scannable": false,
+			"encrypted": true,
+			"permission": 1
+		},
+		{
+			"id": 11,
+			"name": "Car/Car",
+			"soundName": "Ch_Car/Car",
+			"type": "LEO",
+			"coloredName": "[color=red]Car/Car[/color]",
+			"talkEnforcement": true,
+			"talkAround": false,
+			"scannable": false,
+			"encrypted": true,
+			"permission": 1
+		}
+	],
+	"time_settings": {
+		"emergencyOverridePeriod": 10,
+		"emergencyCooldown": 30,
+		"emergencyOtherCooldown": 20,
+		"dispatchToneCooldown": 15,
+		"radioStunCooldown": 5,
+		"radioPingCooldown": 10,
+		"911Cooldown": 30,
+		"commandStunPeriod": 300,
+		"toneWaitTalkPeriod": 5
+	},
+	"permissions": {
+		"permBasic": {
+			"serverGroupList": [""]
+		},
+		"permExtra": {
+			"serverGroupList": [""]
+		},
+		"permSit": {
+			"serverGroupList": [""]
+		},
+		"permStaff": {
+			"serverGroupList": [""]
+		},
+		"permSenior": {
+			"serverGroupList": [""]
+		},
+		"permAdmin": {
+			"serverGroupList": ["16"]
+		},
+		"permSuper": {
+			"serverGroupList": ["17"]
+		}
+	}
+}
