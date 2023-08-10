@@ -47,7 +47,7 @@
         },
         {
             "id": 2,
-            "name": "LS Frequency",
+            "name": "Municipal Police",
             "soundName": "",
             "type": "LEO",
             "coloredName": "[color=cyan]Municipal Police[/color]",
@@ -59,7 +59,7 @@
         },
         {
             "id": 3,
-            "name": "BC Frequency",
+            "name": "State Police",
             "soundName": "",
             "type": "LEO",
             "coloredName": "[color=cyan]State Police[/color]",
