@@ -72,7 +72,7 @@
             "name": "Tac 2",
             "soundName": "",
             "type": "announce",
-            "coloredName": "[color=green]Tac 1[/color]",
+            "coloredName": "[color=green]Tac 2[/color]",
             "talkEnforcement": true,
             "talkAround": false,
             "scannable": false,
