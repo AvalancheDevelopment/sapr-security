@@ -10,7 +10,7 @@
     },
     "talkAroundRange": 1500,
     "betaServerGroups": [""],
-    "dispatchServerGroups": ["134","140"],
+    "dispatchServerGroups": ["252","261"],
     "dispatchAdvancedServerGroups": [""],
     "dispatchNameTags": [
         "(P)",
@@ -28,8 +28,8 @@
     ],
     "civilianServerGroups": [""],
     "civChannels": [0],
-    "radioSystems": [53, 65],
-    "rtoChannels": [59, 71],
+    "radioSystems": [69, 604, 98],
+    "rtoChannels": [75, 610, 103],
     "radioChannels": [
         {
             "id": 1,
@@ -69,6 +69,18 @@
         },
         {
             "id": 4,
+            "name": "Tac 2",
+            "soundName": "",
+            "type": "announce",
+            "coloredName": "[color=green]Tac 1[/color]",
+            "talkEnforcement": true,
+            "talkAround": false,
+            "scannable": false,
+            "encrypted": true,
+            "permission": 1
+        },
+        {
+            "id": 5,
             "name": "Private",
             "soundName": "",
             "type": "announce",
@@ -93,25 +105,25 @@
     },
     "permissions": {
         "permBasic": {
-            "serverGroupList": ["149"]
+            "serverGroupList": ["277"]
         },
         "permExtra": {
             "serverGroupList": [""]
         },
         "permSit": {
-            "serverGroupList": ["22"]
+            "serverGroupList": ["278"]
         },
         "permStaff": {
-            "serverGroupList": ["21"]
+            "serverGroupList": ["279"]
         },
         "permSenior": {
-            "serverGroupList": ["20"]
+            "serverGroupList": ["280"]
         },
         "permAdmin": {
-            "serverGroupList": ["19","18"]
+            "serverGroupList": ["281","282"]
         },
         "permSuper": {
-            "serverGroupList": ["17","234"]
+            "serverGroupList": ["283","284"]
         }
     }
 }
