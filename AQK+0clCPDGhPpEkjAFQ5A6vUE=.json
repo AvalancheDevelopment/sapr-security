@@ -81,6 +81,30 @@
         },
         {
             "id": 5,
+            "name": "Tac 3",
+            "soundName": "Tac3",
+            "type": "LEO",
+            "coloredName": "[color=grey]Tac 3[/color]",
+            "talkEnforcement": true,
+            "talkAround": false,
+            "scannable": true,
+            "encrypted": true,
+            "permission": 1
+        },
+        {
+            "id": 6,
+            "name": "Tac 4",
+            "soundName": "Tac4",
+            "type": "LEO",
+            "coloredName": "[color=grey]Tac 4[/color]",
+            "talkEnforcement": true,
+            "talkAround": false,
+            "scannable": true,
+            "encrypted": true,
+            "permission": 1
+        },
+        {
+            "id": 7,
             "name": "Fire Ops",
             "soundName": "Fire Ops",
             "type": "LEO",
@@ -92,7 +116,7 @@
             "permission": 1
         },
         {
-            "id": 6,
+            "id": 8,
             "name": "Fire Ops 2",
             "soundName": "Fire 2",
             "type": "LEO",
@@ -104,7 +128,7 @@
             "permission": 1
         },
         {
-            "id": 7,
+            "id": 9,
             "name": "SA DOT",
             "soundName": "SA DOT",
             "type": "LEO",
@@ -116,7 +140,7 @@
             "permission": 1
         },
         {
-            "id": 8,
+            "id": 10,
             "name": "SA DOT2",
             "soundName": "SA DOT 2",
             "type": "LEO",
