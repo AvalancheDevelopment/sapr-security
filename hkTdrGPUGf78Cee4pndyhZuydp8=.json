@@ -120,7 +120,7 @@
             "serverGroupList": ["276"]
         },
         "permAdmin": {
-            "serverGroupList": ["277","288"]
+            "serverGroupList": ["277","278"]
         },
         "permSuper": {
             "serverGroupList": ["279","280"]
