@@ -1,6 +1,6 @@
 {
     "pluginStatus": true,
-    "isPaid": true,
+    "isPaid": false,
     "communityName": "San Andreas Project",
     "betaCommunity": false,
     "features": {
@@ -28,7 +28,7 @@
     ],
     "civilianServerGroups": [""],
     "civChannels": [0],
-    "radioSystems": [429, 454, 485],
+    "radioSystems": [430, 455, 485],
     "rtoChannels": [436, 458, 486],
     "radioChannels": [
         {
