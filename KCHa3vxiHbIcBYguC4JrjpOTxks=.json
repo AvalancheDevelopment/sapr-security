@@ -12,9 +12,7 @@
     "betaServerGroups": [
         ""
     ],
-    "dispatchServerGroups": [
-        "32, 33, 34, 35"
-    ],
+    "dispatchServerGroups": [32, 33, 34, 35],
     "dispatchAdvancedServerGroups": [32, 33, 34, 35],
     "dispatchNameTags": [
         "(P)",
