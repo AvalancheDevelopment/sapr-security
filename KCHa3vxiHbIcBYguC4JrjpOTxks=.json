@@ -13,9 +13,9 @@
         ""
     ],
     "dispatchServerGroups": [
-        ""
+        "32, 33, 34, 35"
     ],
-    "dispatchAdvancedServerGroups": [],
+    "dispatchAdvancedServerGroups": [32, 33, 34, 35],
     "dispatchNameTags": [
         "(P)",
         "(S)",
