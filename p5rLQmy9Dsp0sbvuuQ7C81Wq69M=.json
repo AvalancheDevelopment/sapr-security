@@ -1,0 +1,256 @@
+{
+    "pluginStatus": false,
+    "isPaid": false,
+    "communityName": "Official Statewide",
+    "betaCommunity": false,
+    "features": {
+        "inGameInterface": true,
+        "rangeSimulation": true,
+        "emergencyHotline": true
+    },
+    "talkAroundRange": 1500,
+    "betaServerGroups": [""],
+    "dispatchServerGroups": ["30"],
+    "dispatchAdvancedServerGroups": ["58"],
+    "dispatchNameTags": [
+        "(P)",
+        "(S)",
+        "(T)",
+        "(FIRE)",
+        "(QA)",
+        "(EVAL)",
+        "[P]",
+        "[S]",
+        "[T]",
+        "[FIRE]",
+        "[QA]",
+        "[EVAL]"
+    ],
+    "civilianServerGroups": [""],
+    "civChannels": [0],
+    "radioSystems": [26],
+    "rtoChannels": [29],
+    "radioChannels": [
+        {
+            "id": 1,
+            "name": "Statewide Dispatch",
+            "soundName": "",
+            "type": "LEO",
+            "coloredName": "[color=green]S/W DISPATCH[/color]",
+            "talkEnforcement": true,
+            "talkAround": false,
+            "scannable": true,
+            "encrypted": false,
+            "permission": 1
+        },
+        {
+            "id": 2,
+            "name": "Statewide Law Main",
+            "soundName": "",
+            "type": "LEO",
+            "coloredName": "[color=green]S/W LAW MAIN[/color]",
+            "talkEnforcement": true,
+            "talkAround": false,
+            "scannable": true,
+            "encrypted": false,
+            "permission": 1
+        },
+        {
+            "id": 3,
+            "name": "Statewide EMS Main",
+            "soundName": "",
+            "type": "EMS",
+            "coloredName": "[color=purple]S/W EMS MAIN[/color]",
+            "talkEnforcement": true,
+            "talkAround": false,
+            "scannable": true,
+            "encrypted": false,
+            "permission": 1
+        },
+        {
+            "id": 4,
+            "name": "Statewide Fire Main",
+            "soundName": "",
+            "type": "Fire",
+            "coloredName": "[color=red]S/W FIRE MAIN[/color]",
+            "talkEnforcement": true,
+            "talkAround": false,
+            "scannable": true,
+            "encrypted": false,
+            "permission": 1
+        },
+        {
+            "id": 5,
+            "name": "Statewide Event",
+            "soundName": "",
+            "type": "LEO",
+            "coloredName": "[color=green]S/W EVENT[/color]",
+            "talkEnforcement": true,
+            "talkAround": false,
+            "scannable": true,
+            "encrypted": false,
+            "permission": 1
+        },
+        {
+            "id": 6,
+            "name": "Statewide Tac 1",
+            "soundName": "",
+            "type": "LEO",
+            "coloredName": "[color=grey]S/W TAC 1[/color]",
+            "talkEnforcement": false,
+            "talkAround": true,
+            "scannable": true,
+            "encrypted": false,
+            "permission": 1
+        },
+        {
+            "id": 7,
+            "name": "Statewide Tac 2",
+            "soundName": "",
+            "type": "LEO",
+            "coloredName": "[color=grey]S/W TAC 2[/color]",
+            "talkEnforcement": false,
+            "talkAround": true,
+            "scannable": true,
+            "encrypted": false,
+            "permission": 1
+        },
+        {
+            "id": 8,
+            "name": "Statewide Car 2 Car",
+            "soundName": "",
+            "type": "LEO",
+            "coloredName": "[color=green]S/W C2C[/color]",
+            "talkEnforcement": false,
+            "talkAround": true,
+            "scannable": true,
+            "encrypted": false,
+            "permission": 1
+        },
+        {
+            "id": 9,
+            "name": "Statewide Jail",
+            "soundName": "",
+            "type": "LEO",
+            "coloredName": "[color=blue]S/W JAIL[/color]",
+            "talkEnforcement": true,
+            "talkAround": false,
+            "scannable": true,
+            "encrypted": false,
+            "permission": 1
+        },
+        {
+            "id": 10,
+            "name": "Statewide Court",
+            "soundName": "",
+            "type": "LEO",
+            "coloredName": "[color=blue]S/W COURT[/color]",
+            "talkEnforcement": true,
+            "talkAround": false,
+            "scannable": true,
+            "encrypted": false,
+            "permission": 1
+        },
+        {
+            "id": 11,
+            "name": "Statewide Training",
+            "soundName": "",
+            "type": "LEO",
+            "coloredName": "[color=blue]S/W Training[/color]",
+            "talkEnforcement": true,
+            "talkAround": false,
+            "scannable": true,
+            "encrypted": false,
+            "permission": 1
+        },
+        {
+            "id": 12,
+            "name": "Statewide F/E Admin",
+            "soundName": "",
+            "type": "LEO",
+            "coloredName": "[color=blue]S/W F/E ADM[/color]",
+            "talkEnforcement": true,
+            "talkAround": false,
+            "scannable": true,
+            "encrypted": false,
+            "permission": 1
+        },
+        {
+            "id": 13,
+            "name": "Statewide Admin",
+            "soundName": "",
+            "type": "LEO",
+            "coloredName": "[color=blue]S/W ADM[/color]",
+            "talkEnforcement": true,
+            "talkAround": false,
+            "scannable": true,
+            "encrypted": false,
+            "permission": 1
+        },
+        {
+            "id": 14,
+            "name": "Statewide Investigations",
+            "soundName": "",
+            "type": "LEO",
+            "coloredName": "[color=blue]S/W INV[/color]",
+            "talkEnforcement": true,
+            "talkAround": false,
+            "scannable": true,
+            "encrypted": false,
+            "permission": 1
+        },
+        {
+            "id": 15,
+            "name": "Statewide DOT",
+            "soundName": "",
+            "type": "DOT",
+            "coloredName": "[color=yellow]S/W DOT MAIN[/color]",
+            "talkEnforcement": true,
+            "talkAround": false,
+            "scannable": true,
+            "encrypted": false,
+            "permission": 1
+        }
+    ],
+    "time_settings": {
+        "emergencyOverridePeriod": 10,
+        "emergencyCooldown": 30,
+        "emergencyOtherCooldown": 20,
+        "dispatchToneCooldown": 15,
+        "radioStunCooldown": 5,
+        "radioPingCooldown": 10,
+        "911Cooldown": 30,
+        "commandStunPeriod": 300,
+        "toneWaitTalkPeriod": 5
+    },
+    "permissions": {
+        "permBasic": {
+            "serverGroupList": ["58"],
+            "clientUidList": [""]
+        },
+        "permExtra": {
+            "serverGroupList": [""],
+            "clientUidList": [""]
+        },
+        "permSit": {
+            "serverGroupList": [""],
+            "clientUidList": [""]
+        },
+        "permStaff": {
+            "serverGroupList": [""],
+            "clientUidList": [""]
+        },
+        "permSenior": {
+            "serverGroupList": [""],
+            "clientUidList": [""]
+        },
+        "permAdmin": {
+            "serverGroupList": [""],
+            "clientUidList": [""]
+        },
+        "permSuper": {
+            "serverGroupList": [""],
+            "clientUidList": [""]
+        }
+    }
+}
