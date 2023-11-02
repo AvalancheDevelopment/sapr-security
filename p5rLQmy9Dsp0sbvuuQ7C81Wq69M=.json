@@ -33,7 +33,7 @@
     "radioChannels": [
         {
             "id": 1,
-            "name": "Statewide Dispatch",
+            "name": "SW DISPATCH",
             "soundName": "",
             "type": "LEO",
             "coloredName": "[color=green]SW DISPATCH[/color]",
@@ -45,7 +45,7 @@
         },
         {
             "id": 2,
-            "name": "Statewide Law Main",
+            "name": "SW LAW MAIN",
             "soundName": "",
             "type": "LEO",
             "coloredName": "[color=green]SW LAW MAIN[/color]",
@@ -57,7 +57,7 @@
         },
         {
             "id": 3,
-            "name": "Statewide EMS Main",
+            "name": "SW EMS MAIN",
             "soundName": "",
             "type": "EMS",
             "coloredName": "[color=purple]S/W EMS MAIN[/color]",
@@ -69,7 +69,7 @@
         },
         {
             "id": 4,
-            "name": "Statewide Fire Main",
+            "name": "SW FIRE MAIN",
             "soundName": "",
             "type": "Fire",
             "coloredName": "[color=red]S/W FIRE MAIN[/color]",
@@ -81,7 +81,7 @@
         },
         {
             "id": 5,
-            "name": "Statewide Event",
+            "name": "SW EVENT",
             "soundName": "",
             "type": "LEO",
             "coloredName": "[color=green]SW EVENT[/color]",
@@ -93,7 +93,7 @@
         },
         {
             "id": 6,
-            "name": "Statewide Tac 1",
+            "name": "SW TAC 1",
             "soundName": "",
             "type": "LEO",
             "coloredName": "[color=grey]SW TAC 1[/color]",
@@ -105,7 +105,7 @@
         },
         {
             "id": 7,
-            "name": "Statewide Tac 2",
+            "name": "SW TAC @",
             "soundName": "",
             "type": "LEO",
             "coloredName": "[color=grey]SW TAC 2[/color]",
@@ -117,7 +117,7 @@
         },
         {
             "id": 8,
-            "name": "Statewide Car 2 Car",
+            "name": "SW C2C",
             "soundName": "",
             "type": "LEO",
             "coloredName": "[color=green]SW C2C[/color]",
@@ -129,7 +129,7 @@
         },
         {
             "id": 9,
-            "name": "Statewide Jail",
+            "name": "SW JAIL",
             "soundName": "",
             "type": "LEO",
             "coloredName": "[color=blue]SW JAIL[/color]",
@@ -141,7 +141,7 @@
         },
         {
             "id": 10,
-            "name": "Statewide Court",
+            "name": "SW COURT",
             "soundName": "",
             "type": "LEO",
             "coloredName": "[color=blue]SW COURT[/color]",
@@ -153,7 +153,7 @@
         },
         {
             "id": 11,
-            "name": "Statewide Training",
+            "name": "SW TRAINING",
             "soundName": "",
             "type": "LEO",
             "coloredName": "[color=blue]SW Training[/color]",
@@ -165,7 +165,7 @@
         },
         {
             "id": 12,
-            "name": "Statewide F/E Admin",
+            "name": "SW F/E ADM",
             "soundName": "",
             "type": "LEO",
             "coloredName": "[color=blue]SW F/E ADM[/color]",
@@ -177,7 +177,7 @@
         },
         {
             "id": 13,
-            "name": "Statewide Admin",
+            "name": "SW ADM",
             "soundName": "",
             "type": "LEO",
             "coloredName": "[color=blue]SW ADM[/color]",
@@ -189,7 +189,7 @@
         },
         {
             "id": 14,
-            "name": "Statewide Investigations",
+            "name": "SW INV",
             "soundName": "",
             "type": "LEO",
             "coloredName": "[color=blue]SW INV[/color]",
@@ -201,7 +201,7 @@
         },
         {
             "id": 15,
-            "name": "Statewide DOT",
+            "name": "SW DOT",
             "soundName": "",
             "type": "DOT",
             "coloredName": "[color=yellow]SW DOT MAIN[/color]",
