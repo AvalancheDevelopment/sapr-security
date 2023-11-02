@@ -1,0 +1,192 @@
+{
+    "pluginStatus": true,
+    "isPaid": true,
+    "communityName": "Xaiver - 196085140928200704",
+    "betaCommunity": false,
+    "features": {
+        "inGameInterface": true,
+        "rangeSimulation": true,
+        "emergencyHotline": false
+    },
+    "talkAroundRange": 1500,
+    "betaServerGroups": [
+        ""
+    ],
+    "dispatchServerGroups": [
+        ""
+    ],
+    "dispatchAdvancedServerGroups": [],
+    "dispatchNameTags": [
+        "(P)",
+        "(S)",
+        "(T)",
+        "(FIRE)",
+        "(QA)",
+        "(EVAL)",
+        "[P]",
+        "[S]",
+        "[T]",
+        "[FIRE]",
+        "[QA]",
+        "[EVAL]"
+    ],
+    "civilianServerGroups": [
+        ""
+    ],
+    "civChannels": [
+        0
+    ],
+    "radioSystems": [
+        137
+    ],
+    "rtoChannels": [
+        25
+    ],
+    "radioChannels": [
+        {
+            "id": 1,
+            "name": "Citywide",
+            "soundName": "Channel 1 Citywide",
+            "type": "LEO",
+            "coloredName": "[color=blue]Citywide[/color]",
+            "talkEnforcement": true,
+            "talkAround": false,
+            "scannable": true,
+            "encrypted": true,
+            "permission": 1
+        },
+        {
+            "id": 2,
+            "name": "Tac 1",
+            "soundName": "Channel 2 Tac 1",
+            "type": "LEO",
+            "coloredName": "[color=green]Tac 1[/color]",
+            "talkEnforcement": true,
+            "talkAround": false,
+            "scannable": true,
+            "encrypted": true,
+            "permission": 1
+        },
+        {
+            "id": 3,
+            "name": "Countywide",
+            "soundName": "Channel 3 Countywide",
+            "type": "LEO",
+            "coloredName": "[color=blue]Countywide[/color]",
+            "talkEnforcement": true,
+            "talkAround": false,
+            "scannable": true,
+            "encrypted": true,
+            "permission": 1
+        },
+        {
+            "id": 4,
+            "name": "Tac 2",
+            "soundName": "Channel 4 Tac 2",
+            "type": "LEO",
+            "coloredName": "[color=green]Tac 2[/color]",
+            "talkEnforcement": true,
+            "talkAround": false,
+            "scannable": true,
+            "encrypted": true,
+            "permission": 1
+        },
+        {
+            "id": 5,
+            "name": "Car/Car",
+            "soundName": "Channel 5 Car to Car",
+            "type": "LEO",
+            "coloredName": "[color=grey]Car/Car[/color]",
+            "talkEnforcement": true,
+            "talkAround": true,
+            "scannable": false,
+            "encrypted": true,
+            "permission": 1
+        },
+        {
+            "id": 6,
+            "name": "Private 1",
+            "soundName": "",
+            "type": "LEO",
+            "coloredName": "[color=red]Private 1[/color]",
+            "talkEnforcement": true,
+            "talkAround": false,
+            "scannable": false,
+            "encrypted": true,
+            "permission": 1
+        },
+        {
+            "id": 7,
+            "name": "Fire Ops 1",
+            "soundName": "Channel 7 Fire Ops 1",
+            "type": "announce",
+            "coloredName": "[color=red]Fire Ops 1[/color]",
+            "talkEnforcement": true,
+            "talkAround": false,
+            "scannable": true,
+            "encrypted": true,
+            "permission": 1
+        },
+        {
+            "id": 8,
+            "name": "Fire Ops 2",
+            "soundName": "Channel 7 Fire Ops 2",
+            "type": "announce",
+            "coloredName": "[color=red]Fire Ops 2[/color]",
+            "talkEnforcement": true,
+            "talkAround": false,
+            "scannable": true,
+            "encrypted": true,
+            "permission": 1
+        }
+    ],
+    "time_settings": {
+        "emergencyOverridePeriod": 10,
+        "emergencyCooldown": 30,
+        "emergencyOtherCooldown": 20,
+        "dispatchToneCooldown": 15,
+        "radioStunCooldown": 5,
+        "radioPingCooldown": 10,
+        "911Cooldown": 30,
+        "commandStunPeriod": 300,
+        "toneWaitTalkPeriod": 5
+    },
+    "permissions": {
+        "permBasic": {
+            "serverGroupList": [
+                ""
+            ]
+        },
+        "permExtra": {
+            "serverGroupList": [
+                ""
+            ]
+        },
+        "permSit": {
+            "serverGroupList": [
+                "10"
+            ]
+        },
+        "permStaff": {
+            "serverGroupList": [
+                "46"
+            ]
+        },
+        "permSenior": {
+            "serverGroupList": [
+                "13"
+            ]
+        },
+        "permAdmin": {
+            "serverGroupList": [
+                "6"
+            ]
+        },
+        "permSuper": {
+            "serverGroupList": [
+                "41",
+                "45"
+            ]
+        }
+    }
+}
