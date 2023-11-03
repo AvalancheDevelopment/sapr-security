@@ -1,7 +1,7 @@
 {
     "pluginStatus": true,
     "isPaid": true,
-    "communityName": "Xaiver - 196085140928200704",
+    "communityName": "Signal 12 Roleplay",
     "betaCommunity": false,
     "features": {
         "inGameInterface": true,
@@ -43,7 +43,7 @@
     "radioChannels": [
         {
             "id": 1,
-            "name": "Channel 1, Citywide",
+            "name": "Channel 1 Citywide",
             "soundName": "Channel 1 Citywide",
             "type": "LEO",
             "coloredName": "[color=blue]Citywide[/color]",
@@ -55,7 +55,7 @@
         },
         {
             "id": 2,
-            "name": "Tac 1",
+            "name": "Channel 2 Tac 1",
             "soundName": "Channel 2 Tac 1",
             "type": "LEO",
             "coloredName": "[color=green]Tac 1[/color]",
@@ -67,7 +67,7 @@
         },
         {
             "id": 3,
-            "name": "Countywide",
+            "name": "Channel 3 Countywide",
             "soundName": "Channel 3 Countywide",
             "type": "LEO",
             "coloredName": "[color=blue]Countywide[/color]",
@@ -79,7 +79,7 @@
         },
         {
             "id": 4,
-            "name": "Tac 2",
+            "name": "Channel 4 Tac 2",
             "soundName": "Channel 4 Tac 2",
             "type": "LEO",
             "coloredName": "[color=green]Tac 2[/color]",
@@ -91,7 +91,7 @@
         },
         {
             "id": 5,
-            "name": "Car/Car",
+            "name": "Channel 5 Car/Car",
             "soundName": "Channel 5 Car to Car",
             "type": "LEO",
             "coloredName": "[color=grey]Car/Car[/color]",
@@ -103,8 +103,8 @@
         },
         {
             "id": 6,
-            "name": "Private 1",
-            "soundName": "",
+            "name": "Channel 6 Private 1",
+            "soundName": "Channel 6 Private 1",
             "type": "LEO",
             "coloredName": "[color=red]Private 1[/color]",
             "talkEnforcement": true,
@@ -115,7 +115,7 @@
         },
         {
             "id": 7,
-            "name": "Fire Ops 1",
+            "name": "Channel 7 Fire Ops 1",
             "soundName": "Channel 7 Fire Ops 1",
             "type": "announce",
             "coloredName": "[color=red]Fire Ops 1[/color]",
@@ -127,8 +127,8 @@
         },
         {
             "id": 8,
-            "name": "Fire Ops 2",
-            "soundName": "Channel 7 Fire Ops 2",
+            "name": "Channel 8 Fire Ops 2",
+            "soundName": "Channel 8 Fire Ops 2",
             "type": "announce",
             "coloredName": "[color=red]Fire Ops 2[/color]",
             "talkEnforcement": true,
