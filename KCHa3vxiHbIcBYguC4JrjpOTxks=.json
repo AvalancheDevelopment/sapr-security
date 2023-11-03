@@ -43,7 +43,7 @@
     "radioChannels": [
         {
             "id": 1,
-            "name": "Channel 1 Citywide",
+            "name": "Channel 1, Citywide",
             "soundName": "Channel 1 Citywide",
             "type": "LEO",
             "coloredName": "[color=blue]Citywide[/color]",
