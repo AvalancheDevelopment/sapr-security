@@ -135,19 +135,19 @@
             "serverGroupList": [""]
         },
         "permSit": {
-            "serverGroupList": ["118"]
+            "serverGroupList": ["247"]
         },
         "permStaff": {
-            "serverGroupList": ["119"]
+            "serverGroupList": ["248"]
         },
         "permSenior": {
-            "serverGroupList": ["120"]
+            "serverGroupList": ["249"]
         },
         "permAdmin": {
-            "serverGroupList": ["122", "121"]
+            "serverGroupList": ["251", "250"]
         },
         "permSuper": {
-            "serverGroupList": ["123"]
+            "serverGroupList": ["252"]
         }
     }
 }
