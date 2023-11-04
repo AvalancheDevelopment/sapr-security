@@ -6,7 +6,7 @@ The main host repo for SAPR files and remote settings
 
 The things you need before installing the software.
 
--   Must be an SAPR customer (Visit https://discord.gg/eNDAfBxHCg)
+-   Must be an SAPR customer (Visit https://discord.gg/RCRwvtVtNQ)
 
 ### Installation
 
