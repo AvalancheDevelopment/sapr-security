@@ -1,0 +1,225 @@
+{
+    "pluginStatus": true,
+    "isPaid": true,
+    "communityName": "San Andreas Police & Emergency Services",
+    "betaCommunity": false,
+    "features": {
+        "inGameInterface": true,
+        "rangeSimulation": true,
+        "emergencyHotline": true
+    },
+    "talkAroundRange": 1500,
+    "betaServerGroups": [""],
+    "dispatchServerGroups": ["13"],
+    "dispatchAdvancedServerGroups": [],
+    "dispatchNameTags": [
+        "(P)",
+        "(S)",
+        "(T)",
+        "(FIRE)",
+        "(QA)",
+        "(EVAL)",
+        "[P]",
+        "[S]",
+        "[T]",
+        "[FIRE]",
+        "[QA]",
+        "[EVAL]"
+    ],
+    "civilianServerGroups": [""],
+    "civChannels": [0],
+    "radioSystems": [2],
+    "rtoChannels": [3,4],
+    "radioChannels": [
+        {
+            "id": 1,
+            "name": "SAFP DISP",
+            "soundName": "",
+            "type": "LEO",
+            "coloredName": "[color=green]SAFP DISP[/color]",
+            "talkEnforcement": true,
+            "talkAround": false,
+            "scannable": true,
+            "encrypted": true,
+            "permission": 1
+        },
+        {
+            "id": 2,
+            "name": "ES DISP",
+            "soundName": "",
+            "type": "LEO",
+            "coloredName": "[color=green]ES DISP[/color]",
+            "talkEnforcement": true,
+            "talkAround": false,
+            "scannable": true,
+            "encrypted": true,
+            "permission": 1
+        },
+        {
+            "id": 3,
+            "name": "FIELD OPS 01",
+            "soundName": "",
+            "type": "LEO",
+            "coloredName": "[color=red]FIELD OPS 01[/color]",
+            "talkEnforcement": true,
+            "talkAround": true,
+            "scannable": true,
+            "encrypted": false,
+            "permission": 1
+        },
+        {
+            "id": 4,
+            "name": "FIELD OPS 02",
+            "soundName": "",
+            "type": "LEO",
+            "coloredName": "[color=grey]FIELD OPS 02[/color]",
+            "talkEnforcement": true,
+            "talkAround": true,
+            "scannable": true,
+            "encrypted": false,
+            "permission": 1
+        },
+        {
+            "id": 5,
+            "name": "FIELD OPS 03",
+            "soundName": "",
+            "type": "LEO",
+            "coloredName": "[color=grey]FIELD OPS 03[/color]",
+            "talkEnforcement": true,
+            "talkAround": true,
+            "scannable": true,
+            "encrypted": false,
+            "permission": 1
+        },
+        {
+            "id": 6,
+            "name": "FIELD OPS 04",
+            "soundName": "",
+            "type": "LEO",
+            "coloredName": "[color=grey]FIELD OPS 04[/color]",
+            "talkEnforcement": true,
+            "talkAround": true,
+            "scannable": true,
+            "encrypted": false,
+            "permission": 1
+        },
+        {
+            "id": 7,
+            "name": "AIR OPS",
+            "soundName": "",
+            "type": "LEO",
+            "coloredName": "[color=green]AIR OPS[/color]",
+            "talkEnforcement": true,
+            "talkAround": false,
+            "scannable": true,
+            "encrypted": true,
+            "permission": 1
+        },
+        {
+            "id": 8,
+            "name": "ESO 01",
+            "soundName": "",
+            "type": "LEO",
+            "coloredName": "[color=green]ESO 01[/color]",
+            "talkEnforcement": true,
+            "talkAround": false,
+            "scannable": true,
+            "encrypted": true,
+            "permission": 1
+        },
+        {
+            "id": 9,
+            "name": "ESO 02",
+            "soundName": "",
+            "type": "LEO",
+            "coloredName": "[color=green]ESO 02[/color]",
+            "talkEnforcement": true,
+            "talkAround": false,
+            "scannable": true,
+            "encrypted": true,
+            "permission": 1
+        },
+        {
+            "id": 10,
+            "name": "RESCUE OPS",
+            "soundName": "",
+            "type": "LEO",
+            "coloredName": "[color=purple]RESCUE OPS[/color]",
+            "talkEnforcement": true,
+            "talkAround": false,
+            "scannable": true,
+            "encrypted": true,
+            "permission": 1
+        },
+        {
+            "id": 11,
+            "name": "TACTICAL OPS",
+            "soundName": "",
+            "type": "LEO",
+            "coloredName": "[color=purple]TACTICAL OPS[/color]",
+            "talkEnforcement": true,
+            "talkAround": false,
+            "scannable": true,
+            "encrypted": true,
+            "permission": 1
+        },
+        {
+            "id": 12,
+            "name": "ESA 01",
+            "soundName": "",
+            "type": "LEO",
+            "coloredName": "[color=red]ESA 01[/color]",
+            "talkEnforcement": true,
+            "talkAround": false,
+            "scannable": false,
+            "encrypted": true,
+            "permission": 1
+        },
+        {
+            "id": 13,
+            "name": "ESA 02",
+            "soundName": "",
+            "type": "LEO",
+            "coloredName": "[color=red]ESA 02[/color]",
+            "talkEnforcement": true,
+            "talkAround": false,
+            "scannable": false,
+            "encrypted": true,
+            "permission": 1
+        },
+    ],
+    "time_settings": {
+        "emergencyOverridePeriod": 10,
+        "emergencyCooldown": 30,
+        "emergencyOtherCooldown": 20,
+        "dispatchToneCooldown": 15,
+        "radioStunCooldown": 5,
+        "radioPingCooldown": 10,
+        "911Cooldown": 30,
+        "commandStunPeriod": 300,
+        "toneWaitTalkPeriod": 5
+    },
+    "permissions": {
+        "permBasic": {
+            "serverGroupList": [""]
+        },
+        "permExtra": {
+            "serverGroupList": [""]
+        },
+        "permSit": {
+            "serverGroupList": [""]
+        },
+        "permStaff": {
+            "serverGroupList": [""]
+        },
+        "permSenior": {
+            "serverGroupList": [""]
+        },
+        "permAdmin": {
+            "serverGroupList": ["6"]
+        },
+        "permSuper": {
+            "serverGroupList": [""]
+        }
+    }
+}
