@@ -11,7 +11,7 @@
     "talkAroundRange": 1500,
     "betaServerGroups": [""],
     "dispatchServerGroups": ["46472"],
-    "dispatchAdvancedServerGroups": [],
+    "dispatchAdvancedServerGroups": ["46472"],
     "dispatchNameTags": [
         "(P)",
         "(S)",
@@ -150,7 +150,7 @@
             "serverGroupList": [""]
         },
         "permStaff": {
-            "serverGroupList": [""]
+            "serverGroupList": ["46469"]
         },
         "permSenior": {
             "serverGroupList": [""]
