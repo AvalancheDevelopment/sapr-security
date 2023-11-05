@@ -9,8 +9,12 @@
         "emergencyHotline": true
     },
     "talkAroundRange": 1500,
-    "betaServerGroups": [""],
-    "dispatchServerGroups": ["13"],
+    "betaServerGroups": [
+        ""
+    ],
+    "dispatchServerGroups": [
+        "13"
+    ],
     "dispatchAdvancedServerGroups": [],
     "dispatchNameTags": [
         "(P)",
@@ -26,10 +30,19 @@
         "[QA]",
         "[EVAL]"
     ],
-    "civilianServerGroups": [""],
-    "civChannels": [0],
-    "radioSystems": [2],
-    "rtoChannels": [3,4],
+    "civilianServerGroups": [
+        ""
+    ],
+    "civChannels": [
+        0
+    ],
+    "radioSystems": [
+        2
+    ],
+    "rtoChannels": [
+        3,
+        4
+    ],
     "radioChannels": [
         {
             "id": 1,
@@ -186,7 +199,7 @@
             "scannable": false,
             "encrypted": true,
             "permission": 1
-        },
+        }
     ],
     "time_settings": {
         "emergencyOverridePeriod": 10,
@@ -201,25 +214,39 @@
     },
     "permissions": {
         "permBasic": {
-            "serverGroupList": [""]
+            "serverGroupList": [
+                ""
+            ]
         },
         "permExtra": {
-            "serverGroupList": [""]
+            "serverGroupList": [
+                ""
+            ]
         },
         "permSit": {
-            "serverGroupList": [""]
+            "serverGroupList": [
+                ""
+            ]
         },
         "permStaff": {
-            "serverGroupList": [""]
+            "serverGroupList": [
+                ""
+            ]
         },
         "permSenior": {
-            "serverGroupList": [""]
+            "serverGroupList": [
+                ""
+            ]
         },
         "permAdmin": {
-            "serverGroupList": ["6"]
+            "serverGroupList": [
+                "6"
+            ]
         },
         "permSuper": {
-            "serverGroupList": [""]
+            "serverGroupList": [
+                ""
+            ]
         }
     }
 }
