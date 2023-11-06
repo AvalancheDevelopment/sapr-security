@@ -29,7 +29,7 @@
 	"civilianServerGroups": [""],
 	"civChannels": [0],
 	"radioSystems": [72],
-	"rtoChannels": [103],
+	"rtoChannels": [75],
 	"radioChannels": [{
 			"id": 1,
 			"name": "Patrol Ops Main",
