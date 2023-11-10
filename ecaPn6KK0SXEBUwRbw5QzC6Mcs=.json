@@ -1,7 +1,7 @@
 {
     "pluginStatus": true,
     "isPaid": true,
-    "communityName": "PDRP Community",
+    "communityName": "",
     "betaCommunity": false,
     "features": {
         "inGameInterface": true,
@@ -10,8 +10,8 @@
     },
     "talkAroundRange": 1500,
     "betaServerGroups": [""],
-    "dispatchServerGroups": ["169"],
-    "dispatchAdvancedServerGroups": ["169"],
+    "dispatchServerGroups": ["162","169"],
+    "dispatchAdvancedServerGroups": ["162","169"],
     "dispatchNameTags": [
         "(P)",
         "(S)",
@@ -33,10 +33,10 @@
     "radioChannels": [
         {
             "id": 1,
-            "name": "Patrol Ops",
+            "name": "Main Ops",
             "soundName": "",
             "type": "LEO",
-            "coloredName": "[color=green]Patrol Ops[/color]",
+            "coloredName": "[color=green]Main Ops[/color]",
             "talkEnforcement": true,
             "talkAround": false,
             "scannable": true,
@@ -45,10 +45,10 @@
         },
         {
             "id": 2,
-            "name": "Fire Ops",
+            "name": "County Ops",
             "soundName": "",
             "type": "LEO",
-            "coloredName": "[color=yellow]Fire Ops[/color]",
+            "coloredName": "[color=green]County Ops[/color]",
             "talkEnforcement": true,
             "talkAround": false,
             "scannable": true,
@@ -57,6 +57,42 @@
         },
         {
             "id": 3,
+            "name": "City Ops",
+            "soundName": "",
+            "type": "LEO",
+            "coloredName": "[color=green]City Ops[/color]",
+            "talkEnforcement": true,
+            "talkAround": false,
+            "scannable": true,
+            "encrypted": false,
+            "permission": 1
+        },
+        {
+            "id": 4,
+            "name": "Fire Ops",
+            "soundName": "",
+            "type": "LEO",
+            "coloredName": "[color=orange]Fire Ops[/color]",
+            "talkEnforcement": true,
+            "talkAround": false,
+            "scannable": true,
+            "encrypted": false,
+            "permission": 1
+        },
+        {
+            "id": 5,
+            "name":"SADOT Ops",
+            "soundName": "",
+            "type": "LEO",
+            "coloredName": "[color=yellow]SADOT Ops[/color]",
+            "talkEnforcement": true,
+            "talkAround": false,
+            "scannable": true,
+            "encrypted": false,
+            "permission": 1
+        },
+        {
+            "id": 6,
             "name": "Tac 1",
             "soundName": "",
             "type": "LEO",
@@ -64,42 +100,6 @@
             "talkEnforcement": true,
             "talkAround": false,
             "scannable": true,
-            "encrypted": true,
-            "permission": 1
-        },
-        {
-            "id": 4,
-            "name": "Tac 2",
-            "soundName": "",
-            "type": "LEO",
-            "coloredName": "[color=purple]Tac 2[/color]",
-            "talkEnforcement": true,
-            "talkAround": false,
-            "scannable": true,
-            "encrypted": true,
-            "permission": 1
-        },
-        {
-            "id": 5,
-            "name": "Car/Car",
-            "soundName": "",
-            "type": "LEO",
-            "coloredName": "[color=grey]Car-to-Car[/color]",
-            "talkEnforcement": true,
-            "talkAround": true,
-            "scannable": true,
-            "encrypted": false,
-            "permission": 1
-        },
-        {
-            "id": 6,
-            "name": "Private 1",
-            "soundName": "",
-            "type": "LEO",
-            "coloredName": "[color=red]Private 1[/color]",
-            "talkEnforcement": true,
-            "talkAround": false,
-            "scannable": false,
             "encrypted": true,
             "permission": 1
         }
@@ -117,32 +117,25 @@
     },
     "permissions": {
         "permBasic": {
-            "serverGroupList": ["173"],
-            "clientUidList": [""]
+            "serverGroupList": [""]
         },
         "permExtra": {
-            "serverGroupList": [""],
-            "clientUidList": [""]
+            "serverGroupList": [""]
         },
         "permSit": {
-            "serverGroupList": ["174"],
-            "clientUidList": [""]
+            "serverGroupList": [""]
         },
         "permStaff": {
-            "serverGroupList": ["175"],
-            "clientUidList": [""]
+            "serverGroupList": [""]
         },
         "permSenior": {
-            "serverGroupList": ["176"],
-            "clientUidList": [""]
+            "serverGroupList": [""]
         },
         "permAdmin": {
-            "serverGroupList": ["177", "178", "180"],
-            "clientUidList": [""]
+            "serverGroupList": ["9"]
         },
         "permSuper": {
-            "serverGroupList": ["179", "9"],
-            "clientUidList": [""]
+            "serverGroupList": [""]
         }
     }
 }
