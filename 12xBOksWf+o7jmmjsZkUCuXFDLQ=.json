@@ -1,0 +1,173 @@
+{
+    "pluginStatus": true,
+    "isPaid": true,
+    "communityName": "OSRP",
+    "betaCommunity": false,
+    "features": {
+        "inGameInterface": true,
+        "rangeSimulation": true,
+        "emergencyHotline": true
+    },
+    "talkAroundRange": 1500,
+    "betaServerGroups": [""],
+    "dispatchServerGroups": ["257"],
+    "dispatchAdvancedServerGroups": ["257"],
+    "dispatchNameTags": [
+        "(P)",
+        "(S)",
+        "(T)",
+        "(FIRE)",
+        "(QA)",
+        "(EVAL)",
+        "[P]",
+        "[S]",
+        "[T]",
+        "[FIRE]",
+        "[QA]",
+        "[EVAL]"
+    ],
+    "civilianServerGroups": [""],
+    "civChannels": [0],
+    "radioSystems": [281, 289, 297],
+    "rtoChannels": [286, 294, 301],
+    "radioChannels": [
+        {
+            "id": 1,
+            "name": "Dispatch - Primary",
+            "soundName": "Law Dispatch",
+            "type": "LEO",
+            "coloredName": "[color=green]Dispatch - Primary[/color]",
+            "talkEnforcement": true,
+            "talkAround": false,
+            "scannable": true,
+            "encrypted": false,
+            "permission": 1
+        },
+        {
+            "id": 2,
+            "name": "Data - Secondary",
+            "soundName": "Data",
+            "type": "LEO",
+            "coloredName": "[color=green]Data - Secondary[/color]",
+            "talkEnforcement": true,
+            "talkAround": false,
+            "scannable": true,
+            "encrypted": false,
+            "permission": 1
+        },
+        {
+            "id": 3,
+            "name": "Valley Emergency",
+            "soundName": "Valley",
+            "type": "LEO",
+            "coloredName": "[color=red]Valley Emergency[/color]",
+            "talkEnforcement": true,
+            "talkAround": false,
+            "scannable": true,
+            "encrypted": true,
+            "permission": 1
+        },
+        {
+            "id": 4,
+            "name": "Fire - Primary",
+            "soundName": "Fire Dispatch",
+            "type": "LEO",
+            "coloredName": "[color=yellow]Fire Dispatch[/color]",
+            "talkEnforcement": true,
+            "talkAround": false,
+            "scannable": true,
+            "encrypted": true,
+            "permission": 1
+        },
+        {
+            "id": 5,
+            "name": "Los Santos | Tac 1",
+            "soundName": "Tac1",
+            "type": "LEO",
+            "coloredName": "[color=yellow]LS TAC 1[/color]",
+            "talkEnforcement": true,
+            "talkAround": false,
+            "scannable": true,
+            "encrypted": true,
+            "permission": 1
+        },
+        {
+            "id": 6,
+            "name": "Los Santos | Tac 2",
+            "soundName": "Tac 2",
+            "type": "LEO",
+            "coloredName": "[color=yellow]LS TAC 1[/color]",
+            "talkEnforcement": true,
+            "talkAround": false,
+            "scannable": true,
+            "encrypted": true,
+            "permission": 1
+        },
+        {
+            "id": 7,
+            "name": "Blaine County | Tac 1",
+            "soundName": "Tac 1",
+            "type": "LEO",
+            "coloredName": "[color=yellow]BC TAC 1[/color]",
+            "talkEnforcement": true,
+            "talkAround": false,
+            "scannable": true,
+            "encrypted": true,
+            "permission": 1
+        },
+        {
+            "id": 8,
+            "name": "Blaine County | Tac 2",
+            "soundName": "Tac 2",
+            "type": "LEO",
+            "coloredName": "[color=yellow]BC TAC 2[/color]",
+            "talkEnforcement": true,
+            "talkAround": false,
+            "scannable": true,
+            "encrypted": true,
+            "permission": 1
+        }
+
+    ],
+    "time_settings": {
+        "emergencyOverridePeriod": 10,
+        "emergencyCooldown": 5,
+        "emergencyOtherCooldown": 2,
+        "dispatchToneCooldown": 15,
+        "radioStunCooldown": 5,
+        "radioPingCooldown": 10,
+        "911Cooldown": 2,
+        "commandStunPeriod": 300,
+        "toneWaitTalkPeriod": 5
+    },
+    "permissions": {
+        "permBasic": {
+            "serverGroupList": [],
+            "clientUidList": [""]
+        },
+        "permExtra": {
+            "serverGroupList": [""],
+            "clientUidList": [""]
+        },
+        "permSit": {
+            "serverGroupList": ["247"],
+            "clientUidList": [""]
+        },
+        "permStaff": {
+            "serverGroupList": ["248"],
+            "clientUidList": [""]
+        },
+        "permSenior": {
+            "serverGroupList": ["249"],
+            "clientUidList": [""]
+        },
+        "permAdmin": {
+            "serverGroupList": ["251"],
+            "clientUidList": [""]
+        },
+        "permSuper": {
+            "serverGroupList": ["252"],
+            "clientUidList": [""]
+        }
+    }
+}
