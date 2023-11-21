@@ -98,9 +98,9 @@
             "type": "announce",
             "coloredName": "[color=yellow]Statewide Tow[/color]",
             "talkEnforcement": true,
-            "talkAround": false,
-            "scannable": false,
-            "encrypted": true,
+            "talkAround": true,
+            "scannable": true,
+            "encrypted": false,
             "permission": 1
         }
     ],
