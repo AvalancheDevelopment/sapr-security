@@ -50,7 +50,7 @@
             "type": "LEO",
             "coloredName": "[color=orange]Fire Ops[/color]",
             "talkEnforcement": true,
-            "talkAround": true,
+            "talkAround": false,
             "scannable": true,
             "encrypted": false,
             "permission": 1
@@ -92,13 +92,13 @@
             "permission": 1
         },
         {
-            "id": 5,
+            "id": 6,
             "name": "Statewide Tow",
             "soundName": "",
             "type": "announce",
             "coloredName": "[color=yellow]Statewide Tow[/color]",
             "talkEnforcement": true,
-            "talkAround": true,
+            "talkAround": false,
             "scannable": true,
             "encrypted": false,
             "permission": 1
