@@ -1,7 +1,7 @@
 {
     "pluginStatus": true,
     "isPaid": true,
-    "communityName": "trxppyhxppy - 659864108895698970",
+    "communityName": "Coolcat123 - 404066031376531461",
     "betaCommunity": false,
     "features": {
         "inGameInterface": true,
@@ -10,8 +10,8 @@
     },
     "talkAroundRange": 1500,
     "betaServerGroups": [""],
-    "dispatchServerGroups": ["257","248"],
-    "dispatchAdvancedServerGroups": [""],
+    "dispatchServerGroups": ["151"],
+    "dispatchAdvancedServerGroups": [],
     "dispatchNameTags": [
         "(P)",
         "(S)",
@@ -28,8 +28,8 @@
     ],
     "civilianServerGroups": [""],
     "civChannels": [0],
-    "radioSystems": [69, 83, 97, 100],
-    "rtoChannels": [74, 88, 98, 104, 105],
+    "radioSystems": [68],
+    "rtoChannels": [69],
     "radioChannels": [
         {
             "id": 1,
@@ -48,7 +48,7 @@
             "name": "Fire Ops",
             "soundName": "",
             "type": "LEO",
-            "coloredName": "[color=orange]Fire Ops[/color]",
+            "coloredName": "[color=yellow]Fire Ops[/color]",
             "talkEnforcement": true,
             "talkAround": false,
             "scannable": true,
@@ -59,11 +59,11 @@
             "id": 3,
             "name": "Tac 1",
             "soundName": "",
-            "type": "announce",
-            "coloredName": "[color=green]Tac 1[/color]",
+            "type": "LEO",
+            "coloredName": "[color=purple]Tac 1[/color]",
             "talkEnforcement": true,
             "talkAround": false,
-            "scannable": false,
+            "scannable": true,
             "encrypted": true,
             "permission": 1
         },
@@ -71,20 +71,32 @@
             "id": 4,
             "name": "Tac 2",
             "soundName": "",
-            "type": "announce",
-            "coloredName": "[color=green]Tac 2[/color]",
+            "type": "LEO",
+            "coloredName": "[color=purple]Tac 2[/color]",
             "talkEnforcement": true,
             "talkAround": false,
-            "scannable": false,
+            "scannable": true,
             "encrypted": true,
             "permission": 1
         },
         {
             "id": 5,
+            "name": "Car/Car",
+            "soundName": "",
+            "type": "LEO",
+            "coloredName": "[color=grey]Car/Car[/color]",
+            "talkEnforcement": true,
+            "talkAround": true,
+            "scannable": true,
+            "encrypted": false,
+            "permission": 1
+        },
+        {
+            "id": 6,
             "name": "Private 1",
             "soundName": "",
-            "type": "announce",
-            "coloredName": "[color=blue]Private 1[/color]",
+            "type": "LEO",
+            "coloredName": "[color=red]Private 1[/color]",
             "talkEnforcement": true,
             "talkAround": false,
             "scannable": false,
@@ -92,15 +104,15 @@
             "permission": 1
         },
         {
-            "id": 6,
-            "name": "Statewide Tow",
+            "id": 7,
+            "name": "Announcements",
             "soundName": "",
             "type": "announce",
-            "coloredName": "[color=yellow]Statewide Tow[/color]",
+            "coloredName": "[color=red]Announcements[/color]",
             "talkEnforcement": true,
             "talkAround": false,
-            "scannable": true,
-            "encrypted": false,
+            "scannable": false,
+            "encrypted": true,
             "permission": 1
         }
     ],
@@ -117,25 +129,25 @@
     },
     "permissions": {
         "permBasic": {
-            "serverGroupList": ["273"]
+            "serverGroupList": ["479"]
         },
         "permExtra": {
             "serverGroupList": [""]
         },
         "permSit": {
-            "serverGroupList": ["274"]
+            "serverGroupList": ["481"]
         },
         "permStaff": {
-            "serverGroupList": ["275", "512"]
+            "serverGroupList": ["481"]
         },
         "permSenior": {
-            "serverGroupList": ["276"]
+            "serverGroupList": ["482"]
         },
         "permAdmin": {
-            "serverGroupList": ["277","278"]
+            "serverGroupList": ["484","483"]
         },
         "permSuper": {
-            "serverGroupList": ["279","280"]
+            "serverGroupList": ["487"]
         }
     }
 }
