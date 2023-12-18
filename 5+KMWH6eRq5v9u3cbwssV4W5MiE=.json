@@ -1,7 +1,7 @@
 {
     "pluginStatus": true,
     "isPaid": true,
-    "communityName": "Ninjamaster66",
+    "communityName": "South Coast Roleplay",
     "betaCommunity": false,
     "features": {
         "inGameInterface": true,
@@ -26,7 +26,7 @@
         "[QA]",
         "[EVAL]"
     ],
-    "civilianServerGroups": [""],
+    "civilianServerGroups": ["428, 429, 430, 437"],
     "civChannels": [34],
     "radioSystems": [23, 281],
     "rtoChannels": [411, 287],
@@ -192,10 +192,10 @@
             "serverGroupList": ["458"]
         },
         "permAdmin": {
-            "serverGroupList": ["459,460"]
+            "serverGroupList": ["459, 460"]
         },
         "permSuper": {
-            "serverGroupList": ["461,462"]
+            "serverGroupList": ["461, 462"]
         }
     }
 }
