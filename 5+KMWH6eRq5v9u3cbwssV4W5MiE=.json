@@ -10,7 +10,7 @@
     },
     "talkAroundRange": 1500,
     "betaServerGroups": [""],
-    "dispatchServerGroups": ["438, 425, 485, 461, 462"],
+    "dispatchServerGroups": ["438", "425", "485", "461", "462"],
     "dispatchAdvancedServerGroups": [304],
     "dispatchNameTags": [
         "(P)",
@@ -26,7 +26,7 @@
         "[QA]",
         "[EVAL]"
     ],
-    "civilianServerGroups": ["428, 429, 430, 437"],
+    "civilianServerGroups": ["428", "429", "430", "437"],
     "civChannels": [34],
     "radioSystems": [23, 281],
     "rtoChannels": [411, 287],
