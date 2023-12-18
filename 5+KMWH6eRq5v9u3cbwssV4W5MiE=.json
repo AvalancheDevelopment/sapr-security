@@ -19,12 +19,16 @@
         "(FIRE)",
         "(QA)",
         "(EVAL)",
+        "(911)",
+        "(TAC)",
         "[P]",
         "[S]",
         "[T]",
         "[FIRE]",
         "[QA]",
-        "[EVAL]"
+        "[EVAL]",
+        "[911]",
+        "[TAC]"
     ],
     "civilianServerGroups": ["428", "429", "430", "437"],
     "civChannels": [34],
