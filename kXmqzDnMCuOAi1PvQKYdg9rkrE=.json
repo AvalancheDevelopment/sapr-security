@@ -1,0 +1,189 @@
+{
+    "pluginStatus": true,
+    "isPaid": true,
+    "communityName": "CURP",
+    "betaCommunity": false,
+    "features": {
+        "inGameInterface": true,
+        "rangeSimulation": true,
+        "emergencyHotline": true
+    },
+    "talkAroundRange": 1500,
+    "betaServerGroups": [""],
+    "dispatchServerGroups": [""],
+    "dispatchAdvancedServerGroups": [""],
+    "dispatchNameTags": [
+        "(P)",
+        "(S)",
+        "(T)",
+        "(FIRE)",
+        "(QA)",
+        "(EVAL)",
+        "[P]",
+        "[S]",
+        "[T]",
+        "[FIRE]",
+        "[QA]",
+        "[EVAL]"
+    ],
+    "civilianServerGroups": [],
+    "civChannels": [],
+    "radioSystems": [2],
+    "rtoChannels": [3],
+    "radioChannels": [
+        {
+            "id": 1,
+            "name": "Citywide",
+            "soundName": "Citywide",
+            "type": "LEO",
+            "coloredName": "[color=blue]Citywide[/color]",
+            "talkEnforcement": true,
+            "talkAround": false,
+            "scannable": true,
+            "encrypted": false,
+            "permission": 1
+        },
+        {
+            "id": 2,
+            "name": "City Services",
+            "soundName": "City Services",
+            "type": "LEO",
+            "coloredName": "[color=blue]City Services[/color]",
+            "talkEnforcement": true,
+            "talkAround": false,
+            "scannable": true,
+            "encrypted": false,
+            "permission": 1
+        },
+        {
+            "id": 3,
+            "name": "Tac 1",
+            "soundName": "Tac 1",
+            "type": "LEO",
+            "coloredName": "[color=grey]Tac 1[/color]",
+            "talkEnforcement": true,
+            "talkAround": false,
+            "scannable": true,
+            "encrypted": false,
+            "permission": 1
+        },
+        {
+            "id": 4,
+            "name": "Tac 2",
+            "soundName": "Tac2",
+            "type": "LEO",
+            "coloredName": "[color=grey]Tac 2[/color]",
+            "talkEnforcement": true,
+            "talkAround": false,
+            "scannable": true,
+            "encrypted": true,
+            "permission": 1
+        },
+        {
+            "id": 5,
+            "name": "Tac 3",
+            "soundName": "Tac3",
+            "type": "LEO",
+            "coloredName": "[color=grey]Tac 3[/color]",
+            "talkEnforcement": true,
+            "talkAround": false,
+            "scannable": true,
+            "encrypted": true,
+            "permission": 1
+        },
+        {
+            "id": 6,
+            "name": "Tac 4",
+            "soundName": "Tac4",
+            "type": "LEO",
+            "coloredName": "[color=grey]Tac 4[/color]",
+            "talkEnforcement": true,
+            "talkAround": false,
+            "scannable": true,
+            "encrypted": true,
+            "permission": 1
+        },
+        {
+            "id": 7,
+            "name": "Fire Ops",
+            "soundName": "Fire Ops",
+            "type": "LEO",
+            "coloredName": "[color=red]Fire Ops[/color]",
+            "talkEnforcement": true,
+            "talkAround": false,
+            "scannable": true,
+            "encrypted": true,
+            "permission": 1
+        },
+        {
+            "id": 8,
+            "name": "Fire Ops 2",
+            "soundName": "Fire 2",
+            "type": "LEO",
+            "coloredName": "[color=red]Fire Ops 2[/color]",
+            "talkEnforcement": true,
+            "talkAround": false,
+            "scannable": true,
+            "encrypted": true,
+            "permission": 1
+        },
+        {
+            "id": 9,
+            "name": "SA DOT",
+            "soundName": "SA DOT",
+            "type": "LEO",
+            "coloredName": "[color=green]SADOT 1[/color]",
+            "talkEnforcement": true,
+            "talkAround": false,
+            "scannable": false,
+            "encrypted": true,
+            "permission": 1
+        },
+        {
+            "id": 10,
+            "name": "SA DOT2",
+            "soundName": "SA DOT 2",
+            "type": "LEO",
+            "coloredName": "[color=green]SADOT 2[/color]",
+            "talkEnforcement": true,
+            "talkAround": false,
+            "scannable": false,
+            "encrypted": true,
+            "permission": 1
+        }
+    ],
+    "time_settings": {
+        "emergencyOverridePeriod": 10,
+        "emergencyCooldown": 30,
+        "emergencyOtherCooldown": 20,
+        "dispatchToneCooldown": 15,
+        "radioStunCooldown": 5,
+        "radioPingCooldown": 10,
+        "911Cooldown": 30,
+        "commandStunPeriod": 300,
+        "toneWaitTalkPeriod": 5
+    },
+    "permissions": {
+        "permBasic": {
+            "serverGroupList": [""]
+        },
+        "permExtra": {
+            "serverGroupList": [""]
+        },
+        "permSit": {
+            "serverGroupList": [""]
+        },
+        "permStaff": {
+            "serverGroupList": [""]
+        },
+        "permSenior": {
+            "serverGroupList": [""]
+        },
+        "permAdmin": {
+            "serverGroupList": [""]
+        },
+        "permSuper": {
+            "serverGroupList": [""]
+        }
+    }
+}
