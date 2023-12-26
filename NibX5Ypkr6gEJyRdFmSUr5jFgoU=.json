@@ -1,6 +1,6 @@
 {
-    "pluginStatus": true,
-    "isPaid": true,
+    "pluginStatus": false,
+    "isPaid": false,
     "communityName": "",
     "betaCommunity": false,
     "features": {
@@ -10,8 +10,8 @@
     },
     "talkAroundRange": 1500,
     "betaServerGroups": [""],
-    "dispatchServerGroups": ["31"],
-    "dispatchAdvancedServerGroups": [],
+    "dispatchServerGroups": ["216"],
+    "dispatchAdvancedServerGroups": ["119"],
     "dispatchNameTags": [
         "(P)",
         "(S)",
@@ -26,17 +26,17 @@
         "[QA]",
         "[EVAL]"
     ],
-    "civilianServerGroups": [""],
-    "civChannels": [0],
+    "civilianServerGroups": ["215"],
+    "civChannels": [105, 106],
     "radioSystems": [36],
-    "rtoChannels": [37],
+    "rtoChannels": [37, 110],
     "radioChannels": [
         {
             "id": 1,
-            "name": "SA Law Disp",
+            "name": "SA-CORE 01",
             "soundName": "",
             "type": "LEO",
-            "coloredName": "[color=green]SA Law Disp[/color]",
+            "coloredName": "[color=blue]SA Law Disp[/color]",
             "talkEnforcement": true,
             "talkAround": false,
             "scannable": true,
@@ -45,10 +45,10 @@
         },
         {
             "id": 2,
-            "name": "HP North",
+            "name": "SASP North",
             "soundName": "",
             "type": "LEO",
-            "coloredName": "[color=green]HP North[/color]",
+            "coloredName": "[color=blue]HP North[/color]",
             "talkEnforcement": true,
             "talkAround": false,
             "scannable": true,
@@ -57,10 +57,10 @@
         },
         {
             "id": 3,
-            "name": "HP South",
+            "name": "SASP South",
             "soundName": "",
             "type": "LEO",
-            "coloredName": "[color=green]HP South[/color]",
+            "coloredName": "[color=blue]HP South[/color]",
             "talkEnforcement": true,
             "talkAround": false,
             "scannable": true,
@@ -69,10 +69,10 @@
         },
         {
             "id": 4,
-            "name": "LSPD Disp",
+            "name": "LS-MAIN 21",
             "soundName": "",
             "type": "LEO",
-            "coloredName": "[color=green]LSPD Disp[/color]",
+            "coloredName": "[color=blue]LSPD Disp[/color]",
             "talkEnforcement": true,
             "talkAround": false,
             "scannable": true,
@@ -81,10 +81,10 @@
         },
         {
             "id": 5,
-            "name": "BCSO Disp",
+            "name": "BC-MAIN 31",
             "soundName": "",
             "type": "LEO",
-            "coloredName": "[color=green]BCSO Disp[/color]",
+            "coloredName": "[color=blue]BCSO Disp[/color]",
             "talkEnforcement": true,
             "talkAround": false,
             "scannable": true,
@@ -93,10 +93,10 @@
         },
         {
             "id": 6,
-            "name": "27 RDC Fire",
+            "name": "SA-FIRE 02",
             "soundName": "",
             "type": "LEO",
-            "coloredName": "[color=yellow]27 RDC Fire[/color]",
+            "coloredName": "[color=red]27 RDC Fire[/color]",
             "talkEnforcement": true,
             "talkAround": false,
             "scannable": true,
@@ -108,7 +108,7 @@
             "name": "27 RDC Tac",
             "soundName": "",
             "type": "announce",
-            "coloredName": "[color=red]27 RDC Tac[/color]",
+            "coloredName": "[color=yellow]27 RDC Tac[/color]",
             "talkEnforcement": true,
             "talkAround": false,
             "scannable": true,
@@ -117,10 +117,10 @@
         },
         {
             "id": 8,
-            "name": "27 RDC Rcrds",
+            "name": "SA-RCRDS 27",
             "soundName": "",
             "type": "LEO",
-            "coloredName": "[color=green]27 RDC Rcrds[/color]",
+            "coloredName": "[color=blue]27 RDC Rcrds[/color]",
             "talkEnforcement": true,
             "talkAround": false,
             "scannable": true,
@@ -129,9 +129,21 @@
         },
         {
             "id": 9,
-            "name": "Helpdesk",
+            "name": "SADOT MAIN",
             "soundName": "",
             "type": "LEO",
+            "coloredName": "[color=green]SADOT Main[/color]",
+            "talkEnforcement": true,
+            "talkAround": false,
+            "scannable": true,
+            "encrypted": false,
+            "permission": 1
+        },
+        {
+            "id": 10,
+            "name": "HELPDESK",
+            "soundName": "",
+            "type": "announce",
             "coloredName": "[color=green]Helpdesk[/color]",
             "talkEnforcement": true,
             "talkAround": false,
@@ -153,25 +165,25 @@
     },
     "permissions": {
         "permBasic": {
-            "serverGroupList": [""]
+            "serverGroupList": ["224"]
         },
         "permExtra": {
             "serverGroupList": [""]
         },
         "permSit": {
-            "serverGroupList": [""]
+            "serverGroupList": ["223"]
         },
         "permStaff": {
-            "serverGroupList": [""]
+            "serverGroupList": ["222"]
         },
         "permSenior": {
-            "serverGroupList": [""]
+            "serverGroupList": ["221"]
         },
         "permAdmin": {
-            "serverGroupList": [""]
+            "serverGroupList": ["220","219"]
         },
         "permSuper": {
-            "serverGroupList": ["14"]
+            "serverGroupList": ["14","16","18"]
         }
     }
 }
