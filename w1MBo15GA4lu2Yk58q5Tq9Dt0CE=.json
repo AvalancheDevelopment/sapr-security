@@ -88,10 +88,10 @@
             "type": "LEO",
             "coloredName": "[color=grey]Sheriff 2[/color]",
             "talkEnforcement": true,
-            "talkAround": true,
+            "talkAround": false,
             "scannable": true,
-            "defaultScanned": true,
-            "encrypted": true,
+            "defaultScanned": false,
+            "encrypted": false,
             "permission": 1
         },
         {
@@ -151,7 +151,7 @@
             "talkEnforcement": true,
             "talkAround": false,
             "scannable": true,
-            "encrypted": true,
+            "encrypted": false,
             "permission": 1
         },
         {
@@ -162,8 +162,8 @@
             "coloredName": "[color=red]FG Blue[/color]",
             "talkEnforcement": true,
             "talkAround": false,
-            "scannable": false,
-            "encrypted": true,
+            "scannable": true,
+            "encrypted": false,
             "permission": 1
         },
         {
@@ -175,7 +175,7 @@
             "talkEnforcement": true,
             "talkAround": false,
             "scannable": true,
-            "encrypted": true,
+            "encrypted": false,
             "permission": 1
         }
     ],
