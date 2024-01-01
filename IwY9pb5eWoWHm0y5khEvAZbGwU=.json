@@ -1,0 +1,237 @@
+{
+    "pluginStatus": true,
+    "isPaid": true,
+    "communityName": "529102670770995200",
+    "betaCommunity": false,
+    "features": {
+        "inGameInterface": true,
+        "rangeSimulation": true,
+        "emergencyHotline": true
+    },
+    "talkAroundRange": 1500,
+    "betaServerGroups": [""],
+    "dispatchServerGroups": ["9"],
+    "dispatchAdvancedServerGroups": [9],
+    "dispatchNameTags": [
+        "(P)",
+        "(S)",
+        "(T)",
+        "(FIRE)",
+        "(QA)",
+        "(EVAL)",
+        "[P]",
+        "[S]",
+        "[T]",
+        "[FIRE]",
+        "[QA]",
+        "[EVAL]"
+    ],
+    "civilianServerGroups": [""],
+    "civChannels": [0],
+    "radioSystems": [2],
+    "rtoChannels": [1],
+    "radioChannels": [
+        {
+            "id": 1,
+            "name": "MPD 1ST DISTRICT",
+            "soundName": "",
+            "type": "LEO",
+            "coloredName": "[color=green]MPD 1ST DISTRICT[/color]",
+            "talkEnforcement": true,
+            "talkAround": false,
+            "scannable": true,
+            "encrypted": false,
+            "permission": 1
+        },
+        {
+            "id": 2,
+            "name": "MPD 2ND DISTRICT",
+            "soundName": "",
+            "type": "LEO",
+            "coloredName": "[color=green]MPD 2ND DISTRICT[/color]",
+            "talkEnforcement": true,
+            "talkAround": false,
+            "scannable": true,
+            "encrypted": false,
+            "permission": 1
+        },
+        {
+            "id": 3,
+            "name": "MPD 3RD DISTRICT",
+            "soundName": "",
+            "type": "LEO",
+            "coloredName": "[color=green]MPD 3RD DISTRICT[/color]",
+            "talkEnforcement": true,
+            "talkAround": false,
+            "scannable": true,
+            "encrypted": false,
+            "permission": 1
+        },
+        {
+            "id": 4,
+            "name": "MPD 4TH DISTRICT",
+            "soundName": "",
+            "type": "LEO",
+            "coloredName": "[color=green]MPD 4TH DISTRICT[/color]",
+            "talkEnforcement": true,
+            "talkAround": false,
+            "scannable": true,
+            "encrypted": false,
+            "permission": 1
+        },
+        {
+            "id": 5,
+            "name": "MPD 5TH DISTRICT",
+            "soundName": "",
+            "type": "LEO",
+            "coloredName": "[color=green]MPD 5TH DISTRICT[/color]",
+            "talkEnforcement": true,
+            "talkAround": false,
+            "scannable": true,
+            "encrypted": false,
+            "permission": 1
+        },
+        {
+            "id": 6,
+            "name": "MPD 6TH DISTRICT",
+            "soundName": "",
+            "type": "LEO",
+            "coloredName": "[color=green]MPD 6TH DISTRICT[/color]",
+            "talkEnforcement": true,
+            "talkAround": false,
+            "scannable": true,
+            "encrypted": false,
+            "permission": 1
+        },
+        {
+            "id": 7,
+            "name": "MPD 7TH DISTRICT",
+            "soundName": "",
+            "type": "LEO",
+            "coloredName": "[color=green]MPD 7TH DISTRICT[/color]",
+            "talkEnforcement": true,
+            "talkAround": false,
+            "scannable": true,
+            "encrypted": false,
+            "permission": 1
+        },
+        {
+            "id": 8,
+            "name": "MPD SPECIAL OPERATIONS DIVISION",
+            "soundName": "",
+            "type": "LEO",
+            "coloredName": "[color=green]MPD SPECIAL OPERATIONS DIVISION[/color]",
+            "talkEnforcement": true,
+            "talkAround": false,
+            "scannable": true,
+            "encrypted": false,
+            "permission": 1
+        },
+        {
+            "id": 9,
+            "name": "MPD CITYWIDE",
+            "soundName": "",
+            "type": "LEO",
+            "coloredName": "[color=green]MPD CITYWIDE[/color]",
+            "talkEnforcement": true,
+            "talkAround": false,
+            "scannable": true,
+            "encrypted": false,
+            "permission": 1
+        },
+        {
+            "id": 10,
+            "name": "MPD TAC1",
+            "soundName": "",
+            "type": "LEO",
+            "coloredName": "[color=purple]MPD TAC1[/color]",
+            "talkEnforcement": true,
+            "talkAround": false,
+            "scannable": true,
+            "encrypted": true,
+            "permission": 1
+        },
+        {
+            "id": 11,
+            "name": "MPD TAC2",
+            "soundName": "",
+            "type": "LEO",
+            "coloredName": "[color=purple]MPD TAC2[/color]",
+            "talkEnforcement": true,
+            "talkAround": false,
+            "scannable": true,
+            "encrypted": true,
+            "permission": 1
+        },
+        {
+            "id": 12,
+            "name": "DCFEMS MAIN",
+            "soundName": "",
+            "type": "LEO",
+            "coloredName": "[color=red]DCFEMS MAIN[/color]",
+            "talkEnforcement": true,
+            "talkAround": false,
+            "scannable": false,
+            "encrypted": true,
+            "permission": 1
+        },
+        {
+            "id": 13,
+            "name": "DCFEMS TAC1",
+            "soundName": "",
+            "type": "LEO",
+            "coloredName": "[color=red]DCFEMS TAC1[/color]",
+            "talkEnforcement": true,
+            "talkAround": false,
+            "scannable": false,
+            "encrypted": true,
+            "permission": 1
+        },
+        {
+            "id": 14,
+            "name": "DCFEMS TAC2",
+            "soundName": "",
+            "type": "LEO",
+            "coloredName": "[color=red]DCFEMS TAC2[/color]",
+            "talkEnforcement": true,
+            "talkAround": false,
+            "scannable": false,
+            "encrypted": true,
+            "permission": 1
+        }
+    ],
+    "time_settings": {
+        "emergencyOverridePeriod": 10,
+        "emergencyCooldown": 30,
+        "emergencyOtherCooldown": 20,
+        "dispatchToneCooldown": 15,
+        "radioStunCooldown": 5,
+        "radioPingCooldown": 10,
+        "911Cooldown": 30,
+        "commandStunPeriod": 300,
+        "toneWaitTalkPeriod": 5
+    },
+    "permissions": {
+        "permBasic": {
+            "serverGroupList": [""]
+        },
+        "permExtra": {
+            "serverGroupList": [""]
+        },
+        "permSit": {
+            "serverGroupList": [""]
+        },
+        "permStaff": {
+            "serverGroupList": ["6"]
+        },
+        "permSenior": {
+            "serverGroupList": [""]
+        },
+        "permAdmin": {
+            "serverGroupList": ["11"]
+        },
+        "permSuper": {
+            "serverGroupList": [""]
+        }
+    }
+}
