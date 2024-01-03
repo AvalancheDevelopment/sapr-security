@@ -1,0 +1,219 @@
+{
+	"pluginStatus": true,
+	"isPaid": true,
+	"communityName": "Redux - 674622995473367040",
+	"betaCommunity": false,
+	"features": {
+		"inGameInterface": true,
+		"rangeSimulation": true,
+		"emergencyHotline": false
+	},
+	"talkAroundRange": 1500,
+	"betaServerGroups": [""],
+	"dispatchServerGroups": ["9"],
+	"dispatchAdvancedServerGroups": ["9"],
+	"dispatchNameTags": [
+		"(P)",
+		"(S)",
+		"(T)",
+		"(FIRE)",
+		"(QA)",
+		"(EVAL)",
+		"[P]",
+		"[S]",
+		"[T]",
+		"[FIRE]",
+		"[QA]",
+		"[EVAL]"
+	],
+	"civilianServerGroups": [""],
+	"civChannels": [0],
+	"radioSystems": [2],
+	"rtoChannels": [5, 6],
+	"radioChannels": [{
+			"id": 1,
+			"name": "Law Dispatch",
+			"soundName": "",
+			"type": "LEO",
+			"coloredName": "[color=green]Law Dispatch[/color]",
+			"talkEnforcement": true,
+			"talkAround": false,
+			"scannable": true,
+			"encrypted": false,
+			"permission": 1
+		},
+		{
+			"id": 2,
+			"name": "Fire/EMS",
+			"soundName": "",
+			"type": "LEO",
+			"coloredName": "[color=green]Fire/EMS[/color]",
+			"talkEnforcement": true,
+			"talkAround": false,
+			"scannable": true,
+			"encrypted": false,
+			"permission": 1
+		},
+		{
+			"id": 3,
+			"name": "Law Tac 1",
+			"soundName": "",
+			"type": "LEO",
+			"coloredName": "[color=purple]Law Tac 1[/color]",
+			"talkEnforcement": true,
+			"talkAround": false,
+			"scannable": true,
+			"encrypted": true,
+			"permission": 1
+		},
+		{
+			"id": 4,
+			"name": "Tac 2",
+			"soundName": "",
+			"type": "LEO",
+			"coloredName": "[color=purple]Law Tac 2[/color]",
+			"talkEnforcement": true,
+			"talkAround": false,
+			"scannable": true,
+			"encrypted": true,
+			"permission": 1
+		},
+		{
+			"id": 5,
+			"name": "Law OPS 1",
+			"soundName": "",
+			"type": "LEO",
+			"coloredName": "[color=cyan]Law OPS 1[/color]",
+			"talkEnforcement": true,
+			"talkAround": false,
+			"scannable": true,
+			"encrypted": false,
+			"permission": 1
+		},
+		{
+			"id": 6,
+			"name": "Law OPS 2",
+			"soundName": "",
+			"type": "LEO",
+			"coloredName": "[color=red]Law OPS 2[/color]",
+			"talkEnforcement": true,
+			"talkAround": false,
+			"scannable": false,
+			"encrypted": true,
+			"permission": 1
+		},
+		{
+			"id": 7,
+			"name": "Law OPS 3",
+			"soundName": "",
+			"type": "LEO",
+			"coloredName": "[color=red]Law OPS 3[/color]",
+			"talkEnforcement": true,
+			"talkAround": false,
+			"scannable": false,
+			"encrypted": true,
+			"permission": 1
+		},
+		{
+			"id": 8,
+			"name": "Fire Ops 1",
+			"soundName": "",
+			"type": "LEO",
+			"coloredName": "[color=grey]Fire Ops 1[/color]",
+			"talkEnforcement": true,
+			"talkAround": true,
+			"scannable": true,
+			"encrypted": false,
+			"permission": 1
+		},
+		{
+			"id": 9,
+			"name": "Fire Ops 2",
+			"soundName": "",
+			"type": "LEO",
+			"coloredName": "[color=yellow]Fire Ops 2[/color]",
+			"talkEnforcement": true,
+			"talkAround": false,
+			"scannable": true,
+			"encrypted": false,
+			"permission": 1
+		},
+		{
+			"id": 10,
+			"name": "Fire Ops 3",
+			"soundName": "",
+			"type": "LEO",
+			"coloredName": "[color=orange]Fire Ops 3[/color]",
+			"talkEnforcement": true,
+			"talkAround": false,
+			"scannable": true,
+			"encrypted": false,
+			"permission": 1
+		},
+		{
+			"id": 11,
+			"name": "SRT 1",
+			"soundName": "",
+			"type": "LEO",
+			"coloredName": "[color=orange]SRT 1[/color]",
+			"talkEnforcement": true,
+			"talkAround": false,
+			"scannable": true,
+			"encrypted": false,
+			"permission": 1
+		},
+		{
+			"id": 12,
+			"name": "SRT 2",
+			"soundName": "",
+			"type": "LEO",
+			"coloredName": "[color=grey]SRT 2[/color]",
+			"talkEnforcement": true,
+			"talkAround": true,
+			"scannable": true,
+			"encrypted": false,
+			"permission": 1
+		}
+	],
+	"time_settings": {
+		"emergencyOverridePeriod": 10,
+		"emergencyCooldown": 30,
+		"emergencyOtherCooldown": 20,
+		"dispatchToneCooldown": 15,
+		"radioStunCooldown": 5,
+		"radioPingCooldown": 10,
+		"911Cooldown": 30,
+		"commandStunPeriod": 300,
+		"toneWaitTalkPeriod": 5
+	},
+	"permissions": {
+		"permBasic": {
+			"serverGroupList": ["7"],
+			"clientUidList": [""]
+		},
+		"permExtra": {
+			"serverGroupList": [""],
+			"clientUidList": [""]
+		},
+		"permSit": {
+			"serverGroupList": [""],
+			"clientUidList": [""]
+		},
+		"permStaff": {
+			"serverGroupList": ["13"],
+			"clientUidList": [""]
+		},
+		"permSenior": {
+			"serverGroupList": ["209"],
+			"clientUidList": [""]
+		},
+		"permAdmin": {
+			"serverGroupList": ["12"],
+			"clientUidList": [""]
+		},
+		"permSuper": {
+			"serverGroupList": ["11"],
+			"clientUidList": [""]
+		}
+	}
+}
