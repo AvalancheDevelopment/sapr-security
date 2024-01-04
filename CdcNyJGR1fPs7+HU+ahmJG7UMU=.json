@@ -1,0 +1,148 @@
+{
+    "pluginStatus": true,
+    "isPaid": true,
+    "communityName": "Department of Safety Roleplay",
+    "betaCommunity": false,
+    "features": {
+        "inGameInterface": true,
+        "rangeSimulation": true,
+        "emergencyHotline": true
+    },
+    "talkAroundRange": 1500,
+    "betaServerGroups": [""],
+    "dispatchServerGroups": ["123"],
+    "dispatchAdvancedServerGroups": [],
+    "dispatchNameTags": [
+        "(P)",
+        "(S)",
+        "(T)",
+        "(FIRE)",
+        "(QA)",
+        "(EVAL)",
+        "[P]",
+        "[S]",
+        "[T]",
+        "[FIRE]",
+        "[QA]",
+        "[EVAL]"
+    ],
+    "civilianServerGroups": [""],
+    "civChannels": [54],
+    "radioSystems": [48],
+    "rtoChannels": [52],
+    "radioChannels": [
+        {
+            "id": 1,
+            "name": "Patrol Ops",
+            "soundName": "Ch_SWDispatch",
+            "type": "LEO",
+            "coloredName": "[color=green]Patrol Ops[/color]",
+            "talkEnforcement": true,
+            "talkAround": false,
+            "scannable": true,
+            "encrypted": false,
+            "permission": 1
+        },
+        {
+            "id": 2,
+            "name": "North Ops",
+            "soundName": "Ch_SWDispatch",
+            "type": "LEO",
+            "coloredName": "[color=blue]North Ops[/color]",
+            "talkEnforcement": true,
+            "talkAround": false,
+            "scannable": true,
+            "encrypted": false,
+            "permission": 1
+        },
+        {
+            "id": 3,
+            "name": "South Ops",
+            "soundName": "Ch_SWDispatch",
+            "type": "LEO",
+            "coloredName": "[color=blue]North Ops[/color]",
+            "talkEnforcement": true,
+            "talkAround": false,
+            "scannable": true,
+            "encrypted": true,
+            "permission": 1
+        },
+        {
+            "id": 4,
+            "name": "TAC1",
+            "soundName": "Ch_Tac1",
+            "type": "LEO",
+            "coloredName": "[color=purple]TAC1[/color]",
+            "talkEnforcement": true,
+            "talkAround": false,
+            "scannable": true,
+            "encrypted": true,
+            "permission": 1
+        },
+        {
+            "id": 5,
+            "name": "TAC2",
+            "soundName": "Ch_Tac2",
+            "type": "LEO",
+            "coloredName": "[color=purple]TAC2[/color]",
+            "talkEnforcement": true,
+            "talkAround": false,
+            "scannable": true,
+            "encrypted": true,
+            "permission": 1
+        },
+        {
+            "id": 6,
+            "name": "PRIVATE",
+            "soundName": "Ch_Private1",
+            "type": "LEO",
+            "coloredName": "[color=red]Private 1[/color]",
+            "talkEnforcement": true,
+            "talkAround": false,
+            "scannable": false,
+            "encrypted": true,
+            "permission": 1
+        }
+    ],
+    "time_settings": {
+        "emergencyOverridePeriod": 10,
+        "emergencyCooldown": 5,
+        "emergencyOtherCooldown": 2,
+        "dispatchToneCooldown": 15,
+        "radioStunCooldown": 5,
+        "radioPingCooldown": 10,
+        "911Cooldown": 2,
+        "commandStunPeriod": 300,
+        "toneWaitTalkPeriod": 5
+    },
+    "permissions": {
+        "permBasic": {
+            "serverGroupList": [138],
+            "clientUidList": [""]
+        },
+        "permExtra": {
+            "serverGroupList": [""],
+            "clientUidList": [""]
+        },
+        "permSit": {
+            "serverGroupList": ["137"],
+            "clientUidList": [""]
+        },
+        "permStaff": {
+            "serverGroupList": ["136"],
+            "clientUidList": [""]
+        },
+        "permSenior": {
+            "serverGroupList": ["135"],
+            "clientUidList": [""]
+        },
+        "permAdmin": {
+            "serverGroupList": ["134", "133"],
+            "clientUidList": [""]
+        },
+        "permSuper": {
+            "serverGroupList": ["125"],
+            "clientUidList": [""]
+        }
+    }
+}
