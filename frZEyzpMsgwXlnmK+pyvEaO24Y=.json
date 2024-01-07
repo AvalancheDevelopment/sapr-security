@@ -178,6 +178,30 @@
         },
         {
             "id": 12,
+            "name": "Training 1",
+            "soundName": "Training 1",
+            "type": "LEO",
+            "coloredName": "[color=grey]Training 1[/color]",
+            "talkEnforcement": true,
+            "talkAround": false,
+            "scannable": true,
+            "encrypted": true,
+            "permission": 1
+        },
+        {
+            "id": 13,
+            "name": "Training 2",
+            "soundName": "Training 2",
+            "type": "LEO",
+            "coloredName": "[color=grey]Training 2[/color]",
+            "talkEnforcement": true,
+            "talkAround": false,
+            "scannable": true,
+            "encrypted": true,
+            "permission": 1
+        },
+        {
+            "id": 14,
             "name": "Services",
             "soundName": "Services",
             "type": "LEO",
@@ -189,7 +213,7 @@
             "permission": 1
         },
         {
-            "id": 13,
+            "id": 15,
             "name": "Announcements",
             "soundName": "Announcements",
             "type": "announce",
