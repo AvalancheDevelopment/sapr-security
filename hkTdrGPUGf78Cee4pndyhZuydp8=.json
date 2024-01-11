@@ -114,10 +114,10 @@
         },
         {
             "id": 8,
-            "name": "SW Tow",
+            "name": "Statewide Tow",
             "soundName": "Statewide Tow",
             "type": "announce",
-            "coloredName": "[color=brown]SW Tow[/color]",
+            "coloredName": "[color=brown]Statewide Tow[/color]",
             "talkEnforcement": true,
             "talkAround": false,
             "scannable": true,
