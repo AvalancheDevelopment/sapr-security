@@ -31,7 +31,7 @@
         {
             "id": 1,
             "name": "Patrol Ops",
-            "soundName": "Statewide Dispatch",
+            "soundName": "Patrol Ops",
             "type": "LEO",
             "coloredName": "[color=green]Patrol Ops[/color]",
             "talkEnforcement": true,
