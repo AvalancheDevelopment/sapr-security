@@ -55,8 +55,20 @@
             "encrypted": false,
             "permission": 1
         },
-        {
+       {
             "id": 3,
+            "name": "Fireground",
+            "soundName": "",
+            "type": "LEO",
+            "coloredName": "[color=yellow]Fireground[/color]",
+            "talkEnforcement": true,
+            "talkAround": false,
+            "scannable": true,
+            "encrypted": false,
+            "permission": 1
+        },
+        {
+            "id": 4,
             "name": "Tac 1",
             "soundName": "",
             "type": "LEO",
@@ -68,7 +80,7 @@
             "permission": 1
         },
         {
-            "id": 4,
+            "id": 5,
             "name": "Tac 2",
             "soundName": "",
             "type": "LEO",
@@ -80,7 +92,7 @@
             "permission": 1
         },
         {
-            "id": 5,
+            "id": 6,
             "name": "On Scene 1",
             "soundName": "",
             "type": "LEO",
@@ -92,7 +104,7 @@
             "permission": 1
         },
         {
-            "id": 6,
+            "id": 7,
             "name": "On Scene 2",
             "soundName": "",
             "type": "LEO",
@@ -104,7 +116,7 @@
             "permission": 1
         },
         {
-            "id": 7,
+            "id": 8,
             "name": "Car/Car",
             "soundName": "",
             "type": "LEO",
