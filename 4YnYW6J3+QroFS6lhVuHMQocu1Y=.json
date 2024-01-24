@@ -126,6 +126,18 @@
             "scannable": true,
             "encrypted": false,
             "permission": 1
+        },
+        {
+            "id": 9,
+            "name": "Scan",
+            "soundName": "",
+            "type": "LEO",
+            "coloredName": "[color=grey]Scan[/color]",
+            "talkEnforcement": true,
+            "talkAround": false,
+            "scannable": true,
+            "encrypted": false,
+            "permission": 1
         }
     ],
     "time_settings": {
