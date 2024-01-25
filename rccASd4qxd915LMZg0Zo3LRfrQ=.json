@@ -1,0 +1,220 @@
+{
+    "pluginStatus": true,
+    "isPaid": true,
+    "communityName": "bonesofficial1 - 689280759390797874",
+    "betaCommunity": true,
+    "features": {
+        "inGameInterface": true,
+        "rangeSimulation": true,
+        "emergencyHotline": true
+    },
+    "talkAroundRange": 1500,
+    "betaServerGroups": [""],
+    "dispatchServerGroups": ["1036"],
+    "dispatchAdvancedServerGroups": ["1036"],
+    "dispatchNameTags": [
+        "(P)",
+        "(S)",
+        "(T)",
+        "(FIRE)",
+        "(QA)",
+        "(EVAL)",
+        "[P]",
+        "[S]",
+        "[T]",
+        "[FIRE]",
+        "[QA]",
+        "[EVAL]"
+    ],
+    "civilianServerGroups": [""],
+    "civChannels": [0],
+    "radioSystems": [45562],
+    "rtoChannels": [45568],
+    "radioChannels": [
+        {
+            "id": 1,
+            "name": "Main Comms",
+            "soundName": "Main Comms",
+            "type": "LEO",
+            "coloredName": "[color=green]Main Comms[/color]",
+            "talkEnforcement": true,
+            "talkAround": false,
+            "scannable": true,
+            "encrypted": false,
+            "permission": 1
+        },
+        {
+            "id": 2,
+            "name": "PD Ops",
+            "soundName": "PD Ops",
+            "type": "LEO",
+            "coloredName": "[color=green]PD Ops[/color]",
+            "talkEnforcement": true,
+            "talkAround": false,
+            "scannable": true,
+            "encrypted": false,
+            "permission": 1
+        },
+        {
+            "id": 3,
+            "name": "SO Ops",
+            "soundName": "SO Ops",
+            "type": "LEO",
+            "coloredName": "[color=purple]SO Ops[/color]",
+            "talkEnforcement": true,
+            "talkAround": false,
+            "scannable": true,
+            "encrypted": true,
+            "permission": 1
+        },
+        {
+            "id": 4,
+            "name": "State Ops",
+            "soundName": "State Ops",
+            "type": "LEO",
+            "coloredName": "[color=purple]State Ops[/color]",
+            "talkEnforcement": true,
+            "talkAround": false,
+            "scannable": true,
+            "encrypted": true,
+            "permission": 1
+        },
+        {
+            "id": 5,
+            "name": "FWC Ops",
+            "soundName": "FWC Ops",
+            "type": "LEO",
+            "coloredName": "[color=teal]FWC Ops[/color]",
+            "talkEnforcement": true,
+            "talkAround": false,
+            "scannable": true,
+            "encrypted": true,
+            "permission": 1
+        },
+        {
+            "id": 6,
+            "name": "LEO CAR/CAR",
+            "soundName": "LEO CAR/CAR",
+            "type": "LEO",
+            "coloredName": "[color=teal]LEO CAR/CAR[/color]",
+            "talkEnforcement": true,
+            "talkAround": false,
+            "scannable": true,
+            "encrypted": true,
+            "permission": 1
+        },
+        {
+            "id": 7,
+            "name": "Fire OPS",
+            "soundName": "Fire OPS",
+            "type": "LEO",
+            "coloredName": "[color=teal]Fire OPS[/color]",
+            "talkEnforcement": true,
+            "talkAround": false,
+            "scannable": true,
+            "encrypted": true,
+            "permission": 1
+        },
+        {
+            "id": 8,
+            "name": "EMS OPS",
+            "soundName": "EMS OPS",
+            "type": "LEO",
+            "coloredName": "[color=yellow]EMS OPS[/color]",
+            "talkEnforcement": true,
+            "talkAround": false,
+            "scannable": true,
+            "encrypted": false,
+            "permission": 1
+        },
+        {
+            "id": 9,
+            "name": "Fire Ground 1",
+            "soundName": "Fire Ground 1",
+            "type": "LEO",
+            "coloredName": "[color=yellow]Fire Ground 1[/color]",
+            "talkEnforcement": true,
+            "talkAround": false,
+            "scannable": true,
+            "encrypted": false,
+            "permission": 1
+        },
+        {
+            "id": 10,
+            "name": "FIRE CAR/CAR",
+            "soundName": "FIRE CAR/CAR",
+            "type": "LEO",
+            "coloredName": "[color=orange]FIRE CAR/CAR[/color]",
+            "talkEnforcement": true,
+            "talkAround": false,
+            "scannable": true,
+            "encrypted": true,
+            "permission": 1
+        },
+        {
+            "id": 11,
+            "name": "TAC 1",
+            "soundName": "TAC 1",
+            "type": "LEO",
+            "coloredName": "[color=orange]TAC 1[/color]",
+            "talkEnforcement": true,
+            "talkAround": false,
+            "scannable": true,
+            "encrypted": true,
+            "permission": 1
+        },
+        {
+            "id": 12,
+            "name": "TAC 2",
+            "soundName": "TAC 2",
+            "type": "LEO",
+            "coloredName": "[color=red]TAC 2[/color]",
+            "talkEnforcement": true,
+            "talkAround": false,
+            "scannable": true,
+            "encrypted": true,
+            "permission": 1
+        }
+    ],
+    "time_settings": {
+        "emergencyOverridePeriod": 10,
+        "emergencyCooldown": 30,
+        "emergencyOtherCooldown": 20,
+        "dispatchToneCooldown": 15,
+        "radioStunCooldown": 5,
+        "radioPingCooldown": 10,
+        "911Cooldown": 30,
+        "commandStunPeriod": 300,
+        "toneWaitTalkPeriod": 5
+    },
+    "permissions": {
+        "permBasic": {
+            "serverGroupList": [""],
+            "clientUidList": []
+        },
+        "permExtra": {
+            "serverGroupList": [""],
+            "clientUidList": [""]
+        },
+        "permSit": {
+            "serverGroupList": ["1072"],
+            "clientUidList": [""]
+        },
+        "permStaff": {
+            "serverGroupList": ["1073"],
+            "clientUidList": [""]
+        },
+        "permSenior": {
+            "serverGroupList": ["1074"],
+            "clientUidList": [""]
+        },
+        "permAdmin": {
+            "serverGroupList": ["1076", "1075"],
+            "clientUidList": [""]
+        },
+        "permSuper": {
+            "serverGroupList": ["1077"],
+            "clientUidList": [""]
+        }
+    }
+}
