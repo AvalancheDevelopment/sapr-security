@@ -98,7 +98,7 @@
             "type": "LEO",
             "coloredName": "[color=teal]LEO CAR/CAR[/color]",
             "talkEnforcement": true,
-            "talkAround": false,
+            "talkAround": true,
             "scannable": true,
             "encrypted": true,
             "permission": 1
