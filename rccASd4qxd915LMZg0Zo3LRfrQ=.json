@@ -11,7 +11,7 @@
     "talkAroundRange": 1500,
     "betaServerGroups": [""],
     "dispatchServerGroups": ["48526"],
-    "dispatchAdvancedServerGroups": ["48301"],
+    "dispatchAdvancedServerGroups": ["48526"],
     "dispatchNameTags": [
         "(P)",
         "(S)",
