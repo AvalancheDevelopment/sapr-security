@@ -98,7 +98,7 @@
             "type": "LEO",
             "coloredName": "[color=teal]LEO State Disp 3[/color]",
             "talkEnforcement": true,
-            "talkAround": true,
+            "talkAround": false,
             "scannable": true,
             "encrypted": true,
             "permission": 1
