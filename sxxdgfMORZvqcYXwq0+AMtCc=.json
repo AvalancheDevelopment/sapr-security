@@ -117,10 +117,10 @@
         },
         {
             "id": 8,
-            "name": "CCA RTO",
+            "name": "CAA RTO",
             "soundName": "",
             "type": "LEO",
-            "coloredName": "[color=green]CCA RTO[/color]",
+            "coloredName": "[color=green]CAA RTO[/color]",
             "talkEnforcement": true,
             "talkAround": false,
             "scannable": true,
