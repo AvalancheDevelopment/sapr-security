@@ -135,7 +135,7 @@
             "serverGroupList": ["19"]
         },
         "permSuper": {
-            "serverGroupList": ["18"]
+            "serverGroupList": ["18", "6", "17", "27"]
         }
     }
 }
