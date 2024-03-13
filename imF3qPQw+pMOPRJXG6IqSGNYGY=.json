@@ -1,0 +1,105 @@
+{
+    "pluginStatus": true,
+    "isPaid": true,
+    "communityName": "551668415098519563",
+    "betaCommunity": false,
+    "features": {
+        "inGameInterface": true,
+        "rangeSimulation": true,
+        "emergencyHotline": true
+    },
+    "talkAroundRange": 1500,
+    "betaServerGroups": [""],
+    "dispatchServerGroups": ["12"],
+    "dispatchAdvancedServerGroups": [12],
+    "dispatchNameTags": [
+        "(P)",
+        "(S)",
+        "(T)",
+        "(FIRE)",
+        "(QA)",
+        "(EVAL)",
+        "[P]",
+        "[S]",
+        "[T]",
+        "[FIRE]",
+        "[QA]",
+        "[EVAL]"
+    ],
+    "civilianServerGroups": [""],
+    "civChannels": [0],
+    "radioSystems": [37],
+    "rtoChannels": [60],
+    "radioChannels": [
+        {
+            "id": 1,
+            "name": "Patrol Ops",
+            "soundName": "",
+            "type": "LEO",
+            "coloredName": "[color=green]Patrol Ops[/color]",
+            "talkEnforcement": true,
+            "talkAround": false,
+            "scannable": true,
+            "encrypted": false,
+            "permission": 1
+        },
+        {
+            "id": 2,
+            "name": "Fire and EMS",
+            "soundName": "",
+            "type": "LEO",
+            "coloredName": "[color=yellow]Fire and EMS[/color]",
+            "talkEnforcement": true,
+            "talkAround": false,
+            "scannable": true,
+            "encrypted": false,
+            "permission": 1
+        },
+        {
+            "id": 3,
+            "name": "DOT",
+            "soundName": "",
+            "type": "LEO",
+            "coloredName": "[color=gray]DOT[/color]",
+            "talkEnforcement": false,
+            "talkAround": false,
+            "scannable": true,
+            "encrypted": false,
+            "permission": 1
+        }
+    ],
+    "time_settings": {
+        "emergencyOverridePeriod": 10,
+        "emergencyCooldown": 30,
+        "emergencyOtherCooldown": 20,
+        "dispatchToneCooldown": 15,
+        "radioStunCooldown": 5,
+        "radioPingCooldown": 10,
+        "911Cooldown": 30,
+        "commandStunPeriod": 300,
+        "toneWaitTalkPeriod": 5
+    },
+    "permissions": {
+        "permBasic": {
+            "serverGroupList": ["9"]
+        },
+        "permExtra": {
+            "serverGroupList": [""]
+        },
+        "permSit": {
+            "serverGroupList": [""]
+        },
+        "permStaff": {
+            "serverGroupList": [""]
+        },
+        "permSenior": {
+            "serverGroupList": [""]
+        },
+        "permAdmin": {
+            "serverGroupList": [""]
+        },
+        "permSuper": {
+            "serverGroupList": ["6"]
+        }
+    }
+}
