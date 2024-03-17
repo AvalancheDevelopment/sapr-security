@@ -1,0 +1,213 @@
+{
+    "pluginStatus": true,
+    "isPaid": true,
+    "communityName": "projectenervo - 485881833251405824",
+    "betaCommunity": false,
+    "features": {
+        "inGameInterface": true,
+        "rangeSimulation": true,
+        "emergencyHotline": true
+    },
+    "talkAroundRange": 1500,
+    "betaServerGroups": ["24636"],
+    "dispatchServerGroups": ["24636"],
+    "dispatchAdvancedServerGroups": [],
+    "dispatchNameTags": [
+        "(P)",
+        "(S)",
+        "(T)",
+        "(FIRE)",
+        "(QA)",
+        "(EVAL)",
+        "[P]",
+        "[S]",
+        "[T]",
+        "[FIRE]",
+        "[QA]",
+        "[EVAL]"
+    ],
+    "civilianServerGroups": [""],
+    "civChannels": [0],
+    "radioSystems": [24691],
+    "rtoChannels": [24692],
+    "radioChannels": [
+        {
+            "id": 1,
+            "name": "GBI Atlanta",
+            "soundName": "",
+            "type": "LEO",
+            "coloredName": "[color=green]GBI Atlanta[/color]",
+            "talkEnforcement": true,
+            "talkAround": false,
+            "scannable": true,
+            "encrypted": true,
+            "permission": 1
+        },
+        {
+            "id": 2,
+            "name": "GSP LaFayette",
+            "soundName": "",
+            "type": "LEO",
+            "coloredName": "[color=yellow]GSP LaFayette[/color]",
+            "talkEnforcement": true,
+            "talkAround": false,
+            "scannable": true,
+            "encrypted": true,
+            "permission": 1
+        },
+        {
+            "id": 3,
+            "name": "GSP Dalton",
+            "soundName": "",
+            "type": "LEO",
+            "coloredName": "[color=purple]GSP Dalton[/color]",
+            "talkEnforcement": true,
+            "talkAround": false,
+            "scannable": true,
+            "encrypted": true,
+            "permission": 1
+        },
+        {
+            "id": 4,
+            "name": "WCSO Ch 16",
+            "soundName": "",
+            "type": "LEO",
+            "coloredName": "[color=purple]WCSO Ch 16[/color]",
+            "talkEnforcement": true,
+            "talkAround": false,
+            "scannable": true,
+            "encrypted": true,
+            "permission": 1
+        },
+        {
+            "id": 5,
+            "name": "WFCSO Disp",
+            "soundName": "",
+            "type": "LEO",
+            "coloredName": "[color=grey]WFCSO Disp[/color]",
+            "talkEnforcement": true,
+            "talkAround": true,
+            "scannable": true,
+            "encrypted": false,
+            "permission": 1
+        },
+        {
+            "id": 6,
+            "name": "DPD Disp",
+            "soundName": "",
+            "type": "LEO",
+            "coloredName": "[color=red]DPD Disp[/color]",
+            "talkEnforcement": true,
+            "talkAround": false,
+            "scannable": false,
+            "encrypted": true,
+            "permission": 1
+        },
+        {
+            "id": 7,
+            "name": "LPD Disp",
+            "soundName": "",
+            "type": "LEO",
+            "coloredName": "[color=red]LPD Disp[/color]",
+            "talkEnforcement": true,
+            "talkAround": false,
+            "scannable": false,
+            "encrypted": true,
+            "permission": 1
+        },
+        {
+            "id": 8,
+            "name": "WCFD/DFD Disp",
+            "soundName": "",
+            "type": "LEO",
+            "coloredName": "[color=red]WCFD/DFD Disp[/color]",
+            "talkEnforcement": true,
+            "talkAround": false,
+            "scannable": false,
+            "encrypted": true,
+            "permission": 1
+        },
+        {
+            "id": 9,
+            "name": "Fire Scene Ch 1",
+            "soundName": "",
+            "type": "LEO",
+            "coloredName": "[color=red]Fire Scene Ch 1[/color]",
+            "talkEnforcement": true,
+            "talkAround": false,
+            "scannable": false,
+            "encrypted": true,
+            "permission": 1
+        },
+        {
+            "id": 10,
+            "name": "Fire Scene Ch 2",
+            "soundName": "",
+            "type": "LEO",
+            "coloredName": "[color=red]Fire Scene Ch 2[/color]",
+            "talkEnforcement": true,
+            "talkAround": false,
+            "scannable": false,
+            "encrypted": true,
+            "permission": 1
+        },
+        {
+            "id": 11,
+            "name": "Ops Ch 1",
+            "soundName": "",
+            "type": "LEO",
+            "coloredName": "[color=red]Ops Ch 1[/color]",
+            "talkEnforcement": true,
+            "talkAround": false,
+            "scannable": false,
+            "encrypted": true,
+            "permission": 1
+        },
+        {
+            "id": 12,
+            "name": "Ops Ch 2",
+            "soundName": "",
+            "type": "LEO",
+            "coloredName": "[color=red]Ops Ch 2[/color]",
+            "talkEnforcement": true,
+            "talkAround": false,
+            "scannable": false,
+            "encrypted": true,
+            "permission": 1
+        }
+    ],
+    "time_settings": {
+        "emergencyOverridePeriod": 10,
+        "emergencyCooldown": 30,
+        "emergencyOtherCooldown": 20,
+        "dispatchToneCooldown": 15,
+        "radioStunCooldown": 5,
+        "radioPingCooldown": 10,
+        "911Cooldown": 30,
+        "commandStunPeriod": 300,
+        "toneWaitTalkPeriod": 5
+    },
+    "permissions": {
+        "permBasic": {
+            "serverGroupList": [""]
+        },
+        "permExtra": {
+            "serverGroupList": [""]
+        },
+        "permSit": {
+            "serverGroupList": [""]
+        },
+        "permStaff": {
+            "serverGroupList": [""]
+        },
+        "permSenior": {
+            "serverGroupList": [""]
+        },
+        "permAdmin": {
+            "serverGroupList": [""]
+        },
+        "permSuper": {
+            "serverGroupList": ["24622"]
+        }
+    }
+}
