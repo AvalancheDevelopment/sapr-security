@@ -1,7 +1,7 @@
 {
     "pluginStatus": true,
     "isPaid": true,
-    "communityName": "Golden Coast Roleplay",
+    "communityName": "CoastsideRP",
     "betaCommunity": false,
     "features": {
         "inGameInterface": true,
@@ -10,8 +10,8 @@
     },
     "talkAroundRange": 1500,
     "betaServerGroups": [""],
-    "dispatchServerGroups": ["444" ],
-    "dispatchAdvancedServerGroups": ["444"],
+    "dispatchServerGroups": ["1902" ],
+    "dispatchAdvancedServerGroups": ["1902"],
     "dispatchNameTags": [
         "(P)",
         "(S)",
@@ -28,8 +28,8 @@
     ],
     "civilianServerGroups": [""],
     "civChannels": [0],
-    "radioSystems": ["51"],
-    "rtoChannels": ["57"],
+    "radioSystems": ["1403"],
+    "rtoChannels": ["1409"],
     "radioChannels": [
         {
             "id": 1,
@@ -177,7 +177,7 @@
     },
     "permissions": {
         "permBasic": {
-            "serverGroupList": ["455"],
+            "serverGroupList": ["1913"],
             "clientUidList": [""]
         },
         "permExtra": {
@@ -185,23 +185,23 @@
             "clientUidList": [""]
         },
         "permSit": {
-            "serverGroupList": ["456"],
+            "serverGroupList": ["1914"],
             "clientUidList": [""]
         },
         "permStaff": {
-            "serverGroupList": ["457"],
+            "serverGroupList": ["1915"],
             "clientUidList": [""]
         },
         "permSenior": {
-            "serverGroupList": ["458"],
+            "serverGroupList": ["1916"],
             "clientUidList": [""]
         },
         "permAdmin": {
-            "serverGroupList": ["460", "459"],
+            "serverGroupList": ["1918", "1917"],
             "clientUidList": [""]
         },
         "permSuper": {
-            "serverGroupList": ["462"],
+            "serverGroupList": ["1470", "1922", "1930", "1931"],
             "clientUidList": [""]
         }
     }
