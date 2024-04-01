@@ -246,7 +246,7 @@
             "clientUidList": [""]
         },
         "permSit": {
-            "serverGroupList": [""],
+            "serverGroupList": ["45"],
             "clientUidList": [""]
         },
         "permStaff": {
