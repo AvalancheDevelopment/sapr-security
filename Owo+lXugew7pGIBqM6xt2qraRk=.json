@@ -1,0 +1,249 @@
+{
+    "pluginStatus": true,
+    "isPaid": true,
+    "communityName": "514138804073005058",
+    "betaCommunity": false,
+    "features": {
+        "inGameInterface": true,
+        "rangeSimulation": true,
+        "emergencyHotline": true
+    },
+    "talkAroundRange": 1500,
+    "betaServerGroups": [""],
+    "dispatchServerGroups": ["10"],
+    "dispatchAdvancedServerGroups": [10],
+    "dispatchNameTags": [
+        "(P)",
+        "(S)",
+        "(T)",
+        "(FIRE)",
+        "(QA)",
+        "(EVAL)",
+        "[P]",
+        "[S]",
+        "[T]",
+        "[FIRE]",
+        "[QA]",
+        "[EVAL]"
+    ],
+    "civilianServerGroups": [""],
+    "civChannels": [0],
+    "radioSystems": [10],
+    "rtoChannels": [18],
+    "radioChannels": [
+        {
+            "id": 1,
+            "name": "NR 1A",
+            "soundName": "",
+            "type": "LEO",
+            "coloredName": "[color=green]NR 1A[/color]",
+            "talkEnforcement": true,
+            "talkAround": false,
+            "scannable": true,
+            "encrypted": false,
+            "permission": 1
+        },
+        {
+            "id": 2,
+            "name": "ER 1A",
+            "soundName": "",
+            "type": "LEO",
+            "coloredName": "[color=green]ER 1A[/color]",
+            "talkEnforcement": true,
+            "talkAround": false,
+            "scannable": true,
+            "encrypted": false,
+            "permission": 1
+        },
+        {
+            "id": 3,
+            "name": "WR 1A",
+            "soundName": "",
+            "type": "LEO",
+            "coloredName": "[color=green]WR 1A[/color]",
+            "talkEnforcement": true,
+            "talkAround": false,
+            "scannable": true,
+            "encrypted": false,
+            "permission": 1
+        },
+        {
+            "id": 4,
+            "name": "SR 1A",
+            "soundName": "",
+            "type": "LEO",
+            "coloredName": "[color=green]SR 1A[/color]",
+            "talkEnforcement": true,
+            "talkAround": false,
+            "scannable": true,
+            "encrypted": false,
+            "permission": 1
+        },
+        {
+            "id": 5,
+            "name": "Tac 1",
+            "soundName": "",
+            "type": "LEO",
+            "coloredName": "[color=purple]Tac 1[/color]",
+            "talkEnforcement": true,
+            "talkAround": false,
+            "scannable": true,
+            "encrypted": true,
+            "permission": 1
+        },
+        {
+            "id": 6,
+            "name": "Tac 2",
+            "soundName": "",
+            "type": "LEO",
+            "coloredName": "[color=purple]Tac 2[/color]",
+            "talkEnforcement": true,
+            "talkAround": false,
+            "scannable": true,
+            "encrypted": true,
+            "permission": 1
+        },
+        {
+            "id": 7,
+            "name": "MCI MAIN",
+            "soundName": "",
+            "type": "LEO",
+            "coloredName": "[color=green]MCI MAIN[/color]",
+            "talkEnforcement": true,
+            "talkAround": false,
+            "scannable": true,
+            "encrypted": false,
+            "permission": 1
+        },
+        {
+            "id": 8,
+            "name": "AIR MAIN",
+            "soundName": "",
+            "type": "LEO",
+            "coloredName": "[color=green]AIR MAIN[/color]",
+            "talkEnforcement": true,
+            "talkAround": false,
+            "scannable": true,
+            "encrypted": false,
+            "permission": 1
+        },
+        {
+            "id": 9,
+            "name": "JOINT OPS",
+            "soundName": "",
+            "type": "LEO",
+            "coloredName": "[color=green]JOINT OPS[/color]",
+            "talkEnforcement": true,
+            "talkAround": false,
+            "scannable": true,
+            "encrypted": false,
+            "permission": 1
+        },
+        {
+            "id": 10,
+            "name": "ALT OPS",
+            "soundName": "",
+            "type": "LEO",
+            "coloredName": "[color=green]ALT OPS[/color]",
+            "talkEnforcement": true,
+            "talkAround": false,
+            "scannable": true,
+            "encrypted": false,
+            "permission": 1
+        },
+        {
+            "id": 11,
+            "name": "FIRE MAIN",
+            "soundName": "",
+            "type": "LEO",
+            "coloredName": "[color=yellow]FIRE MAIN[/color]",
+            "talkEnforcement": true,
+            "talkAround": false,
+            "scannable": true,
+            "encrypted": false,
+            "permission": 1
+        },
+        {
+            "id": 12,
+            "name": "FIRE SOUTH",
+            "soundName": "",
+            "type": "LEO",
+            "coloredName": "[color=yellow]FIRE SOUTH[/color]",
+            "talkEnforcement": true,
+            "talkAround": false,
+            "scannable": true,
+            "encrypted": false,
+            "permission": 1
+        },
+        {
+            "id": 13,
+            "name": "FIRE NORTH",
+            "soundName": "",
+            "type": "LEO",
+            "coloredName": "[color=yellow]FIRE NORTH[/color]",
+            "talkEnforcement": true,
+            "talkAround": false,
+            "scannable": true,
+            "encrypted": false,
+            "permission": 1
+        },
+        {
+            "id": 14,
+            "name": "FIRE WEST",
+            "soundName": "",
+            "type": "LEO",
+            "coloredName": "[color=yellow]FIRE WEST[/color]",
+            "talkEnforcement": true,
+            "talkAround": false,
+            "scannable": true,
+            "encrypted": false,
+            "permission": 1
+        },
+        {
+            "id": 15,
+            "name": "FIRE EAST",
+            "soundName": "",
+            "type": "LEO",
+            "coloredName": "[color=yellow]FIRE EAST[/color]",
+            "talkEnforcement": true,
+            "talkAround": false,
+            "scannable": true,
+            "encrypted": false,
+            "permission": 1
+        }
+    ],
+    "time_settings": {
+        "emergencyOverridePeriod": 10,
+        "emergencyCooldown": 30,
+        "emergencyOtherCooldown": 20,
+        "dispatchToneCooldown": 15,
+        "radioStunCooldown": 5,
+        "radioPingCooldown": 10,
+        "911Cooldown": 30,
+        "commandStunPeriod": 300,
+        "toneWaitTalkPeriod": 5
+    },
+    "permissions": {
+        "permBasic": {
+            "serverGroupList": [""]
+        },
+        "permExtra": {
+            "serverGroupList": [""]
+        },
+        "permSit": {
+            "serverGroupList": ["9"]
+        },
+        "permStaff": {
+            "serverGroupList": [""]
+        },
+        "permSenior": {
+            "serverGroupList": ["11"]
+        },
+        "permAdmin": {
+            "serverGroupList": ["12"]
+        },
+        "permSuper": {
+            "serverGroupList": ["13"]
+        }
+    }
+}
