@@ -117,6 +117,42 @@
         },
         {
             "id": 8,
+            "name": "Tac 1",
+            "soundName": "",
+            "type": "LEO",
+            "coloredName": "[color=purple]Tac 1[/color]",
+            "talkEnforcement": true,
+            "talkAround": false,
+            "scannable": true,
+            "encrypted": true,
+            "permission": 1
+        },
+        {
+            "id": 9,
+            "name": "Tac 2",
+            "soundName": "",
+            "type": "LEO",
+            "coloredName": "[color=purple]Tac 2[/color]",
+            "talkEnforcement": true,
+            "talkAround": false,
+            "scannable": true,
+            "encrypted": true,
+            "permission": 1
+        },
+        {
+            "id": 10,
+            "name": "Car/Car",
+            "soundName": "",
+            "type": "LEO",
+            "coloredName": "[color=grey]Car/Car[/color]",
+            "talkEnforcement": true,
+            "talkAround": true,
+            "scannable": true,
+            "encrypted": false,
+            "permission": 1
+        },
+        {
+            "id": 11,
             "name": "FIRE/EMS N",
             "soundName": "",
             "type": "LEO",
@@ -128,7 +164,7 @@
             "permission": 1
         },
         {
-            "id": 9,
+            "id": 12,
             "name": "FIRE/EMS S",
             "soundName": "",
             "type": "LEO",
