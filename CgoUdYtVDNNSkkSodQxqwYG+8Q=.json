@@ -1,0 +1,177 @@
+{
+    "pluginStatus": true,
+    "isPaid": true,
+    "communityName": "",
+    "betaCommunity": false,
+    "features": {
+        "inGameInterface": true,
+        "rangeSimulation": true,
+        "emergencyHotline": true
+    },
+    "talkAroundRange": 1500,
+    "betaServerGroups": [""],
+    "dispatchServerGroups": ["49614"],
+    "dispatchAdvancedServerGroups": ["49614"],
+    "dispatchNameTags": [
+        "(P)",
+        "(S)",
+        "(T)",
+        "(FIRE)",
+        "(QA)",
+        "(EVAL)",
+        "[P]",
+        "[S]",
+        "[T]",
+        "[FIRE]",
+        "[QA]",
+        "[EVAL]"
+    ],
+    "civilianServerGroups": [""],
+    "civChannels": [0],
+    "radioSystems": [47093],
+    "rtoChannels": [47109],
+    "radioChannels": [
+        {
+            "id": 1,
+            "name": "Highway Law",
+            "soundName": "",
+            "type": "LEO",
+            "coloredName": "[color=brown]Highway Law[/color]",
+            "talkEnforcement": true,
+            "talkAround": false,
+            "scannable": true,
+            "encrypted": false,
+            "permission": 1
+        },
+        {
+            "id": 2,
+            "name": "LS County Law",
+            "soundName": "",
+            "type": "LEO",
+            "coloredName": "[color=green]LS County Law[/color]",
+            "talkEnforcement": true,
+            "talkAround": false,
+            "scannable": true,
+            "encrypted": false,
+            "permission": 1
+        },
+        {
+            "id": 3,
+            "name": "BC County Law",
+            "soundName": "",
+            "type": "LEO",
+            "coloredName": "[color=green]BC County Law[/color]",
+            "talkEnforcement": true,
+            "talkAround": false,
+            "scannable": true,
+            "encrypted": false,
+            "permission": 1
+        },
+        {
+            "id": 4,
+            "name": "NOR/CENT CITY LAW",
+            "soundName": "",
+            "type": "LEO",
+            "coloredName": "[color=blue]North/Central City Law[/color]",
+            "talkEnforcement": true,
+            "talkAround": false,
+            "scannable": true,
+            "encrypted": false,
+            "permission": 1
+        },
+        {
+            "id": 5,
+            "name": "SOUTH CITY LAW",
+            "soundName": "",
+            "type": "LEO",
+            "coloredName": "[color=blue]South City Law[/color]",
+            "talkEnforcement": true,
+            "talkAround": false,
+            "scannable": true,
+            "encrypted": false,
+            "permission": 1
+        },
+        {
+            "id": 6,
+            "name": "Sandy Law",
+            "soundName": "",
+            "type": "LEO",
+            "coloredName": "[color=orange]Sandy Law[/color]",
+            "talkEnforcement": true,
+            "talkAround": false,
+            "scannable": true,
+            "encrypted": false,
+            "permission": 1
+        },
+        {
+            "id": 7,
+            "name": "Paleto Law",
+            "soundName": "",
+            "type": "LEO",
+            "coloredName": "[color=grey]Paleto Law[/color]",
+            "talkEnforcement": true,
+            "talkAround": false,
+            "scannable": true,
+            "encrypted": false,
+            "permission": 1
+        },
+        {
+            "id": 8,
+            "name": "FIRE/EMS N",
+            "soundName": "",
+            "type": "LEO",
+            "coloredName": "[color=yellow]FIRE/EMS NORTH[/color]",
+            "talkEnforcement": true,
+            "talkAround": false,
+            "scannable": true,
+            "encrypted": false,
+            "permission": 1
+        },
+        {
+            "id": 9,
+            "name": "FIRE/EMS S",
+            "soundName": "",
+            "type": "LEO",
+            "coloredName": "[color=yellow]FIRE/EMS SOUTH[/color]",
+            "talkEnforcement": true,
+            "talkAround": false,
+            "scannable": true,
+            "encrypted": false,
+            "permission": 1
+        }
+    ],
+    "time_settings": {
+        "emergencyOverridePeriod": 10,
+        "emergencyCooldown": 30,
+        "emergencyOtherCooldown": 20,
+        "dispatchToneCooldown": 15,
+        "radioStunCooldown": 5,
+        "radioPingCooldown": 10,
+        "911Cooldown": 30,
+        "commandStunPeriod": 300,
+        "toneWaitTalkPeriod": 5
+    },
+    "permissions": {
+        "permBasic": {
+            "serverGroupList": [""]
+        },
+        "permExtra": {
+            "serverGroupList": [""]
+        },
+        "permSit": {
+            "serverGroupList": ["49609"]
+        },
+        "permStaff": {
+            "serverGroupList": ["49610"]
+        },
+        "permSenior": {
+            "serverGroupList": ["49611"]
+        },
+        "permAdmin": {
+            "serverGroupList": ["49612"]
+        },
+        "permSuper": {
+            "serverGroupList": ["49614"]
+        }
+    }
+}
