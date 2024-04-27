@@ -1,0 +1,177 @@
+{
+    "pluginStatus": true,
+    "isPaid": true,
+    "communityName": "bradleyt. - 470746317082329088",
+    "betaCommunity": false,
+    "features": {
+        "inGameInterface": true,
+        "rangeSimulation": true,
+        "emergencyHotline": true
+    },
+    "talkAroundRange": 1500,
+    "betaServerGroups": [""],
+    "dispatchServerGroups": ["491"],
+    "dispatchAdvancedServerGroups": [491],
+    "dispatchNameTags": [
+        "(P)",
+        "(S)",
+        "(T)",
+        "(FIRE)",
+        "(QA)",
+        "(EVAL)",
+        "[P]",
+        "[S]",
+        "[T]",
+        "[FIRE]",
+        "[QA]",
+        "[EVAL]"
+    ],
+    "civilianServerGroups": [""],
+    "civChannels": [0],
+    "radioSystems": [61],
+    "rtoChannels": [62, 65],
+    "radioChannels": [
+        {
+            "id": 1,
+            "name": "Dispatch - MURS",
+            "soundName": "",
+            "type": "LEO",
+            "coloredName": "[color=grey]Dispatch - MURS[/color]",
+            "talkEnforcement": true,
+            "talkAround": false,
+            "scannable": true,
+            "encrypted": true,
+            "permission": 1
+        },
+        {
+            "id": 2,
+            "name": "Dispatch - PD",
+            "soundName": "Dispatch - PD",
+            "type": "LEO",
+            "coloredName": "[color=grey]Dispatch - PD[/color]",
+            "talkEnforcement": true,
+            "talkAround": false,
+            "scannable": true,
+            "encrypted": true,
+            "permission": 1
+        },
+        {
+            "id": 3,
+            "name": "Dispatch - DPS",
+            "soundName": "Dispatch - DPS",
+            "type": "LEO",
+            "coloredName": "[color=grey]Dispatch - DPS[/color]",
+            "talkEnforcement": true,
+            "talkAround": false,
+            "scannable": false,
+            "encrypted": true,
+            "permission": 1
+        },
+        {
+            "id": 4,
+            "name": "Dispatch - SO",
+            "soundName": "Dispatch - SO",
+            "type": "LEO",
+            "coloredName": "[color=blue]Dispatch - SO[/color]",
+            "talkEnforcement": true,
+            "talkAround": false,
+            "scannable": true,
+            "encrypted": true,
+            "permission": 1
+        },
+        {
+            "id": 5,
+            "name": "Dispatch - FD",
+            "soundName": "Dispatch - FD",
+            "type": "LEO",
+            "coloredName": "[color=blue]Dispatch - FD[/color]",
+            "talkEnforcement": true,
+            "talkAround": false,
+            "scannable": true,
+            "encrypted": false,
+            "permission": 1
+        },
+        {
+            "id": 6,
+            "name": "Tac 1",
+            "soundName": "Tac 1",
+            "type": "LEO",
+            "coloredName": "[color=blue]Tac 1[/color]",
+            "talkEnforcement": true,
+            "talkAround": false,
+            "scannable": true,
+            "encrypted": true,
+            "permission": 1
+        },
+        {
+            "id": 7,
+            "name": "Tac 2",
+            "soundName": "Tac 2",
+            "type": "LEO",
+            "coloredName": "[color=blue]Tac 2[/color]",
+            "talkEnforcement": true,
+            "talkAround": false,
+            "scannable": false,
+            "encrypted": true,
+            "permission": 1
+        },
+        {
+            "id": 8,
+            "name": "Car/Car",
+            "soundName": "Car to Car",
+            "type": "LEO",
+            "coloredName": "[color=green]Car/Car[/color]",
+            "talkEnforcement": true,
+            "talkAround": false,
+            "scannable": true,
+            "encrypted": true,
+            "permission": 1
+        },
+        {
+            "id": 9,
+            "name": "Private 1",
+            "soundName": "Private 1",
+            "type": "LEO",
+            "coloredName": "[color=green]Private 1[/color]",
+            "talkEnforcement": true,
+            "talkAround": false,
+            "scannable": false,
+            "encrypted": true,
+            "permission": 1
+        }
+    ],
+    "time_settings": {
+        "emergencyOverridePeriod": 10,
+        "emergencyCooldown": 30,
+        "emergencyOtherCooldown": 20,
+        "dispatchToneCooldown": 15,
+        "radioStunCooldown": 5,
+        "radioPingCooldown": 10,
+        "911Cooldown": 30,
+        "commandStunPeriod": 300,
+        "toneWaitTalkPeriod": 5
+    },
+    "permissions": {
+        "permBasic": {
+            "serverGroupList": [""]
+        },
+        "permExtra": {
+            "serverGroupList": [""]
+        },
+        "permSit": {
+            "serverGroupList": ["508"]
+        },
+        "permStaff": {
+            "serverGroupList": ["509"]
+        },
+        "permSenior": {
+            "serverGroupList": ["512", "511"]
+        },
+        "permAdmin": {
+            "serverGroupList": ["514", "513"]
+        },
+        "permSuper": {
+            "serverGroupList": ["515"]
+        }
+    }
+}
