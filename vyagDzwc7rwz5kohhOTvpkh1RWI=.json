@@ -28,7 +28,7 @@
     ],
     "civilianServerGroups": [""],
     "civChannels": [0],
-    "radioSystems": [31520],
+    "radioSystems": [31521, 31522],
     "rtoChannels": [31524, 31525],
     "radioChannels": [
         {
@@ -188,7 +188,7 @@
             "permission": 1
         },
         {
-            "id": 13,
+            "id": 14,
             "name": "Fire C2C",
             "soundName": "",
             "type": "LEO",
@@ -200,7 +200,7 @@
             "permission": 1
         },
         {
-            "id": 14,
+            "id": 15,
             "name": "Ops Ch",
             "soundName": "",
             "type": "LEO",
