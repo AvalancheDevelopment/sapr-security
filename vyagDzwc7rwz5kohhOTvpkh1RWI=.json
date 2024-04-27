@@ -1,0 +1,249 @@
+{
+    "pluginStatus": true,
+    "isPaid": true,
+    "communityName": "projectenervo - 485881833251405824",
+    "betaCommunity": false,
+    "features": {
+        "inGameInterface": true,
+        "rangeSimulation": true,
+        "emergencyHotline": true
+    },
+    "talkAroundRange": 1500,
+    "betaServerGroups": ["30747"],
+    "dispatchServerGroups": ["30747"],
+    "dispatchAdvancedServerGroups": [],
+    "dispatchNameTags": [
+        "(P)",
+        "(S)",
+        "(T)",
+        "(FIRE)",
+        "(QA)",
+        "(EVAL)",
+        "[P]",
+        "[S]",
+        "[T]",
+        "[FIRE]",
+        "[QA]",
+        "[EVAL]"
+    ],
+    "civilianServerGroups": [""],
+    "civChannels": [0],
+    "radioSystems": [31520],
+    "rtoChannels": [31524, 31525],
+    "radioChannels": [
+        {
+            "id": 1,
+            "name": "State Patrol 1",
+            "soundName": "",
+            "type": "LEO",
+            "coloredName": "[color=grey]State Patrol 1[/color]",
+            "talkEnforcement": true,
+            "talkAround": false,
+            "scannable": true,
+            "encrypted": true,
+            "permission": 1
+        },
+        {
+            "id": 2,
+            "name": "State Patrol 2",
+            "soundName": "",
+            "type": "LEO",
+            "coloredName": "[color=grey]State Patrol 2[/color]",
+            "talkEnforcement": true,
+            "talkAround": false,
+            "scannable": true,
+            "encrypted": true,
+            "permission": 1
+        },
+        {
+            "id": 3,
+            "name": "State C2C",
+            "soundName": "",
+            "type": "LEO",
+            "coloredName": "[color=grey]State C2C[/color]",
+            "talkEnforcement": true,
+            "talkAround": false,
+            "scannable": false,
+            "encrypted": true,
+            "permission": 1
+        },
+        {
+            "id": 4,
+            "name": "Los Santos Disp",
+            "soundName": "",
+            "type": "LEO",
+            "coloredName": "[color=blue]Los Santos Disp[/color]",
+            "talkEnforcement": true,
+            "talkAround": false,
+            "scannable": true,
+            "encrypted": true,
+            "permission": 1
+        },
+        {
+            "id": 5,
+            "name": "Valley Disp",
+            "soundName": "",
+            "type": "LEO",
+            "coloredName": "[color=blue]Valley Disp[/color]",
+            "talkEnforcement": true,
+            "talkAround": false,
+            "scannable": true,
+            "encrypted": false,
+            "permission": 1
+        },
+        {
+            "id": 6,
+            "name": "Paleto Disp",
+            "soundName": "",
+            "type": "LEO",
+            "coloredName": "[color=blue]Paleto Disp[/color]",
+            "talkEnforcement": true,
+            "talkAround": false,
+            "scannable": true,
+            "encrypted": true,
+            "permission": 1
+        },
+        {
+            "id": 7,
+            "name": "City C2C",
+            "soundName": "",
+            "type": "LEO",
+            "coloredName": "[color=blue]City C2C[/color]",
+            "talkEnforcement": true,
+            "talkAround": false,
+            "scannable": false,
+            "encrypted": true,
+            "permission": 1
+        },
+        {
+            "id": 8,
+            "name": "Blaine Ch 16",
+            "soundName": "",
+            "type": "LEO",
+            "coloredName": "[color=green]Blaine Ch 16[/color]",
+            "talkEnforcement": true,
+            "talkAround": false,
+            "scannable": true,
+            "encrypted": true,
+            "permission": 1
+        },
+        {
+            "id": 9,
+            "name": "County C2C",
+            "soundName": "",
+            "type": "LEO",
+            "coloredName": "[color=green]County C2C[/color]",
+            "talkEnforcement": true,
+            "talkAround": false,
+            "scannable": false,
+            "encrypted": true,
+            "permission": 1
+        },
+        {
+            "id": 10,
+            "name": "DNR Region 1",
+            "soundName": "",
+            "type": "LEO",
+            "coloredName": "[color=green]DNR Region 1[/color]",
+            "talkEnforcement": true,
+            "talkAround": false,
+            "scannable": true,
+            "encrypted": true,
+            "permission": 1
+        },
+        {
+            "id": 11,
+            "name": "DNR Region 2",
+            "soundName": "",
+            "type": "LEO",
+            "coloredName": "[color=green]DNR Region 2[/color]",
+            "talkEnforcement": true,
+            "talkAround": false,
+            "scannable": true,
+            "encrypted": true,
+            "permission": 1
+        }, 
+        {
+            "id": 12,
+            "name": "North Fire",
+            "soundName": "",
+            "type": "LEO",
+            "coloredName": "[color=red]North Fire[/color]",
+            "talkEnforcement": true,
+            "talkAround": false,
+            "scannable": true,
+            "encrypted": true,
+            "permission": 1
+        },  
+        {
+            "id": 13,
+            "name": "South Fire",
+            "soundName": "",
+            "type": "LEO",
+            "coloredName": "[color=red]South Fire[/color]",
+            "talkEnforcement": true,
+            "talkAround": false,
+            "scannable": true,
+            "encrypted": true,
+            "permission": 1
+        },
+        {
+            "id": 13,
+            "name": "Fire C2C",
+            "soundName": "",
+            "type": "LEO",
+            "coloredName": "[color=red]Fire C2C[/color]",
+            "talkEnforcement": true,
+            "talkAround": false,
+            "scannable": false,
+            "encrypted": true,
+            "permission": 1
+        },
+        {
+            "id": 14,
+            "name": "Ops Ch",
+            "soundName": "",
+            "type": "LEO",
+            "coloredName": "[color=red]Ops Ch[/color]",
+            "talkEnforcement": true,
+            "talkAround": false,
+            "scannable": false,
+            "encrypted": true,
+            "permission": 1
+        }
+    ],
+    "time_settings": {
+        "emergencyOverridePeriod": 10,
+        "emergencyCooldown": 30,
+        "emergencyOtherCooldown": 20,
+        "dispatchToneCooldown": 15,
+        "radioStunCooldown": 5,
+        "radioPingCooldown": 10,
+        "911Cooldown": 30,
+        "commandStunPeriod": 300,
+        "toneWaitTalkPeriod": 5
+    },
+    "permissions": {
+        "permBasic": {
+            "serverGroupList": [""]
+        },
+        "permExtra": {
+            "serverGroupList": [""]
+        },
+        "permSit": {
+            "serverGroupList": [""]
+        },
+        "permStaff": {
+            "serverGroupList": [""]
+        },
+        "permSenior": {
+            "serverGroupList": [""]
+        },
+        "permAdmin": {
+            "serverGroupList": [""]
+        },
+        "permSuper": {
+            "serverGroupList": ["30722"]
+        }
+    }
+}
