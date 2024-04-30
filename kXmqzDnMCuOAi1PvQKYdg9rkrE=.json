@@ -1,7 +1,7 @@
 {
     "pluginStatus": true,
     "isPaid": true,
-    "communityName": "CURP",
+    "communityName": "Mid-Atlantic RP | Mere",
     "betaCommunity": false,
     "features": {
         "inGameInterface": true,
@@ -28,8 +28,8 @@
     ],
     "civilianServerGroups": [],
     "civChannels": [],
-    "radioSystems": [2],
-    "rtoChannels": [3],
+    "radioSystems": [3],
+    "rtoChannels": [4],
     "radioChannels": [
         {
             "id": 1,
@@ -183,7 +183,7 @@
             "serverGroupList": [""]
         },
         "permSuper": {
-            "serverGroupList": [""]
+            "serverGroupList": ["6"]
         }
     }
 }
