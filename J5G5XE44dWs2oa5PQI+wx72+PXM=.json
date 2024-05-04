@@ -28,8 +28,8 @@
     ],
     "civilianServerGroups": [""],
     "civChannels": [0],
-    "radioSystems": [2],
-    "rtoChannels": [1],
+    "radioSystems": [4, 6],
+    "rtoChannels": [10, 13, 14, 15],
     "radioChannels": [
         {
             "id": 1,
@@ -222,16 +222,16 @@
             "serverGroupList": [""]
         },
         "permStaff": {
-            "serverGroupList": ["6"]
+            "serverGroupList": ["10"]
         },
         "permSenior": {
             "serverGroupList": [""]
         },
         "permAdmin": {
-            "serverGroupList": ["11"]
+            "serverGroupList": ["6"]
         },
         "permSuper": {
-            "serverGroupList": [""]
+            "serverGroupList": ["6"]
         }
     }
 }
