@@ -165,14 +165,14 @@
         },
         {
             "id": 12,
-            "name": "DCFEMS MAIN",
+            "name": "LEO MAIN",
             "soundName": "",
             "type": "LEO",
-            "coloredName": "[color=red]DCFEMS MAIN[/color]",
+            "coloredName": "[color=green]LEO MAIN[/color]",
             "talkEnforcement": true,
             "talkAround": false,
-            "scannable": false,
-            "encrypted": true,
+            "scannable": true,
+            "encrypted": false,
             "permission": 1
         },
         {
