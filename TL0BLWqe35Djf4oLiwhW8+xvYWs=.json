@@ -10,8 +10,8 @@
     },
     "talkAroundRange": 1500,
     "betaServerGroups": [""],
-    "dispatchServerGroups": ["882", "821", "820", "819", "818", "817", "816"],
-    "dispatchAdvancedServerGroups": ["882", "821", "820", "819", "818", "817", "816"],
+    "dispatchServerGroups": ["822", "821", "820", "819", "818", "817", "816"],
+    "dispatchAdvancedServerGroups": ["822", "821", "820", "819", "818", "817", "816"],
     "dispatchNameTags": [
         "(P)",
         "(S)",
@@ -27,28 +27,28 @@
         "[EVAL]"
     ],
     "civilianServerGroups": [""],
-    "civChannels": [199],
-    "radioSystems": [184],
-    "rtoChannels": [187],
+    "civChannels": [0],
+    "radioSystems": [188],
+    "rtoChannels": [199],
     "radioChannels": [
         {
             "id": 1,
-            "name": "LAW Dispatch",
-            "soundName": "Ch_LawDispatch",
+            "name": "Net 1",
+            "soundName": "",
             "type": "LEO",
-            "coloredName": "[color=green]Law Dispatch[/color]",
+            "coloredName": "[color=green]Net 1[/color]",
             "talkEnforcement": true,
             "talkAround": false,
             "scannable": true,
-            "encrypted": true,
+            "encrypted": false,
             "permission": 1
         },
         {
             "id": 2,
-            "name": "Fire Ops",
-            "soundName": "Ch_FireOps",
+            "name": "Net 2",
+            "soundName": "",
             "type": "LEO",
-            "coloredName": "[color=yellow]Fire Ops[/color]",
+            "coloredName": "[color=blue]Net 2[/color]",
             "talkEnforcement": true,
             "talkAround": false,
             "scannable": true,
@@ -57,8 +57,44 @@
         },
         {
             "id": 3,
+            "name": "Net 3",
+            "soundName": "",
+            "type": "LEO",
+            "coloredName": "[color=orange]Net 3[/color]",
+            "talkEnforcement": true,
+            "talkAround": false,
+            "scannable": true,
+            "encrypted": false,
+            "permission": 1
+        },
+        {
+            "id": 4,
+            "name": "Net 4",
+            "soundName": "",
+            "type": "LEO",
+            "coloredName": "[color=yellow]Net 4[/color]",
+            "talkEnforcement": true,
+            "talkAround": false,
+            "scannable": true,
+            "encrypted": false,
+            "permission": 1
+        },
+        {
+            "id": 5,
+            "name": "Car/Car",
+            "soundName": "",
+            "type": "LEO",
+            "coloredName": "[color=grey]Car/Car[/color]",
+            "talkEnforcement": true,
+            "talkAround": true,
+            "scannable": true,
+            "encrypted": false,
+            "permission": 1
+        },
+        {
+            "id": 6,
             "name": "Tac 1",
-            "soundName": "Ch_Tac1",
+            "soundName": "",
             "type": "LEO",
             "coloredName": "[color=purple]Tac 1[/color]",
             "talkEnforcement": true,
@@ -68,9 +104,9 @@
             "permission": 1
         },
         {
-            "id": 4,
+            "id": 7,
             "name": "Tac 2",
-            "soundName": "Ch_Tac2",
+            "soundName": "",
             "type": "LEO",
             "coloredName": "[color=purple]Tac 2[/color]",
             "talkEnforcement": true,
@@ -80,21 +116,9 @@
             "permission": 1
         },
         {
-            "id": 5,
-            "name": "SW Tow",
-            "soundName": "Ch_Tow",
-            "type": "LEO",
-            "coloredName": "[color=brown]SW Tow[/color]",
-            "talkEnforcement": true,
-            "talkAround": false,
-            "scannable": false,
-            "encrypted": true,
-            "permission": 1
-        },
-        {
-            "id": 6,
+            "id": 8,
             "name": "Private 1",
-            "soundName": "Ch_Private1",
+            "soundName": "",
             "type": "LEO",
             "coloredName": "[color=red]Private 1[/color]",
             "talkEnforcement": true,
@@ -104,14 +128,50 @@
             "permission": 1
         },
         {
-            "id": 7,
-            "name": "Private 2",
-            "soundName": "Ch_Private2",
-            "type": "LEO",
-            "coloredName": "[color=red]Private 2[/color]",
+            "id": 9,
+            "name": "Announcements",
+            "soundName": "",
+            "type": "announce",
+            "coloredName": "[color=red]Announcements[/color]",
             "talkEnforcement": true,
             "talkAround": false,
             "scannable": false,
+            "encrypted": true,
+            "permission": 1
+        },
+        {
+            "id": 10,
+            "name": "Civilian Business Radio 1",
+            "soundName": "",
+            "type": "LEO",
+            "coloredName": "[color=red]Civilian Business Radio 1[/color]",
+            "talkEnforcement": true,
+            "talkAround": false,
+            "scannable": true,
+            "encrypted": true,
+            "permission": 1
+        },
+        {
+            "id": 11,
+            "name": "Civilian Business Radio 2",
+            "soundName": "",
+            "type": "LEO",
+            "coloredName": "[color=red]Civilian Business Radio 1[/color]",
+            "talkEnforcement": true,
+            "talkAround": false,
+            "scannable": true,
+            "encrypted": true,
+            "permission": 1
+        },
+        {
+            "id": 11,
+            "name": "Civilian Business Radio 2",
+            "soundName": "",
+            "type": "LEO",
+            "coloredName": "[color=red]Civilian Business Radio 1[/color]",
+            "talkEnforcement": true,
+            "talkAround": false,
+            "scannable": true,
             "encrypted": true,
             "permission": 1
         }
@@ -135,19 +195,19 @@
             "serverGroupList": [""]
         },
         "permSit": {
-            "serverGroupList": [""]
+            "serverGroupList": ["187"]
         },
         "permStaff": {
-            "serverGroupList": [""]
+            "serverGroupList": ["767"]
         },
         "permSenior": {
             "serverGroupList": [""]
         },
         "permAdmin": {
-            "serverGroupList": [""]
+            "serverGroupList": ["766"]
         },
         "permSuper": {
-            "serverGroupList": [""]
+            "serverGroupList": ["765"]
         }
     }
 }
