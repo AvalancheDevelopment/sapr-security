@@ -1,0 +1,177 @@
+{
+    "pluginStatus": true,
+    "isPaid": true,
+    "communityName": "mrcrankton3456 - 1055734087828115497",
+    "betaCommunity": false,
+    "features": {
+        "inGameInterface": true,
+        "rangeSimulation": true,
+        "emergencyHotline": true
+    },
+    "talkAroundRange": 1500,
+    "betaServerGroups": [""],
+    "dispatchServerGroups": ["491"],
+    "dispatchAdvancedServerGroups": [491],
+    "dispatchNameTags": [
+        "(P)",
+        "(S)",
+        "(T)",
+        "(FIRE)",
+        "(QA)",
+        "(EVAL)",
+        "[P]",
+        "[S]",
+        "[T]",
+        "[FIRE]",
+        "[QA]",
+        "[EVAL]"
+    ],
+    "civilianServerGroups": [""],
+    "civChannels": [0],
+    "radioSystems": [61],
+    "rtoChannels": [62, 65],
+    "radioChannels": [
+        {
+            "id": 1,
+            "name": "LSC PD DISP",
+            "soundName": "LSC PD DISPATCH",
+            "type": "LEO",
+            "coloredName": "[color=grey]LSC PD DISP[/color]",
+            "talkEnforcement": true,
+            "talkAround": false,
+            "scannable": true,
+            "encrypted": true,
+            "permission": 1
+        },
+        {
+            "id": 2,
+            "name": "SASP BASE",
+            "soundName": "SASP BASE",
+            "type": "LEO",
+            "coloredName": "[color=grey]SASP BASE[/color]",
+            "talkEnforcement": true,
+            "talkAround": false,
+            "scannable": true,
+            "encrypted": true,
+            "permission": 1
+        },
+        {
+            "id": 3,
+            "name": "SASP TAC",
+            "soundName": "SASP TAC",
+            "type": "LEO",
+            "coloredName": "[color=grey]SASP TAC[/color]",
+            "talkEnforcement": true,
+            "talkAround": false,
+            "scannable": false,
+            "encrypted": true,
+            "permission": 1
+        },
+        {
+            "id": 4,
+            "name": "LSC SECURE",
+            "soundName": "LSC SECURE",
+            "type": "LEO",
+            "coloredName": "[color=blue]LSC SECURE[/color]",
+            "talkEnforcement": true,
+            "talkAround": false,
+            "scannable": true,
+            "encrypted": true,
+            "permission": 1
+        },
+        {
+            "id": 5,
+            "name": "LSC PD/SO",
+            "soundName": "LSC PD AND SO",
+            "type": "LEO",
+            "coloredName": "[color=blue]LSC PD/SO[/color]",
+            "talkEnforcement": true,
+            "talkAround": false,
+            "scannable": true,
+            "encrypted": false,
+            "permission": 1
+        },
+        {
+            "id": 6,
+            "name": "EMS DISP",
+            "soundName": "EMS DISP",
+            "type": "LEO",
+            "coloredName": "[color=blue]EMS DISP[/color]",
+            "talkEnforcement": true,
+            "talkAround": false,
+            "scannable": true,
+            "encrypted": true,
+            "permission": 1
+        },
+        {
+            "id": 7,
+            "name": "LSC PUB SFTY",
+            "soundName": "LSC PUB SFTY",
+            "type": "LEO",
+            "coloredName": "[color=blue]LSC PUB SFTY[/color]",
+            "talkEnforcement": true,
+            "talkAround": false,
+            "scannable": false,
+            "encrypted": true,
+            "permission": 1
+        },
+        {
+            "id": 8,
+            "name": "LSC TAC 1 ",
+            "soundName": "LSC TAC 1 ",
+            "type": "LEO",
+            "coloredName": "[color=green]LSC TAC 1[/color]",
+            "talkEnforcement": true,
+            "talkAround": false,
+            "scannable": true,
+            "encrypted": true,
+            "permission": 1
+        },
+        {
+            "id": 9,
+            "name": "LSC TAC 2",
+            "soundName": "LSC TAC 2",
+            "type": "LEO",
+            "coloredName": "[color=green]LSC TAC 2[/color]",
+            "talkEnforcement": true,
+            "talkAround": false,
+            "scannable": false,
+            "encrypted": true,
+            "permission": 1
+        }
+    ],
+    "time_settings": {
+        "emergencyOverridePeriod": 10,
+        "emergencyCooldown": 30,
+        "emergencyOtherCooldown": 20,
+        "dispatchToneCooldown": 15,
+        "radioStunCooldown": 5,
+        "radioPingCooldown": 10,
+        "911Cooldown": 30,
+        "commandStunPeriod": 300,
+        "toneWaitTalkPeriod": 5
+    },
+    "permissions": {
+        "permBasic": {
+            "serverGroupList": [""]
+        },
+        "permExtra": {
+            "serverGroupList": [""]
+        },
+        "permSit": {
+            "serverGroupList": [""]
+        },
+        "permStaff": {
+            "serverGroupList": ["25"]
+        },
+        "permSenior": {
+            "serverGroupList": ["24"]
+        },
+        "permAdmin": {
+            "serverGroupList": ["22", "23"]
+        },
+        "permSuper": {
+            "serverGroupList": ["13", "14"]
+        }
+    }
+}
