@@ -1,0 +1,237 @@
+{
+    "pluginStatus": true,
+    "isPaid": true,
+    "communityName": "boltedtemper - 582227148065210378",
+    "betaCommunity": false,
+    "features": {
+        "inGameInterface": true,
+        "rangeSimulation": true,
+        "emergencyHotline": true
+    },
+    "talkAroundRange": 1500,
+    "betaServerGroups": [""],
+    "dispatchServerGroups": ["179"],
+    "dispatchAdvancedServerGroups": [197],
+    "dispatchNameTags": [
+        "(P)",
+        "(S)",
+        "(T)",
+        "(FIRE)",
+        "(QA)",
+        "(EVAL)",
+        "[P]",
+        "[S]",
+        "[T]",
+        "[FIRE]",
+        "[QA]",
+        "[EVAL]"
+    ],
+    "civilianServerGroups": [""],
+    "civChannels": [0],
+    "radioSystems": [21],
+    "rtoChannels": [22],
+    "radioChannels": [
+        {
+            "id": 1,
+            "name": "LE NORTH DISP 1",
+            "soundName": "LE NORTH DISP 1",
+            "type": "LEO",
+            "coloredName": "[color=grey]LE NORTH DISP 1[/color]",
+            "talkEnforcement": true,
+            "talkAround": false,
+            "scannable": true,
+            "encrypted": true,
+            "permission": 1
+        },
+        {
+            "id": 2,
+            "name": "LE SOUTH DISP 2",
+            "soundName": "LE SOUTH DISP 2",
+            "type": "LEO",
+            "coloredName": "[color=grey]LE SOUTH DISP 2[/color]",
+            "talkEnforcement": true,
+            "talkAround": false,
+            "scannable": true,
+            "encrypted": true,
+            "permission": 1
+        },
+        {
+            "id": 3,
+            "name": "LE STATE DISP 3",
+            "soundName": "LE STATE DISP 3",
+            "type": "LEO",
+            "coloredName": "[color=grey]LE STATE DISP 3[/color]",
+            "talkEnforcement": true,
+            "talkAround": false,
+            "scannable": false,
+            "encrypted": true,
+            "permission": 1
+        },
+        {
+            "id": 4,
+            "name": "LE TAC 1",
+            "soundName": "LE TAC 1",
+            "type": "LEO",
+            "coloredName": "[color=blue]LE TAC 1[/color]",
+            "talkEnforcement": true,
+            "talkAround": false,
+            "scannable": true,
+            "encrypted": true,
+            "permission": 1
+        },
+        {
+            "id": 5,
+            "name": "LE TAC 2",
+            "soundName": "LE TAC 2",
+            "type": "LEO",
+            "coloredName": "[color=blue]LE TAC 2[/color]",
+            "talkEnforcement": true,
+            "talkAround": false,
+            "scannable": true,
+            "encrypted": false,
+            "permission": 1
+        },
+        {
+            "id": 6,
+            "name": "LE CAR TO CAR",
+            "soundName": "LE CAR TO CAR",
+            "type": "LEO",
+            "coloredName": "[color=blue]LE CAR/CAR[/color]",
+            "talkEnforcement": true,
+            "talkAround": false,
+            "scannable": true,
+            "encrypted": true,
+            "permission": 1
+        },
+        {
+            "id": 7,
+            "name": "FD MAIN DISP 4",
+            "soundName": "FD MAIN DISP 4",
+            "type": "LEO",
+            "coloredName": "[color=blue]FD MAIN DISP 4[/color]",
+            "talkEnforcement": true,
+            "talkAround": false,
+            "scannable": false,
+            "encrypted": true,
+            "permission": 1
+        },
+        {
+            "id": 8,
+            "name": "FD TAC 1",
+            "soundName": "FD TAC 1",
+            "type": "LEO",
+            "coloredName": "[color=green]FD TAC 1[/color]",
+            "talkEnforcement": true,
+            "talkAround": false,
+            "scannable": true,
+            "encrypted": true,
+            "permission": 1
+        },
+        {
+            "id": 9,
+            "name": "FD TAC 2",
+            "soundName": "FD TAC 2",
+            "type": "LEO",
+            "coloredName": "[color=green]FD TAC 2[/color]",
+            "talkEnforcement": true,
+            "talkAround": false,
+            "scannable": true,
+            "encrypted": true,
+            "permission": 1
+        },
+        {
+            "id": 10,
+            "name": "FD CAR TO CAR",
+            "soundName": "FD CAR TO CAR",
+            "type": "LEO",
+            "coloredName": "[color=green]FD CAR/CAR[/color]",
+            "talkEnforcement": true,
+            "talkAround": false,
+            "scannable": false,
+            "encrypted": true,
+            "permission": 1
+        },
+        {
+            "id": 11,
+            "name": "JOINT OP-1",
+            "soundName": "JOINT OP-1",
+            "type": "LEO",
+            "coloredName": "[color=green]JOINT OP-1[/color]",
+            "talkEnforcement": true,
+            "talkAround": false,
+            "scannable": true,
+            "encrypted": true,
+            "permission": 1
+        },
+        {
+            "id": 12,
+            "name": "JOINT OP-2",
+            "soundName": "JOINT OP-2",
+            "type": "LEO",
+            "coloredName": "[color=green]JOINT OP-2[/color]",
+            "talkEnforcement": true,
+            "talkAround": false,
+            "scannable": true,
+            "encrypted": true,
+            "permission": 1
+        },
+        {
+            "id": 12,
+            "name": "SERVICE 1",
+            "soundName": "SERVICE 1",
+            "type": "LEO",
+            "coloredName": "[color=green]SERVICE 1[/color]",
+            "talkEnforcement": true,
+            "talkAround": false,
+            "scannable": true,
+            "encrypted": true,
+            "permission": 1
+        },
+        {
+            "id": 13,
+            "name": "SERVICE 2",
+            "soundName": "SERVICE 2",
+            "type": "LEO",
+            "coloredName": "[color=green]SERVICE 2[/color]",
+            "talkEnforcement": true,
+            "talkAround": false,
+            "scannable": true,
+            "encrypted": true,
+            "permission": 1
+        }
+    ],
+    "time_settings": {
+        "emergencyOverridePeriod": 10,
+        "emergencyCooldown": 30,
+        "emergencyOtherCooldown": 20,
+        "dispatchToneCooldown": 15,
+        "radioStunCooldown": 5,
+        "radioPingCooldown": 10,
+        "911Cooldown": 30,
+        "commandStunPeriod": 300,
+        "toneWaitTalkPeriod": 5
+    },
+    "permissions": {
+        "permBasic": {
+            "serverGroupList": [""]
+        },
+        "permExtra": {
+            "serverGroupList": [""]
+        },
+        "permSit": {
+            "serverGroupList": ["215"]
+        },
+        "permStaff": {
+            "serverGroupList": ["216"]
+        },
+        "permSenior": {
+            "serverGroupList": ["217"]
+        },
+        "permAdmin": {
+            "serverGroupList": ["219", "218"]
+        },
+        "permSuper": {
+            "serverGroupList": ["221", "220"]
+        }
+    }
+}
