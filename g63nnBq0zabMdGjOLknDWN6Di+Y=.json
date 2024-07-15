@@ -1,0 +1,165 @@
+{
+    "pluginStatus": true,
+    "isPaid": true,
+    "communityName": "jrosseli23 - 473629702196559901",
+    "betaCommunity": false,
+    "features": {
+        "inGameInterface": true,
+        "rangeSimulation": true,
+        "emergencyHotline": true
+    },
+    "talkAroundRange": 1500,
+    "betaServerGroups": [""],
+    "dispatchServerGroups": ["10"],
+    "dispatchAdvancedServerGroups": [10],
+    "dispatchNameTags": [
+        "(P)",
+        "(S)",
+        "(T)",
+        "(FIRE)",
+        "(QA)",
+        "(EVAL)",
+        "[P]",
+        "[S]",
+        "[T]",
+        "[FIRE]",
+        "[QA]",
+        "[EVAL]"
+    ],
+    "civilianServerGroups": [""],
+    "civChannels": [0],
+    "radioSystems": [48048],
+    "rtoChannels": [48049],
+    "radioChannels": [
+        {
+            "id": 1,
+            "name": "LS County LE",
+            "soundName": "LS County",
+            "type": "LEO",
+            "coloredName": "[color=green]LS County LE[/color]",
+            "talkEnforcement": true,
+            "talkAround": false,
+            "scannable": true,
+            "encrypted": false,
+            "permission": 1
+        },
+        {
+            "id": 2,
+            "name": "State Police",
+            "soundName": "State Police",
+            "type": "LEO",
+            "coloredName": "[color=yellow]State Police[/color]",
+            "talkEnforcement": true,
+            "talkAround": false,
+            "scannable": true,
+            "encrypted": false,
+            "permission": 1
+        },
+        {
+            "id": 3,
+            "name": "Tac 1",
+            "soundName": "Tac 1",
+            "type": "LEO",
+            "coloredName": "[color=purple]Tac 1[/color]",
+            "talkEnforcement": true,
+            "talkAround": false,
+            "scannable": true,
+            "encrypted": true,
+            "permission": 1
+        },
+        {
+            "id": 4,
+            "name": "Tac 2",
+            "soundName": "Tac 2",
+            "type": "LEO",
+            "coloredName": "[color=purple]Tac 2[/color]",
+            "talkEnforcement": true,
+            "talkAround": false,
+            "scannable": true,
+            "encrypted": true,
+            "permission": 1
+        },
+        {
+            "id": 5,
+            "name": "Fire Ops",
+            "soundName": "Fire Ops",
+            "type": "LEO",
+            "coloredName": "[color=grey]Fire Ops[/color]",
+            "talkEnforcement": true,
+            "talkAround": false,
+            "scannable": true,
+            "encrypted": true,
+            "permission": 1
+        },
+        {
+            "id": 6,
+            "name": "Fireground 1",
+            "soundName": "Fireground 1",
+            "type": "LEO",
+            "coloredName": "[color=red]Fireground 1[/color]",
+            "talkEnforcement": true,
+            "talkAround": false,
+            "scannable": true,
+            "encrypted": true,
+            "permission": 1
+        },
+        {
+            "id": 7,
+            "name": "Fireground 2",
+            "soundName": "Fireground 2",
+            "type": "announce",
+            "coloredName": "[color=red]Fireground 2[/color]",
+            "talkEnforcement": true,
+            "talkAround": false,
+            "scannable": true,
+            "encrypted": true,
+            "permission": 1
+        },
+        {
+            "id": 8,
+            "name": "Public Works",
+            "soundName": "Public Works",
+            "type": "announce",
+            "coloredName": "[color=red]Public Works[/color]",
+            "talkEnforcement": true,
+            "talkAround": false,
+            "scannable": true,
+            "encrypted": true,
+            "permission": 1
+        }
+    ],
+    "time_settings": {
+        "emergencyOverridePeriod": 10,
+        "emergencyCooldown": 30,
+        "emergencyOtherCooldown": 20,
+        "dispatchToneCooldown": 15,
+        "radioStunCooldown": 5,
+        "radioPingCooldown": 10,
+        "911Cooldown": 30,
+        "commandStunPeriod": 300,
+        "toneWaitTalkPeriod": 5
+    },
+    "permissions": {
+        "permBasic": {
+            "serverGroupList": [""]
+        },
+        "permExtra": {
+            "serverGroupList": [""]
+        },
+        "permSit": {
+            "serverGroupList": [""]
+        },
+        "permStaff": {
+            "serverGroupList": ["11", "13", "14,", "15", "18"]
+        },
+        "permSenior": {
+            "serverGroupList": [""]
+        },
+        "permAdmin": {
+            "serverGroupList": [""]
+        },
+        "permSuper": {
+            "serverGroupList": [""]
+        }
+    }
+}
