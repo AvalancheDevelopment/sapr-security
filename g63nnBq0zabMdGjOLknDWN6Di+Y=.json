@@ -150,7 +150,7 @@
             "serverGroupList": [""]
         },
         "permStaff": {
-            "serverGroupList": ["11", "13", "14,", "15", "18"]
+            "serverGroupList": ["11", "13", "14", "15", "18"]
         },
         "permSenior": {
             "serverGroupList": [""]
