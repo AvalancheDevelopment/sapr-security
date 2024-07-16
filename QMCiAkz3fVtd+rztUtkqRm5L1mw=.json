@@ -118,7 +118,7 @@
     ],
     "time_settings": {
         "emergencyOverridePeriod": 10,
-        "emergencyCooldown": 30,
+        "emergencyCooldown": 10,
         "emergencyOtherCooldown": 20,
         "dispatchToneCooldown": 15,
         "radioStunCooldown": 5,
