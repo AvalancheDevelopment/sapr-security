@@ -141,10 +141,10 @@
         },
         {
             "id": 10,
-            "name": "SA DOT",
-            "soundName": "SA DOT ",
+            "name": "TxDOT",
+            "soundName": "TX DOT ",
             "type": "LEO",
-            "coloredName": "[color=green]SADOT[/color]",
+            "coloredName": "[color=green]TXDOT[/color]",
             "talkEnforcement": true,
             "talkAround": false,
             "scannable": true,
@@ -165,10 +165,10 @@
         },
         {
             "id": 12,
-            "name": "Transit Authority",
-            "soundName": "Transit Authority",
+            "name": "VIA Transit Police",
+            "soundName": "VIA Transit Police",
             "type": "LEO",
-            "coloredName": "[color=green]Transit Authority[/color]",
+            "coloredName": "[color=green]VIA Transit Police[/color]",
             "talkEnforcement": true,
             "talkAround": false,
             "scannable": true,
@@ -204,10 +204,10 @@
             "serverGroupList": ["347"]
         },
         "permAdmin": {
-            "serverGroupList": ["346"]
+            "serverGroupList": ["381"]
         },
         "permSuper": {
-            "serverGroupList": ["10"]
+            "serverGroupList": ["10", "111", "354"]
         }
     }
 }
