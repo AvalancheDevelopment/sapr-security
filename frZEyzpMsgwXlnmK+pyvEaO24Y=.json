@@ -214,6 +214,18 @@
         },
         {
             "id": 15,
+            "name": "San Andreas ATC",
+            "soundName": "A T C",
+            "type": "announce",
+            "coloredName": "[color=pink]Announcements[/color]",
+            "talkEnforcement": true,
+            "talkAround": false,
+            "scannable": true,
+            "encrypted": false,
+            "permission": 1
+        },
+        {
+            "id": 16,
             "name": "Announcements",
             "soundName": "Announcements",
             "type": "announce",
