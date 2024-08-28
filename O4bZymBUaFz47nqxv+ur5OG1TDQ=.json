@@ -1,7 +1,7 @@
 {
     "pluginStatus": true,
     "isPaid": true,
-    "communityName": "",
+    "communityName": "127652492795314177",
     "betaCommunity": false,
     "features": {
         "inGameInterface": true,
@@ -10,7 +10,7 @@
     },
     "talkAroundRange": 1500,
     "betaServerGroups": [""],
-    "dispatchServerGroups": [""],
+    "dispatchServerGroups": ["22"],
     "dispatchAdvancedServerGroups": [],
     "dispatchNameTags": [
         "(P)",
@@ -28,15 +28,15 @@
     ],
     "civilianServerGroups": [""],
     "civChannels": [0],
-    "radioSystems": [],
-    "rtoChannels": [],
+    "radioSystems": [3],
+    "rtoChannels": [4],
     "radioChannels": [
         {
             "id": 1,
-            "name": "Patrol Ops",
-            "soundName": "",
+            "name": "SASP DISP",
+            "soundName": "State Police Dispatch",
             "type": "LEO",
-            "coloredName": "[color=green]Patrol Ops[/color]",
+            "coloredName": "[color=yellow]SASP DISP[/color]",
             "talkEnforcement": true,
             "talkAround": false,
             "scannable": true,
@@ -45,10 +45,23 @@
         },
         {
             "id": 2,
-            "name": "Fire Ops",
-            "soundName": "",
+            "name": "SASP Tac 1",
+            "soundName": "State Police Tac 1",
             "type": "LEO",
-            "coloredName": "[color=yellow]Fire Ops[/color]",
+            "coloredName": "[color=yellow]SASP TAC 1[/color]",
+            "talkEnforcement": true,
+            "talkAround": false,
+            "scannable": true,
+            "encrypted": false,
+            "permission": 1
+        },
+
+        {
+            "id": 3,
+            "name": "SASP Tac 2",
+            "soundName": "State Police Tac 2",
+            "type": "LEO",
+            "coloredName": "[color=yellow]SASP TAC 2[/color]",
             "talkEnforcement": true,
             "talkAround": false,
             "scannable": true,
@@ -56,66 +69,151 @@
             "permission": 1
         },
         {
-            "id": 3,
-            "name": "Tac 1",
-            "soundName": "",
-            "type": "LEO",
-            "coloredName": "[color=purple]Tac 1[/color]",
-            "talkEnforcement": true,
-            "talkAround": false,
-            "scannable": true,
-            "encrypted": true,
-            "permission": 1
-        },
-        {
             "id": 4,
-            "name": "Tac 2",
-            "soundName": "",
+            "name": "LSC PD DISP",
+            "soundName": "Los Santos County PD Dispatch",
             "type": "LEO",
-            "coloredName": "[color=purple]Tac 2[/color]",
+            "coloredName": "[color=teal]LSC PD DISP[/color]",
             "talkEnforcement": true,
             "talkAround": false,
             "scannable": true,
-            "encrypted": true,
+            "encrypted": false,
             "permission": 1
         },
         {
             "id": 5,
-            "name": "Car/Car",
-            "soundName": "",
+            "name": "LSC TAC 1",
+            "soundName": "Los Santos County Tac 1",
             "type": "LEO",
-            "coloredName": "[color=grey]Car/Car[/color]",
+            "coloredName": "[color=teal]LSC TAC 1[/color]",
             "talkEnforcement": true,
-            "talkAround": true,
+            "talkAround": false,
             "scannable": true,
             "encrypted": false,
             "permission": 1
         },
         {
             "id": 6,
-            "name": "Private 1",
-            "soundName": "",
+            "name": "LSC TAC 2",
+            "soundName": "Los Santos County Tac 2",
             "type": "LEO",
-            "coloredName": "[color=red]Private 1[/color]",
+            "coloredName": "[color=teal]LSC TAC 2[/color]",
             "talkEnforcement": true,
             "talkAround": false,
-            "scannable": false,
-            "encrypted": true,
+            "scannable": true,
+            "encrypted": false,
             "permission": 1
         },
         {
             "id": 7,
-            "name": "Announcements",
-            "soundName": "",
-            "type": "announce",
-            "coloredName": "[color=red]Announcements[/color]",
+            "name": "BLAINE PD DISP",
+            "soundName": "Blaine County PD Dispatch",
+            "type": "LEO",
+            "coloredName": "[color=brown]BLAINE PD DISP[/color]",
             "talkEnforcement": true,
             "talkAround": false,
-            "scannable": false,
-            "encrypted": true,
+            "scannable": true,
+            "encrypted": false,
             "permission": 1
-        }
-    ],
+        },
+        {
+            "id": 8,
+            "name": "BLAINE TAC 1",
+            "soundName": "Blaine County Tac 1",
+            "type": "LEO",
+            "coloredName": "[color=brown]BLAINE TAC 1[/color]",
+            "talkEnforcement": true,
+            "talkAround": false,
+            "scannable": true,
+            "encrypted": false,
+            "permission": 1
+        },
+        {
+            "id": 9,
+            "name": "BLAINE TAC 2",
+            "soundName": "Blaine County Tac 2",
+            "type": "LEO",
+            "coloredName": "[color=brown]BLAINE TAC 2[/color]",
+            "talkEnforcement": true,
+            "talkAround": false,
+            "scannable": true,
+            "encrypted": false,
+            "permission": 1
+        },
+        {
+            "id": 10,
+            "name": "BLAINE CO JAIL",
+            "soundName": "Blaine County Jail",
+            "type": "LEO",
+            "coloredName": "[color=grey]BLAINE CO JAIL[/color]",
+            "talkEnforcement": true,
+            "talkAround": false,
+            "scannable": true,
+            "encrypted": false,
+            "permission": 1
+        },
+        {
+            "id": 11,
+            "name": "FD DISP",
+            "soundName": "Fire Dispatch",
+            "type": "LEO",
+            "coloredName": "[color=red]FD DISP[/color]",
+            "talkEnforcement": true,
+            "talkAround": false,
+            "scannable": true,
+            "encrypted": false,
+            "permission": 1
+        },
+        {
+            "id": 12,
+            "name": "FD OPS 2",
+            "soundName": "Fire Ops 2",
+            "type": "LEO",
+            "coloredName": "[color=red]FD OPS 2[/color]",
+            "talkEnforcement": true,
+            "talkAround": false,
+            "scannable": true,
+            "encrypted": false,
+            "permission": 1
+        },
+        {
+            "id": 13,
+            "name": "FD OPS 3",
+            "soundName": "Fire Ops 3",
+            "type": "LEO",
+            "coloredName": "[color=red]FD OPS 3[/color]",
+            "talkEnforcement": true,
+            "talkAround": false,
+            "scannable": true,
+            "encrypted": false,
+            "permission": 1
+        }, 
+        {
+            "id": 14,
+            "name": "FD OPS 4",
+            "soundName": "Fire Ops 4",
+            "type": "LEO",
+            "coloredName": "[color=red]FD OPS 4[/color]",
+            "talkEnforcement": true,
+            "talkAround": false,
+            "scannable": true,
+            "encrypted": false,
+            "permission": 1
+        },
+        {
+            "id": 15,
+            "name": "FIRE POLICE PVT",
+            "soundName": "Fire Police Private",
+            "type": "LEO",
+            "coloredName": "[color=red]FIRE POLICE PVT[/color]",
+            "talkEnforcement": true,
+            "talkAround": false,
+            "scannable": true,
+            "encrypted": false,
+            "permission": 1
+        },
+
+            ],
     "time_settings": {
         "emergencyOverridePeriod": 10,
         "emergencyCooldown": 30,
@@ -129,7 +227,7 @@
     },
     "permissions": {
         "permBasic": {
-            "serverGroupList": [""]
+            "serverGroupList": ["9"]
         },
         "permExtra": {
             "serverGroupList": [""]
@@ -138,16 +236,16 @@
             "serverGroupList": [""]
         },
         "permStaff": {
-            "serverGroupList": [""]
+            "serverGroupList": ["10"]
         },
         "permSenior": {
-            "serverGroupList": [""]
+            "serverGroupList": ["11"]
         },
         "permAdmin": {
-            "serverGroupList": [""]
+            "serverGroupList": ["12"]
         },
         "permSuper": {
-            "serverGroupList": [""]
+            "serverGroupList": ["24"]
         }
     }
 }
