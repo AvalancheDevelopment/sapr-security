@@ -9,8 +9,12 @@
         "emergencyHotline": true
     },
     "talkAroundRange": 1500,
-    "betaServerGroups": [""],
-    "dispatchServerGroups": ["22"],
+    "betaServerGroups": [
+        ""
+    ],
+    "dispatchServerGroups": [
+        "22"
+    ],
     "dispatchAdvancedServerGroups": [],
     "dispatchNameTags": [
         "(P)",
@@ -26,10 +30,18 @@
         "[QA]",
         "[EVAL]"
     ],
-    "civilianServerGroups": [""],
-    "civChannels": [0],
-    "radioSystems": [3],
-    "rtoChannels": [4],
+    "civilianServerGroups": [
+        ""
+    ],
+    "civChannels": [
+        0
+    ],
+    "radioSystems": [
+        3
+    ],
+    "rtoChannels": [
+        4
+    ],
     "radioChannels": [
         {
             "id": 1,
@@ -55,7 +67,6 @@
             "encrypted": false,
             "permission": 1
         },
-
         {
             "id": 3,
             "name": "SASP Tac 2",
@@ -187,7 +198,7 @@
             "scannable": true,
             "encrypted": false,
             "permission": 1
-        }, 
+        },
         {
             "id": 14,
             "name": "FD OPS 4",
@@ -211,9 +222,8 @@
             "scannable": true,
             "encrypted": false,
             "permission": 1
-        },
-
-            ],
+        }
+    ],
     "time_settings": {
         "emergencyOverridePeriod": 10,
         "emergencyCooldown": 30,
@@ -227,25 +237,39 @@
     },
     "permissions": {
         "permBasic": {
-            "serverGroupList": ["9"]
+            "serverGroupList": [
+                "9"
+            ]
         },
         "permExtra": {
-            "serverGroupList": [""]
+            "serverGroupList": [
+                ""
+            ]
         },
         "permSit": {
-            "serverGroupList": [""]
+            "serverGroupList": [
+                ""
+            ]
         },
         "permStaff": {
-            "serverGroupList": ["10"]
+            "serverGroupList": [
+                "10"
+            ]
         },
         "permSenior": {
-            "serverGroupList": ["11"]
+            "serverGroupList": [
+                "11"
+            ]
         },
         "permAdmin": {
-            "serverGroupList": ["12"]
+            "serverGroupList": [
+                "12"
+            ]
         },
         "permSuper": {
-            "serverGroupList": ["24"]
+            "serverGroupList": [
+                "24"
+            ]
         }
     }
 }
