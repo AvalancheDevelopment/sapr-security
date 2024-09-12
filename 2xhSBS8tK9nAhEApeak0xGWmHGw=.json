@@ -9,9 +9,15 @@
         "emergencyHotline": true
     },
     "talkAroundRange": 1500,
-    "betaServerGroups": [""],
-    "dispatchServerGroups": ["34"],
-    "dispatchAdvancedServerGroups": ["34"],
+    "betaServerGroups": [
+        ""
+    ],
+    "dispatchServerGroups": [
+        "34"
+    ],
+    "dispatchAdvancedServerGroups": [
+        "34"
+    ],
     "dispatchNameTags": [
         "(P)",
         "(S)",
@@ -26,10 +32,18 @@
         "[QA]",
         "[EVAL]"
     ],
-    "civilianServerGroups": [""],
-    "civChannels": [0],
-    "radioSystems": [1],
-    "rtoChannels": [14],
+    "civilianServerGroups": [
+        ""
+    ],
+    "civChannels": [
+        0
+    ],
+    "radioSystems": [
+        1
+    ],
+    "rtoChannels": [
+        14
+    ],
     "radioChannels": [
         {
             "id": 1,
@@ -54,7 +68,7 @@
             "scannable": true,
             "encrypted": false,
             "permission": 1
-        },        
+        },
         {
             "id": 3,
             "name": "Car-to-Car I",
@@ -126,7 +140,7 @@
             "scannable": false,
             "encrypted": true,
             "permission": 1
-        }
+        },
         {
             "id": 9,
             "name": "Tow",
@@ -165,25 +179,40 @@
     },
     "permissions": {
         "permBasic": {
-            "serverGroupList": ["15"]
+            "serverGroupList": [
+                "15"
+            ]
         },
         "permExtra": {
-            "serverGroupList": [""]
+            "serverGroupList": [
+                ""
+            ]
         },
         "permSit": {
-            "serverGroupList": ["14"]
+            "serverGroupList": [
+                "14"
+            ]
         },
         "permStaff": {
-            "serverGroupList": ["13"]
+            "serverGroupList": [
+                "13"
+            ]
         },
         "permSenior": {
-            "serverGroupList": [""]
+            "serverGroupList": [
+                ""
+            ]
         },
         "permAdmin": {
-            "serverGroupList": ["12", "11"]
+            "serverGroupList": [
+                "12",
+                "11"
+            ]
         },
         "permSuper": {
-            "serverGroupList": ["10"]
+            "serverGroupList": [
+                "10"
+            ]
         }
     }
 }
