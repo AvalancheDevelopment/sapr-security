@@ -10,8 +10,8 @@
     },
     "talkAroundRange": 1500,
     "betaServerGroups": [""],
-    "dispatchServerGroups": [""],
-    "dispatchAdvancedServerGroups": [],
+    "dispatchServerGroups": ["35415"],
+    "dispatchAdvancedServerGroups": ["35415"],
     "dispatchNameTags": [
         "(P)",
         "(S)",
@@ -28,15 +28,15 @@
     ],
     "civilianServerGroups": [""],
     "civChannels": [0],
-    "radioSystems": [],
-    "rtoChannels": [],
+    "radioSystems": [35350],
+    "rtoChannels": [35351,35352],
     "radioChannels": [
         {
             "id": 1,
-            "name": "Patrol Ops",
-            "soundName": "",
+            "name": "Law Dispatch",
+            "soundName": "Law Dispatch",
             "type": "LEO",
-            "coloredName": "[color=green]Patrol Ops[/color]",
+            "coloredName": "[color=green]Law Dispatch[/color]",
             "talkEnforcement": true,
             "talkAround": false,
             "scannable": true,
@@ -45,46 +45,10 @@
         },
         {
             "id": 2,
-            "name": "Fire Ops",
-            "soundName": "",
+            "name": "Law Tac 1",
+            "soundName": "Law Tac 1",
             "type": "LEO",
-            "coloredName": "[color=yellow]Fire Ops[/color]",
-            "talkEnforcement": true,
-            "talkAround": false,
-            "scannable": true,
-            "encrypted": false,
-            "permission": 1
-        },
-        {
-            "id": 3,
-            "name": "Tac 1",
-            "soundName": "",
-            "type": "LEO",
-            "coloredName": "[color=purple]Tac 1[/color]",
-            "talkEnforcement": true,
-            "talkAround": false,
-            "scannable": true,
-            "encrypted": true,
-            "permission": 1
-        },
-        {
-            "id": 4,
-            "name": "Tac 2",
-            "soundName": "",
-            "type": "LEO",
-            "coloredName": "[color=purple]Tac 2[/color]",
-            "talkEnforcement": true,
-            "talkAround": false,
-            "scannable": true,
-            "encrypted": true,
-            "permission": 1
-        },
-        {
-            "id": 5,
-            "name": "Car/Car",
-            "soundName": "",
-            "type": "LEO",
-            "coloredName": "[color=grey]Car/Car[/color]",
+            "coloredName": "[color=grey]Law Tac 1[/color]",
             "talkEnforcement": true,
             "talkAround": true,
             "scannable": true,
@@ -92,27 +56,99 @@
             "permission": 1
         },
         {
-            "id": 6,
-            "name": "Private 1",
-            "soundName": "",
+            "id": 3,
+            "name": "Law Tac 2",
+            "soundName": "Law Tac 2",
             "type": "LEO",
-            "coloredName": "[color=red]Private 1[/color]",
+            "coloredName": "[color=grey]Law Tac 2[/color]",
+            "talkEnforcement": true,
+            "talkAround": true,
+            "scannable": true,
+            "encrypted": false,
+            "permission": 1
+        },
+        {
+            "id": 4,
+            "name": "Law Tac 3",
+            "soundName": "Law Tac 3",
+            "type": "LEO",
+            "coloredName": "[color=grey]Law Tac 3[/color]",
+            "talkEnforcement": true,
+            "talkAround": true,
+            "scannable": true,
+            "encrypted": false,
+            "permission": 1
+        },
+        {
+            "id": 5,
+            "name": "Law Admin",
+            "soundName": "Law Admin",
+            "type": "LEO",
+            "coloredName": "[color=blue]Law Admin[/color]",
             "talkEnforcement": true,
             "talkAround": false,
-            "scannable": false,
-            "encrypted": true,
+            "scannable": true,
+            "encrypted": false,
+            "permission": 1
+        },
+        {
+            "id": 6,
+            "name": "Fire Dispatch",
+            "soundName": "Fire Dispatch",
+            "type": "LEO",
+            "coloredName": "[color=yellow]Fire Dispatch[/color]",
+            "talkEnforcement": true,
+            "talkAround": false,
+            "scannable": true,
+            "encrypted": false,
             "permission": 1
         },
         {
             "id": 7,
-            "name": "Announcements",
-            "soundName": "",
-            "type": "announce",
-            "coloredName": "[color=red]Announcements[/color]",
+            "name": "Fire Tac 1",
+            "soundName": "Fire Tac 1",
+            "type": "LEO",
+            "coloredName": "[color=orange]Fire Tac 1[/color]",
+            "talkEnforcement": true,
+            "talkAround": true
+            "scannable": true,
+            "encrypted": false,
+            "permission": 1
+        },
+        {
+            "id": 8,
+            "name": "Fire Tac 2",
+            "soundName": "Fire Tac 2",
+            "type": "LEO",
+            "coloredName": "[color=orange]Fire Tac 2[/color]",
+            "talkEnforcement": true,
+            "talkAround": true,
+            "scannable": true,
+            "encrypted": false,
+            "permission": 1
+        },
+        {
+            "id": 9,
+            "name": "Fire Tac 3",
+            "soundName": "Fire Tac 3",
+            "type": "LEO",
+            "coloredName": "[color=orange]Fire Tac 3[/color]",
+            "talkEnforcement": true,
+            "talkAround": true,
+            "scannable": true,
+            "encrypted": false,
+            "permission": 1
+        },
+        {
+            "id": 10,
+            "name": "Fire Admin",
+            "soundName": "Fire Admin",
+            "type": "LEO",
+            "coloredName": "[color=purple]Fire Admin[/color]",
             "talkEnforcement": true,
             "talkAround": false,
-            "scannable": false,
-            "encrypted": true,
+            "scannable": true,
+            "encrypted": false,
             "permission": 1
         }
     ],
@@ -135,19 +171,19 @@
             "serverGroupList": [""]
         },
         "permSit": {
-            "serverGroupList": [""]
+            "serverGroupList": ["35402"]
         },
         "permStaff": {
-            "serverGroupList": [""]
+            "serverGroupList": [""]35401
         },
         "permSenior": {
             "serverGroupList": [""]
         },
         "permAdmin": {
-            "serverGroupList": [""]
+            "serverGroupList": ["35400"]
         },
         "permSuper": {
-            "serverGroupList": [""]
+            "serverGroupList": ["35399"]
         }
     }
 }
