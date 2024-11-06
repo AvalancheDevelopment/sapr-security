@@ -1,0 +1,292 @@
+{
+    "pluginStatus": true,
+    "isPaid": true,
+    "communityName": "BoltedTemper - 582227148065210378",
+    "betaCommunity": false,
+    "features": {
+        "inGameInterface": true,
+        "rangeSimulation": true,
+        "emergencyHotline": true
+    },
+    "talkAroundRange": 1500,
+    "betaServerGroups": [""],
+    "dispatchServerGroups": ["239" ],
+    "dispatchAdvancedServerGroups": ["239"],
+    "dispatchNameTags": [
+        "(P)",
+        "(S)",
+        "(T)",
+        "(FIRE)",
+        "(QA)",
+        "(EVAL)",
+        "[P]",
+        "[S]",
+        "[T]",
+        "[FIRE]",
+        "[QA]",
+        "[EVAL]"
+    ],
+    "civilianServerGroups": [""],
+    "civChannels": [59],
+    "radioSystems": ["52"],
+    "rtoChannels": ["57"],
+    "radioChannels": [
+        {
+            "id": 1,
+            "name": "BSO County Disp",
+            "soundName": "BSO County Dispatch",
+            "type": "LEO",
+            "coloredName": "[color=green]BSO County Disp[/color]",
+            "talkEnforcement": true,
+            "talkAround": false,
+            "scannable": true,
+            "encrypted": false,
+            "permission": 1
+        },
+        {
+            "id": 2,
+            "name": "Sunrise Disp",
+            "soundName": "Sunrise Dispatch",
+            "type": "LEO",
+            "coloredName": "[color=green]Sunrise Disp[/color]",
+            "talkEnforcement": true,
+            "talkAround": false,
+            "scannable": true,
+            "encrypted": false,
+            "permission": 1
+        },
+        {
+            "id": 3,
+            "name": "Coral Springs Disp",
+            "soundName": "Coral Springs Disp",
+            "type": "LEO",
+            "coloredName": "[color=green]Coral Springs Disp[/color]",
+            "talkEnforcement": true,
+            "talkAround": false,
+            "scannable": true,
+            "encrypted": false,
+            "permission": 1
+        },
+        {
+            "id": 4,
+            "name": "Miami Dade County Disp",
+            "soundName": "Miami Dade County Dispatch",
+            "type": "LEO",
+            "coloredName": "[color=purple]Miami Dade County Disp[/color]",
+            "talkEnforcement": true,
+            "talkAround": false,
+            "scannable": true,
+            "encrypted": true,
+            "permission": 1
+        },
+        {
+            "id": 5,
+            "name": "Miami Police Disp",
+            "soundName": "Miami Police Dispatch",
+            "type": "LEO",
+            "coloredName": "[color=purple]Miami Police Disp[/color]",
+            "talkEnforcement": true,
+            "talkAround": false,
+            "scannable": true,
+            "encrypted": true,
+            "permission": 1
+        },
+        {
+            "id": 6,
+            "name": "FHP Disp 1",
+            "soundName": "FHP Disp 1",
+            "type": "LEO",
+            "coloredName": "[color=yellow]FHP Disp 1[/color]",
+            "talkEnforcement": true,
+            "talkAround": false,
+            "scannable": true,
+            "encrypted": false,
+            "permission": 1
+        },
+        {
+            "id": 7,
+            "name": "FHP Spec Ops Disp 2",
+            "soundName": "FHP Spec Ops Dispatch 2",
+            "type": "LEO",
+            "coloredName": "[color=grey]FHP Spec Ops Disp 2[/color]",
+            "talkEnforcement": true,
+            "talkAround": false,
+            "scannable": true,
+            "encrypted": false,
+            "permission": 1
+        },
+        {
+            "id": 8,
+            "name": "FWC North Disp 1",
+            "soundName": "FWC North Dispatch 1",
+            "type": "LEO",
+            "coloredName": "[color=red]FWC North Disp 1[/color]",
+            "talkEnforcement": true,
+            "talkAround": false,
+            "scannable": false,
+            "encrypted": true,
+            "permission": 1
+        },
+        {
+            "id": 9,
+            "name": "FWC South Disp 2",
+            "soundName": "FWC South Disp 2",
+            "type": "LEO",
+            "coloredName": "[color=red]FWC South Disp 2[/color]",
+            "talkEnforcement": true,
+            "talkAround": false,
+            "scannable": false,
+            "encrypted": true,
+            "permission": 1
+        },
+        {
+            "id": 10,
+            "name": "FD Main Broward Disp",
+            "soundName": "FD Main Broward Dispatch",
+            "type": "LEO",
+            "coloredName": "[color=red]FD Main Broward Disp[/color]",
+            "talkEnforcement": true,
+            "talkAround": false,
+            "scannable": false,
+            "encrypted": true,
+            "permission": 1
+        },
+        {
+            "id": 11,
+            "name": "FD Main Dade Disp",
+            "soundName": "FD Main Dade Dispatch",
+            "type": "LEO",
+            "coloredName": "[color=teal]SA FD Main Dade Disp[/color]",
+            "talkEnforcement": true,
+            "talkAround": false,
+            "scannable": false,
+            "encrypted": true,
+            "permission": 1
+        },
+        {
+            "id": 12,
+            "name": "FD Tac 1",
+            "soundName": "FD Tac 1",
+            "type": "LEO",
+            "coloredName": "[color=teal]FD Tac 1[/color]",
+            "talkEnforcement": true,
+            "talkAround": false,
+            "scannable": false,
+            "encrypted": true,
+            "permission": 1
+        },
+        {
+            "id": 13,
+            "name": "LE Car to Car",
+            "soundName": "LE Car to Car",
+            "type": "LEO",
+            "coloredName": "[color=teal]LE Car/Car[/color]",
+            "talkEnforcement": true,
+            "talkAround": false,
+            "scannable": false,
+            "encrypted": true,
+            "permission": 1
+        },
+        {
+            "id": 14,
+            "name": "LE Tac 1",
+            "soundName": "LE Tac 1",
+            "type": "LEO",
+            "coloredName": "[color=teal]LE Tac 1[/color]",
+            "talkEnforcement": true,
+            "talkAround": false,
+            "scannable": false,
+            "encrypted": true,
+            "permission": 1
+        },
+        {
+            "id": 15,
+            "name": "LE Tac 2",
+            "soundName": "LE Tac 2",
+            "type": "LEO",
+            "coloredName": "[color=teal]LE Tac 2[/color]",
+            "talkEnforcement": true,
+            "talkAround": false,
+            "scannable": false,
+            "encrypted": true,
+            "permission": 1
+        },
+        {
+            "id": 16,
+            "name": "Joint Op-Miami-Dade",
+            "soundName": "Joint Op-Miami-Dade",
+            "type": "LEO",
+            "coloredName": "[color=teal]Joint Op-Miami-Dade[/color]",
+            "talkEnforcement": true,
+            "talkAround": false,
+            "scannable": false,
+            "encrypted": true,
+            "permission": 1
+        },
+        {
+            "id": 17,
+            "name": "Joint Op-Broward",
+            "soundName": "Joint Op-Broward",
+            "type": "LEO",
+            "coloredName": "[color=teal]Joint Op-Broward[/color]",
+            "talkEnforcement": true,
+            "talkAround": false,
+            "scannable": false,
+            "encrypted": true,
+            "permission": 1
+        },
+        {
+            "id": 18,
+            "name": "Service 1",
+            "soundName": "Service 1",
+            "type": "LEO",
+            "coloredName": "[color=teal]Service 1[/color]",
+            "talkEnforcement": true,
+            "talkAround": false,
+            "scannable": false,
+            "encrypted": true,
+            "permission": 1
+        }
+    ],
+    "time_settings": {
+        "emergencyOverridePeriod": 10,
+        "emergencyCooldown": 30,
+        "emergencyOtherCooldown": 20,
+        "dispatchToneCooldown": 15,
+        "radioStunCooldown": 5,
+        "radioPingCooldown": 10,
+        "911Cooldown": 30,
+        "commandStunPeriod": 300,
+        "toneWaitTalkPeriod": 5
+    },
+    "permissions": {
+        "permBasic": {
+            "serverGroupList": ["1913"],
+            "clientUidList": [""]
+        },
+        "permExtra": {
+            "serverGroupList": [""],
+            "clientUidList": [""]
+        },
+        "permSit": {
+            "serverGroupList": ["161"],
+            "clientUidList": [""]
+        },
+        "permStaff": {
+            "serverGroupList": ["162"],
+            "clientUidList": [""]
+        },
+        "permSenior": {
+            "serverGroupList": ["163"],
+            "clientUidList": [""]
+        },
+        "permAdmin": {
+            "serverGroupList": ["166", "165", "164"],
+            "clientUidList": [""]
+        },
+        "permSuper": {
+            "serverGroupList": ["167"],
+            "clientUidList": [""]
+        }
+    }
+}
