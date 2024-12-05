@@ -1,0 +1,208 @@
+{
+    "pluginStatus": true,
+    "isPaid": true,
+    "communityName": "220328592809132033",
+    "betaCommunity": false,
+    "features": {
+        "inGameInterface": true,
+        "rangeSimulation": true,
+        "emergencyHotline": true
+    },
+    "talkAroundRange": 1500,
+    "betaServerGroups": [""],
+    "dispatchServerGroups": ["" ],
+    "dispatchAdvancedServerGroups": [""],
+    "dispatchNameTags": [
+        "(P)",
+        "(S)",
+        "(T)",
+        "(FIRE)",
+        "(QA)",
+        "(EVAL)",
+        "[P]",
+        "[S]",
+        "[T]",
+        "[FIRE]",
+        "[QA]",
+        "[EVAL]"
+    ],
+    "civilianServerGroups": [""],
+    "civChannels": [],
+    "radioSystems": ["2"],
+    "rtoChannels": ["3"],
+    "radioChannels": [
+        {
+            "id": 1,
+            "name": "PD North Dispatch",
+            "soundName": "PD North Dispatch",
+            "type": "LEO",
+            "coloredName": "[color=green]PD North Dispatch[/color]",
+            "talkEnforcement": true,
+            "talkAround": false,
+            "scannable": true,
+            "encrypted": false,
+            "permission": 1
+        },
+        {
+            "id": 2,
+            "name": "PD North Tac",
+            "soundName": "PD North Tac",
+            "type": "LEO",
+            "coloredName": "[color=green]PD North Tac[/color]",
+            "talkEnforcement": true,
+            "talkAround": false,
+            "scannable": true,
+            "encrypted": false,
+            "permission": 1
+        },
+        {
+            "id": 3,
+            "name": "PD South Dispatch",
+            "soundName": "PD South Dispatch",
+            "type": "LEO",
+            "coloredName": "[color=green]PD South Dispatch[/color]",
+            "talkEnforcement": true,
+            "talkAround": false,
+            "scannable": true,
+            "encrypted": false,
+            "permission": 1
+        },
+        {
+            "id": 4,
+            "name": "PD South Tac",
+            "soundName": "PD South Ta",
+            "type": "LEO",
+            "coloredName": "[color=purple]PD South Ta[/color]",
+            "talkEnforcement": true,
+            "talkAround": false,
+            "scannable": true,
+            "encrypted": true,
+            "permission": 1
+        },
+        {
+            "id": 5,
+            "name": "PD Central Dispatch",
+            "soundName": "PD Central Dispatch",
+            "type": "LEO",
+            "coloredName": "[color=purple]PD Central Dispatch[/color]",
+            "talkEnforcement": true,
+            "talkAround": false,
+            "scannable": true,
+            "encrypted": true,
+            "permission": 1
+        },
+        {
+            "id": 6,
+            "name": "PD Citywide Dispatch",
+            "soundName": "PD Citywide Dispatch",
+            "type": "LEO",
+            "coloredName": "[color=yellow]PD Citywide Dispatch[/color]",
+            "talkEnforcement": true,
+            "talkAround": false,
+            "scannable": true,
+            "encrypted": false,
+            "permission": 1
+        },
+        {
+            "id": 7,
+            "name": "PD Emergency",
+            "soundName": "PD Emergency",
+            "type": "LEO",
+            "coloredName": "[color=grey]PD Emergency[/color]",
+            "talkEnforcement": true,
+            "talkAround": false,
+            "scannable": true,
+            "encrypted": false,
+            "permission": 1
+        },
+        {
+            "id": 8,
+            "name": "PD Waterway Dispatch",
+            "soundName": "PD Waterway Dispatch",
+            "type": "LEO",
+            "coloredName": "[color=red]PD Waterway Dispatch[/color]",
+            "talkEnforcement": true,
+            "talkAround": false,
+            "scannable": false,
+            "encrypted": true,
+            "permission": 1
+        },
+        {
+            "id": 9,
+            "name": "Florida Highway Patrol - Troop E",
+            "soundName": "FHP Troop E",
+            "type": "LEO",
+            "coloredName": "[color=red]Florida Highway Patrol - Troop E[/color]",
+            "talkEnforcement": true,
+            "talkAround": false,
+            "scannable": false,
+            "encrypted": true,
+            "permission": 1
+        },
+        {
+            "id": 10,
+            "name": "MDFR - Fire Dispatch North",
+            "soundName": "MDFR - Fire Dispatch North",
+            "type": "LEO",
+            "coloredName": "[color=red]MDFR - Fire Dispatch North[/color]",
+            "talkEnforcement": true,
+            "talkAround": false,
+            "scannable": false,
+            "encrypted": true,
+            "permission": 1
+        },
+        {
+            "id": 11,
+            "name": "MDFR - Fire Dispatch East",
+            "soundName": "MDFR - Fire Dispatch East",
+            "type": "LEO",
+            "coloredName": "[color=teal]MDFR - Fire Dispatch Eastolor]",
+            "talkEnforcement": true,
+            "talkAround": false,
+            "scannable": false,
+            "encrypted": true,
+            "permission": 1
+        }
+    ],
+    "time_settings": {
+        "emergencyOverridePeriod": 10,
+        "emergencyCooldown": 30,
+        "emergencyOtherCooldown": 20,
+        "dispatchToneCooldown": 15,
+        "radioStunCooldown": 5,
+        "radioPingCooldown": 10,
+        "911Cooldown": 30,
+        "commandStunPeriod": 300,
+        "toneWaitTalkPeriod": 5
+    },
+    "permissions": {
+        "permBasic": {
+            "serverGroupList": ["1913"],
+            "clientUidList": [""]
+        },
+        "permExtra": {
+            "serverGroupList": [""],
+            "clientUidList": [""]
+        },
+        "permSit": {
+            "serverGroupList": ["456"],
+            "clientUidList": [""]
+        },
+        "permStaff": {
+            "serverGroupList": ["457", "459"],
+            "clientUidList": [""]
+        },
+        "permSenior": {
+            "serverGroupList": ["458"],
+            "clientUidList": [""]
+        },
+        "permAdmin": {
+            "serverGroupList": ["461", "460", "459"],
+            "clientUidList": [""]
+        },
+        "permSuper": {
+            "serverGroupList": ["462"],
+            "clientUidList": [""]
+        }
+    }
+}
