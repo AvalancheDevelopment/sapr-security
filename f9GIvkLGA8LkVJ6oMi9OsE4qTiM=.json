@@ -1,0 +1,141 @@
+{
+    "pluginStatus": true,
+    "isPaid": true,
+    "communityName": "DOJRP",
+    "betaCommunity": false,
+    "features": {
+        "inGameInterface": true,
+        "rangeSimulation": true,
+        "emergencyHotline": true
+    },
+    "talkAroundRange": 1500,
+    "betaServerGroups": [""],
+    "dispatchServerGroups": ["9"],
+    "dispatchAdvancedServerGroups": ["9"],
+    "dispatchNameTags": [
+        "(P)",
+        "(S)",
+        "(T)",
+        "(FIRE)",
+        "(QA)",
+        "(EVAL)",
+        "[P]",
+        "[S]",
+        "[T]",
+        "[FIRE]",
+        "[QA]",
+        "[EVAL]"
+    ],
+    "civilianServerGroups": [""],
+    "civChannels": [],
+    "radioSystems": [4],
+    "rtoChannels": [7],
+    "radioChannels": [
+        {
+            "id": 1,
+            "name": "LEO Dispatch",
+            "soundName": "LEO Dispatch",
+            "type": "LEO",
+            "coloredName": "[color=green]LEO Dispatch[/color]",
+            "talkEnforcement": true,
+            "talkAround": false,
+            "scannable": true,
+            "encrypted": true,
+            "permission": 1
+        },
+        {
+            "id": 2,
+            "name": "LEO Tac 1",
+            "soundName": "LEO Tac ",
+            "type": "LEO",
+            "coloredName": "[color=yellow]LEO Tac 1[/color]",
+            "talkEnforcement": true,
+            "talkAround": false,
+            "scannable": true,
+            "encrypted": true,
+            "permission": 1
+        },
+        {
+            "id": 3,
+            "name": "LEO Tac 2",
+            "soundName": "",
+            "type": "LEO",
+            "coloredName": "[color=purple]LEO Tac 2[/color]",
+            "talkEnforcement": true,
+            "talkAround": false,
+            "scannable": true,
+            "encrypted": true,
+            "permission": 1
+        },
+        {
+            "id": 4,
+            "name": "FD Tac 3",
+            "soundName": "FD Tac 3",
+            "type": "LEO",
+            "coloredName": "[color=purple]FD Tac 3[/color]",
+            "talkEnforcement": true,
+            "talkAround": false,
+            "scannable": true,
+            "encrypted": true,
+            "permission": 1
+        },
+        {
+            "id": 5,
+            "name": "FD Tac 4",
+            "soundName": "FD Tac 4",
+            "type": "LEO",
+            "coloredName": "[color=red]FD Tac 4[/color]",
+            "talkEnforcement": true,
+            "talkAround": false,
+            "scannable": true,
+            "encrypted": true,
+            "permission": 1
+        },
+        {
+            "id": 6,
+            "name": "Security/DOT/Tow",
+            "soundName": "Security/DOT/Tow",
+            "type": "LEO",
+            "coloredName": "[color=red]Security/DOT/Tow[/color]",
+            "talkEnforcement": true,
+            "talkAround": false,
+            "scannable": false,
+            "encrypted": true,
+            "permission": 1
+        }
+    ],
+    "time_settings": {
+        "emergencyOverridePeriod": 10,
+        "emergencyCooldown": 30,
+        "emergencyOtherCooldown": 20,
+        "dispatchToneCooldown": 15,
+        "radioStunCooldown": 5,
+        "radioPingCooldown": 10,
+        "911Cooldown": 30,
+        "commandStunPeriod": 300,
+        "toneWaitTalkPeriod": 5
+    },
+    "permissions": {
+        "permBasic": {
+            "serverGroupList": ["5784"]
+        },
+        "permExtra": {
+            "serverGroupList": [""]
+        },
+        "permSit": {
+            "serverGroupList": [""]
+        },
+        "permStaff": {
+            "serverGroupList": [""]
+        },
+        "permSenior": {
+            "serverGroupList": [""]
+        },
+        "permAdmin": {
+            "serverGroupList": [""]
+        },
+        "permSuper": {
+            "serverGroupList": ["6"]
+        }
+    }
+}
