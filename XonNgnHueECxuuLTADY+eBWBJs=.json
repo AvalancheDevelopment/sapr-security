@@ -40,7 +40,7 @@
             "talkEnforcement": true,
             "talkAround": false,
             "scannable": true,
-            "encrypted": false,
+            "encrypted": true,
             "permission": 1
         },
         {
@@ -64,7 +64,7 @@
             "talkEnforcement": true,
             "talkAround": false,
             "scannable": true,
-            "encrypted": false,
+            "encrypted": true,
             "permission": 1
         },
         {
@@ -123,7 +123,7 @@
             "coloredName": "[color=red]PD Waterway Dispatch[/color]",
             "talkEnforcement": true,
             "talkAround": false,
-            "scannable": false,
+            "scannable": true,
             "encrypted": true,
             "permission": 1
         },
@@ -135,7 +135,7 @@
             "coloredName": "[color=red]Florida Highway Patrol - Troop E[/color]",
             "talkEnforcement": true,
             "talkAround": false,
-            "scannable": false,
+            "scannable": true,
             "encrypted": true,
             "permission": 1
         },
@@ -147,7 +147,7 @@
             "coloredName": "[color=red]MDFR - Fire Dispatch North[/color]",
             "talkEnforcement": true,
             "talkAround": false,
-            "scannable": false,
+            "scannable": true,
             "encrypted": true,
             "permission": 1
         },
@@ -159,7 +159,7 @@
             "coloredName": "[color=teal]MDFR - Fire Dispatch Eastolor]",
             "talkEnforcement": true,
             "talkAround": false,
-            "scannable": false,
+            "scannable": true,
             "encrypted": true,
             "permission": 1
         }
