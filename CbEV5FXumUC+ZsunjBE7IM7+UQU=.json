@@ -36,7 +36,7 @@
             "name": "PD DISP 1",
             "soundName": "PD DISPATCH ONE",
             "type": "LEO",
-            "coloredName": "[color=grey]LSC PD DISP 1 [/color]",
+            "coloredName": "[color=grey]PD DISP 1 [/color]",
             "talkEnforcement": true,
             "talkAround": false,
             "scannable": true,
