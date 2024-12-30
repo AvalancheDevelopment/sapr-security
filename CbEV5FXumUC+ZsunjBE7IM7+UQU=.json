@@ -34,7 +34,7 @@
         {
             "id": 1,
             "name": "PD DISP 1",
-            "soundName": "LSC PD DISPATCH ONE",
+            "soundName": "PD DISPATCH ONE",
             "type": "LEO",
             "coloredName": "[color=grey]LSC PD DISP 1 [/color]",
             "talkEnforcement": true,
