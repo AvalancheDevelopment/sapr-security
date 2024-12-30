@@ -1,6 +1,6 @@
 {
-    "pluginStatus": false,
-    "isPaid": false,
+    "pluginStatus": true,
+    "isPaid": true,
     "communityName": "mrcrankton3456 - 1055734087828115497",
     "betaCommunity": false,
     "features": {
@@ -10,8 +10,8 @@
     },
     "talkAroundRange": 1500,
     "betaServerGroups": [""],
-    "dispatchServerGroups": ["62"],
-    "dispatchAdvancedServerGroups": [62],
+    "dispatchServerGroups": ["96"],
+    "dispatchAdvancedServerGroups": [96],
     "dispatchNameTags": [
         "(P)",
         "(S)",
@@ -28,15 +28,15 @@
     ],
     "civilianServerGroups": [""],
     "civChannels": [0],
-    "radioSystems": [23],
-    "rtoChannels": [28],
+    "radioSystems": [30],
+    "rtoChannels": [31],
     "radioChannels": [
         {
             "id": 1,
-            "name": "LSC PD DISP",
-            "soundName": "LSC PD DISPATCH",
+            "name": "PD DISP 1",
+            "soundName": "LSC PD DISPATCH ONE",
             "type": "LEO",
-            "coloredName": "[color=grey]LSC PD DISP[/color]",
+            "coloredName": "[color=grey]LSC PD DISP 1 [/color]",
             "talkEnforcement": true,
             "talkAround": false,
             "scannable": true,
@@ -57,10 +57,10 @@
         },
         {
             "id": 3,
-            "name": "SASP TAC",
-            "soundName": "SASP TAC",
+            "name": "PD DISP 2",
+            "soundName": "PD DISPATCH TAC",
             "type": "LEO",
-            "coloredName": "[color=grey]SASP TAC[/color]",
+            "coloredName": "[color=grey]PD DISP 2[/color]",
             "talkEnforcement": true,
             "talkAround": false,
             "scannable": false,
@@ -69,10 +69,10 @@
         },
         {
             "id": 4,
-            "name": "LSC SECURE",
-            "soundName": "LSC SECURE",
+            "name": "PD TAC",
+            "soundName": "PD TAC",
             "type": "LEO",
-            "coloredName": "[color=blue]LSC SECURE[/color]",
+            "coloredName": "[color=blue]PD TAC[/color]",
             "talkEnforcement": true,
             "talkAround": false,
             "scannable": true,
@@ -81,10 +81,10 @@
         },
         {
             "id": 5,
-            "name": "LSC PD/SO",
-            "soundName": "LSC PD AND SO",
+            "name": "PD SECURE",
+            "soundName": "PD SECURE",
             "type": "LEO",
-            "coloredName": "[color=blue]LSC PD/SO[/color]",
+            "coloredName": "[color=blue]PD SECURE[/color]",
             "talkEnforcement": true,
             "talkAround": false,
             "scannable": true,
@@ -93,10 +93,10 @@
         },
         {
             "id": 6,
-            "name": "EMS DISP",
-            "soundName": "EMS DISP",
+            "name": "SASP TAC",
+            "soundName": "SASP TAC",
             "type": "LEO",
-            "coloredName": "[color=blue]EMS DISP[/color]",
+            "coloredName": "[color=blue]SASP TAC[/color]",
             "talkEnforcement": true,
             "talkAround": false,
             "scannable": true,
@@ -105,10 +105,10 @@
         },
         {
             "id": 7,
-            "name": "LSC PUB SFTY",
-            "soundName": "LSC PUB SFTY",
+            "name": "EMS DISP",
+            "soundName": "EMS DISPATCH",
             "type": "LEO",
-            "coloredName": "[color=blue]LSC PUB SFTY[/color]",
+            "coloredName": "[color=blue]EMS DISPATCH[/color]",
             "talkEnforcement": true,
             "talkAround": false,
             "scannable": false,
@@ -117,10 +117,10 @@
         },
         {
             "id": 8,
-            "name": "LSC TAC 1 ",
-            "soundName": "LSC TAC 1 ",
+            "name": "LSCES P/S",
+            "soundName": "LOS SANTOS COUNTY EMERGNECY SERVICES",
             "type": "LEO",
-            "coloredName": "[color=green]LSC TAC 1[/color]",
+            "coloredName": "[color=green]LSCES P/S[/color]",
             "talkEnforcement": true,
             "talkAround": false,
             "scannable": true,
@@ -129,10 +129,34 @@
         },
         {
             "id": 9,
-            "name": "LSC TAC 2",
-            "soundName": "LSC TAC 2",
+            "name": "DPW OPS",
+            "soundName": "DEPARTMENT OF PUBLIC WORKS",
             "type": "LEO",
-            "coloredName": "[color=green]LSC TAC 2[/color]",
+            "coloredName": "[color=green]DPW OPS[/color]",
+            "talkEnforcement": true,
+            "talkAround": false,
+            "scannable": false,
+            "encrypted": true,
+            "permission": 1
+        },
+        {
+            "id": 10,
+            "name": "SANDOT OPS",
+            "soundName": "SAN ANDREAS DOT OPERATIONS",
+            "type": "LEO",
+            "coloredName": "[color=green]SANDOT OPS[/color]",
+            "talkEnforcement": true,
+            "talkAround": false,
+            "scannable": false,
+            "encrypted": true,
+            "permission": 1
+        },
+        {
+            "id": 10,
+            "name": "CIV BUSINESS",
+            "soundName": "CIV BUSINESS",
+            "type": "LEO",
+            "coloredName": "[color=green]CIV BUSINESS[/color]",
             "talkEnforcement": true,
             "talkAround": false,
             "scannable": false,
@@ -162,16 +186,16 @@
             "serverGroupList": [""]
         },
         "permStaff": {
-            "serverGroupList": ["40"]
+            "serverGroupList": [""]
         },
         "permSenior": {
-            "serverGroupList": ["39"]
+            "serverGroupList": [""]
         },
         "permAdmin": {
-            "serverGroupList": ["38", "37"]
+            "serverGroupList": ["106", "105", "104", "103", 113, "112"]
         },
         "permSuper": {
-            "serverGroupList": ["36", "35", "6"]
+            "serverGroupList": [""]
         }
     }
 }
