@@ -1,0 +1,261 @@
+{
+    "pluginStatus": true,
+    "isPaid": true,
+    "communityName": "Cormac - 335384643258023937",
+    "betaCommunity": false,
+    "features": {
+        "inGameInterface": true,
+        "rangeSimulation": true,
+        "emergencyHotline": true
+    },
+    "talkAroundRange": 1500,
+    "betaServerGroups": [""],
+    "dispatchServerGroups": ["1166"],
+    "dispatchAdvancedServerGroups": ["1166"],
+    "dispatchNameTags": [
+        "(P)",
+        "(S)",
+        "(T)",
+        "(FIRE)",
+        "(QA)",
+        "(EVAL)",
+        "[P]",
+        "[S]",
+        "[T]",
+        "[FIRE]",
+        "[QA]",
+        "[EVAL]"
+    ],
+    "civilianServerGroups": [""],
+    "civChannels": [],
+    "radioSystems": [641],
+    "rtoChannels": [647],
+    "radioChannels": [
+        {
+            "id": 1,
+            "name": "SASP - LS CNTY DISP",
+            "soundName": "STATE LS COUNTY DISPATCH",
+            "type": "LEO",
+            "coloredName": "[color=green]SASP - LS CNTY DISP[/color]",
+            "talkEnforcement": true,
+            "talkAround": false,
+            "scannable": true,
+            "encrypted": true,
+            "permission": 1
+        },
+        {
+            "id": 2,
+            "name": "SASP - BC CNTY DISP",
+            "soundName": "STATE - BC CNTY DISPATCH",
+            "type": "LEO",
+            "coloredName": "[color=yellow]SASP - BC CNTY DISP[/color]",
+            "talkEnforcement": true,
+            "talkAround": false,
+            "scannable": true,
+            "encrypted": true,
+            "permission": 1
+        },
+        {
+            "id": 3,
+            "name": "LS CNTY DISP",
+            "soundName": "LS COUNTY DISPATCH",
+            "type": "LEO",
+            "coloredName": "[color=purple]LS CNTY DISP[/color]",
+            "talkEnforcement": true,
+            "talkAround": false,
+            "scannable": true,
+            "encrypted": true,
+            "permission": 1
+        },
+        {
+            "id": 4,
+            "name": "BC CNTY DISP",
+            "soundName": "BC COUNTY DISP",
+            "type": "LEO",
+            "coloredName": "[color=purple]BC CNTY DISP[/color]",
+            "talkEnforcement": true,
+            "talkAround": false,
+            "scannable": true,
+            "encrypted": true,
+            "permission": 1
+        },
+        {
+            "id": 5,
+            "name": "FIRE/EMS DISP",
+            "soundName": "FIRE/EMS DISPATCH",
+            "type": "LEO",
+            "coloredName": "[color=red]FIRE/EMS DISP[/color]",
+            "talkEnforcement": true,
+            "talkAround": false,
+            "scannable": true,
+            "encrypted": true,
+            "permission": 1
+        },
+        {
+            "id": 6,
+            "name": "C/W FIRE OPS 1",
+            "soundName": "COUNTY WIDE FIRE OPS 1",
+            "type": "LEO",
+            "coloredName": "[color=red]C/W FIRE OPS 1[/color]",
+            "talkEnforcement": true,
+            "talkAround": false,
+            "scannable": true,
+            "encrypted": true,
+            "permission": 1
+        },
+        {
+            "id": 7,
+            "name": "C/W FIRE OPS 2",
+            "soundName": "COUNTY WIDE FIRE OPS 2",
+            "type": "LEO",
+            "coloredName": "[color=red]C/W FIRE OPS 2[/color]",
+            "talkEnforcement": true,
+            "talkAround": false,
+            "scannable": true,
+            "encrypted": true,
+            "permission": 1
+        },
+        {
+            "id": 8,
+            "name": "C/W FIRE OPS 3",
+            "soundName": "COUNTY WIDE FIRE OPS 3",
+            "type": "LEO",
+            "coloredName": "[color=red]C/W FIRE OPS 3[/color]",
+            "talkEnforcement": true,
+            "talkAround": false,
+            "scannable": true,
+            "encrypted": true,
+            "permission": 1
+        },
+        {
+            "id": 9,
+            "name": "BC NORTH TAC",
+            "soundName": "BLAINE COUNTY NORTH TAC",
+            "type": "LEO",
+            "coloredName": "[color=red]BC NORTH TAC[/color]",
+            "talkEnforcement": true,
+            "talkAround": false,
+            "scannable": true,
+            "encrypted": true,
+            "permission": 1
+        },
+        {
+            "id": 9,
+            "name": "BC CENT TAC 1",
+            "soundName": "BC CENTRAL TAC 1",
+            "type": "LEO",
+            "coloredName": "[color=red]BC CENT TAC 1[/color]",
+            "talkEnforcement": true,
+            "talkAround": false,
+            "scannable": true,
+            "encrypted": true,
+            "permission": 1
+        },
+        {
+            "id": 10,
+            "name": "BC CENT TAC 2",
+            "soundName": "BC CENTRAL TAC 2",
+            "type": "LEO",
+            "coloredName": "[color=red]BC CENT TAC 2[/color]",
+            "talkEnforcement": true,
+            "talkAround": false,
+            "scannable": true,
+            "encrypted": true,
+            "permission": 1
+        },
+        {
+            "id": 10,
+            "name": "BC SOUTH TAC",
+            "soundName": "BC SOUTH TAC",
+            "type": "LEO",
+            "coloredName": "[color=red]BC SOUTH TAC[/color]",
+            "talkEnforcement": true,
+            "talkAround": false,
+            "scannable": true,
+            "encrypted": true,
+            "permission": 1
+        },
+        {
+            "id": 11,
+            "name": "LS NORTH TAC",
+            "soundName": "LS NORTH TAC",
+            "type": "LEO",
+            "coloredName": "[color=red]LS NORTH TAC[/color]",
+            "talkEnforcement": true,
+            "talkAround": false,
+            "scannable": true,
+            "encrypted": true,
+            "permission": 1
+        },
+        {
+            "id": 12,
+            "name": "LS METRO TAC 1",
+            "soundName": "LS METRO TAC 1",
+            "type": "LEO",
+            "coloredName": "[color=red]LS METRO TAC 1[/color]",
+            "talkEnforcement": true,
+            "talkAround": false,
+            "scannable": true,
+            "encrypted": true,
+            "permission": 1
+        },
+        {
+            "id": 13,
+            "name": "LS METRO TAC 2",
+            "soundName": "LS METRO TAC 2",
+            "type": "LEO",
+            "coloredName": "[color=red]LS METRO TAC 2[/color]",
+            "talkEnforcement": true,
+            "talkAround": false,
+            "scannable": true,
+            "encrypted": true,
+            "permission": 1
+        },
+        {
+            "id": 13,
+            "name": "LS SOUTH TAC",
+            "soundName": "LS SOUTH TAC",
+            "type": "LEO",
+            "coloredName": "[color=red]LS SOUTH TAC[/color]",
+            "talkEnforcement": true,
+            "talkAround": false,
+            "scannable": true,
+            "encrypted": true,
+            "permission": 1
+        }
+    ],
+    "time_settings": {
+        "emergencyOverridePeriod": 10,
+        "emergencyCooldown": 30,
+        "emergencyOtherCooldown": 20,
+        "dispatchToneCooldown": 15,
+        "radioStunCooldown": 5,
+        "radioPingCooldown": 10,
+        "911Cooldown": 30,
+        "commandStunPeriod": 300,
+        "toneWaitTalkPeriod": 5
+    },
+    "permissions": {
+        "permBasic": {
+            "serverGroupList": ["5784"]
+        },
+        "permExtra": {
+            "serverGroupList": [""]
+        },
+        "permSit": {
+            "serverGroupList": ["1181"]
+        },
+        "permStaff": {
+            "serverGroupList": ["1182"]
+        },
+        "permSenior": {
+            "serverGroupList": ["1183"]
+        },
+        "permAdmin": {
+            "serverGroupList": ["1185, 1184"]
+        },
+        "permSuper": {
+            "serverGroupList": ["1186"]
+        }
+    }
+}
