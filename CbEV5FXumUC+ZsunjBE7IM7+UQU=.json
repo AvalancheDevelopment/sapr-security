@@ -10,7 +10,7 @@
     },
     "talkAroundRange": 1500,
     "betaServerGroups": [""],
-    "dispatchServerGroups": [96],
+    "dispatchServerGroups": ["96"],
     "dispatchAdvancedServerGroups": [96],
     "dispatchNameTags": [
         "(P)",
@@ -28,15 +28,15 @@
     ],
     "civilianServerGroups": [""],
     "civChannels": [0],
-    "radioSystems": [26],
+    "radioSystems": [30],
     "rtoChannels": [31],
     "radioChannels": [
         {
             "id": 1,
             "name": "PD DISP 1",
-            "soundName": "PD DISPATCH ONE",
+            "soundName": "LSC PD DISPATCH ONE",
             "type": "LEO",
-            "coloredName": "[color=grey]PD DISP 1 [/color]",
+            "coloredName": "[color=grey]LSC PD DISP 1 [/color]",
             "talkEnforcement": true,
             "talkAround": false,
             "scannable": true,
@@ -117,7 +117,7 @@
         },
         {
             "id": 8,
-            "name": "LSCES P/S",
+            "name": "LSCES PS",
             "soundName": "LOS SANTOS COUNTY EMERGNECY SERVICES",
             "type": "LEO",
             "coloredName": "[color=green]LSCES P/S[/color]",
@@ -192,7 +192,7 @@
             "serverGroupList": [""]
         },
         "permAdmin": {
-            "serverGroupList": ["106", "105", "104", "103", "113", "112"]
+            "serverGroupList": [""]
         },
         "permSuper": {
             "serverGroupList": [""]
