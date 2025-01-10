@@ -6,7 +6,7 @@
     "features": {
         "inGameInterface": true,
         "rangeSimulation": true,
-        "emergencyHotline": true
+        "emergencyHotline": false
     },
     "talkAroundRange": 1500,
     "betaServerGroups": [""],
@@ -100,6 +100,30 @@
             "talkEnforcement": true,
             "talkAround": false,
             "scannable": false,
+            "encrypted": true,
+            "permission": 1
+        },
+        {
+            "id": 7,
+            "name": "CHP DUBLIN KHAKI",
+            "soundName": "CHP DUBLIN KHAKI",
+            "type": "LEO",
+            "coloredName": "[color=red]CHP DUBLIN KHAKI[/color]",
+            "talkEnforcement": true,
+            "talkAround": false,
+            "scannable": true,
+            "encrypted": true,
+            "permission": 1
+        },
+        {
+            "id": 8,
+            "name": "CHP CENTRAL BLACK 2",
+            "soundName": "CHP CENTRAL BLACK 2",
+            "type": "LEO",
+            "coloredName": "[color=red]CHP CENTRAL BLACK 2[/color]",
+            "talkEnforcement": true,
+            "talkAround": false,
+            "scannable": true,
             "encrypted": true,
             "permission": 1
         }
