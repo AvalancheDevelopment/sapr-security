@@ -1,7 +1,7 @@
 {
     "pluginStatus": true,
     "isPaid": true,
-    "communityName": "Sun County Roleplay",
+    "communityName": "San Andreas Project",
     "betaCommunity": false,
     "features": {
         "inGameInterface": true,
@@ -10,8 +10,8 @@
     },
     "talkAroundRange": 1500,
     "betaServerGroups": [""],
-    "dispatchServerGroups": ["404", "390"],
-    "dispatchAdvancedServerGroups": ["257", "258"],
+    "dispatchServerGroups": ["601", "592", "591"],
+    "dispatchAdvancedServerGroups": ["601", "592", "591"],
     "dispatchNameTags": [
         "(P)",
         "(S)",
@@ -30,15 +30,15 @@
     ],
     "civilianServerGroups": [""],
     "civChannels": [0],
-    "radioSystems": [37, 53, 87],
-    "rtoChannels": [46, 56, 92],
+    "radioSystems": [455, 471, 383],
+    "rtoChannels": [461, 477, 839],
     "radioChannels": [
         {
             "id": 1,
-            "name": "Statewide Dispatch",
+            "name": "San Andreas Statewide Dispatch",
             "soundName": "",
             "type": "LEO",
-            "coloredName": "[color=blue]Statewide Dispatch[/color]",
+            "coloredName": "[color=blue]San Andreas Statewide Dispatch[/color]",
             "talkEnforcement": true,
             "talkAround": false,
             "scannable": true,
@@ -47,10 +47,10 @@
         },
         {
             "id": 2,
-            "name": "Los Santos Dispatch",
+            "name": "Los Santos Citywide",
             "soundName": "",
             "type": "LEO",
-            "coloredName": "[color=blue]Los Santos Dispatch[/color]",
+            "coloredName": "[color=blue]Los Santos Citywide[/color]",
             "talkEnforcement": true,
             "talkAround": false,
             "scannable": true,
@@ -59,10 +59,10 @@
         },
         {
             "id": 3,
-            "name": "Blaine County Dispatch",
+            "name": "LSPD District 11 (Downtown)",
             "soundName": "",
             "type": "LEO",
-            "coloredName": "[color=blue]Blaine County Dispatch[/color]",
+            "coloredName": "[color=blue]LSPD District 11 (Downtown)[/color]",
             "talkEnforcement": true,
             "talkAround": false,
             "scannable": true,
@@ -71,10 +71,10 @@
         },
         {
             "id": 4,
-            "name": "Fire Ops",
+            "name": "LSPD District 22 (Vinewood)",
             "soundName": "",
             "type": "LEO",
-            "coloredName": "[color=red]Fire Ops[/color]",
+            "coloredName": "[color=blue]LSPD District 22 (Vinewood)[/color]",
             "talkEnforcement": true,
             "talkAround": false,
             "scannable": true,
@@ -83,46 +83,82 @@
         },
         {
             "id": 5,
-            "name": "LS Tac 1",
+            "name": "LSPD District 24 (South LS)",
             "soundName": "",
             "type": "LEO",
-            "coloredName": "[color=purple]LS Tac 1[/color]",
+            "coloredName": "[color=blue]LSPD District 24 (South LS)[/color]",
             "talkEnforcement": true,
             "talkAround": false,
             "scannable": true,
-            "encrypted": true,
+            "encrypted": false,
             "permission": 1
         },
         {
             "id": 6,
-            "name": "LS Tac 2",
+            "name": "LSPD District 26 (East LS)",
             "soundName": "",
             "type": "LEO",
-            "coloredName": "[color=purple]LS Tac 2[/color]",
+            "coloredName": "[color=blue]LSPD District 26 (East LS)[/color]",
             "talkEnforcement": true,
             "talkAround": false,
             "scannable": true,
-            "encrypted": true,
+            "encrypted": false,
             "permission": 1
         },
         {
             "id": 7,
-            "name": "BC Tac 1",
+            "name": "Blaine County Sheriff's Dispatch",
             "soundName": "",
             "type": "LEO",
-            "coloredName": "[color=purple]BC Tac 1[/color]",
+            "coloredName": "[color=blue]Blaine County Sheriff's Dispatch[/color]",
             "talkEnforcement": true,
             "talkAround": false,
             "scannable": true,
-            "encrypted": true,
+            "encrypted": false,
             "permission": 1
         },
         {
             "id": 8,
-            "name": "BC Tac 2",
+            "name": "San Andreas Fire Operations",
+            "soundName": "",
+            "type": "FIRE",
+            "coloredName": "[color=red]San Andreas Fire Operations[/color]",
+            "talkEnforcement": true,
+            "talkAround": false,
+            "scannable": true,
+            "encrypted": false,
+            "permission": 1
+        },
+        {
+            "id": 9,
+            "name": "LSFD Citywide",
+            "soundName": "",
+            "type": "FIRE",
+            "coloredName": "[color=red]LSFD Citywide[/color]",
+            "talkEnforcement": true,
+            "talkAround": false,
+            "scannable": true,
+            "encrypted": false,
+            "permission": 1
+        },
+        {
+            "id": 10,
+            "name": "Blaine County Fire Operations",
+            "soundName": "",
+            "type": "FIRE",
+            "coloredName": "[color=red]Blaine County Fire Operations[/color]",
+            "talkEnforcement": true,
+            "talkAround": false,
+            "scannable": true,
+            "encrypted": false,
+            "permission": 1
+        },
+        {
+            "id": 11,
+            "name": "Los Santos Tactical 1",
             "soundName": "",
             "type": "LEO",
-            "coloredName": "[color=purple]BC Tac 2[/color]",
+            "coloredName": "[color=purple]Los Santos Tactical 1[/color]",
             "talkEnforcement": true,
             "talkAround": false,
             "scannable": true,
@@ -130,11 +166,47 @@
             "permission": 1
         },
         {
-            "id": 9,
-            "name": "Car/Car",
+            "id": 12,
+            "name": "Los Santos Tactical 2",
             "soundName": "",
             "type": "LEO",
-            "coloredName": "[color=grey]Car/Car[/color]",
+            "coloredName": "[color=purple]Los Santos Tactical 2[/color]",
+            "talkEnforcement": true,
+            "talkAround": false,
+            "scannable": true,
+            "encrypted": true,
+            "permission": 1
+        },
+        {
+            "id": 13,
+            "name": "Blaine County Tactical 1",
+            "soundName": "",
+            "type": "LEO",
+            "coloredName": "[color=purple]Blaine County Tactical 1[/color]",
+            "talkEnforcement": true,
+            "talkAround": false,
+            "scannable": true,
+            "encrypted": true,
+            "permission": 1
+        },
+        {
+            "id": 14,
+            "name": "Blaine County Tactical 2",
+            "soundName": "",
+            "type": "LEO",
+            "coloredName": "[color=purple]Blaine County Tactical 2[/color]",
+            "talkEnforcement": true,
+            "talkAround": false,
+            "scannable": true,
+            "encrypted": true,
+            "permission": 1
+        },
+        {
+            "id": 15,
+            "name": "Unit-to-Unit Communications",
+            "soundName": "",
+            "type": "LEO",
+            "coloredName": "[color=grey]Unit-to-Unit Communications[/color]",
             "talkEnforcement": true,
             "talkAround": true,
             "scannable": true,
@@ -142,11 +214,11 @@
             "permission": 1
         },
         {
-            "id": 10,
-            "name": "Private 1",
+            "id": 16,
+            "name": "Private Operations 1",
             "soundName": "",
             "type": "LEO",
-            "coloredName": "[color=yellow]Private 1[/color]",
+            "coloredName": "[color=yellow]Private Operations 1[/color]",
             "talkEnforcement": true,
             "talkAround": false,
             "scannable": false,
@@ -154,11 +226,11 @@
             "permission": 1
         },
         {
-            "id": 11,
-            "name": "Public Services",
+            "id": 17,
+            "name": "Public Services Communication",
             "soundName": "",
             "type": "CIV",
-            "coloredName": "[color=orange]Public Services[/color]",
+            "coloredName": "[color=orange]Public Services Communication[/color]",
             "talkEnforcement": true,
             "talkAround": false,
             "scannable": true,
@@ -187,23 +259,23 @@
             "clientUidList": [""]
         },
         "permSit": {
-            "serverGroupList": ["412", "437"],
+            "serverGroupList": ["617", "613", "612", "611", "610"],
             "clientUidList": [""]
         },
         "permStaff": {
-            "serverGroupList": ["413"],
+            "serverGroupList": ["618"],
             "clientUidList": [""]
         },
         "permSenior": {
-            "serverGroupList": ["414"],
+            "serverGroupList": ["619"],
             "clientUidList": [""]
         },
         "permAdmin": {
-            "serverGroupList": ["415", "464"],
+            "serverGroupList": ["622", "621", "620"],
             "clientUidList": [""]
         },
         "permSuper": {
-            "serverGroupList": ["416"],
+            "serverGroupList": ["624", "623"],
             "clientUidList": [""]
         }
     }
