@@ -1,11 +1,11 @@
 {
     "pluginStatus": true,
     "isPaid": true,
-    "communityName": "DOJRP",
+    "communityName": "Stringray716 - 206189752960024578",
     "betaCommunity": false,
     "features": {
         "inGameInterface": true,
-        "rangeSimulation": true,
+        "rangeSimulation": false,
         "emergencyHotline": false
     },
     "talkAroundRange": 1500,
