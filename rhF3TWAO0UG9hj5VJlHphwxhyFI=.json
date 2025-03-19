@@ -1,7 +1,7 @@
 {
     "pluginStatus": true,
     "isPaid": false,
-    "communityName": "",
+    "communityName": "Boise State Roleplay",
     "betaCommunity": false,
     "features": {
         "inGameInterface": true,
@@ -13,30 +13,21 @@
     "dispatchServerGroups": [""],
     "dispatchAdvancedServerGroups": [],
     "dispatchNameTags": [
-        "(P)",
-        "(S)",
-        "(T)",
-        "(FIRE)",
-        "(QA)",
-        "(EVAL)",
-        "[P]",
-        "[S]",
-        "[T]",
-        "[FIRE]",
-        "[QA]",
-        "[EVAL]"
+        "(ISP)",
+        "(ADA)",
+        "(NIFC)"
     ],
-    "civilianServerGroups": [""],
-    "civChannels": [0],
+    "civilianServerGroups": ["CIV"],
+    "civChannels": ["19485"],
     "radioSystems": [],
     "rtoChannels": [],
     "radioChannels": [
         {
-            "id": 1,
-            "name": "Patrol Ops",
+            "id": 19477,
+            "name": "Ada County Primary",
             "soundName": "",
             "type": "LEO",
-            "coloredName": "[color=green]Patrol Ops[/color]",
+            "coloredName": "[color=green]AdaCoPri[/color]",
             "talkEnforcement": true,
             "talkAround": false,
             "scannable": true,
@@ -44,11 +35,11 @@
             "permission": 1
         },
         {
-            "id": 2,
-            "name": "Fire Ops",
+            "id": 19480,
+            "name": "Boise Fire Department - Ops",
             "soundName": "",
             "type": "LEO",
-            "coloredName": "[color=yellow]Fire Ops[/color]",
+            "coloredName": "[color=yellow]BFDOps1[/color]",
             "talkEnforcement": true,
             "talkAround": false,
             "scannable": true,
@@ -68,11 +59,11 @@
             "permission": 1
         },
         {
-            "id": 4,
-            "name": "Tac 2",
+            "id": 19478,
+            "name": "Idaho State Police",
             "soundName": "",
             "type": "LEO",
-            "coloredName": "[color=purple]Tac 2[/color]",
+            "coloredName": "[color=purple]ISPDist3[/color]",
             "talkEnforcement": true,
             "talkAround": false,
             "scannable": true,
@@ -80,7 +71,7 @@
             "permission": 1
         },
         {
-            "id": 5,
+            "id": 19491,
             "name": "Car/Car",
             "soundName": "",
             "type": "LEO",
