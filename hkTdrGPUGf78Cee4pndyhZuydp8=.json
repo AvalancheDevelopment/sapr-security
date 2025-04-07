@@ -1,7 +1,7 @@
 {
     "pluginStatus": true,
     "isPaid": true,
-    "communityName": "trxppyhxppy - 659864108895698970",
+    "communityName": "itsnixk_exe - 659864108895698970",
     "betaCommunity": false,
     "features": {
         "inGameInterface": true,
@@ -10,7 +10,7 @@
     },
     "talkAroundRange": 1500,
     "betaServerGroups": [""],
-    "dispatchServerGroups": ["257","248"],
+    "dispatchServerGroups": ["554","251","260"],
     "dispatchAdvancedServerGroups": [""],
     "dispatchNameTags": [
         "[P]",
@@ -25,8 +25,8 @@
     ],
     "civilianServerGroups": [""],
     "civChannels": [0],
-    "radioSystems": [69, 83, 555, 97, 100],
-    "rtoChannels": [74, 88, 560, 98, 104, 105],
+    "radioSystems": [69, 83, 97, 100],
+    "rtoChannels": [74, 88, 98, 104, 105],
     "radioChannels": [
         {
             "id": 1,
@@ -138,25 +138,25 @@
     },
     "permissions": {
         "permBasic": {
-            "serverGroupList": ["273", "269", "270"]
+            "serverGroupList": ["273", "276"]
         },
         "permExtra": {
             "serverGroupList": [""]
         },
         "permSit": {
-            "serverGroupList": ["274"]
+            "serverGroupList": ["277"]
         },
         "permStaff": {
-            "serverGroupList": ["275", "512"]
+            "serverGroupList": ["278"]
         },
         "permSenior": {
-            "serverGroupList": ["276"]
+            "serverGroupList": ["279"]
         },
         "permAdmin": {
-            "serverGroupList": ["277","278"]
+            "serverGroupList": ["281","280"]
         },
         "permSuper": {
-            "serverGroupList": ["279","280"]
+            "serverGroupList": ["283"]
         }
     }
 }
