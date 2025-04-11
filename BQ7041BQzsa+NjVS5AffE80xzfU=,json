@@ -1,0 +1,220 @@
+{
+    "pluginStatus": true,
+    "isPaid": true,
+    "communityName": "West - 290749475524444162",
+    "betaCommunity": false,
+    "features": {
+        "inGameInterface": true,
+        "rangeSimulation": true,
+        "emergencyHotline": true
+    },
+    "talkAroundRange": 1500,
+    "betaServerGroups": [""],
+    "dispatchServerGroups": ["38382"],
+    "dispatchAdvancedServerGroups": ["38382"],
+    "dispatchNameTags": [
+        "(P)",
+        "(S)",
+        "(T)",
+        "(FIRE)",
+        "(QA)",
+        "(EVAL)",
+        "[P]",
+        "[S]",
+        "[T]",
+        "[FIRE]",
+        "[QA]",
+        "[EVAL]"
+    ],
+    "civilianServerGroups": [""],
+    "civChannels": [],
+    "radioSystems": ["38122"],
+    "rtoChannels": ["38123"],
+    "radioChannels": [
+        {
+            "id": 1,
+            "name": "Public Safety Main",
+            "soundName": "Public Safety Main",
+            "type": "LEO",
+            "coloredName": "[color=green]Public Safety Main[/color]",
+            "talkEnforcement": true,
+            "talkAround": false,
+            "scannable": true,
+            "encrypted": false,
+            "permission": 1
+        },
+        {
+            "id": 2,
+            "name": "Statewide",
+            "soundName": "Statewide",
+            "type": "LEO",
+            "coloredName": "[color=green]Statewide[/color]",
+            "talkEnforcement": true,
+            "talkAround": false,
+            "scannable": true,
+            "encrypted": false,
+            "permission": 1
+        },
+        {
+            "id": 3,
+            "name": "Metro",
+            "soundName": "Metro",
+            "type": "LEO",
+            "coloredName": "[color=green]Metro[/color]",
+            "talkEnforcement": true,
+            "talkAround": false,
+            "scannable": true,
+            "encrypted": false,
+            "permission": 1
+        },
+        {
+            "id": 4,
+            "name": "County",
+            "soundName": "County",
+            "type": "LEO",
+            "coloredName": "[color=purple]County[/color]",
+            "talkEnforcement": true,
+            "talkAround": false,
+            "scannable": true,
+            "encrypted": true,
+            "permission": 1
+        },
+        {
+            "id": 5,
+            "name": "Tac 1",
+            "soundName": "tac1",
+            "type": "LEO",
+            "coloredName": "[color=purple]Tac 1[/color]",
+            "talkEnforcement": true,
+            "talkAround": false,
+            "scannable": true,
+            "encrypted": true,
+            "permission": 1
+        },
+        {
+            "id": 6,
+            "name": "Tac 2",
+            "soundName": "Tac 2",
+            "type": "LEO",
+            "coloredName": "[color=yellow]Tac 2[/color]",
+            "talkEnforcement": true,
+            "talkAround": false,
+            "scannable": true,
+            "encrypted": false,
+            "permission": 1
+        },
+        {
+            "id": 7,
+            "name": "Fireground 1",
+            "soundName": "Fireground 1",
+            "type": "LEO",
+            "coloredName": "[color=grey]Fireground 1[/color]",
+            "talkEnforcement": true,
+            "talkAround": false,
+            "scannable": true,
+            "encrypted": false,
+            "permission": 1
+        },
+        {
+            "id": 8,
+            "name": "INTEROP 1",
+            "soundName": "INTEROP 1",
+            "type": "LEO",
+            "coloredName": "[color=red]INTEROP 1[/color]",
+            "talkEnforcement": true,
+            "talkAround": false,
+            "scannable": false,
+            "encrypted": true,
+            "permission": 1
+        },
+        {
+            "id": 9,
+            "name": "Public Works",
+            "soundName": "Public Works",
+            "type": "LEO",
+            "coloredName": "[color=red]Public Works[/color]",
+            "talkEnforcement": true,
+            "talkAround": false,
+            "scannable": false,
+            "encrypted": true,
+            "permission": 1
+        },
+        {
+            "id": 10,
+            "name": "ATC",
+            "soundName": "ATC",
+            "type": "LEO",
+            "coloredName": "[color=red]ATC[/color]",
+            "talkEnforcement": true,
+            "talkAround": false,
+            "scannable": false,
+            "encrypted": true,
+            "permission": 1
+        },
+        {
+            "id": 11,
+            "name": "Judicial",
+            "soundName": "Judicial",
+            "type": "LEO",
+            "coloredName": "[color=teal]SA Security 1[/color]",
+            "talkEnforcement": true,
+            "talkAround": false,
+            "scannable": false,
+            "encrypted": true,
+            "permission": 1
+        },
+        {
+            "id": 12,
+            "name": "Car/Car",
+            "soundName": "Car To Car",
+            "type": "LEO",
+            "coloredName": "[color=red]Car/Car[/color]",
+            "talkEnforcement": true,
+            "talkAround": false,
+            "scannable": false,
+            "encrypted": true,
+            "permission": 1
+        }
+    ],
+    "time_settings": {
+        "emergencyOverridePeriod": 10,
+        "emergencyCooldown": 30,
+        "emergencyOtherCooldown": 20,
+        "dispatchToneCooldown": 15,
+        "radioStunCooldown": 5,
+        "radioPingCooldown": 10,
+        "911Cooldown": 30,
+        "commandStunPeriod": 300,
+        "toneWaitTalkPeriod": 5
+    },
+    "permissions": {
+        "permBasic": {
+            "serverGroupList": [""],
+            "clientUidList": [""]
+        },
+        "permExtra": {
+            "serverGroupList": [""],
+            "clientUidList": [""]
+        },
+        "permSit": {
+            "serverGroupList": ["211"],
+            "clientUidList": [""]
+        },
+        "permStaff": {
+            "serverGroupList": ["38267", "38268"],
+            "clientUidList": [""]
+        },
+        "permSenior": {
+            "serverGroupList": [""],
+            "clientUidList": [""]
+        },
+        "permAdmin": {
+            "serverGroupList": ["38248", "38266"],
+            "clientUidList": [""]
+        },
+        "permSuper": {
+            "serverGroupList": ["38244", "38247"],
+            "clientUidList": [""]
+        }
+    }
+}
