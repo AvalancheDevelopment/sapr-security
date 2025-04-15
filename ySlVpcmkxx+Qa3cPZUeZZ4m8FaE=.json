@@ -209,7 +209,7 @@
             "clientUidList": [""]
         },
         "permSit": {
-            "serverGroupList": ["13"],
+            "serverGroupList": [""],
             "clientUidList": [""]
         },
         "permStaff": {
