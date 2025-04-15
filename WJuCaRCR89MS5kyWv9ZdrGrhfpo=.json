@@ -57,10 +57,10 @@
         },
         {
             "id": 3,
-            "name": "State Police",
-            "soundName": "State Police",
+            "name": "Highway Patrol",
+            "soundName": "Highway Patrol",
             "type": "LEO",
-            "coloredName": "[color=green]State Police[/color]",
+            "coloredName": "[color=green]Highway Patrol[/color]",
             "talkEnforcement": true,
             "talkAround": false,
             "scannable": true,
@@ -69,6 +69,18 @@
         },
         {
             "id": 4,
+            "name": "Sheriff's Office",
+            "soundName": "Sheriff's Office",
+            "type": "LEO",
+            "coloredName": "[color=green]Sheriff's Office[/color]",
+            "talkEnforcement": true,
+            "talkAround": false,
+            "scannable": true,
+            "encrypted": false,
+            "permission": 1
+        },
+        {
+            "id": 5,
             "name": "Fire Ops",
             "soundName": "Fire Ops",
             "type": "LEO",
@@ -80,7 +92,7 @@
             "permission": 1
         },
         {
-            "id": 5,
+            "id": 6,
             "name": "Tac 1",
             "soundName": "tac1",
             "type": "LEO",
@@ -92,7 +104,7 @@
             "permission": 1
         },
         {
-            "id": 6,
+            "id": 7,
             "name": "Tac 2",
             "soundName": "Tac 2",
             "type": "LEO",
@@ -104,7 +116,7 @@
             "permission": 1
         },
         {
-            "id": 7,
+            "id": 8,
             "name": "StateTow",
             "soundName": "State tow",
             "type": "LEO",
@@ -116,7 +128,7 @@
             "permission": 1
         },
         {
-            "id": 8,
+            "id": 9,
             "name": "Private 1",
             "soundName": "private1",
             "type": "LEO",
@@ -128,7 +140,7 @@
             "permission": 1
         },
         {
-            "id": 9,
+            "id": 10,
             "name": "Private 2",
             "soundName": "private2",
             "type": "LEO",
@@ -140,7 +152,7 @@
             "permission": 1
         },
         {
-            "id": 10,
+            "id": 11,
             "name": "Private 3",
             "soundName": "private3",
             "type": "LEO",
@@ -152,7 +164,7 @@
             "permission": 1
         },
         {
-            "id": 11,
+            "id": 12,
             "name": "SA Security 1",
             "soundName": "saSecurity1",
             "type": "LEO",
