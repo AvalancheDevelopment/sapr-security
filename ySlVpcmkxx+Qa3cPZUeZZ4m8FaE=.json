@@ -42,8 +42,8 @@
         "scannable": true,
         "encrypted": false,
         "permission": 1
-    },
-    {
+        },
+        {
         "id": 2,
         "name": "LOS SANTOS DISPATCH",
         "soundName": "losSantosDispatch",
@@ -54,8 +54,8 @@
         "scannable": true,
         "encrypted": false,
         "permission": 1
-    },
-    {
+        },
+        {
         "id": 3,
         "name": "BLAINE COUNTY DISPATCH",
         "soundName": "blaineCountyDispatch",
@@ -66,8 +66,8 @@
         "scannable": true,
         "encrypted": false,
         "permission": 1
-    },
-    {
+        },
+        {
         "id": 4,
         "name": "TAC-01",
         "soundName": "tac01",
@@ -78,8 +78,8 @@
         "scannable": true,
         "encrypted": true,
         "permission": 1
-    },
-    {
+        },
+        {
         "id": 5,
         "name": "TAC-02",
         "soundName": "tac02",
@@ -90,8 +90,8 @@
         "scannable": true,
         "encrypted": true,
         "permission": 1
-    },
-    {
+        },
+        {
         "id": 6,
         "name": "POL-ADMIN",
         "soundName": "polAdmin",
@@ -102,8 +102,8 @@
         "scannable": false,
         "encrypted": true,
         "permission": 1
-    },
-    {
+        },
+        {
         "id": 7,
         "name": "CAR-2-CAR",
         "soundName": "car2car",
@@ -114,8 +114,8 @@
         "scannable": true,
         "encrypted": false,
         "permission": 1
-    },
-    {
+        },
+        {
         "id": 8,
         "name": "FIRE REGION 1",
         "soundName": "fireRegion1",
@@ -126,8 +126,8 @@
         "scannable": true,
         "encrypted": false,
         "permission": 1
-    },
-    {
+        },
+        {
         "id": 9,
         "name": "FIRE REGION 2",
         "soundName": "fireRegion2",
@@ -150,8 +150,8 @@
         "scannable": true,
         "encrypted": false,
         "permission": 1
-    },
-    {
+        },
+        {
         "id": 11,
         "name": "FIRE GROUND 2",
         "soundName": "fireGround2",
@@ -162,8 +162,8 @@
         "scannable": true,
         "encrypted": false,
         "permission": 1
-    },
-    {
+        },
+        {
         "id": 12,
         "name": "FD TAC-01",
         "soundName": "fdTac01",
