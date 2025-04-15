@@ -1,0 +1,232 @@
+{
+    "pluginStatus": true,
+    "isPaid": true,
+    "communityName": "Wayne Jenkins - 478345936318365696",
+    "betaCommunity": false,
+    "features": {
+        "inGameInterface": true,
+        "rangeSimulation": true,
+        "emergencyHotline": true
+    },
+    "talkAroundRange": 1500,
+    "betaServerGroups": [""],
+    "dispatchServerGroups": ["30"],
+    "dispatchAdvancedServerGroups": ["30"],
+    "dispatchNameTags": [
+        "(P)",
+        "(S)",
+        "(T)",
+        "(FIRE)",
+        "(QA)",
+        "(EVAL)",
+        "[P]",
+        "[S]",
+        "[T]",
+        "[FIRE]",
+        "[QA]",
+        "[EVAL]"
+    ],
+    "civilianServerGroups": [""],
+    "civChannels": [],
+    "radioSystems": [""],
+    "rtoChannels": [""],
+    "radioChannels": [
+        {
+        "id": 1,
+        "name": "STATEWIDE DISPATCH",
+        "soundName": "statewideDispatch",
+        "type": "LEO",
+        "coloredName": "[color=green]STATEWIDE DISPATCH[/color]",
+        "talkEnforcement": true,
+        "talkAround": false,
+        "scannable": true,
+        "encrypted": false,
+        "permission": 1
+    },
+    {
+        "id": 2,
+        "name": "LOS SANTOS DISPATCH",
+        "soundName": "losSantosDispatch",
+        "type": "LEO",
+        "coloredName": "[color=green]LOS SANTOS DISPATCH[/color]",
+        "talkEnforcement": true,
+        "talkAround": false,
+        "scannable": true,
+        "encrypted": false,
+        "permission": 1
+    },
+    {
+        "id": 3,
+        "name": "BLAINE COUNTY DISPATCH",
+        "soundName": "blaineCountyDispatch",
+        "type": "LEO",
+        "coloredName": "[color=green]BLAINE COUNTY DISPATCH[/color]",
+        "talkEnforcement": true,
+        "talkAround": false,
+        "scannable": true,
+        "encrypted": false,
+        "permission": 1
+    },
+    {
+        "id": 4,
+        "name": "TAC-01",
+        "soundName": "tac01",
+        "type": "LEO",
+        "coloredName": "[color=purple]TAC-01[/color]",
+        "talkEnforcement": true,
+        "talkAround": false,
+        "scannable": true,
+        "encrypted": true,
+        "permission": 1
+    },
+    {
+        "id": 5,
+        "name": "TAC-02",
+        "soundName": "tac02",
+        "type": "LEO",
+        "coloredName": "[color=purple]TAC-02[/color]",
+        "talkEnforcement": true,
+        "talkAround": false,
+        "scannable": true,
+        "encrypted": true,
+        "permission": 1
+    },
+    {
+        "id": 6,
+        "name": "POL-ADMIN",
+        "soundName": "polAdmin",
+        "type": "LEO",
+        "coloredName": "[color=red]POL-ADMIN[/color]",
+        "talkEnforcement": true,
+        "talkAround": false,
+        "scannable": false,
+        "encrypted": true,
+        "permission": 1
+    },
+    {
+        "id": 7,
+        "name": "CAR-2-CAR",
+        "soundName": "car2car",
+        "type": "LEO",
+        "coloredName": "[color=gray]CAR-2-CAR[/color]",
+        "talkEnforcement": true,
+        "talkAround": true,
+        "scannable": true,
+        "encrypted": false,
+        "permission": 1
+    },
+    {
+        "id": 8,
+        "name": "FIRE REGION 1",
+        "soundName": "fireRegion1",
+        "type": "FIRE",
+        "coloredName": "[color=yellow]FIRE REGION 1[/color]",
+        "talkEnforcement": true,
+        "talkAround": false,
+        "scannable": true,
+        "encrypted": false,
+        "permission": 1
+    },
+    {
+        "id": 9,
+        "name": "FIRE REGION 2",
+        "soundName": "fireRegion2",
+        "type": "FIRE",
+        "coloredName": "[color=yellow]FIRE REGION 2[/color]",
+        "talkEnforcement": true,
+        "talkAround": false,
+        "scannable": true,
+        "encrypted": false,
+        "permission": 1
+    },
+    {
+        "id": 10,
+        "name": "FIRE GROUND 1",
+        "soundName": "fireGround1",
+        "type": "FIRE",
+        "coloredName": "[color=orange]FIRE GROUND 1[/color]",
+        "talkEnforcement": true,
+        "talkAround": true,
+        "scannable": true,
+        "encrypted": false,
+        "permission": 1
+    },
+    {
+        "id": 11,
+        "name": "FIRE GROUND 2",
+        "soundName": "fireGround2",
+        "type": "FIRE",
+        "coloredName": "[color=orange]FIRE GROUND 2[/color]",
+        "talkEnforcement": true,
+        "talkAround": true,
+        "scannable": true,
+        "encrypted": false,
+        "permission": 1
+    },
+    {
+        "id": 12,
+        "name": "FD TAC-01",
+        "soundName": "fdTac01",
+        "type": "FIRE",
+        "coloredName": "[color=purple]FD TAC-01[/color]",
+        "talkEnforcement": true,
+        "talkAround": false,
+        "scannable": true,
+        "encrypted": true,
+        "permission": 1
+        },
+        {
+        "id": 13,
+        "name": "FD-TAC-02",
+        "soundName": "fdTac02",
+        "type": "FIRE",
+        "coloredName": "[color=purple]FD-TAC-02[/color]",
+        "talkEnforcement": true,
+        "talkAround": false,
+        "scannable": true,
+        "encrypted": true,
+        "permission": 1
+        }
+    ],
+    "time_settings": {
+        "emergencyOverridePeriod": 10,
+        "emergencyCooldown": 30,
+        "emergencyOtherCooldown": 20,
+        "dispatchToneCooldown": 15,
+        "radioStunCooldown": 5,
+        "radioPingCooldown": 10,
+        "911Cooldown": 30,
+        "commandStunPeriod": 300,
+        "toneWaitTalkPeriod": 5
+    },
+    "permissions": {
+        "permBasic": {
+            "serverGroupList": [""],
+            "clientUidList": [""]
+        },
+        "permExtra": {
+            "serverGroupList": [""],
+            "clientUidList": [""]
+        },
+        "permSit": {
+            "serverGroupList": ["13"],
+            "clientUidList": [""]
+        },
+        "permStaff": {
+            "serverGroupList": ["20"],
+            "clientUidList": [""]
+        },
+        "permSenior": {
+            "serverGroupList": ["22"],
+            "clientUidList": [""]
+        },
+        "permAdmin": {
+            "serverGroupList": ["23", "22"],
+            "clientUidList": [""]
+        },
+        "permSuper": {
+            "serverGroupList": ["170", "24"],
+            "clientUidList": [""]
+        }
+    }
+}
