@@ -209,11 +209,11 @@
             "clientUidList": [""]
         },
         "permSit": {
-            "serverGroupList": [""],
+            "serverGroupList": ["19"],
             "clientUidList": [""]
         },
         "permStaff": {
-            "serverGroupList": ["19"],
+            "serverGroupList": ["18"],
             "clientUidList": [""]
         },
         "permSenior": {
