@@ -1,0 +1,208 @@
+{
+    "pluginStatus": true,
+    "isPaid": true,
+    "communityName": "Yalah - 1047743545336934461",
+    "betaCommunity": false,
+    "features": {
+        "inGameInterface": true,
+        "rangeSimulation": true,
+        "emergencyHotline": true
+    },
+    "talkAroundRange": 1500,
+    "betaServerGroups": [""],
+    "dispatchServerGroups": [""],
+    "dispatchAdvancedServerGroups": [""],
+    "dispatchNameTags": [
+        "(P)",
+        "(S)",
+        "(T)",
+        "(FIRE)",
+        "(QA)",
+        "(EVAL)",
+        "[P]",
+        "[S]",
+        "[T]",
+        "[FIRE]",
+        "[QA]",
+        "[EVAL]"
+    ],
+    "civilianServerGroups": [""],
+    "civChannels": [],
+    "radioSystems": ["15"],
+    "rtoChannels": ["2"],
+    "radioChannels": [
+        {
+            "id": 1,
+            "name": "LS - NORTH",
+            "soundName": "lsNorth",
+            "type": "LEO",
+            "coloredName": "[color=green]LS - NORTH[/color]",
+            "talkEnforcement": true,
+            "talkAround": false,
+            "scannable": true,
+            "encrypted": true,
+            "permission": 1
+        },
+        {
+            "id": 2,
+            "name": "LS - WEST",
+            "soundName": "lsWest",
+            "type": "LEO",
+            "coloredName": "[color=green]LS - WEST[/color]",
+            "talkEnforcement": true,
+            "talkAround": false,
+            "scannable": true,
+            "encrypted": true,
+            "permission": 1
+        },
+        {
+            "id": 3,
+            "name": "LS - SOUTH",
+            "soundName": "lsSouth",
+            "type": "LEO",
+            "coloredName": "[color=green]LS - SOUTH[/color]",
+            "talkEnforcement": true,
+            "talkAround": false,
+            "scannable": true,
+            "encrypted": true,
+            "permission": 1
+        },
+        {
+            "id": 4,
+            "name": "LS - MAIN",
+            "soundName": "lsMain",
+            "type": "LEO",
+            "coloredName": "[color=green]LS - MAIN[/color]",
+            "talkEnforcement": true,
+            "talkAround": false,
+            "scannable": true,
+            "encrypted": true,
+            "permission": 1
+        },
+        {
+            "id": 5,
+            "name": "BC - Sandy Shores & Grapeseed",
+            "soundName": "bcSandyGrape",
+            "type": "LEO",
+            "coloredName": "[color=green]BC - Sandy Shores & Grapeseed[/color]",
+            "talkEnforcement": true,
+            "talkAround": false,
+            "scannable": true,
+            "encrypted": true,
+            "permission": 1
+        },
+        {
+            "id": 6,
+            "name": "BC - Paleto Bay",
+            "soundName": "bcPaleto",
+            "type": "LEO",
+            "coloredName": "[color=green]BC - Paleto Bay[/color]",
+            "talkEnforcement": true,
+            "talkAround": false,
+            "scannable": true,
+            "encrypted": true,
+            "permission": 1
+        },
+        {
+            "id": 7,
+            "name": "BC - MAIN",
+            "soundName": "bcMain",
+            "type": "LEO",
+            "coloredName": "[color=green]BC - MAIN[/color]",
+            "talkEnforcement": true,
+            "talkAround": false,
+            "scannable": true,
+            "encrypted": true,
+            "permission": 1
+        },
+        {
+            "id": 8,
+            "name": "TAC 1",
+            "soundName": "tac1",
+            "type": "LEO",
+            "coloredName": "[color=purple]TAC 1[/color]",
+            "talkEnforcement": true,
+            "talkAround": false,
+            "scannable": true,
+            "encrypted": true,
+            "permission": 1
+        },
+        {
+            "id": 9,
+            "name": "TAC 2",
+            "soundName": "tac2",
+            "type": "LEO",
+            "coloredName": "[color=purple]TAC 2[/color]",
+            "talkEnforcement": true,
+            "talkAround": false,
+            "scannable": true,
+            "encrypted": true,
+            "permission": 1
+        },
+        {
+            "id": 10,
+            "name": "CAR TO CAR",
+            "soundName": "carToCar",
+            "type": "LEO",
+            "coloredName": "[color=blue]CAR TO CAR[/color]",
+            "talkEnforcement": true,
+            "talkAround": false,
+            "scannable": true,
+            "encrypted": true,
+            "permission": 1
+        },
+        {
+            "id": 11,
+            "name": "INTERCOM 3",
+            "soundName": "intercom3",
+            "type": "LEO",
+            "coloredName": "[color=orange]INTERCOM 3[/color]",
+            "talkEnforcement": true,
+            "talkAround": false,
+            "scannable": true,
+            "encrypted": true,
+            "permission": 1
+        }
+    ],
+    "time_settings": {
+        "emergencyOverridePeriod": 10,
+        "emergencyCooldown": 30,
+        "emergencyOtherCooldown": 20,
+        "dispatchToneCooldown": 15,
+        "radioStunCooldown": 5,
+        "radioPingCooldown": 10,
+        "911Cooldown": 30,
+        "commandStunPeriod": 300,
+        "toneWaitTalkPeriod": 5
+    },
+    "permissions": {
+        "permBasic": {
+            "serverGroupList": [""],
+            "clientUidList": [""]
+        },
+        "permExtra": {
+            "serverGroupList": [""],
+            "clientUidList": [""]
+        },
+        "permSit": {
+            "serverGroupList": [""],
+            "clientUidList": [""]
+        },
+        "permStaff": {
+            "serverGroupList": [""],
+            "clientUidList": [""]
+        },
+        "permSenior": {
+            "serverGroupList": [""],
+            "clientUidList": [""]
+        },
+        "permAdmin": {
+            "serverGroupList": [""],
+            "clientUidList": [""]
+        },
+        "permSuper": {
+            "serverGroupList": [""],
+            "clientUidList": [""]
+        }
+    }
+}
