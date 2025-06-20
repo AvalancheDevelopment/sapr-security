@@ -1,0 +1,208 @@
+{
+    "pluginStatus": true,
+    "isPaid": true,
+    "communityName": "CosmicSOT - 1079826038269419611",
+    "betaCommunity": false,
+    "features": {
+        "inGameInterface": true,
+        "rangeSimulation": true,
+        "emergencyHotline": true
+    },
+    "talkAroundRange": 1500,
+    "betaServerGroups": [""],
+    "dispatchServerGroups": ["" ],
+    "dispatchAdvancedServerGroups": [""],
+    "dispatchNameTags": [
+        "(P)",
+        "(S)",
+        "(T)",
+        "(FIRE)",
+        "(QA)",
+        "(EVAL)",
+        "[P]",
+        "[S]",
+        "[T]",
+        "[FIRE]",
+        "[QA]",
+        "[EVAL]"
+    ],
+    "civilianServerGroups": [""],
+    "civChannels": [],
+    "radioSystems": ["169"],
+    "rtoChannels": ["127"],
+    "radioChannels": [
+        {
+            "id": 1,
+            "name": "SW Dispatch",
+            "soundName": "swDispatch",
+            "type": "LEO",
+            "coloredName": "[color=green]SW Dispatch[/color]",
+            "talkEnforcement": true,
+            "talkAround": false,
+            "scannable": true,
+            "encrypted": false,
+            "permission": 1
+        },
+        {
+            "id": 2,
+            "name": "Blaine County",
+            "soundName": "blainCounty",
+            "type": "LEO",
+            "coloredName": "[color=green]Blaine County[/color]",
+            "talkEnforcement": true,
+            "talkAround": false,
+            "scannable": true,
+            "encrypted": false,
+            "permission": 1
+        },
+        {
+            "id": 3,
+            "name": "Los Santos",
+            "soundName": "losSantos",
+            "type": "LEO",
+            "coloredName": "[color=green]Los Santos[/color]",
+            "talkEnforcement": true,
+            "talkAround": false,
+            "scannable": true,
+            "encrypted": false,
+            "permission": 1
+        },
+        {
+            "id": 4,
+            "name": "Tac 1",
+            "soundName": "tac1",
+            "type": "LEO",
+            "coloredName": "[color=purple]Tac 1[/color]",
+            "talkEnforcement": true,
+            "talkAround": false,
+            "scannable": true,
+            "encrypted": true,
+            "permission": 1
+        },
+        {
+            "id": 5,
+            "name": "Tac 2",
+            "soundName": "tac2",
+            "type": "LEO",
+            "coloredName": "[color=purple]Tac 2[/color]",
+            "talkEnforcement": true,
+            "talkAround": false,
+            "scannable": true,
+            "encrypted": true,
+            "permission": 1
+        },
+        {
+            "id": 6,
+            "name": "Fire Ops",
+            "soundName": "fireOps",
+            "type": "LEO",
+            "coloredName": "[color=yellow]Fire Ops[/color]",
+            "talkEnforcement": true,
+            "talkAround": false,
+            "scannable": true,
+            "encrypted": false,
+            "permission": 1
+        },
+        {
+            "id": 7,
+            "name": "Tow",
+            "soundName": "tow",
+            "type": "LEO",
+            "coloredName": "[color=grey]Tow[/color]",
+            "talkEnforcement": true,
+            "talkAround": false,
+            "scannable": true,
+            "encrypted": false,
+            "permission": 1
+        },
+        {
+            "id": 8,
+            "name": "Private 1",
+            "soundName": "private1",
+            "type": "LEO",
+            "coloredName": "[color=red]Private 1[/color]",
+            "talkEnforcement": true,
+            "talkAround": false,
+            "scannable": false,
+            "encrypted": true,
+            "permission": 1
+        },
+        {
+            "id": 9,
+            "name": "Private 2",
+            "soundName": "private2",
+            "type": "LEO",
+            "coloredName": "[color=red]Private 2[/color]",
+            "talkEnforcement": true,
+            "talkAround": false,
+            "scannable": false,
+            "encrypted": true,
+            "permission": 1
+        },
+        {
+            "id": 10,
+            "name": "Private 3",
+            "soundName": "private3",
+            "type": "LEO",
+            "coloredName": "[color=red]Private 3[/color]",
+            "talkEnforcement": true,
+            "talkAround": false,
+            "scannable": false,
+            "encrypted": true,
+            "permission": 1
+        },
+        {
+            "id": 11,
+            "name": "SA Security 1",
+            "soundName": "saSecurity1",
+            "type": "LEO",
+            "coloredName": "[color=teal]SA Security 1[/color]",
+            "talkEnforcement": true,
+            "talkAround": false,
+            "scannable": false,
+            "encrypted": true,
+            "permission": 1
+        }
+    ],
+    "time_settings": {
+        "emergencyOverridePeriod": 10,
+        "emergencyCooldown": 30,
+        "emergencyOtherCooldown": 20,
+        "dispatchToneCooldown": 15,
+        "radioStunCooldown": 5,
+        "radioPingCooldown": 10,
+        "911Cooldown": 30,
+        "commandStunPeriod": 300,
+        "toneWaitTalkPeriod": 5
+    },
+    "permissions": {
+        "permBasic": {
+            "serverGroupList": [""],
+            "clientUidList": [""]
+        },
+        "permExtra": {
+            "serverGroupList": [""],
+            "clientUidList": [""]
+        },
+        "permSit": {
+            "serverGroupList": [""],
+            "clientUidList": [""]
+        },
+        "permStaff": {
+            "serverGroupList": [""],
+            "clientUidList": [""]
+        },
+        "permSenior": {
+            "serverGroupList": [""],
+            "clientUidList": [""]
+        },
+        "permAdmin": {
+            "serverGroupList": ["461"],
+            "clientUidList": [""]
+        },
+        "permSuper": {
+            "serverGroupList": [""],
+            "clientUidList": [""]
+        }
+    }
+}
