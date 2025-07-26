@@ -1,0 +1,179 @@
+{
+    "pluginStatus": true,
+    "isPaid": true,
+    "communityName": "South Key Project - 387288810679173121",
+    "betaCommunity": false,
+    "features": {
+        "inGameInterface": true,
+        "rangeSimulation": true,
+        "emergencyHotline": true
+    },
+    "talkAroundRange": 1500,
+    "betaServerGroups": [""],
+    "dispatchServerGroups": ["743","","721","722","647","648"],
+    "dispatchAdvancedServerGroups": ["647","648"],
+    "dispatchNameTags": [
+        "(P)",
+        "(S)",
+        "(T)",
+        "(FIRE)",
+        "(QA)",
+        "(EVAL)",
+        "(L)",
+        "[P]",
+        "[S]",
+        "[T]",
+        "[FIRE]",
+        "[QA]",
+        "[EVAL]",
+        "[L]"
+    ],
+    "civilianServerGroups": [""],
+    "civChannels": [0],
+    "radioSystems": [937],
+    "rtoChannels": [938],
+    "radioChannels": [
+        {
+            "id": 1,
+            "name": "Statwide Dispatch",
+            "soundName": "",
+            "type": "LEO",
+            "coloredName": "[color=green]Statwide Dispatch[/color]",
+            "talkEnforcement": true,
+            "talkAround": false,
+            "scannable": true,
+            "encrypted": false,
+            "permission": 1
+        },
+        {
+            "id": 2,
+            "name": "Blaine County Dispatch",
+            "soundName": "",
+            "type": "LEO",
+            "coloredName": "[color=green]Blaine County Dispatch[/color]",
+            "talkEnforcement": true,
+            "talkAround": false,
+            "scannable": true,
+            "encrypted": false,
+            "permission": 1
+        },
+        {
+            "id": 3,
+            "name": "Los Santos Dispatch",
+            "soundName": "",
+            "type": "LEO",
+            "coloredName": "[color=green]Los Santos Dispatch[/color]",
+            "talkEnforcement": true,
+            "talkAround": false,
+            "scannable": true,
+            "encrypted": false,
+            "permission": 1
+        },
+        {
+            "id": 4,
+            "name": "Tac 1",
+            "soundName": "",
+            "type": "LEO",
+            "coloredName": "[color=purple]Tac 1[/color]",
+            "talkEnforcement": true,
+            "talkAround": false,
+            "scannable": true,
+            "encrypted": true,
+            "permission": 1
+        },
+                {
+            "id": 5,
+            "name": "Tac 2",
+            "soundName": "",
+            "type": "LEO",
+            "coloredName": "[color=green]Tac 2[/color]",
+            "talkEnforcement": true,
+            "talkAround": false,
+            "scannable": true,
+            "encrypted": false,
+            "permission": 1
+        },
+        {
+            "id": 6,
+            "name": "Ops 3",
+            "soundName": "",
+            "type": "LEO",
+            "coloredName": "[color=purple]Tac 3[/color]",
+            "talkEnforcement": true,
+            "talkAround": false,
+            "scannable": true,
+            "encrypted": true,
+            "permission": 1
+        },
+        {
+            "id": 7,
+            "name": "Central Fire",
+            "soundName": "",
+            "type": "LEO",
+            "coloredName": "[color=yellow]Central Fire[/color]",
+            "talkEnforcement": true,
+            "talkAround": false,
+            "scannable": true,
+            "encrypted": true,
+            "permission": 1
+        },
+        {
+            "id": 8,
+            "name": "Car to Car Alpha",
+            "soundName": "",
+            "type": "LEO",
+            "coloredName": "[color=yellow]Car to Car Alpha[/color]",
+            "talkEnforcement": true,
+            "talkAround": false,
+            "scannable": true,
+            "encrypted": true,
+            "permission": 1
+        },
+        {
+            "id": 9,
+            "name": "Car to Car Bravo",
+            "soundName": "",
+            "type": "LEO",
+            "coloredName": "[color=yellow]Car to Car Bravo[/color]",
+            "talkEnforcement": true,
+            "talkAround": false,
+            "scannable": true,
+            "encrypted": true,
+            "permission": 1
+        }
+    ],
+    "time_settings": {
+        "emergencyOverridePeriod": 10,
+        "emergencyCooldown": 30,
+        "emergencyOtherCooldown": 20,
+        "dispatchToneCooldown": 15,
+        "radioStunCooldown": 5,
+        "radioPingCooldown": 10,
+        "911Cooldown": 30,
+        "commandStunPeriod": 300,
+        "toneWaitTalkPeriod": 5
+    },
+    "permissions": {
+        "permBasic": {
+            "serverGroupList": ["477"]
+        },
+        "permExtra": {
+            "serverGroupList": [""]
+        },
+        "permSit": {
+            "serverGroupList": ["478"]
+        },
+        "permStaff": {
+            "serverGroupList": ["485"]
+        },
+        "permSenior": {
+            "serverGroupList": ["480"]
+        },
+        "permAdmin": {
+            "serverGroupList": ["481","482"]
+        },
+        "permSuper": {
+            "serverGroupList": ["483","484","190"]
+        }
+    }
+}
