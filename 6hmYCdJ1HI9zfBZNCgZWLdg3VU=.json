@@ -27,9 +27,9 @@
         "[EVAL]"
     ],
     "civilianServerGroups": [""],
-    "civChannels": [],
+    "civChannels": [547633],
     "radioSystems": [547613],
-    "rtoChannels": [548203],
+    "rtoChannels": [568346],
     "radioChannels": [
         {
             "id": 1,
@@ -171,19 +171,19 @@
             "serverGroupList": [""]
         },
         "permSit": {
-            "serverGroupList": ["249552"]
+            "serverGroupList": ["249551"]
         },
         "permStaff": {
             "serverGroupList": ["249551"]
         },
         "permSenior": {
-            "serverGroupList": ["249950"]
+            "serverGroupList": ["249550"]
         },
         "permAdmin": {
-            "serverGroupList": ["249549"]
+            "serverGroupList": ["250869", "249836"]
         },
         "permSuper": {
-            "serverGroupList": ["249574", "249538"]
+            "serverGroupList": ["249548", "258945"]
         }
     }
 }
