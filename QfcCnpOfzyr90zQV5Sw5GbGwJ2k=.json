@@ -1,7 +1,7 @@
 {
     "pluginStatus": true,
     "isPaid": true,
-    "communityName": "Department of Safety Roleplay",
+    "communityName": "NorthCountryRP",
     "betaCommunity": false,
     "features": {
         "inGameInterface": true,
@@ -28,8 +28,8 @@
     ],
     "civilianServerGroups": [""],
     "civChannels": [0],
-    "radioSystems": [57, 72],
-    "rtoChannels": [61, 76],
+    "radioSystems": [53],
+    "rtoChannels": [56],
     "radioChannels": [
         {
             "id": 1,
