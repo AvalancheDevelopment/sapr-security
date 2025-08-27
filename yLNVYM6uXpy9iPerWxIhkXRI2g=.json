@@ -9,9 +9,25 @@
 		"emergencyHotline": false
 	},
 	"talkAroundRange": 1500,
-	"betaServerGroups": [""],
-	"dispatchServerGroups": ["537", "538"],
-	"dispatchAdvancedServerGroups": ["537", "538"],
+	"betaServerGroups": [
+		""
+	],
+	"dispatchServerGroups": [
+		"544",
+		"545",
+		"546",
+		"547",
+		"548",
+		"549",
+		"550",
+		"551",
+		"552"
+	],
+	"dispatchAdvancedServerGroups": [
+		"550",
+		"551",
+		"552"
+	],
 	"dispatchNameTags": [
 		"(P)",
 		"(S)",
@@ -26,16 +42,62 @@
 		"[QA]",
 		"[EVAL]"
 	],
-	"civilianServerGroups": [""],
-	"civChannels": [0],
-	"radioSystems": [74, 90, 106, 126, 140, 160],
-	"rtoChannels": [75, 91, 107, 127, 128, 141, 161, 162],
-	"radioChannels": [{
+	"civilianServerGroups": [
+		""
+	],
+	"civChannels": [
+		0
+	],
+	"radioSystems": [
+		74,
+		90,
+		106,
+		122,
+		138,
+		154,
+		171,
+		185,
+		79,
+		95,
+		111,
+		127,
+		143,
+		159,
+		176,
+		201,
+		201,
+		204,
+		211
+	],
+	"rtoChannels": [
+		75,
+		91,
+		107,
+		127,
+		123,
+		139,
+		155,
+		172,
+		186,
+		80,
+		96,
+		112,
+		128,
+		144,
+		160,
+		177,
+		202,
+		203,
+		205,
+		212
+	],
+	"radioChannels": [
+		{
 			"id": 1,
-			"name": "Law Dispatch",
+			"name": "United States Drug Enforcement Administration",
 			"soundName": "",
 			"type": "LEO",
-			"coloredName": "[color=green]Law Dispatch[/color]",
+			"coloredName": "[color=green]United States Drug Enforcement Administration[/color]",
 			"talkEnforcement": true,
 			"talkAround": false,
 			"scannable": true,
@@ -44,10 +106,10 @@
 		},
 		{
 			"id": 2,
-			"name": "Fire/EMS",
+			"name": "United States Marshals",
 			"soundName": "",
 			"type": "LEO",
-			"coloredName": "[color=green]Fire/EMS[/color]",
+			"coloredName": "[color=green]United States Marshals[/color]",
 			"talkEnforcement": true,
 			"talkAround": false,
 			"scannable": true,
@@ -56,6 +118,150 @@
 		},
 		{
 			"id": 3,
+			"name": "United States Border Patrol",
+			"soundName": "",
+			"type": "LEO",
+			"coloredName": "[color=green]United States Border Patrol[/color]",
+			"talkEnforcement": true,
+			"talkAround": false,
+			"scannable": true,
+			"encrypted": false,
+			"permission": 1
+		},
+		{
+			"id": 4,
+			"name": "Federal Bureau of Investigations",
+			"soundName": "",
+			"type": "LEO",
+			"coloredName": "[color=green]Federal Bureau of Investigations[/color]",
+			"talkEnforcement": true,
+			"talkAround": false,
+			"scannable": true,
+			"encrypted": false,
+			"permission": 1
+		},
+		{
+			"id": 5,
+			"name": "Blaine County - Radio",
+			"soundName": "",
+			"type": "LEO",
+			"coloredName": "[color=green]Blaine County - Radio[/color]",
+			"talkEnforcement": true,
+			"talkAround": false,
+			"scannable": true,
+			"encrypted": false,
+			"permission": 1
+		},
+		{
+			"id": 6,
+			"name": "State Wide - Radio",
+			"soundName": "",
+			"type": "LEO",
+			"coloredName": "[color=green]State Wide - Radio[/color]",
+			"talkEnforcement": true,
+			"talkAround": false,
+			"scannable": true,
+			"encrypted": false,
+			"permission": 1
+		},
+		{
+			"id": 7,
+			"name": "Fire Ops",
+			"soundName": "",
+			"type": "FIRE",
+			"coloredName": "[color=red]Fire Ops[/color]",
+			"talkEnforcement": true,
+			"talkAround": false,
+			"scannable": true,
+			"encrypted": false,
+			"permission": 1
+		},
+		{
+			"id": 8,
+			"name": "CHC Towing",
+			"soundName": "",
+			"type": "LEO",
+			"coloredName": "[color=yellow]CHC Towing[/color]",
+			"talkEnforcement": true,
+			"talkAround": false,
+			"scannable": true,
+			"encrypted": false,
+			"permission": 1
+		},
+		{
+			"id": 9,
+			"name": "Los Santos - Radio",
+			"soundName": "",
+			"type": "LEO",
+			"coloredName": "[color=green]Los Santos - Radio[/color]",
+			"talkEnforcement": true,
+			"talkAround": false,
+			"scannable": true,
+			"encrypted": false,
+			"permission": 1
+		},
+		{
+			"id": 10,
+			"name": "Bureau of Alcohol, Tobacco, Firearms",
+			"soundName": "",
+			"type": "LEO",
+			"coloredName": "[color=green]Bureau of Alcohol, Tobacco, Firearms[/color]",
+			"talkEnforcement": true,
+			"talkAround": false,
+			"scannable": true,
+			"encrypted": false,
+			"permission": 1
+		},
+		{
+			"id": 11,
+			"name": "Merryweather",
+			"soundName": "",
+			"type": "LEO",
+			"coloredName": "[color=yellow]Merryweather[/color]",
+			"talkEnforcement": true,
+			"talkAround": false,
+			"scannable": true,
+			"encrypted": false,
+			"permission": 1
+		},
+		{
+			"id": 12,
+			"name": "Priority Dispatch",
+			"soundName": "",
+			"type": "LEO",
+			"coloredName": "[color=green]Priority Dispatch[/color]",
+			"talkEnforcement": true,
+			"talkAround": false,
+			"scannable": true,
+			"encrypted": false,
+			"permission": 1
+		},
+		{
+			"id": 13,
+			"name": "SAFA",
+			"soundName": "",
+			"type": "LEO",
+			"coloredName": "[color=green]SAFA[/color]",
+			"talkEnforcement": true,
+			"talkAround": false,
+			"scannable": true,
+			"encrypted": false,
+			"permission": 1
+		},
+		{
+			"id": 14,
+			"name": "United States Coast Guard",
+			"soundName": "",
+			"type": "LEO",
+			"coloredName": "[color=green]United States Coast Guard[/color]",
+			"talkEnforcement": true,
+			"talkAround": false,
+			"scannable": true,
+			"encrypted": false,
+			"permission": 1
+		},
+		{
+			"id": 15,
 			"name": "Law Tac 1",
 			"soundName": "",
 			"type": "LEO",
@@ -67,7 +273,7 @@
 			"permission": 1
 		},
 		{
-			"id": 4,
+			"id": 16,
 			"name": "Tac 2",
 			"soundName": "",
 			"type": "LEO",
@@ -76,102 +282,6 @@
 			"talkAround": false,
 			"scannable": true,
 			"encrypted": true,
-			"permission": 1
-		},
-		{
-			"id": 5,
-			"name": "Law OPS 1",
-			"soundName": "",
-			"type": "LEO",
-			"coloredName": "[color=cyan]Law OPS 1[/color]",
-			"talkEnforcement": true,
-			"talkAround": false,
-			"scannable": true,
-			"encrypted": false,
-			"permission": 1
-		},
-		{
-			"id": 6,
-			"name": "Law OPS 2",
-			"soundName": "",
-			"type": "LEO",
-			"coloredName": "[color=red]Law OPS 2[/color]",
-			"talkEnforcement": true,
-			"talkAround": false,
-			"scannable": false,
-			"encrypted": true,
-			"permission": 1
-		},
-		{
-			"id": 7,
-			"name": "Law OPS 3",
-			"soundName": "",
-			"type": "LEO",
-			"coloredName": "[color=red]Law OPS 3[/color]",
-			"talkEnforcement": true,
-			"talkAround": false,
-			"scannable": false,
-			"encrypted": true,
-			"permission": 1
-		},
-		{
-			"id": 8,
-			"name": "Fire Ops 1",
-			"soundName": "",
-			"type": "LEO",
-			"coloredName": "[color=grey]Fire Ops 1[/color]",
-			"talkEnforcement": true,
-			"talkAround": true,
-			"scannable": true,
-			"encrypted": false,
-			"permission": 1
-		},
-		{
-			"id": 9,
-			"name": "Fire Ops 2",
-			"soundName": "",
-			"type": "LEO",
-			"coloredName": "[color=yellow]Fire Ops 2[/color]",
-			"talkEnforcement": true,
-			"talkAround": false,
-			"scannable": true,
-			"encrypted": false,
-			"permission": 1
-		},
-		{
-			"id": 10,
-			"name": "Fire Ops 3",
-			"soundName": "",
-			"type": "LEO",
-			"coloredName": "[color=orange]Fire Ops 3[/color]",
-			"talkEnforcement": true,
-			"talkAround": false,
-			"scannable": true,
-			"encrypted": false,
-			"permission": 1
-		},
-		{
-			"id": 11,
-			"name": "SRT 1",
-			"soundName": "",
-			"type": "LEO",
-			"coloredName": "[color=orange]SRT 1[/color]",
-			"talkEnforcement": true,
-			"talkAround": false,
-			"scannable": true,
-			"encrypted": false,
-			"permission": 1
-		},
-		{
-			"id": 12,
-			"name": "SRT 2",
-			"soundName": "",
-			"type": "LEO",
-			"coloredName": "[color=grey]SRT 2[/color]",
-			"talkEnforcement": true,
-			"talkAround": true,
-			"scannable": true,
-			"encrypted": false,
 			"permission": 1
 		}
 	],
@@ -188,32 +298,63 @@
 	},
 	"permissions": {
 		"permBasic": {
-			"serverGroupList": ["7"],
-			"clientUidList": [""]
+			"serverGroupList": [
+				"10"
+			],
+			"clientUidList": [
+				""
+			]
 		},
 		"permExtra": {
-			"serverGroupList": [""],
-			"clientUidList": [""]
+			"serverGroupList": [
+				""
+			],
+			"clientUidList": [
+				""
+			]
 		},
 		"permSit": {
-			"serverGroupList": [""],
-			"clientUidList": [""]
+			"serverGroupList": [
+				"545"
+			],
+			"clientUidList": [
+				""
+			]
 		},
 		"permStaff": {
-			"serverGroupList": ["13"],
-			"clientUidList": [""]
+			"serverGroupList": [
+				"547",
+				"546"
+			],
+			"clientUidList": [
+				""
+			]
 		},
 		"permSenior": {
-			"serverGroupList": ["535"],
-			"clientUidList": [""]
+			"serverGroupList": [
+				"548"
+			],
+			"clientUidList": [
+				""
+			]
 		},
 		"permAdmin": {
-			"serverGroupList": ["537"],
-			"clientUidList": [""]
+			"serverGroupList": [
+				"550",
+				"549"
+			],
+			"clientUidList": [
+				""
+			]
 		},
 		"permSuper": {
-			"serverGroupList": ["538"],
-			"clientUidList": [""]
+			"serverGroupList": [
+				"552",
+				"551"
+			],
+			"clientUidList": [
+				""
+			]
 		}
 	}
 }
