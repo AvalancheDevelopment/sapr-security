@@ -228,4 +228,17 @@
             "serverGroupList": ["54"],
             "clientUidList": [""]
         },
-        "permSenior
+        "permSenior": {
+            "serverGroupList": ["53"],
+            "clientUidList": [""]
+        },
+        "permAdmin": {
+            "serverGroupList": ["52"],
+            "clientUidList": [""]
+        },
+        "permSuper": {
+            "serverGroupList": ["15"],
+            "clientUidList": [""]
+        }
+    }
+}
