@@ -129,7 +129,7 @@
     },
     "permissions": {
         "permBasic": {
-            "serverGroupList": ["13"]
+            "serverGroupList": ["38", "39"]
         },
         "permExtra": {
             "serverGroupList": [""]
