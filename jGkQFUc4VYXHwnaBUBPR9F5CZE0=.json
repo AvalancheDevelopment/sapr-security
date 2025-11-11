@@ -1,16 +1,16 @@
 {
-    "pluginStatus": false,
-    "isPaid": false,
-    "communityName": "Coolcat123 - 404066031376531461",
+    "pluginStatus": true,
+    "isPaid": true,
+    "communityName": "Safari Roleplay",
     "betaCommunity": false,
     "features": {
         "inGameInterface": true,
         "rangeSimulation": true,
-        "emergencyHotline": true
+        "emergencyHotline": false
     },
     "talkAroundRange": 1500,
     "betaServerGroups": [""],
-    "dispatchServerGroups": ["151"],
+    "dispatchServerGroups": ["428"],
     "dispatchAdvancedServerGroups": [],
     "dispatchNameTags": [
         "(P)",
@@ -26,17 +26,17 @@
         "[QA]",
         "[EVAL]"
     ],
-    "civilianServerGroups": [""],
-    "civChannels": [0],
-    "radioSystems": [68],
-    "rtoChannels": [69],
+    "civilianServerGroups": ["427"],
+    "civChannels": [35],
+    "radioSystems": [30],
+    "rtoChannels": [31],
     "radioChannels": [
         {
             "id": 1,
-            "name": "Patrol Ops",
+            "name": "Statewide RTO",
             "soundName": "",
             "type": "LEO",
-            "coloredName": "[color=green]Patrol Ops[/color]",
+            "coloredName": "[color=green]Statewide RTO[/color]",
             "talkEnforcement": true,
             "talkAround": false,
             "scannable": true,
@@ -45,10 +45,10 @@
         },
         {
             "id": 2,
-            "name": "Fire Ops",
+            "name": "County Operations",
             "soundName": "",
             "type": "LEO",
-            "coloredName": "[color=yellow]Fire Ops[/color]",
+            "coloredName": "[color=green]County RTO[/color]",
             "talkEnforcement": true,
             "talkAround": false,
             "scannable": true,
@@ -57,6 +57,30 @@
         },
         {
             "id": 3,
+            "name": "City Operations",
+            "soundName": "",
+            "type": "LEO",
+            "coloredName": "[color=green]City RTO[/color]",
+            "talkEnforcement": true,
+            "talkAround": false,
+            "scannable": true,
+            "encrypted": false,
+            "permission": 1
+        },
+        {
+            "id": 4,
+            "name": "Fire Operations",
+            "soundName": "",
+            "type": "LEO",
+            "coloredName": "[color=yellow]Fire RTO[/color]",
+            "talkEnforcement": true,
+            "talkAround": false,
+            "scannable": true,
+            "encrypted": false,
+            "permission": 1
+        },
+        {
+            "id": 5,
             "name": "Tac 1",
             "soundName": "",
             "type": "LEO",
@@ -68,7 +92,7 @@
             "permission": 1
         },
         {
-            "id": 4,
+            "id": 6,
             "name": "Tac 2",
             "soundName": "",
             "type": "LEO",
@@ -76,42 +100,6 @@
             "talkEnforcement": true,
             "talkAround": false,
             "scannable": true,
-            "encrypted": true,
-            "permission": 1
-        },
-        {
-            "id": 5,
-            "name": "Car/Car",
-            "soundName": "",
-            "type": "LEO",
-            "coloredName": "[color=grey]Car/Car[/color]",
-            "talkEnforcement": true,
-            "talkAround": true,
-            "scannable": true,
-            "encrypted": false,
-            "permission": 1
-        },
-        {
-            "id": 6,
-            "name": "Private 1",
-            "soundName": "",
-            "type": "LEO",
-            "coloredName": "[color=red]Private 1[/color]",
-            "talkEnforcement": true,
-            "talkAround": false,
-            "scannable": false,
-            "encrypted": true,
-            "permission": 1
-        },
-        {
-            "id": 7,
-            "name": "Announcements",
-            "soundName": "",
-            "type": "announce",
-            "coloredName": "[color=red]Announcements[/color]",
-            "talkEnforcement": true,
-            "talkAround": false,
-            "scannable": false,
             "encrypted": true,
             "permission": 1
         }
@@ -129,25 +117,25 @@
     },
     "permissions": {
         "permBasic": {
-            "serverGroupList": ["479"]
+            "serverGroupList": ["441"]
         },
         "permExtra": {
             "serverGroupList": [""]
         },
         "permSit": {
-            "serverGroupList": ["481"]
+            "serverGroupList": ["442"]
         },
         "permStaff": {
-            "serverGroupList": ["481"]
+            "serverGroupList": ["443"]
         },
         "permSenior": {
-            "serverGroupList": ["482"]
+            "serverGroupList": ["444"]
         },
         "permAdmin": {
-            "serverGroupList": ["484","483"]
+            "serverGroupList": ["445", "446"]
         },
         "permSuper": {
-            "serverGroupList": ["487"]
+            "serverGroupList": ["448", "449"]
         }
     }
 }
