@@ -23,7 +23,7 @@
     "radioChannels": [
         {
             "id": 1,
-            "name": "Dispatch - Primary",
+            "name": "Dispatch - Test",
             "soundName": "",
             "type": "LEO",
             "coloredName": "[color=blue]Dispatch - Primary[/color]",
