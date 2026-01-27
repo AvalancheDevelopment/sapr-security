@@ -1,0 +1,205 @@
+{
+    "pluginStatus": true,
+    "isPaid": true,
+    "communityName": "Southern Justice Roleplay",
+    "betaCommunity": false,
+    "features": {
+        "inGameInterface": true,
+        "rangeSimulation": true,
+        "emergencyHotline": true
+    },
+    "talkAroundRange": 1500,
+    "betaServerGroups": [""],
+    "dispatchServerGroups": ["156", "146", "147", "148", "173", "269"],
+    "dispatchAdvancedServerGroups": [ ],
+    "dispatchNameTags": [
+        "(P)",
+        "(S)",
+        "(T)",
+        "(FIRE)",
+        "(QA)",
+        "(EVAL)",
+        "(911)",
+        "(TAC)",
+        "[P]",
+        "[S]",
+        "[T]",
+        "[FIRE]",
+        "[QA]",
+        "[EVAL]",
+        "[911]",
+        "[TAC]"
+    ],
+    "civilianServerGroups": ["157", "301", "150", "149"],
+    "civChannels": [48, 49, 491, 492, 443, 444],
+    "radioSystems": [23, 281],
+    "rtoChannels": [41, 489, 440],
+    "radioChannels": [
+        {
+            "id": 1,
+            "name": "Statewide Dispatch",
+            "soundName": "",
+            "type": "LEO",
+            "coloredName": "[color=green]Statewide Dispatch[/color]",
+            "talkEnforcement": true,
+            "talkAround": false,
+            "scannable": true,
+            "encrypted": false,
+            "permission": 1
+        },
+        {
+            "id": 2,
+            "name": "Orange County Dispatch",
+            "soundName": "",
+            "type": "LEO",
+            "coloredName": "[color=green]Orange County Dispatch[/color]",
+            "talkEnforcement": true,
+            "talkAround": false,
+            "scannable": true,
+            "encrypted": false,
+            "permission": 1
+        },
+        {
+            "id": 3,
+            "name": "Panama City Beach Dispatch",
+            "soundName": "",
+            "type": "LEO",
+            "coloredName": "[color=green]Panama City Beach Dispatch[/color]",
+            "talkEnforcement": true,
+            "talkAround": false,
+            "scannable": true,
+            "encrypted": false,
+            "permission": 1
+        },
+        {
+            "id": 4,
+            "name": "On Scene 1",
+            "soundName": "",
+            "type": "LEO",
+            "coloredName": "[color=purple]On Scene 1[/color]",
+            "talkEnforcement": true,
+            "talkAround": false,
+            "scannable": true,
+            "encrypted": true,
+            "permission": 1
+        },
+        {
+            "id": 5,
+            "name": "On Scene 2",
+            "soundName": "",
+            "type": "LEO",
+            "coloredName": "[color=purple]On Scene 2[/color]",
+            "talkEnforcement": true,
+            "talkAround": false,
+            "scannable": true,
+            "encrypted": true,
+            "permission": 1
+        },
+        {
+            "id": 6,
+            "name": "10-1 Alpha",
+            "soundName": "",
+            "type": "LEO",
+            "coloredName": "[color=grey]10-1 Alpha[/color]",
+            "talkEnforcement": true,
+            "talkAround": true,
+            "scannable": true,
+            "encrypted": false,
+            "permission": 1
+        },
+        {
+            "id": 7,
+            "name": "10-1 Bravo",
+            "soundName": "",
+            "type": "LEO",
+            "coloredName": "[color=grey]10-1 Bravo[/color]",
+            "talkEnforcement": true,
+            "talkAround": true,
+            "scannable": true,
+            "encrypted": false,
+            "permission": 1
+        },
+        {
+            "id": 8,
+            "name": "Fire Dispatch",
+            "soundName": "",
+            "type": "LEO",
+            "coloredName": "[color=yellow]Fire Dispatch[/color]",
+            "talkEnforcement": true,
+            "talkAround": false,
+            "scannable": true,
+            "encrypted": false,
+            "permission": 1
+        },
+        {
+            "id": 9,
+            "name": "Fireground 1",
+            "soundName": "",
+            "type": "LEO",
+            "coloredName": "[color=yellow]Fireground 1[/color]",
+            "talkEnforcement": true,
+            "talkAround": false,
+            "scannable": true,
+            "encrypted": false,
+            "permission": 1
+        },
+        {
+            "id": 10,
+            "name": "Fireground 2",
+            "soundName": "",
+            "type": "LEO",
+            "coloredName": "[color=yellow]Fireground 2[/color]",
+            "talkEnforcement": true,
+            "talkAround": false,
+            "scannable": true,
+            "encrypted": false,
+            "permission": 1
+        },
+        {
+            "id": 11,
+            "name": "DOT Frequency",
+            "soundName": "",
+            "type": "LEO",
+            "coloredName": "[color=red]DOT Frequency[/color]",
+            "talkEnforcement": true,
+            "talkAround": false,
+            "scannable": false,
+            "encrypted": true,
+            "permission": 1
+        }
+    ],
+    "time_settings": {
+        "emergencyOverridePeriod": 10,
+        "emergencyCooldown": 30,
+        "emergencyOtherCooldown": 20,
+        "dispatchToneCooldown": 15,
+        "radioStunCooldown": 5,
+        "radioPingCooldown": 10,
+        "911Cooldown": 30,
+        "commandStunPeriod": 300,
+        "toneWaitTalkPeriod": 5
+    },
+    "permissions": {
+        "permBasic": {
+            "serverGroupList": [""]
+        },
+        "permExtra": {
+            "serverGroupList": [""]
+        },
+        "permSit": {
+            "serverGroupList": ["167"]
+        },
+        "permStaff": {
+            "serverGroupList": ["168"]
+        },
+        "permSenior": {
+            "serverGroupList": ["169"]
+        },
+        "permAdmin": {
+            "serverGroupList": ["170", "171", "172"]
+        },
+        "permSuper": {
+            "serverGroupList": ["269", "173"]
+        }
+    }
+}
